@@ -1,0 +1,561 @@
+# CHEY-2018-05-14 packet-30
+
+*Agenda packet item from the City Council — Monday, May 14, 2018 meeting, City of Cheyenne, Wyoming. Plain-text copy for reading and search. The original file is the authoritative version.*
+
+- **Meeting:** [City Council — Monday, May 14, 2018](../../../meetings/2018/city-council-2018-05-14.md)
+- **Document type:** Agenda packet item
+- **Text status:** partial text (1 of 12 pages image-only, 8 via OCR)
+- **Pages:** 12 (image-only pages: 10)
+- **Original file:** [agenda-packets/CHEY-2018-05-14_packet-30.pdf](https://github.com/therealwindycity/cheyenne-archives-2018-2021/blob/main/agenda-packets/CHEY-2018-05-14_packet-30.pdf) in `therealwindycity/cheyenne-archives-2018-2021` ([direct download](https://raw.githubusercontent.com/therealwindycity/cheyenne-archives-2018-2021/main/agenda-packets/CHEY-2018-05-14_packet-30.pdf))
+- **File size:** 606,912 bytes · git blob `18446962cfc9`
+- **Extraction:** PyMuPDF text layer; RapidOCR for image-only pages. Wording is unchanged; line breaks and table layout may differ from the PDF.
+
+---
+
+### Page 1 of 12
+
+```text
+MEMORANDUM
+
+To:
+
+Mayor Orr, City Council
+
+From:
+Nathan Beauheim, P.E., Transportation Administrator
+
+Subject:
+Sole Source Purchase of Traffic Signal Software and Hardware from AM
+Signal
+
+Date:
+May 9, 2018
+
+Attached for consideration is a sole source purchase of traffic signal software and
+hardware from AM Signal, Inc. of Littleton, CO.  The primary reason for procuring the
+system in this fashion is to maintain consistency with WYDOT, who purchased this
+system late last year after engaging in a nearly year-long procurement process.
+
+The procurement process for WYDOT began with initial presentations from interested
+vendors based on a set of system requirements created by WYDOT.  After the initial
+presentations, selected vendors were invited to demonstrate their wares during a 30-
+day on-street trial on Grand Ave. in Laramie.  The selected vendors were then invited to
+bid head-to-head on supplying the various system components.  AM Signal was the
+successful vendor from that process to supply the MaxView/MaxTime system and
+associated hardware from Intelight.  As is typical within the traffic industry, AM Signal is
+the only vendor authorized to sell Intelight products within their geographic territory.
+
+This procurement consists of the following components:
+
+MaxView software – this software resides on the City servers and is the
+component that allows the City to remotely monitor and program traffic signals
+across the City.  This software also includes a number of capabilities that the City
+currently lacks, such as the ability to automatically generate alerts of faults,
+better logging of events, and significantly more analytics.  We are proposing to
+acquire licenses for 80 intersections, which is sufficient to cover all current and
+planned signals with a few left over.  The quote also establishes pricing for up to
+ten years of maintenance and support.
+
+MaxTime software – this software resides on the controller at the individual
+intersections.  While a set of protocols exists (known as NTCIP) that are
+supposed to allow equipment from different manufacturers to work together, in
+
+A COMMUNITY OF CHOICE
+
+PUBLIC WORKS DEPARTMENT
+2101 O’Neil Avenue
+Cheyenne, Wyoming 82001
+```
+
+### Page 2 of 12
+
+```text
+Sole Source Purchase of Traffic Signal Software and Hardware from AM Signal
+May 9, 2018
+Page 2 of 2
+
+practice full utilization of features requires purchase of the full suite of products
+from a given manufacturer.  The software the City is currently using is no longer
+being supported by the manufacturer, so this upgrade is timely from that
+perspective as well.
+
+2070LDX Controllers – this hardware resides at the individual intersections.
+These twenty-two controllers are state of the art and will be used to upgrade the
+most critical intersections.
+
+2070-1C Module – this hardware will be used to upgrade older controllers to run
+the new controller software.  This is necessary as the older controllers run OS9
+as their operating system while the new controller software requires Linux.
+
+NEMA X3L Controllers – this hardware resides at the individual intersections.
+These will be used to upgrade the hardware at intersections with older control
+equipment.  We investigated several different methods of upgrading the existing
+controllers without success before deciding to purchase new equipment.
+
+Should this contract be approved, AM Signal proposes to have all equipment delivered,
+software installed, and the system running by September 30, 2018.
+```
+
+### Page 3 of 12
+
+```text
+intelight-its.com  •  info@intelight-its.com  •  (520) 795-8808  •  1941 1st Ave S, Suite 3C, Seattle, WA 98134
+
+Re: Distribution of Intelight, Inc. Products within the State of Wyoming
+Date: 5/3/2018
+
+To whom it may concern,
+
+I would like to confirm that AM Signal, Inc. is the exclusive provider of both Intelight hardware and
+software products and all associated services to all agencies within the State of Wyoming including
+but not limited to: the MAXTIME Local Controller Software Suite, the MAXVIEW Central System
+Software Suite, NEMA and 2070 Style Traffic Signal Controllers, misc. software and hardware
+associated with Traffic Signal and ITS Device control.
+If you have any further questions regarding the distribution of Intelight products within the State of
+Wyoming, or in any other agency within the region, please contact me at tom.stiles@intelight-its.com
+or on my cell phone: 801.440.1174.
+Regards,
+
+Tom Stiles, P.E. PTOE
+Vice President of Sales
+Intelight, Inc.
+```
+
+### Page 4 of 12 (scanned page: machine OCR, may contain errors)
+
+```text
+Approved as to
+form only:
+City Contract #
+Date: 5/416
+SERVICES AGREEMENT
+for
+Max View Software for Intersections
+THIS AGREEMENT is made and entered into this
+dayof
+,2018, by
+and between the City of Cheyenne, amunicipal corporation organized under the laws of the State
+of Wyoming, locatedat2101O'Neil Avenue, Cheyenne, Wyoming82001("City”), andAMSignal,
+Inc., located at 8100 Southpark Way, Unit A-10, Littleton, Colorado 80120 ("Contractor").
+RECITALS
+In consideration of the mutual covenants and obligations herein expressed, it is agreed by and
+between the parties as follows:
+1.
+SCOPEOFWORK.
+The Contractor agrees to provide services as described in Section4 and in accordance with
+Exhibit A, attached hereto and incorporated here in by reference.
+2.
+TIME OF PERFORMANCE.
+The services included herein will be completed by September 30,2018.Maintenance and
+standard update assistance shall terminate on December31,2020.
+3.
+COMPENSATION.
+In consideration of the services tobe performed pursuant to this Agreement, the Contractor
+will bill the City and the City agrees to pay Contractor a not to exceed amount of Two
+Hundred Forty-Seven Thousand One Hundred Fifty-Eight Dollars and Fifty-Six Cents
+($247,158.56)as stated in Exhibit A.
+4.
+CONTRACTOR RESPONSIBILITY.
+In providing services under this Agreement, the Contractor shall perform in a manner
+consistent with that degree of care and skill ordinarily exercised by members of the same
+profession currently practicing under similar circumstances at the same time and in the same
+or similar locality.Upon notice to the Contractor and by mutual agreement between the
+parties, the Contractor will, without additional compensation, correct those services not
+meeting such a standard.
+Contractor shall:
+a.
+Supply and install on City provided servers Max View software;
+b.
+Provide eighty (80) licenses of Max Time 2.0(or later version)software.
+Software shall be pre-loaded on all controllers and 2070-1C CPU modules supplied under
+this Agreement.Software shall also be provided on flash drive or similar for the Citytoload
+ontofuture controllers;
+c.
+Convert controller programming from Nws Voyage format to Max Time
+format for sixty-eight(68)intersections;
+```
+
+### Page 5 of 12 (scanned page: machine OCR, may contain errors)
+
+```text
+Department of Transportation specifications;
+e.
+Provide twenty (20) 2070-1C CPU Modules;
+f.
+Provide twenty-seven (27)NEMA X3L ATC TS-2 Type Controllers;
+g.
+Provide system maintenance and standard updates for two (2) years from the
+date of acceptance of the system;
+h.
+Provide at least eight(8)hours of on-site training, split between various
+products as Contractor determines appropriate; and
+i.
+Deliver complete equipment andinstall system nolater than onehundred
+twenty(120)calendar days after execution of this Agreement.
+5.
+CITY'S RESPONSIBILITIES.
+City shall:
+a.
+Supply all servers;
+b.
+Supply all communications between the server location and intersections;
+c.
+Supply all controllers tobe upgraded;
+d.
+Load and install all controllers; and
+e.
+Installall2070-1C CPU modules.
+6.
+COMPLIANCE WITH LAWS.
+The parties agree that they will perform their obligations as provided in this Agreement in
+accordance with all applicable laws and ordinances.
+7.
+DRUG-FREE WORKPLACE.
+In compliance with the Drug Free Work Place Act of November1988, the City of Cheyenne
+has established an Alcohol and Controlled Substance Policy that pertains to alcohol and drug
+usage by City employees.All architects, engineers and other contractors under contract with
+City of Cheyenne, and their employees and sub-contractors, are required to comply with the
+provisions of the City's Alcohol and Controlled Substance Policy for drug and/or alcohol
+usage on City property or other sites occupied by the Contractor while performing the duties
+and responsibilities of the Agreement.Itisthe responsibility of the Contractor to familiarize
+themselves with the requirements of this policy and to inform all their employees and sub-
+contractors of the requirements and ensure their compliance.If the Contractor, their
+employees or sub-contractors are found in violation of this policy, the Agreement may be
+terminated.
+8.
+INDEMNIFICATION/HOLD HARMLESS.
+The Contractor agrees toindemnify, hold harmless and defend the Cityfrom andagainst any
+and all liabilities, claims, penalties, orfeitures andsuits, and the cost and expenses incident
+thereto, including reasonable attorney’sfees, which may hereafter arise as aresult of death
+or bodily injury to anyperson, destruction or damage to any property, contamination of or
+adverse effects on the environment, or any violation of governmental laws, regulations or
+orders to the extent caused by (1)the Contractor's breach of any term or provision of this
+Agreement; or (2)any negligent or wrongful act, error or omission by the Contractor, or its
+employees or sub-contractors in the performance of this Agreement.The Contractor
+acknowledges that it may in cura financial obligation to the City pursuant to theterms of this
+section.
+2
+```
+
+### Page 6 of 12 (scanned page: machine OCR, may contain errors)
+
+```text
+9.
+INSURANCE REQUIREMENTS
+The Contractor must provide proof of the following insurance coverages:
+Commercial General Liability Insurance
+For claims arising out of bodily injury, illness or death, or from damage to or
+destruction of property of others, including loss oruse thereof, with minimum limits of
+$1,000,000 per occurrence,$2,000,000 aggregate for the entire term of the Agreement.
+If this coverage is provided pursuant to a“claims made”policy:
+a.
+Contractors hall, concurrently with the execution of this Agreement, provide the City
+with a certificate of insurance demonstrating that such coverage is or shall be in
+effect at the time the Contractor begins the provision of services under this
+Agreement; and
+b.
+In the event the Contractor's services extend into a future policy period, the
+Contractor shall, prior to the policy expiration date, provide the City with a new
+certificate of insurance demonstrating that such coverage is or shall be in effect
+during all periods of time that Contractor will provide services under this
+Agreement; and
+C.
+Contractor shall maintain said“claims made”coverage for a period of five(5)years
+following the last date that Contractor has provided services under this Agreement;
+and
+d.
+In the event the Contractor or the insurer terminates“claims made”coverage prior
+to the expiration of the periods provided in sub-sections a., b., or c. of this section,
+the Contractor shall provide to the City advance written notification of the
+termination of said coverage and shall providethe Citywith an endorsement for an
+time not less than five (5) years following the last date that Contractor has provided
+services under this Agreement.
+Additional Insurance Information
+The Contractor shall name the City of Cheyenne as an Additional Insured by
+endorsement on its insurance policies, and shall provide the City with a copy of the
+endorsements.This requirement does not apply to workers’compensation and professional
+liability insurance policies.
+Contractor shall provide the City with certificates of insurance acknowledging the
+It is understood and agreed that these policies are primary and not contributory. All
+policies required under this Agreement shall be in effectfor theduration ofthe Agreement.
+It shallbe an affirmative obligation upon Contractor to immediately notify in writing thecity
+risk manager, city clerk, and city attorney ofanyfact, circumstance, or occurrence that has
+resulted in or may result in the cancellation of, or substantive change to any insurance
+coverage required by this Agreement, andfailure todoso shall be construed tobe a breach
+of this Agreement.
+3
+```
+
+### Page 7 of 12 (scanned page: machine OCR, may contain errors)
+
+```text
+If requested by the City, the Contractor shall provide the City with copies of
+insurance policies and/or policy endorsements listing the City of Cheyenne as an additional
+insured. The City's failure to request or review such policies, endorsements, or certificates
+shall not affect the City's rights or Contractor's obligation hereunder.
+Any insurance company providing coverage under this Agreement shall have a
+minimum A. M. Best rating of A-(excellent).
+10.
+MINORITY AND DISADVANTAGED BUSINESS ENTERPRISES.49C.F.R.Part26
+All parties to this Agreement assure that no person will be excluded from participation in,
+denied the benefits of, or otherwise discriminated against, in connection with the award and
+performance of this Agreement on the grounds ofage, race, color, disability, national origin
+or sex.
+11.
+MONTHLY REPORT.
+With every monthly billing, Contractors hall provide the City Public Works Department with
+a written statement of the status of the work with respect tothe Scope of Work, time sheets,
+andwork schedule.Failure to provide the required monthly report will delay processing of
+any payment request until the report is submitted.
+12.
+INDEPENDENT CONTRACTOR.
+The Contractor shall function as an independent contractor for the purposes of this
+Agreement.The Contractor shall assume sole responsibility for any debts or liabilities that
+may be incurred bythe Contractor in fulfilling the terms of this Agreement.Nothing in this
+act as an agent or representative of or on behalf ofthe City ortoincur any obligation of any
+kind on thebehalf of the City.
+13.
+TAXES.
+The Contractor agrees topayall valid taxes, excises, licensefees, permit ees, bills, debts
+and obligations incurred by and in connection with its operations under this Agreement.
+14.
+DEFAULT.
+Each and every term and condition in this Agreement shall be deemed to be a material
+element of the Agreement. In the event either party should fail or refuse to perform
+according to the terms of this Agreement, such party may be declared in default.
+15.
+TERM AND TERMINATION.
+This Agreement shall be for a period of one hundred twenty (120) days, ending on
+September 30, 2018.The parties may by mutual written agreement renew or extend this
+Agreement.
+The City may, without cause, and upon thirty (30) days’written notice to the Contractor,
+terminate this Agreement in whole orin part at any time, for the City's convenience.Upon
+receipt of such notice, the Contractor shall:
+4
+```
+
+### Page 8 of 12 (scanned page: machine OCR, may contain errors)
+
+```text
+a.
+Discontinue all services affected; and
+b.
+Deliver to the City within five (5) days all data, drawings, specifications,
+reports, estimates, summaries, and such other information and materials as
+mayhavebeen accumulated bythe Contractor in performing this Agreement,
+whether completed orinprocess.
+C.
+In the event of termination for convenience, the City will pay the Contractor
+for accepted work done and expenses incurred to the date of termination.
+Such acceptance shall not be unreasonably withheld.
+16.
+REMEDIES.
+In the event a party has been declared in default, such defaulting party shall be allowed a
+period of fifteen (15) days within which to cure the default. In the event the default remains
+uncorrected, the non-defaulting party declaring default may elect to:
+a.
+Terminate the Agreement and seek damages, which damages shall not
+exceed the contract amount; or
+b.
+Treat the Agreement as continuing and require specific performance.
+17.
+ADDITIONAL REMEDIES.
+In the event the Contractor fails tostrictly performin accordance with this Agreement, the
+City may elect to correct the deficiencies and charge the Contractor.In the event of default
+of any of the conditions by either party which shall require the party not in default to
+commence legal or equitable action against the defaulting party each party shall bear its own
+costs and expenses, including without limitation, attorney's fees.
+18.
+GOVERNING LAW.JURISDICTION AND VENUE
+The construction, interpretation and enforcement of this Agreement shallbe governed bythe
+laws of the State of Wyoming.The courts of the State of Wyoming shall have jurisdiction
+over any action arising out of this Agreement and over the parties, andthevenue shallbe the
+First Judicial District, Laramie County, Wyoming.
+19.
+GOVERNMENTAL IMMUNITY.
+The City of Cheyenne, along with its officials and employees, does not waive its
+the parties to pursue a contract action to clarify or enforce the written terms of the
+Agreement.Furthermore, the City specifically retain all i mm unities and defenses available
+to it as a sovereign or governmental entity pursuant to Wyo.Stat.1-39-101, et seq., and
+all other relevant state andfederal law.Designations of venue, choice of law, enforcement
+actions, and similar provisions should not be constructed as a waiver of governmental
+immunity. The parties agree that any ambiguity in this Agreement shall not be strictly
+construed, either against or for either party, except that any ambiguity as to governmental
+immunity shall be construed in favor of governmental immunity.
+5
+```
+
+### Page 9 of 12 (scanned page: machine OCR, may contain errors)
+
+```text
+20.
+MONITORING ACTIVITIES.
+The City shall have the right to monitor all activities related to this Agreement that are
+performed by the Contractor or its sub-contractors.This shall include, but not be limited to,
+theright tomake site inspections at anytime and with reasonable notice; to bring experts and
+contractors on site to examine or evaluate completed work or work in progress; to examine
+the books, ledgers, documents, papers, and records pertinent to this Agreement; and to
+observe personnel in everyphase of performance of the related work.
+21.
+NON-DISCRIMINATION.
+The Contractor shall comply with the Civil Rights Act of 1964, the Wyoming Fair
+Employment Practices Act (Wyo.Stat.$ 27-9-105, et seq.), the Americans With Disabilities
+Act(ADA), as amended,42U.S.C.12101, etseq., and the Age Discrimination Act of1975
+and anyproperly promulgated rules and regulations thereto, and shall not discriminate
+against any individual on the grounds f age, sex, reed, color, race, religion, national origin,
+ancestry, pregnancy or qualifying disability in connection with the performance under this
+Agreement.
+22.
+ENTIRETY OF AGREEMENT.
+This Agreement consisting of six (6) pages and Exhibit A consisting of two (2) pages,
+contain the entire understanding of the parties. There are no other terms or conditions,
+written or oral, concerning or controlling this matter.
+IN WITNESS WHERE OF, the parties have hereunto set their hands and seals the day and year first
+above written.
+CITY OF CHEYENNE
+By:
+(SEAL)
+Marian J. Orr, Mayor
+Attest:
+Date:
+Carol Intlekofer, City Clerk
+CONTRACTOR
+By:
+Print Name:
+Date:
+6
+```
+
+### Page 10 of 12 (scanned page: no text layer yet; see the original PDF)
+
+### Page 11 of 12 (scanned page: machine OCR, may contain errors)
+
+```text
+ISigna
+Inc
+Estimate
+AMSignal, Inc.
+8100South park Way, UnitA-10
+LittletonCO80120
+Date
+Estimate#
+Ph:720-348-6925Fx:720-348-6950
+6/1/2018
+2831
+Bill To
+Ship To
+Cheyenne
+Traffic Shops
+1223Logan Avenue
+Cheyenne
+CheyenneWY 82001
+1223Logan Avenue
+Cheyenne WY 82001
+SOType
+Contract#
+Terms
+FOB
+Expires
+Primary Sales
+Standard
+Net 30
+Origin
+6/1/2018
+Wes Hood
+Notes
+Item Number...
+Quantity
+Item
+Description
+Rate
+Amount
+22
+INTYCT-2070-LDX
+2070L DX CONTROLLER, LINUX
+2,324.00
+51,128.00
+(S)
+OPERATING SYSTEM,16LINE X
+40 CHARACTER LCD DISPLAY
+SCREEN, W/DATAKEY,4-PORT
+ETHERNET SWITCH,7-SERIAL
+PORTS
+2
+27INT YCT-X3L-2 (S)
+X3L BASE LEVEL NEMA ATC TS-2
+2,074.28
+56,005.56
+TYPE 2 (PARALLELA, B, C, D), 16
+LINE MONO TEXT DISPLAY, 2
+ETHERNET PORTS, INCLUDES
+MAX TIME SOFTWARE LICENSE
+20INTYCT-1C-CPU
+2070-1CCPUMODULE
+850.00
+17,000.00
+53
+INT
+Max Time License
+425.00
+22,525.00
+YSW-MT-LICENSE
+80
+INT
+Max view Software License
+1,150.00
+92,000.00
+2018-04-27 08:52:16
+Page 1 of 2
+```
+
+### Page 12 of 12 (scanned page: machine OCR, may contain errors)
+
+```text
+AMSignal,
+Inc
+Estimate
+AMSignal, Inc.
+8100South park Way, UnitA-10
+LittletonCO80120
+Date
+Estimate#
+Ph:720-348-6925Fx:720-348-6950
+6/1/2018
+2831
+Item Number...
+Quantity
+Item
+Description
+Rate
+Amount
+YSW-MV-LICENSE
+1
+Service
+Maintenance for year1and2included
+0.00
+0.00
+in the system price
+Year3$16,500.00
+Year 4 $16,850.00
+Year 5 $17,200.00
+Year 6 $17,550.00
+Year7 $17,900.00
+Year 8 $18,250.00
+Year 9 $18,600.00
+Year 10 $18,950.00
+Does not include Cartegraph.
+68Service
+$125 per database conversion
+125.00
+8,500.00
+Subtotal
+247,158.56
+Shipping Cost(Best Way)
+Total
+0.00
+$247,158.56
+Quote valid for30days.Restock fees may apply for returned materials.
+variation in the quantity of any item from the time it was quoted on the Seller's Estimate.
+Page 2 of 2
+2831
+```

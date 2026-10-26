@@ -1,0 +1,3464 @@
+# Supporting Document (Large File), part 2 of 2
+
+*City Council — Monday, October 24, 2022. Original: [1666594800Oct 24, 2022 - City Council Meeting - Supporting Document (Large File) - Supporting Document (Large File).pdf](https://github.com/therealwindycity/cheyenne-archives-2022/blob/main/1666594800Oct%2024%2C%202022%20-%20City%20Council%20Meeting/Supporting_Documents/1666594800Oct%2024%2C%202022%20-%20City%20Council%20Meeting%20-%20Supporting%20Document%20%28Large%20File%29%20-%20Supporting%20Document%20%28Large%20File%29.pdf)*
+
+[← document overview](supporting-document-large-file.md) · [← part 1](supporting-document-large-file.part1.md)
+
+---
+
+### Page 95 of 151
+
+```text
+HY-8 Culvert Analysis Report
+
+Overflow Culverts from Sump 130W to
+downstream of Railroad
+Crossing Discharge Data
+Discharge Selection Method: Specify Minimum, Design, and Maximum Flow
+Minimum Flow: 50 cfs
+Design Flow: 1200 cfs
+Maximum Flow: 1300 cfs
+```
+
+### Page 96 of 151
+
+```text
+Table 1 - Summary of Culvert Flows at Crossing: RR Sump_130W Overflow
+
+Headwater Elevation
+(ft)
+Total Discharge (cfs)
+Culvert 1 Discharge
+(cfs)
+Roadway Discharge
+(cfs)
+Iterations
+5924.50
+50.00
+50.00
+0.00
+1
+5925.98
+175.00
+175.00
+0.00
+1
+5927.10
+300.00
+300.00
+0.00
+1
+5928.07
+425.00
+425.00
+0.00
+1
+5929.12
+550.00
+550.00
+0.00
+1
+5930.34
+675.00
+675.00
+0.00
+1
+5931.76
+800.00
+800.00
+0.00
+1
+5933.56
+925.00
+925.00
+0.00
+1
+5935.61
+1050.00
+1050.00
+0.00
+1
+5938.25
+1200.00
+1200.00
+0.00
+1
+5939.77
+1300.00
+1278.57
+21.31
+9
+5939.60
+1269.87
+1269.87
+0.00
+Overtopping
+```
+
+### Page 97 of 151
+
+```text
+Rating Curve Plot for Crossing: RR Sump_130W Overflow
+```
+
+### Page 98 of 151
+
+```text
+Table 2 - Culvert Summary Table: Culvert 1
+ ********************************************************************************
+Straight Culvert
+Inlet Elevation (invert): 5923.00 ft,    Outlet Elevation (invert): 5922.00 ft
+Culvert Length: 150.00 ft,    Culvert Slope: 0.0067
+********************************************************************************
+Total
+Discharge
+(cfs)
+Culvert
+Discharge
+(cfs)
+Headwater
+Elevation
+(ft)
+Inlet
+Control
+Depth (ft)
+Outlet
+Control
+Depth (ft)
+Flow
+Type
+Normal
+Depth (ft)
+Critical
+Depth (ft)
+Outlet
+Depth (ft)
+Tailwater
+Depth (ft)
+Outlet
+Velocity
+(ft/s)
+Tailwater
+Velocity
+(ft/s)
+50.00
+50.00
+5924.50
+1.496
+0.143
+1-S2n
+0.944
+1.124
+0.944
+0.513
+6.468
+1.872
+175.00
+175.00
+5925.98
+2.984
+1.386
+1-S2n
+1.788
+2.147
+1.808
+1.078
+9.110
+2.990
+300.00
+300.00
+5927.10
+4.103
+2.549
+1-S2n
+2.409
+2.846
+2.446
+1.478
+10.477
+3.629
+425.00
+425.00
+5928.07
+5.073
+3.821
+5-S2n
+2.980
+3.410
+3.022
+1.811
+11.420
+4.101
+550.00
+550.00
+5929.12
+6.116
+5.802
+5-S2n
+3.575
+3.876
+3.600
+2.102
+12.115
+4.480
+675.00
+675.00
+5930.34
+7.335
+7.219
+7-M2c
+4.419
+4.248
+4.248
+2.364
+12.655
+4.802
+800.00
+800.00
+5931.76
+8.756
+8.756
+7-M2c
+5.000
+4.519
+4.519
+2.606
+14.282
+5.082
+925.00
+925.00
+5933.56
+10.371
+10.560
+7-M2c
+5.000
+4.699
+4.699
+2.830
+16.100
+5.331
+1050.00
+1050.00
+5935.61
+12.181
+12.614
+7-M2c
+5.000
+4.567
+4.567
+3.040
+18.609
+5.556
+1200.00
+1200.00
+5938.25
+14.694
+15.252
+6-FFc
+5.000
+5.000
+5.000
+3.278
+20.372
+5.801
+1300.00
+1278.57
+5939.77
+16.312
+16.773
+6-FFc
+5.000
+5.000
+5.000
+3.429
+21.706
+5.951
+```
+
+### Page 99 of 151
+
+```text
+Culvert Performance Curve Plot: Culvert 1
+```
+
+### Page 100 of 151
+
+```text
+Water Surface Profile Plot for Culvert: Culvert 1
+
+Site Data - Culvert 1
+Site Data Option:  Culvert Invert Data
+Inlet Station:  0.00 ft
+Inlet Elevation:  5923.00 ft
+Outlet Station:  150.00 ft
+Outlet Elevation:  5922.00 ft
+Number of Barrels:  3
+Culvert Data Summary - Culvert 1
+Barrel Shape:  Circular
+Barrel Diameter:  5.00 ft
+Barrel Material:  Concrete
+Embedment:  0.00 in
+Barrel Manning's n:  0.0130
+Culvert Type:  Straight
+Inlet Configuration:  Beveled Edge (1.5:1)
+Inlet Depression:  None
+```
+
+### Page 101 of 151
+
+```text
+Table 3 - Downstream Channel Rating Curve (Crossing: RR Sump_130W Overflow)
+
+Tailwater Channel Data - RR Sump_130W Overflow
+Tailwater Channel Option:  Trapezoidal Channel
+Bottom Width:  50.00 ft
+Side Slope (H:V):  4.00 (_:1)
+Channel Slope:  0.0050
+Channel Manning's n:  0.0350
+Channel Invert Elevation:  5922.00 ft
+Roadway Data for Crossing: RR Sump_130W Overflow
+Roadway Profile Shape:  Constant Roadway Elevation
+Crest Length:  100.00 ft
+Crest Elevation:  5939.60 ft
+Roadway Surface:  Paved
+Roadway Top Width:  20.00 ft
+
+Flow (cfs)
+Water Surface
+Elev (ft)
+Depth (ft)
+Velocity (ft/s)
+Shear (psf)
+Froude Number
+50.00
+5922.51
+0.51
+1.87
+0.16
+0.47
+175.00
+5923.08
+1.08
+2.99
+0.34
+0.53
+300.00
+5923.48
+1.48
+3.63
+0.46
+0.55
+425.00
+5923.81
+1.81
+4.10
+0.56
+0.57
+550.00
+5924.10
+2.10
+4.48
+0.66
+0.58
+675.00
+5924.36
+2.36
+4.80
+0.74
+0.59
+800.00
+5924.61
+2.61
+5.08
+0.81
+0.60
+925.00
+5924.83
+2.83
+5.33
+0.88
+0.61
+1050.00
+5925.04
+3.04
+5.56
+0.95
+0.61
+1200.00
+5925.28
+3.28
+5.80
+1.02
+0.62
+1300.00
+5925.43
+3.43
+5.95
+1.07
+0.62
+```
+
+### Page 102 of 151
+
+```text
+HY-8 Culvert Analysis Report
+
+Railroad Crossing: 130E
+(crossing to the east pf Sump 130)
+Crossing Discharge Data
+Discharge Selection Method: Specify Minimum, Design, and Maximum Flow
+Minimum Flow: 50 cfs
+Design Flow: 544 cfs
+Maximum Flow: 600 cfs
+```
+
+### Page 103 of 151
+
+```text
+Table 1 - Summary of Culvert Flows at Crossing: RR Crossing_130E
+
+Headwater Elevation
+(ft)
+Total Discharge (cfs)
+Culvert 1 Discharge
+(cfs)
+Roadway Discharge
+(cfs)
+Iterations
+5929.84
+50.00
+50.00
+0.00
+1
+5930.78
+105.00
+105.00
+0.00
+1
+5931.59
+160.00
+160.00
+0.00
+1
+5932.26
+215.00
+215.00
+0.00
+1
+5932.90
+270.00
+270.00
+0.00
+1
+5933.56
+325.00
+325.00
+0.00
+1
+5934.28
+380.00
+380.00
+0.00
+1
+5935.08
+435.00
+435.00
+0.00
+1
+5935.98
+490.00
+490.00
+0.00
+1
+5936.94
+544.00
+544.00
+0.00
+1
+5938.02
+600.00
+600.00
+0.00
+1
+5942.00
+774.85
+774.85
+0.00
+Overtopping
+```
+
+### Page 104 of 151
+
+```text
+Rating Curve Plot for Crossing: RR Crossing_130E
+```
+
+### Page 105 of 151
+
+```text
+Table 2 - Culvert Summary Table: Culvert 1
+
+Total
+Discharge
+(cfs)
+Culvert
+Discharge
+(cfs)
+Headwater
+Elevation
+(ft)
+Inlet
+Control
+Depth (ft)
+Outlet
+Control
+Depth (ft)
+Flow
+Type
+Normal
+Depth (ft)
+Critical
+Depth (ft)
+Outlet
+Depth (ft)
+Tailwater
+Depth (ft)
+Outlet
+Velocity
+(ft/s)
+Tailwater
+Velocity
+(ft/s)
+50.00
+50.00
+5929.84
+1.840
+0.0*
+1-S2n
+0.972
+1.384
+0.982
+0.513
+9.171
+1.872
+105.00
+105.00
+5930.78
+2.779
+0.226
+1-S2n
+1.412
+2.032
+1.457
+0.797
+11.034
+2.477
+160.00
+160.00
+5931.59
+3.587
+0.982
+1-S2n
+1.758
+2.532
+1.832
+1.022
+12.275
+2.894
+215.00
+215.00
+5932.26
+4.264
+1.768
+1-S2n
+2.063
+2.956
+2.173
+1.216
+13.127
+3.222
+270.00
+270.00
+5932.90
+4.901
+2.608
+1-S2n
+2.345
+3.327
+2.486
+1.390
+13.852
+3.496
+325.00
+325.00
+5933.56
+5.560
+3.512
+5-S2n
+2.615
+3.655
+2.784
+1.549
+14.467
+3.733
+380.00
+380.00
+5934.28
+6.282
+5.010
+5-S2n
+2.880
+3.942
+3.070
+1.697
+15.031
+3.944
+435.00
+435.00
+5935.08
+7.084
+5.921
+5-S2n
+3.147
+4.188
+3.349
+1.835
+15.561
+4.134
+490.00
+490.00
+5935.98
+7.976
+6.916
+5-S2n
+3.424
+4.391
+3.628
+1.966
+16.059
+4.307
+544.00
+544.00
+5936.94
+8.935
+7.976
+5-S2n
+3.718
+4.547
+3.907
+2.089
+16.526
+4.464
+600.00
+600.00
+5938.02
+10.016
+9.164
+5-S2n
+4.079
+4.669
+4.228
+2.210
+16.940
+4.615
+```
+
+### Page 106 of 151
+
+```text
+* Full Flow Headwater elevation is below inlet invert.
+********************************************************************************
+Straight Culvert
+Inlet Elevation (invert): 5928.00 ft,    Outlet Elevation (invert): 5926.00 ft
+Culvert Length: 150.01 ft,    Culvert Slope: 0.0133
+********************************************************************************
+```
+
+### Page 107 of 151
+
+```text
+Culvert Performance Curve Plot: Culvert 1
+```
+
+### Page 108 of 151
+
+```text
+Water Surface Profile Plot for Culvert: Culvert 1
+
+Site Data - Culvert 1
+Site Data Option:  Culvert Invert Data
+Inlet Station:  0.00 ft
+Inlet Elevation:  5928.00 ft
+Outlet Station:  150.00 ft
+Outlet Elevation:  5926.00 ft
+Number of Barrels:  2
+Culvert Data Summary - Culvert 1
+Barrel Shape:  Circular
+Barrel Diameter:  5.00 ft
+Barrel Material:  Concrete
+Embedment:  0.00 in
+Barrel Manning's n:  0.0130
+Culvert Type:  Straight
+Inlet Configuration:  Beveled Edge (1.5:1)
+Inlet Depression:  None
+```
+
+### Page 109 of 151
+
+```text
+Table 3 - Downstream Channel Rating Curve (Crossing: RR Crossing_130E)
+
+Tailwater Channel Data - RR Crossing_130E
+Tailwater Channel Option:  Trapezoidal Channel
+Bottom Width:  50.00 ft
+Side Slope (H:V):  4.00 (_:1)
+Channel Slope:  0.0050
+Channel Manning's n:  0.0350
+Channel Invert Elevation:  5922.00 ft
+Roadway Data for Crossing: RR Crossing_130E
+Roadway Profile Shape:  Constant Roadway Elevation
+Crest Length:  100.00 ft
+Crest Elevation:  5942.00 ft
+Roadway Surface:  Paved
+Roadway Top Width:  20.00 ft
+
+Flow (cfs)
+Water Surface
+Elev (ft)
+Depth (ft)
+Velocity (ft/s)
+Shear (psf)
+Froude Number
+50.00
+5922.51
+0.51
+1.87
+0.16
+0.47
+105.00
+5922.80
+0.80
+2.48
+0.25
+0.50
+160.00
+5923.02
+1.02
+2.89
+0.32
+0.52
+215.00
+5923.22
+1.22
+3.22
+0.38
+0.54
+270.00
+5923.39
+1.39
+3.50
+0.43
+0.55
+325.00
+5923.55
+1.55
+3.73
+0.48
+0.56
+380.00
+5923.70
+1.70
+3.94
+0.53
+0.56
+435.00
+5923.84
+1.84
+4.13
+0.57
+0.57
+490.00
+5923.97
+1.97
+4.31
+0.61
+0.58
+544.00
+5924.09
+2.09
+4.46
+0.65
+0.58
+600.00
+5924.21
+2.21
+4.61
+0.69
+0.59
+```
+
+### Page 110 of 151 (scanned page: no text layer yet; see the original PDF)
+
+### Page 111 of 151 (scanned page: machine OCR, may contain errors)
+
+```text
+95.6 L
+124.0
+93.3K
+90.0
+72.7
+75.8/
+67.3J
+Lower
+58.9
+54.11
+51.7 H
+47.2
+32F
+30.0
+41 G
+28 E
+B
+24.8
+4.4C
+9.4
+20.6
+```
+
+### Page 112 of 151
+
+```text
+0
+2000
+4000
+6000
+8000
+10000
+12000
+14000
+5880
+5890
+5900
+5910
+5920
+5930
+5940
+5950
+Dry Creek - Lower Reach_LOMR       Plan: East_Park    8/28/2022
+Main Channel Distance (ft)
+Elevation (ft)
+Legend
+WS  Eff 100yr
+WS  100yr Propsoed
+Ground
+Right Levee
+Set WS
+4.4 C FEM...
+9.4
+15 D FEMA X...
+20.6
+24.8
+28 E FEMA XS E (28.5...
+30.0 I-80
+41 G FEMA XS G (43.95)
+47.2
+51.7 H FEMA XS H (52.4)
+54.1 I FEMA XS I (54)
+58.9
+67.3 J FEMA XS J (66.3)
+72.7
+75.8
+83.3
+90.0
+93.3 K FEMA XS K (91)
+95.6 L FEMA XS L (94)
+119
+Dry Creek Lower
+```
+
+### Page 113 of 151
+
+```text
+Reach
+River Sta
+Profile
+Q Total
+Change in Flow
+W.S. Elev
+Change in WSEL
+Top Width
+Change in Top Width
+(cfs)
+(cfs)
+(ft)
+(ft)
+(ft)
+(ft)
+Lower
+124
+Eff 100yr
+3798
+5940.53
+3415.7
+Lower
+124
+100yr Proposed
+2490
+5940.23
+3386.71
+Lower
+119
+Eff 100yr
+3798
+5940.53
+3366.01
+Lower
+119
+100yr Proposed
+2490
+5940.23
+3092.76
+Lower
+95.6     L
+Eff 100yr
+3798
+5940.01
+2419.14
+Lower
+95.6     L
+100yr Proposed
+2490
+5940.01
+2419.14
+Lower
+93.3     K
+Eff 100yr
+733
+5923.96
+53.4
+Lower
+93.3     K
+100yr Proposed
+1015
+5924.43
+64.99
+Lower
+90
+Eff 100yr
+733
+5923.5
+402.2
+Lower
+90
+100yr Proposed
+1015
+5924.35
+458.49
+Lower
+83.3
+Eff 100yr
+733
+5921.96
+79.01
+Lower
+83.3
+100yr Proposed
+1015
+5921.92
+77.9
+Lower
+75.8
+Eff 100yr
+733
+5919.76
+167.25
+Lower
+75.8
+100yr Proposed
+1015
+5920.09
+186.45
+Lower
+72.7
+Eff 100yr
+733
+5919.74
+523.29
+Lower
+72.7
+100yr Proposed
+1015
+5920.07
+621.08
+Lower
+67.3     J
+Eff 100yr
+1006
+5919.7
+565.77
+Lower
+67.3     J
+100yr Proposed
+1310
+5920.02
+587.19
+Lower
+58.9
+Eff 100yr
+1006
+5919.69
+1424.32
+Lower
+58.9
+100yr Proposed
+1310
+5920.02
+1445.35
+Lower
+54.1     I
+Eff 100yr
+1006
+5919.69
+1684.42
+Lower
+54.1     I
+100yr Proposed
+1310
+5920.01
+1692.67
+Lower
+52.9
+Culvert
+Lower
+51.7     H
+Eff 100yr
+1006
+5911.81
+596.44
+Lower
+51.7     H               100yr Proposed
+1310
+5911.81
+596.44
+Lower
+47.2
+Eff 100yr
+1006
+5907.88
+173.16
+Lower
+47.2
+100yr Proposed
+1310
+5908.57
+633.56
+Lower
+41       G
+Eff 100yr
+1254
+5908.04
+906.22
+Lower
+41       G
+100yr Proposed
+1604
+5908.62
+979.86
+Lower
+32       F
+Eff 100yr
+1254
+5908.01
+2276.59
+Lower
+32       F
+100yr Proposed
+1604
+5908.58
+2500.43
+Lower
+30
+Culvert
+Lower
+28       E
+Eff 100yr
+1254
+5899.61
+77.3
+Lower
+28       E
+100yr Proposed
+1604
+5900.08
+305.24
+Lower
+24.8
+Eff 100yr
+1254
+5897.24
+183.89
+Lower
+24.8
+100yr Proposed
+1604
+5897.5
+197.1
+Lower
+20.6
+Eff 100yr
+1254
+5896.23
+241.75
+Lower
+20.6
+100yr Proposed
+1604
+5896.27
+246.4
+Lower
+15       D
+Eff 100yr
+1563
+5896.18
+543.03
+Lower
+15       D
+100yr Proposed
+1899
+5896.19
+544.18
+Lower
+9.4
+Eff 100yr
+1563
+5896.14
+584.19
+Lower
+9.4
+100yr Proposed
+1899
+5896.14
+584.19
+Lower
+4.4      C
+Eff 100yr
+8500
+5895.88
+886.81
+Lower
+4.4      C
+100yr Proposed
+8500
+5895.88
+886.81
+Lower
+1.2      B
+Eff 100yr
+8500
+5895.95
+1806.28
+Lower
+1.2      B
+100yr Proposed
+8500
+5895.95
+1806.28
+Lower
+0.7
+Culvert
+Lower
+0
+Eff 100yr
+8500
+5892.01
+1456.53
+Lower
+0
+100yr Proposed
+8500
+5892.01
+1456.53
+HEC-RAS Output
+HEC-RAS Adjustments:
+* Adjusted cross sections to match topo
+* Lidar information supplied by the City used in the updated cross sections
+* Added culvert crossings into model
+*
+0
+0
+0
+223.84
+227.94
+13.21
+4.65
+1.15
+0
+21.42
+21.03
+8.25
+0
+460.4
+73.64
+0
+0
+0
+-273.25
+0
+11.59
+56.29
+-1.11
+19.2
+97.79
+0.57
+0.47
+0.26
+0.04
+0.01
+0
+0.32
+0.33
+0.32
+0
+0.69
+0.58
+0
+0
+0
+-0.3
+0
+0.47
+0.85
+-0.04
+0.33
+0.33
+350
+350
+350
+350
+336
+336
+304
+304
+304
+304
+304
+350
+-1308
+282
+282
+282
+282
+282
+-0.3
+-1308
+-28.99
+-1308
+```
+
+### Page 114 of 151
+
+```text
+`
+
+  Engineering      from the ground down
+
+EAST
+PARK
+GREENWAY
+UNDERPASS
+AND
+DRAINAGE
+PLAN
+AT
+THE
+UNION
+PACIFIC
+RAILROAD – TUNNEL FEASIBILITY MEMORANDUM
+
+Summit Engineering, LLC
+5907 Townsend Place
+Cheyenne, WY 82009
+
+September 2, 2021
+```
+
+### Page 115 of 151
+
+```text
+Summit Engineering       East Park Greenway and Drainage Tunnel Feasibility Memorandum
+Page 1 of 7
+
+September 2, 2021
+Project No. 20116
+
+Summit Engineering, LLC
+5907 Townsend Place
+Cheyenne, WY 82009
+
+Attention:  Ms. Darci Hendon, PE
+
+Managing Member
+
+Regarding:  East Park Greenway and Drainage Tunnel Feasibility Evaluation
+
+Cheyenne, WY
+
+Ms. Hendon,
+
+This memorandum presents our opinion of tunnel feasibility for the East Park Greenway and Drainage
+project.
+1.0 Project Introduction and Background
+The Cheyenne Metropolitan Planning Organization (CMPO) intends to expand trail connectivity from the
+East Cheyenne Community Open Space toward the southeast and under the Union Pacific Railroad
+(UPRR). The East Cheyenne Community Open Space is located near the corner of East Pershing and
+Whitney Road in Cheyenne, Wyoming. In addition, stormwater impoundment against the elevated
+railroad embankment in this area has been a historical issue indicating inadequate conveyance of
+stormwater under the tracks. An existing historic stormwater culvert is intended to be rehabilitated and
+used to expand the trail system and convey pedestrians. Therefore, additional stormwater conveyance
+will need to be constructed under the existing railroad embankment. This memorandum summarizes
+Lithos’ opinions regarding feasibility of tunnel construction methods for the proposed stormwater
+infrastructure and provides an opinion of probable construction cost for feasible tunnel construction
+methods.
+2.0 Tunnel Feasibility
+Tunnel feasibility depends on a variety of factors but is largely predicated by project constraints and
+ground behavior. Based on the high-level feasibility study scoped, a geotechnical investigation near or
+through the railroad embankment where the stormwater infrastructure will be constructed has not been
+completed. Therefore, a detailed description of anticipated ground conditions and associated ground
+behavior was not possible. The following discussion of feasible tunnel construction means and methods
+only consider non-geologic project constraints. Feasible methods may change as project design progresses
+and after site-specific geotechnical information is collected.
+Stormwater improvements for the project at the current feasibility-level design include the installation of
+seven, 60-inch diameter, one 42-inch diameter, and one 30-inch diameter steel casing pipes under the
+```
+
+### Page 116 of 151
+
+```text
+Summit Engineering       East Park Greenway and Drainage Tunnel Feasibility Memorandum
+Page 2 of 7
+
+UPRR embankment as shown in Attachment 1. The tunnel drive length is assumed to extend through the
+railroad embankment. We assume that stormwater culvert lengths extending away from the railroad
+embankment will be installed with open cut technologies and are not considered in this memorandum.
+The tunnel length for all of the proposed casing pipes will be between 120 and 150 feet.  Based on UPRR
+requirements, we have assumed a single pass installation for all tunnels due to the conveyance of
+unpressurized stormwater.  A single pass system entails that the carrier pipe will also be used as a casing
+pipe. In addition, tunnels will need to be installed with a high level of accuracy based on gravity flow. The
+following sections describe feasible tunnel construction methods based on our understanding of the
+proposed project.
+2.1 Consideration of Feasible Tunnel Construction Methods
+Geotechnical data collection, UPRR guidelines, designer or Contractor preference, and further design
+development may influence the proposed tunneling methods. Based on the limited information available
+at the time of writing this memorandum, we have identified the following feasible tunneling methods:
+shield mine, guided pipe ram and tunnel boring machine (TBM) for the 60-inch diameter casings; and
+guided pipe ram for the 42- and 30-inch diameter casings. Technically, microtunneling (MTBM) is a
+feasible option but has not been considered due to relatively high comparative cost. Feasible means and
+methods are further discussed below:
+Shield Mine: Shield mining uses a jacking frame situated within a launch shaft or launch area to
+advance a steel casing pipe across a tunnel alignment. Manned entry is required to remove
+excavated muck with hand tools from near the tunnel face back through the installed casing pipe
+to the launch shaft or area. Accuracy of the tunnel is controlled by how much muck is removed
+from specific locations at the tunnel face; often excavation is completed in quadrants to control
+face stability and aid in preventing overmining. Shields (commonly the first steel casing pipe
+segment) can be retrofitted with tables and doors near the face to provide additional stability. For
+shield mining to be a suitable tunnel technique, ground at the tunnel face should have some
+inherent stability such that it does not flow or run into the casing pipe and result in over
+excavation. Face control with shield mining is less in comparison to guided pipe ramming and
+tunnel boring. Shield mining can be completed through a variety of soil or rock strength with
+suitable equipment and effort. In accordance with UPRR guidelines, excavation shall take place
+behind the tunnel face, within the steel casing pipe, such that material is never removed in
+advance of the leading tunnel edge.
+Guided Pipe Ram: Guided pipe ramming uses a pneumatic hammer to advance a steel casing pipe
+through soil. Once the pipe has been installed, augers are used to remove material that
+accumulates inside the casing. To guide a pipe ram, a pilot tube is used to maintain line and grade.
+A pilot tube system generally uses an optical theodolite or laser-based instrument to set and
+design line and grade throughout a tunneled installation. Pilot tubes are 4- to 6-inch diameter,
+hollow, steel segments that allow the laser originating at the steering head to be seen at jacking
+frame and guidance system located in the launch shaft. Pilot tube installations are commonly
+accurate to within fractions of a percent and can be used in most ground conditions without large
+```
+
+### Page 117 of 151
+
+```text
+Summit Engineering       East Park Greenway and Drainage Tunnel Feasibility Memorandum
+Page 3 of 7
+
+percentages of gravel or cobbles and boulders. Upsizes of pipe will be needed to achieve the
+proposed final diameters. At the beginning of the pipe ram, artificial face control may be needed
+to help create a stable plug of material inside the casing pipe. Once the ram has been advanced
+enough, typically the soil densifies inside the casing pipe enough to create a natural plug of stable
+material. Pipe ramming can be used in situations where ground conditions are sufficiently soft or
+where ground conditions are expected to be unstable. Contact grouting can be used after the
+tunnel has been installed to fill voids created during the tunneling process and limit risk of long-
+term settlement. Based on prior experience with the UPRR, guided pipe ramming is a preferred
+tunneling method due to relatively low tunnel induced settlement risk.
+TBM: A TBM involves excavation of the ground with a circular cutterhead at the lead edge of the
+machine. The machine operator, who is positioned near the face of the tunnel, steers the TBM
+through the tunnel excavation. TBMs are often equipped with a conveyor system used to move
+excavated muck out of the tunnel to a shaft where they can be disposed of. TBMs can excavate
+through a variety of ground conditions and would not require casing upsizes, and no artificial face
+control would be needed due to the cutting head on the TBM. Similarly to guided pipe ramming,
+contact grouting can be used after the tunnel has been installed to fill voids created during the
+tunneling process and limit risk of long-term settlement. TBM is generally a higher cost alternative
+to a guided pipe ram. Relative to guided pipe ramming, TBMs can excavate through
+harder/stronger subsurface conditions and generally maintain line and grade with a higher degree
+of accuracy. However, they are not well suited to saturated ground conditions or unstable soil
+that cannot naturally maintain a vertical cut.
+3.0 Required Site and Layout Considerations
+Most equipment staging and operational needs for guided pipe ramming and TBM are surrounding the
+tunnel launch. This is estimated to be approximately 0.5 acres at launch site, and 0.25 acres at receiving
+site. There appears to be sufficient room on both sides of the proposed tunnel alignments to support all
+tunneling operations. Additionally, due to likely construction within the UPRR ROW and near the tracks,
+the possibility of excavation within UPRR defined Zone A or Zone B is high, which will likely require
+additional permits, construction considerations, and time.
+4.0 Product Pipe
+Steel casing is recommended due to its commonality in similar installations, high strength, and familiarity
+within the UPRR permitting process and within UPRR guidelines. American Railway Engineering and
+Maintenance-of-Way Association (AREMA) has set in place guidelines regarding minimum wall
+thicknesses for pipes underneath railroads, dependent upon pipe diameter. Additionally, only steel pipe
+can be used with pipe ramming. Table 1 below shows these requirements as coinciding within the project
+constraints.
+```
+
+### Page 118 of 151
+
+```text
+Summit Engineering       East Park Greenway and Drainage Tunnel Feasibility Memorandum
+Page 4 of 7
+
+Table 4.1 Minimum Wall Thickness as Required by AREMA
+Tunnel
+Diameter
+Coated or Cathodically Protected
+Nominal Thickness (inches)
+Not Coated or Cathodically Protected
+Nominal Thickness (inches)
+60-inch
+0.781
+0.844
+42-inch
+0.562
+0.625
+30-inch
+0.406
+0.469
+Interior and exterior coatings are not common for similar installations as the coating’s integrity is often
+damaged during the installation process. Instead, sacrificial steel (exceeding the minimums above) and/or
+cathodic protection using anodes is often considered.
+5.0 Risks and Limitations
+Risks inherent to installing casings for the subject project include over-excavation, creating a preferential
+flow path for water and soil piping during flood events, installation forces exceeding capacity of casing or
+equipment, and encountering obstructions (such as wooden trestles, train cars, or other deleterious
+materials used to construct the railroad embankment), . These risks along with efforts that may be taken
+to mitigate them are explained as follows:
+1) Over-excavation: Over-excavation is caused by ingesting soil into the tunnel at a higher rate than
+tunnel advancement. This can often lead to settlement propagating to the surface. As the casing
+is advanced with guided pipe ramming, soil builds up inside the casing, acting as a plug to resist
+soil and groundwater pressures. The only time a soil plug is not present is at the beginning of the
+drive unless an artificial plug is placed in pipe to be rammed. Due to the nature of a TBM, no soil
+plug is needed, as the face of the TBM will support the face of the tunnel in most ground
+conditions.  TBMs can be limited in their face control in flowing or running ground conditions
+(such as saturated sands). Shield mining is the riskiest tunnel technique presented relative to over-
+excavation due to the limited ability to control material at the tunnel face relative to pipe ramming
+and tunnel boring. Due to unknown ground conditions in the existing railroad embankment, the
+risk of over-excavation cannot be evaluated at this stage and should be reevaluated during future
+design of the project.
+2) Preferential flow path: Pipe ramming, tunnel boring, and shield mining will create an overcut that
+is slightly larger than the casing pipe diameter. The overcut is generally between 0.25- and 0.75-
+inches, radially around the perimeter of the casing pipe. This overcut should be grouted once the
+casing pipe has been installed. Contact grouting will reduce risk of a preferential flow path around
+the outside of the casing pipe during flooding events. It also serves to reduce overall settlement
+of the ground above the tunnel. Although not anticipated, in the event over-excavation has
+occurred or contact grouting does not fill the overcut, secondary grouting could be performed to
+target any problem areas. Given the anticipated short-term duration and infrequent flood
+impoundment against the railroad embankment, this risk is relatively low for the project.
+```
+
+### Page 119 of 151
+
+```text
+Summit Engineering       East Park Greenway and Drainage Tunnel Feasibility Memorandum
+Page 5 of 7
+
+3) Excessive jacking or installation forces: High installation forces can be caused by difficult soil
+conditions, not using lubrication, misaligned pipe, and excessive steering corrections. Risk of
+excessive steering corrections is not considered applicable for guided pipe ramming, though is a
+risk for TBM. Qualified contractors should not have difficulties aligning casing for welding and can
+use tracks and other guides to facilitate proper pipe positioning. Lubrication should be used for
+this drive to follow construction best practices. The installation length is relatively short for the
+proposed tunnels, reducing the risk of excessive jacking forces.
+4) Obstruction: Debris within the fill of the railroad embankment could create an obstruction
+stopping advancement of the guided pipe ram or TBM. Within reason, shield mining can more
+readily accommodate obstructions due to the ability to use various equipment at the tunnel face.
+The risk of encountering an obstruction within the railroad embankment should be considered
+high at this point and a key item to further investigate during future design phases. In our
+experience, railroad embankments of this size and age used any materials available to build which
+could include train cars, wooden trestles or ties, bricks, concrete rubble, etc. Drilling of borings
+through the railroad embankment will provide additional clarity as to whether an obstruction is
+likely.
+6.0 Order-of-Magnitude Cost Estimate
+Table 6.1, 6.2, and 6.3 below present the order-of-magnitude cost estimates for shield mining, guided
+pipe ramming and TBM, respectively. Additional permit, tunnel design, and observation costs have been
+estimated and included in the table below.  Presented costs relied on data from previous projects in the
+local area and discussions with contractors. The costs below should be expected to fluctuate based on
+availability of materials and Contractors, and inflation. This is a Class IV cost estimate as defined by AACE
+19R-97 and has an accuracy of -30 to +50 percent range.
+Table 6.1 Cost Estimate for Shield Mining
+Item
+Unit
+Quantity
+Unit Cost
+Total Cost
+Mobilization
+Each
+1
+$ 75,000
+$ 75,000
+60-inch Pipe Cost
+LF
+960
+$ 1,200
+$ 1,152,000
+42-inch Pipe Cost
+LF
+150
+$ 900
+$ 135,000
+30-inch Pipe Cost
+LF
+140
+$ 600
+$ 84,000
+Tunnel Install
+(Low)
+LF
+1,250
+$ 1,000
+$ 1,250,000
+(High)
+$1,200
+$ 1,500,000
+Grouting
+CY
+500
+$ 250
+$ 125,000
+Railroad Permitting and
+Flagging
+Each
+1
+$150,000
+$150,000
+Final Design and
+Construction Engineering
+Each
+1
+ $ 400,000
+$ 400,000
+
+Low Estimate Task Total
+$ 3,371,000
+High Estimate Task Total
+$ 3,621,000
+```
+
+### Page 120 of 151
+
+```text
+Summit Engineering       East Park Greenway and Drainage Tunnel Feasibility Memorandum
+Page 6 of 7
+
+Table 6.2 Cost Estimate for Guided Pipe Ram
+Item
+Unit
+Quantity
+Unit Cost
+Total Cost
+Mobilization
+Each
+1
+$ 100,000
+$ 100,000
+60-inch Pipe Cost
+LF
+960
+$ 1,200
+$ 1,152,000
+42-inch Pipe Cost
+LF
+150
+$ 900
+$ 135,000
+30-inch Pipe Cost
+LF
+140
+$ 600
+$ 84,000
+Tunnel Install
+(Low)
+LF
+1,250
+$ 1,400
+$ 1,750,000
+(High)
+$ 1,700
+$ 2,125,000
+Grouting
+CY
+500
+$ 250
+$ 125,000
+Railroad Permitting and
+Flagging
+Each
+1
+$150,000
+$150,000
+Final Design and
+Construction Engineering
+Each
+1
+ $ 400,000
+$ 400,000
+
+Low Estimate Task Total
+$ 3,896,000
+High Estimate Task Total
+$ 4,271,000
+
+Table 6.3 Cost Estimate for TBM
+Item
+Unit
+Quantity
+Unit Cost
+Total Cost
+Mobilization
+Each
+1
+$ 140,000
+$ 140,000
+60-inch Pipe Cost
+LF
+960
+$ 1,200
+$ 1,152,000
+42-inch Pipe Cost
+LF
+150
+$ 900
+$ 135,000
+30-inch Pipe Cost
+LF
+140
+$ 600
+$ 84,000
+Tunnel Install
+(Low)
+LF
+1,250
+$ 1,800
+$ 2,250,000
+(High)
+$ 2,200
+$ 2,750,000
+Grouting
+CY
+500
+$ 250
+$ 125,000
+Railroad Permitting and
+Flagging
+Each
+1
+$150,000
+$150,000
+Final Design and
+Construction Engineering
+Each
+1
+ $ 400,000
+$ 400,000
+Low Estimate Task Total
+$             4,436,000
+
+High Estimate Task Total
+$             4,936,000
+Given the uncertainty of ground conditions to be tunneled in the UPRR embankment and the range in
+costs provided for anticipated tunneling techniques alternatives based on alignment length and diameter,
+we recommend considering the range in construction costs provided, but ultimately having sufficient
+funding to accommodate the upper end of the range.
+7.0 Recommendations for Further Investigation
+Lithos recommends considering guided pipe ramming or TBM as the feasible tunneling methods for
+installing the proposed stormwater tunnels. Risk may be further reduced in design by obtaining
+geotechnical information along the tunnel alignments, ideally through the railroad embankments. Ground
+conditions, groundwater conditions, and embankment fill material definition are key components to
+further understand. Lithos recommends tunnel design and specifications be completed as part of the
+```
+
+### Page 121 of 151
+
+```text
+Summit Engineering       East Park Greenway and Drainage Tunnel Feasibility Memorandum
+Page 7 of 7
+
+contract documents by an engineering firm experienced in tunnel construction. Geotechnical data
+collection and tunnel specific design fees are estimated as part of the tables presented in Section 6.0.
+8.0 Closing
+Lithos is pleased to provide this feasibility memorandum for the East Park Greenway and Drainage project.
+Lithos would be happy to assist in future design phases of the project. If you have any questions regarding
+the contents of this memorandum, please contact the undersigned.
+
+Sincerely,
+Lithos Engineering
+
+Keely Stevenson, EI
+
+Lance Heyer, PE
+Staff Engineer
+
+Project Engineer, Associate
+
+Nate Soule, PE, PG
+Vice President
+```
+
+### Page 122 of 151
+
+```text
+PEDESTRAIN UNDERPASS REQUIREMENTS/FEASIBILITY
+
+The  recommendations  provided  within  the  ‘Guidelines  for  Railroad  Grade  Separation  Projects’  are
+intended for all Grade Separation Projects impacting the Railroad. All Grade Separation Projects shall be
+designed in accordance with the specific requirements of all applicable sections within these Guidelines.
+Underpass Crossing (Railroad Structure over Trail)
+
+Permanent Clearances (under the structure)
+
+o To  improve  safety  and  sight  distance  all  underpass  structures  shall  be  tangent  without
+curvature. The clear width and height of pedestrian structures shall be subject to the project
+site and structure length. The line of sight, historical security data and lighting shall be used
+for determining the required size of opening.
+o Vertical Clearance shall not be less than 8 feet.
+o Protection from falling debris is required for the crossing of pedestrians safely under active
+rail bridges. The overhead protection shall extend a minimum of 30 feet out on each side of
+the Railroad structure, or further as designated by the Railroad’s engineering department.
+o However,  the  protective  cover  shall  not  reduce  the  existing  hydraulic  opening,  shall  not
+function  as  a  debris  catcher,  and  shall  not  impact  proper  inspection  of  the  structure  by
+Railroad personnel.
+o Below are the examples of a similar underpass at UPRR track at Elgin, IL. It is a trail underpass
+with minimum of 30 feet horizontal overhead clearance.
+
+Fox River Trail and Illinois Prairie Path – Elgin, IL – UPRR
+```
+
+### Page 123 of 151 (scanned page: no text layer yet; see the original PDF)
+
+### Page 124 of 151
+
+```text
+
+Crossing Under Existing Structure
+
+o The existing structure in question (see below) is a historic 6’ wide x 8’ tall box arch masonry
+structure. The structure was built by the UPRR in 1903.
+o To repurpose this structure to be a trail underpass and bring it to the current UPRR standards,
+additional horizontal clearance and overhead protection with a retaining wall and wing walls
+may have to be added.
+Existing historic Box Arch Masonry Structure
+
+o Retaining wall
+o Retained embankment within 50 feet of the centerline of Railroad tracks, supporting
+Railroad infrastructure and/or within the Railroad right‐of‐way, shall be of a type
+approved by the Railroad.
+o Wingwalls
+o Wingwalls may be cast‐in‐place or precast. Wingwalls shall have such slope and length
+as required to retain the embankment and maintain the opening. Wingwalls may be
+straight or flared, as local conditions and engineering design require.
+o Refer to the UPRR Standard Construction Specifications for material requirements.
+Items not addressed specifically in the Railroad Construction Specifications, and this
+document, shall be in accordance with the applicable sections of the current edition
+of AREMA.
+o Following  are  some  examples  of  pedestrian  underpasses  with  retaining  and  wing
+walls –
+```
+
+### Page 125 of 151
+
+```text
+SR 89 Underpass in Truckee, CA – UPRR
+```
+
+### Page 126 of 151
+
+```text
+Taylor Avenue Underpass in Glen Ellyn, IL – UPRR
+
+o Per UPRR’s Guidelines for Railroad Grade Separation Projects, the Railroad may reject, at its
+discretion, the use of any existing Underpass Structure for Trail use.
+o Existing culvert pipe, box or arch structures, designed to convey water, are not permitted for
+trail crossing use.
+
+Drainage
+The drainage pattern of the site  before and after  construction shall be analyzed. Adequate drainage
+provisions  shall  be  incorporated  into  the  plans  and  specifications.  Detailed  Hydraulic  Report  may  be
+required subject to site condition. The Hydraulic report must meet the Railroad Hydraulic Criteria.
+When changes in the drainage system are contemplated by new or replacement construction, or because
+of drainage problems, the system shall be modified as required to accommodate current‐condition runoff
+including any changes that have occurred in the drainage pattern. The size of the proposed drainage
+system must conform to the Railroad Hydraulic Criteria described in Section 4.5.1 and 4.5.2. of Guidelines
+for Railroad Grade Separation Projects.
+A complete hydrologic and hydraulic study is required whenever new or additional drainage is added to
+the Railroad right‐of‐way, or when a drainage structure is scheduled to be added, removed, modified, or
+replaced.  The  Drainage  Report  must  be  in  compliance  with  the  requirements  described  in  these
+Guidelines.
+Please refer to the drawing below, for conceptual proposed alternate drainage plan when the existing
+structure is repurposed to be a trail underpass.
+```
+
+### Page 127 of 151
+
+```text
+Fence
+The Applicant shall specify the appropriate fencing to contain the Trail traffic within the Trail, crossing the
+Railroad right‐of‐way. Fence limits are subject to each project site and must be determined on a case‐by‐
+case basis.
+o Fencing shall be provided to safeguard the general public and prevent trespassers from entering the
+Railroad  right‐of‐way  and  accessing  the  track  or  other  Railroad  structures.  Each  project  will  be
+evaluated on a case‐by‐case basis.
+o Location – Where possible, fencing shall be located outside the limits of the Railroad right‐of‐way.
+Fence may be required on top of abutments, wingwalls, retaining walls, and/or along the Railroad
+right‐of‐way.
+o Height – The fencing shall be a minimum height of 8 feet.
+o Length
+o For projects crossing Railroad Tracks ‐ Fencing shall extend 500 feet, or as site constraints permit, in
+each  direction  along  the  Railroad  right‐of‐way,  outside  the  Railroad  right‐of‐way,  at  locations  as
+deemed necessary by the Railroad to prevent trespassing.
+o Fencing shall be located where it will not impede Railroad’s access to the bridge for inspection and
+shall be removed and replaced at the Applicant’s expense when necessary for access by the Railroad.
+o Below is an example of fencing on the pedestrian path which is fully caged with chain‐link fencing ‐
+```
+
+### Page 128 of 151
+
+```text
+Pedestrian Path fully caged with chain‐link fencing
+
+Pedestrian Path fully caged with chain‐link fencing
+
+Signs
+All access  to Trails  crossing railroad track shall be protected with bollard  posts and signs prohibiting
+nonauthorized vehicular access.
+All advisory and regulatory signs shall be in compliance with MUTCD and AASHTO. “No Trespassing” signs
+shall be posted every 500 feet.
+```
+
+### Page 129 of 151
+
+```text
+Lighting
+Maintenance of lights shall be the responsibility of the Applicant. Access to perform any maintenance for
+lights shall be coordinated with the local Railroad operating unit.
+Structures  with  separation  over  ten  (10)  feet  from  each  other  shall  be  considered  as  independent
+structures for the purposes of lighting.
+Dark, confined, and isolated Trail crossings hidden from public view may attract illegal activities. Line of
+sight is extremely important when visibility is a matter of safety and security.
+The lighting design shall account for the impact on train operations.
+Lighting shall provide visibility for the Trail without directing light toward the train traffic.
+Potential Hazards
+o
+Water is a potential hazard in tunnels and underpasses. As with any other segment of trail, proper
+drainage is critical and can be accomplished by digging ditches on the sides of the trail or by adding a
+layer of well‐drained ballast in the center of the tunnel to raise the trail above any standing water.
+Warning signs indicating that the tunnel or underpass should not be used during high‐water events
+are also recommended, particularly in areas prone to flooding.
+o
+Poor lighting is another potential problem in tunnels. Tunnels should have a source of light for safety
+and security and to show off the interesting elements of the tunnel itself. Install lights in the tunnel,
+if possible, or post “flashlight‐required signs” if permanent lighting is not an option.
+Summary
+Per UPRR’s Guidelines for Railroad Grade Separation Projects, the Railroad may reject, at its discretion,
+the use of any existing Underpass Structure for Trail use. Existing culvert pipe, box or arch structures,
+designed to convey water, are not permitted for trail crossing use.
+Assuming UPRR agrees to move forward, to be able to repurpose the existing arch‐drainage‐structure,
+additional construction may have to take place to bring it to the current UPRR standards for underpass as
+trail crossing.
+Like  bridges,  underpass/tunnels  contribute  to  a  memorable  trail  experience  and  often  act  as  the
+signature of their associated trail. Similar examples of popular tunnels on rail‐trails can be found in RTC’s
+Tunnels on Trails report, along with additional information about 78 tunnels along rail‐trails across the
+country.  This report can be found at:
+https://www.railstotrails.org/resource-library/resources/tunnels-on-trails-a-study-of-78-tunnels-on-36-
+trails-in-the-united-states/
+```
+
+### Page 130 of 151
+
+```text
+Tunnel
+2020 Field Log
+
+Cheyenne, Wyoming
+Client: City of Cheyenne
+Tunnel Elements Abbreviations
+
+L1 – Liner 1
+W1 – Wingwall 1
+P1 – Portal 1
+Pa1 – Patching 1
+M1 – Masonry 1
+M2- Mortar 2
+
+Cheyenne East Park Greenway
+
+Masonry Culvert Investigation and Assessment Report
+
+of
+```
+
+### Page 131 of 151
+
+```text
+MP 296.08
+Timber
+Field Log
+2017
+
+Page 2 of 34
+
+Prepared for
+Client: City of Cheyenne
+Inspection Purpose: Special Inspection
+Project Scoping
+By: Martin/Martin
+Ron Pierce, PE, SE, PEng, CBI
+
+Date
+R
+Y
+A
+N
+
+S
+.
+
+R
+I
+G
+G
+9935
+P
+r
+o
+f
+e
+s
+s
+i
+o
+n
+a
+l
+
+E
+n
+g
+i
+n
+e
+e
+r
+
+(
+C
+i
+v
+i
+l
+)
+W
+Y
+O
+M
+I
+N
+G
+Ryan Rigg, PE
+2/4/21
+```
+
+### Page 132 of 151
+
+```text
+MP 296.08
+Timber
+Field Log
+2017
+
+Page 3 of 34
+
+Milepost  –    Masonry Lined Tunnel
+
+Review Priority:
+
+Inspection Type:  Special Inspection
+
+Inspectors:     RNP, RSR
+Inspection Date/Time:  12/18/20, 10:00 am
+Weather:  34°F, overcast skies
+Report Date:  12/18/21
+
+Signature:
+
+Length:  75 ft
+Height:  8 ft
+Span:    6 ft
+
+Tunnel: Horseshoe Shape
+Portals: Masonry
+Liner: Masonry
+
+Element Conditions Good/Fair/Poor/Severe
+
+Notes:
+South Portal (P1)
+Tunn
+
+Tunnel Masonry Lining(L1)
+G
+
+South Portal:
+
+G
+
+   North Portal
+F to
+P
+Tunnel Masonry Lining
+Mortar Breakdown, Split/Spall, Patching, Masonry
+Displacement, Distortion Noted at 53 ft and 56 ft at the
+inside faces of masonry liner.
+
+No Efflorescence or Leakage noted at this time
+
+North Portal (P2)
+M
+/
+aintenance
+```
+
+### Page 133 of 151
+
+```text
+MP 311.50
+Mud Tunnel
+Field Log
+2017
+
+Page 4 of 34
+ Milepost  –    Masonry Lined Tunnel
+
+Length:  75 ft
+Height:  8 ft
+Span:    6 ft
+
+Tunnel: Horseshoe Shape
+Portals: Masonry
+Liner: Masonry
+
+Element Conditions Good/Fair/Poor/Severe
+
+Notes:
+Tunnel Masonry Depth
+Tunn
+
+Tunnel Masonry Depth
+F to p
+
+Tunnel Masonry Liner: Efflorescence/Mortar
+Breakdown/Split/Spall/Patched
+Area/Displacement/Distortion/Leakage
+
+F to P
+
+Tunnel Masonry Lining
+Cracking Patching Noted at 53 ft and 56 ft at the inside
+faces of masonry liner.
+
+F to P
+Tunnel Masonry Lining
+Cracking Patching Noted at 53 ft and 56 ft at the inside
+faces of masonry liner.
+
+Tunnel Masonry Displacement
+/Maintenance
+```
+
+### Page 134 of 151
+
+```text
+MP 311.50
+Mud Tunnel
+Field Log
+2017
+
+Page 5 of 34
+
+Milepost  –    Masonry Lined Tunnel
+
+Length:  75 ft
+Height:  8 ft
+Span:    6 ft
+
+Tunnel: Horseshoe Shape
+Portals: Masonry
+Liner: Masonry
+
+Element Conditions Good/Fair/Poor/Severe
+Notes:
+Tunnel Masonry Mortar
+Tunn
+
+Tunnel Masonry Mortar
+
+Tunnel Masonry Mortar
+G to F
+
+Missing Mortar South Portal
+G to F
+
+Missing Mortar North Portal
+
+G to F
+
+Missing Mortar North Portal
+
+/Maintenance
+```
+
+### Page 135 of 151
+
+```text
+MP 311.50
+Mud Tunnel
+Field Log
+2017
+
+Page 6 of 34
+
+Length:  75 ft
+Height:  8 ft
+Span:    6 ft
+
+Tunnel: Horseshoe Shape
+Portals: Masonry
+Liner: Masonry
+
+Element Conditions Good/Fair/Poor/Severe
+
+Notes:
+Tunnel Masonry Mortar
+Tunn
+
+Tunnel Masonry Mortar
+G to F
+
+Missing Mortar North West Wing Wall
+
+G to F
+
+Missing Mortar North West Wing Wall
+
+G to F
+Mortar Typical
+
+Tunnel Masonry Mortar Typical
+/Maintenance
+```
+
+### Page 136 of 151
+
+```text
+MP 311.50
+Mud Tunnel
+Field Log
+2017
+
+Page 7 of 34
+
+Milepost  –     Masonry Lined Tunnel
+
+Length:  75 ft
+Height:  8 ft
+Span:    6 ft
+
+Tunnel: Horseshoe
+Portals: Masonry
+
+Element Conditions Good/Fair/Poor/Severe
+
+Notes:
+Mortar Patching Ceiling
+Tunn
+
+Mortar Patching Wall
+G to
+F
+
+South Portal:
+
+G
+To
+ F
+
+Tunnel Lining
+
+G to
+F
+
+South Portal
+
+Mortar Patching
+/Maintenance
+```
+
+### Page 137 of 151
+
+```text
+MP 311.50
+Mud Tunnel
+Field Log
+2017
+
+Page 8 of 34
+
+Milepost  –     Masonry Lined Tunnel
+
+Length:  75 ft
+Height:  8 ft
+Span:    6 ft
+
+Tunnel: Horseshoe
+Portals: Masonry
+
+Element Conditions Good/Fair/Poor/Severe
+
+Notes:
+Southeast Wingwall Displacement
+
+Mortar Patching Wall
+F to
+P
+
+South East Masonry Wingwall:
+Displacement/Mortar Breakdown/Spit/Spall/
+
+F
+To
+ P
+
+Tunnel Lining
+
+F to
+P
+
+South Portal
+
+Southeast Wingwall
+
+/Maintenance
+```
+
+### Page 138 of 151
+
+```text
+MP 311.50
+Mud Tunnel
+Field Log
+2017
+
+Page 9 of 34
+
+Milepost  –     General
+
+Length:  75 ft
+Height:  8 ft
+Span:    6 ft
+
+Tunnel: Horseshoe
+Portals: Masonry
+
+Element Conditions Good/Fair/Poor/Severe
+
+Notes:
+South Portal vegetation overgrowth
+Tunn
+
+Top South Portal Vegetation overgrowth
+M
+
+South Portal:  Vegetation
+
+M
+
+South Portal:  Vegetation
+
+M
+
+South Portal:  Vegetation
+
+South Portal West side Vegetation overgowth
+/Maintenance
+```
+
+### Page 139 of 151
+
+```text
+Summary of Recommendations
+Cheyenne Masonry Tunnel inspection
+Tunnel inspection was performed on December 18, 2020 in Cheyenne Wyoming. This masonry lined
+Tunnel has an opening/installation year of 1903. It is single barrel horseshoe shaped tunnel that is under
+approximately 30 feet of fill and supports two train tracks for the Union Pacific railroad. It is located
+approximately ½ mile southwest of the Cheyenne Station No. 4 Fire/Rescue Training center parking lot.
+The tunnel is 75-feet length, 6-feet wide opening, 8-feet tall opening and is owned by the Union Pacific
+railroad.
+We arrived onsite at approximately 10 am, the sky was overcast and temperature was 34 degrees. The
+Martin/Martin Wyoming project team of Ron Pierce and Ryan Rigg met the client’s team from Summit
+Engineering, GLM Design, Railpros and the City of Cheyenne.
+The general condition of the tunnel appears to be in good to fair condition. A few noteworthy things
+were observed.
+1.
+The southeast masonry wingwall shows signs of possible settlement. This separation of masonry
+blocks is noted in the pictures provided. It appears that the wall is vertically settling, and no miss
+alignment i.e. distortion was noted in the horizontal plane.
+2.
+A crack that is full depth of the tunnel was noted approximately ¾ of its length (53 to 56 feet
+from the south entrance east and west wall faces, respectively).
+
+Some investigations from geotechnical engineer to establish is a monitoring program to determine if the
+settlement and cracking/separations has finalized or if further remediation is needed to stabilize this
+structure.
+
+Recommendations:
+Secure a geotechnical engineer to do site investigations of the southeast wingwall and the main tunnel.
+Geotech to determine the number of boreholes to properly characterize the possible movement of the
+Tunnel and SE wingwall.
+Further Engineering investigation
+Tun
+nel
+
+Ele
+ments
+
+Abb
+reviations
+```
+
+### Page 140 of 151
+
+```text
+Maintenance Items.
+1.
+Clearing of overgrown vegetation and South and North Portals
+2.
+Patching of masonry joints
+3.
+Water-proofing as needed
+```
+
+### Page 141 of 151
+
+```text
+
+
+
+
+
+
+
+
+
+
+
+DRAWING INDEX
+
+
+EAST PERSHING BLVD
+HIGHWAY US 30
+N COLLEGE DR
+E LINCOLNWAY
+WHITNEY RD
+UNION PACIFIC RAILROAD
+E 12TH STREET
+
+
+THESE DRAWINGS HAVE BEEN PREPARED
+FOR THE CHEYENNE MPO'S EAST PARK
+GREENWAY UNDERPASS AND DRAINAGE
+PLAN AT THE UNION PACIFIC RAILROAD
+TITLE SHEET
+OVERVIEW
+TYPICAL SECTIONS
+SADDLE RIDGE TO SUN VALLEY GREENWAY: PLAN AND PROFILES
+EAST PARK GREENWAY TO LEADS TRAIL: PLAN AND PROFILES
+1
+2
+3
+4-8
+9-11
+SITE
+```
+
+### Page 142 of 151
+
+```text
+YIELD
+YIELD
+YIELD
+YIELD
+YIELD
+YIELD
+YIELD
+YIELD
+5935
+5940
+5940 5935
+5935
+5930
+5935
+5940
+5930
+5930
+5925
+5925
+5945
+5955
+5950
+5945
+5940
+5930
+59335932
+5933
+5925
+5930 59355940
+5940
+5930
+5930
+5929
+5935
+5940
+5939
+5930
+5935
+5935
+5935
+5931
+5925
+5930
+5930
+5930
+5930
+5930
+5927
+5928
+5935
+5945
+SUMMIT ENGINEERING, LLC
+2
+11
+OVERVIEW
+EAST PARK GREENWAY AND
+DRAINAGE PLAN
+WHITNEY ROAD
+E. PERSHING BLVD.
+UNION PACIFIC RAILROAD
+CHUKKER RIDGE SUBDIVISION
+SADDLE RIDGE SUBDIVISION
+CHEYENNE LEADS
+HESS PROPERTY
+KIWANIS PARK:
+THIS AREA WILL REMAIN OUTSIDE
+OF THE 100-YEAR FLOODPLAIN
+KIWANIS PARK:
+SOIL TO BE REMOVED FROM THIS
+AREA FOR DETENTION STORAGE
+SADDLE RIDGE TO SUN VALLEY GREENWAY
+EAST PARK TO LEADS TRAIL GREENWAY
+TO SUN VALLEY
+SUBDIVISION
+WEST BASIN OUTLET
+EXISTING MASONRY ARCH
+STRUCTURE THRU UPRR
+EMBANKMENT
+KIWANIS PARK OUTLET
+UTILITIES SHOWN HAVE NOT BEEN SURVEYED,
+LOCATION MAY NOT BE ACCURATE.
+SPILLWAY OUTLET
+CONSTRUCT
+BERM (TYP)
+GREENWAY PROPOSED
+TO CAMPSTOOL ROAD
+EAST BASIN OUTLET
+EXISTING GRAVEL TRAIL
+PROPOSED GRAVEL TRAIL
+LEGEND
+PROPOSED GRAVEL PATH
+PROPOSED GREENWAY TRAIL
+EXISTING SANITARY SEWER
+PROPOSED CULVERT
+EXISTING COMMUNICATION LINE
+EXISTING PETROLEUM LINE
+```
+
+### Page 143 of 151
+
+```text
+SUMMIT ENGINEERING, LLC
+TYPICAL SECTIONS
+EAST PARK GREENWAY
+AND DRAINAGE PLAN
+3
+14
+LOCATED ON TOP OF PERIMETER
+6' TRAIL
+14' - 20' TOP WIDTH
+2% TOWARD
+KIWANIS
+DETENTION AREA
+GRAVEL TRAIL
+IMPORT FILL FOR BERM
+CONSTRUCTION SHALL BE PLACED IN
+ACCORDANCE WITH GEOTECHNICAL
+ENGINEERING RECOMMENDATIONS
+4" (MIN.) TOPSOIL COMPACTED TO 85% AND RAKED TO FINISH GRADE
+GRAVEL TRAIL TYPICAL SECTION:
+3:1*
+3:1
+* IF SLOPE EXCEEDS
+3:1 PROVIDE FENCING
+```
+
+### Page 144 of 151
+
+```text
+5930
+5935
+5940
+5945
+5950
+5955
+5960
+5930
+5935
+5940
+5945
+5950
+5955
+5960
+-4.02%
+-1.92%
+PVI STA 6+50.00
+ELEV = 5957.00
+100.0' VC
+PVI STA 7+49.60
+PVI ELEV = 5953.00
+A.D. = 2.10
+K = 47.62
+BCV STA 6+99.60
+BVC ELEV = 5955.01
+ECV STA 7+99.60
+EVC ELEV = 5952.04
+100.0' VC
+PVI STA 11+75.00
+PVI ELEV = 5944.85
+A.D. = 1.82
+K = 54.96
+BCV STA 11+25
+BVC ELEV = 5945.81
+ECV STA 12+25
+EVC ELEV = 5944.80
+E. PERSHING BLVD. DESIGN BY OTHERS
+-0.10%
+EXCESS FILL MATERIAL TO BE PLACED IN UPPER PORTION OF KIWANIS PARK, ASSUMED 1' DEEP ±
+
+
+
+
+
+
+
+PROPOSED GRADE
+EXISTING GRADE
+MATCHLINE
+STA. 15+00.00
+EXISTING GREENWAY
+JAN KNIGHT
+3207 WHITNEY ROAD
+(PO BOX 21162, CHEYENNE, WY 82003)
+DAVID WILLIAM VOSSLER SR. ET AL
+3177 WHITNEY ROAD
+DAVID WILLIAM VOSSLER SR. ET AL
+3177 WHITNEY ROAD
+F AND H TRUST C/O FOX, PEARL
+3015 WHITNEY ROAD
+(305 WHITNEY DR, CHEYENNE, WY 82009)
+EAST CHEYENNE COMMUNITY PARK
+CITY OF CHEYENNE
+CITY OF CHEYENNE
+KAROLYN K MIDDLETON
+6220 E. PERSHING BLVD.
+PROPOSED LINEWORK FOR E.
+PERSHING BLVD/WHITNEY RD.
+INTERSECTION PROVIDED BY
+Y2 PER THE E. PERSHING
+BLVD. CORRIDOR PLAN.
+SUGGESTED THAT ANYTIME
+GREENWAY IS PLACED AGAINST THE
+CURB AND GUTTER THAT IT BE
+INSTALLED AS A 10' CONCRETE PATH
+WITH A 2' BUFFER AT BACK OF CURB.
+```
+
+### Page 145 of 151
+
+```text
+5920
+5925
+5930
+5935
+5940
+5945
+5950
+5955
+5920
+5925
+5930
+5935
+5940
+5945
+5950
+5955
+-0.10%
+-4.80%
+-0.83%
+50.0' VC
+PVI STA 19+50.00
+PVI ELEV = 5944.10
+A.D. = 4.70
+K = 10.63
+BVC STA 19+25
+BVC ELEV = 5944.12
+EVC STA 19+75
+EVC ELEV = 5942.90
+50.0' VC
+PVI STA 21+90.00
+PVI ELEV = 5932.58
+A.D. = 3.97
+K = 12.60
+BCV STA 21+65
+BVC ELEV = 5933.78
+ECV STA 22+15
+EVC ELEV = 5932.37
+EXCESS FILL MATERIAL TO BE PLACED IN UPPER PORTION OF KIWANIS PARK, ASSUMED 1' DEEP ±
+
+
+
+
+
+
+
+PROPOSED GRADE
+EXISTING GRADE
+GREENWAY SHALL BE 8" THICK CONCRETE
+IF ACCESS DRIVE IS TO REMAIN
+EAST PARK TO LEADS TRAIL
+GREENWAY, SEE SHEET 9
+EAST CHEYENNE COMMUNITY PARK
+F AND H TRUST C/O FOX, PEARL
+305 WHITNEY ROAD
+(305 WHITNEY DR, CHEYENNE, WY 82009)
+OLIVER, GEORGE EDWARD ET AL
+(NO NUMBER) WHITNEY ROAD
+(1607 HEMLOCK WAY, BROOMFIELD, CO 80020)
+CASNER, KERRY LYNN
+2905 WHITNEY ROAD
+(5331 KENNEDY DR., CHEYENNE, WY 82001)
+BAKER, ROBERT O
+2809 WHITNEY ROAD
+(2811 WHITNEY RD., CHEYENNE, WY 82001)
+WINKLER, E G,  ET UX
+2709 WHITNEY ROAD
+(2619 WHITNEY RD., CHEYENNE, WY 82001)
+MATCHLINE
+STA. 15+00
+MATCHLINE
+STA. 26+00
+PROPOSED GRAVEL TRAIL
+WHITNEY ROAD
+```
+
+### Page 146 of 151
+
+```text
+5920
+5925
+5930
+5935
+5940
+5945
+5920
+5925
+5930
+5935
+5940
+5945
+4.33%
+1.11%
+-1.66%
+0.09%
+0.79%
+4.18%
+0.00%
+-0.69%
+PVI STA 36+69.12
+ELEV = 5931.00
+PVI STA 36+81.40
+ELEV = 5931.00
+30.0' VC
+HIGH PT ELEV = 5929.46
+HIGH PT STA = 28+32.00
+PVI STA 28+17.00
+PVI ELEV = 5929.29
+A.D. = 3.22
+K = 9.33
+BVC STA 28+02
+BVC ELEV = 5928.64
+EVC STA 28+32
+EVC ELEV = 5929.46
+30.0' VC
+HIGH PT ELEV = 5929.72
+HIGH PT STA = 28+62.05
+PVI STA 28+65.00
+PVI ELEV = 5929.82
+A.D. = 2.77
+K = 10.83
+BVC STA 28+50
+BVC ELEV = 5929.66
+EVC STA 28+80
+EVC ELEV = 5929.57
+50.0' VC
+PVI STA 32+00.00
+PVI ELEV = 5929.78
+A.D. = 0.70
+K = 71.60
+BVC STA 31+75
+BVC ELEV = 5929.58
+EVC STA 32+25
+EVC ELEV = 5929.80
+30.0' VC
+LOW PT ELEV = 5927.79
+LOW PT STA = 27+69.82
+PVI STA 27+80.00
+PVI ELEV = 5927.69
+A.D. = 5.16
+K = 5.81
+BCV STA 27+65
+BVC ELEV = 5927.81
+ECV STA 27+95
+EVC ELEV = 5928.34
+50.0' VC
+LOW PT ELEV = 5928.13
+LOW PT STA = 29+83.84
+PVI STA 29+75.00
+PVI ELEV = 5928.00
+A.D. = 2.45
+K = 20.42
+BCV STA 29+50
+BVC ELEV = 5928.41
+ECV STA 30+00
+EVC ELEV = 5928.20
+30.0' VC
+LOW PT ELEV = 5930.19
+LOW PT STA = 36+35.00
+PVI STA 36+50.00
+PVI ELEV = 5930.20
+A.D. = 4.09
+K = 7.33
+BCV STA 36+35
+BVC ELEV = 5930.19
+ECV STA 36+65
+EVC ELEV = 5930.83
+
+
+
+
+
+
+
+PROPOSED GRADE
+EXISTING GRADE
+PROPOSED
+GRAVEL TRAIL
+EAST CHEYENNE COMMUNITY PARK
+MATCHLINE
+STA. 26+00
+MATCHLINE
+STA. 37+00
+EAST PARK TO LEADS
+TRAIL GREENWAY,
+SEE SHEET 10
+EXISTING GRAVEL TRAIL
+(CONSTRUCTED IN 2021)
+CROSSING STRUCTURE
+(CONSTRUCTED IN 2021)
+MAY NEED TO BE WIDENED
+PROPOSED GREENWAY
+TO BE CONSTRUCTED IN
+SAME LOCATION AS
+EXISTING GRAVEL TRAIL
+CROSSING STRUCTURE
+CULVERT TO DRAIN UPPER AREA
+CULVERT TO DRAIN UPPER AREA
+```
+
+### Page 147 of 151
+
+```text
+36+00
+37+00
+38+00
+39+00
+40+00
+41+00
+42+00
+43+00
+44+00
+45+00
+46+00
+47+00
+48+00
+49+00
+5955
+5950
+5945
+5940
+5935
+5925
+5930
+5935
+5940
+5945
+5950
+5955
+5960
+5965
+5925
+5930
+5935
+5940
+5945
+5950
+5955
+5960
+5965
+36+50
+37+00
+37+50
+38+00
+38+50
+39+00
+39+50
+40+00
+40+50
+41+00
+41+50
+42+00
+42+50
+43+00
+43+50
+44+00
+44+50
+45+00
+45+50
+46+00
+46+50
+47+00
+47+50
+48+00
+2.46%
+-0.77%
+2.35%
+0.40%
+-0.36%
+4.18%
+0.00%
+-0.69%
+4.80%
+4.80%
+PVI STA 36+69.12
+ELEV = 5931.00
+PVI STA 36+81.40
+ELEV = 5931.00
+50.0' VC
+PVI STA 38+50.00
+PVI ELEV = 5937.49
+A.D. = 2.34
+K = 21.38
+BVC STA 38+25
+BVC ELEV = 5936.29
+EVC STA 38+75
+EVC ELEV = 5938.11
+50.0' VC
+HIGH PT ELEV = 5939.19
+HIGH PT STA = 39+38.14
+PVI STA 39+25.00
+PVI ELEV = 5939.34
+A.D. = 3.23
+K = 15.50
+BVC STA 39+00
+BVC ELEV = 5938.72
+EVC STA 39+50
+EVC ELEV = 5939.15
+50.0' VC
+PVI STA 42+75.00
+PVI ELEV = 5941.33
+A.D. = 1.94
+K = 25.71
+BVC STA 42+50
+BVC ELEV = 5940.74
+EVC STA 43+00
+EVC ELEV = 5941.43
+50.0' VC
+HIGH PT ELEV = 5955.92
+HIGH PT STA = 47+02.67
+PVI STA 46+81.13
+PVI ELEV = 5956.00
+A.D. = 5.16
+K = 9.69
+BVC STA 46+56.13
+BVC ELEV = 5954.80
+EVC STA 47+06.13
+EVC ELEV = 5955.91
+50.0' VC
+PVI STA 47+65.00
+PVI ELEV = 5955.70
+A.D. = 4.49
+K = 11.13
+BVC STA 47+40
+BVC ELEV = 5955.79
+EVC STA 47+90
+EVC ELEV = 5954.49
+30.0' VC
+PVI STA 36+50.00
+PVI ELEV = 5930.20
+A.D. = 4.09
+K = 7.33
+ECV STA 36+65
+EVC ELEV = 5930.83
+20.0' VC
+LOW PT ELEV = 5930.86
+LOW PT STA = 37+03.06
+PVI STA 37+10.56
+PVI ELEV = 5930.80
+A.D. = 5.49
+K = 3.65
+BCV STA 37+00.56
+BVC ELEV = 5930.87
+ECV STA 37+20.56
+EVC ELEV = 5931.28
+50.0' VC
+LOW PT ELEV = 5937.95
+LOW PT STA = 41+12.30
+PVI STA 41+25.00
+PVI ELEV = 5937.81
+A.D. = 3.11
+K = 16.06
+BCV STA 41+00
+BVC ELEV = 5938.00
+ECV STA 41+50
+EVC ELEV = 5938.40
+100.0' VC
+PVI STA 43+85.00
+PVI ELEV = 5941.77
+A.D. = 4.40
+K = 22.71
+BCV STA 43+35
+BVC ELEV = 5941.57
+ECV STA 44+35
+EVC ELEV = 5944.17
+NEIGHTBORHOOD CONNECTOR
+TO CHUKKER RIDGE
+STA 43+30.60
+ELEV = 5941.55
+SUMMIT ENGINEERING, LLC
+SADDLE RIDGE TO SUN VALLEY
+GREENWAY, PAGE 4
+EAST PARK GREENWAY AND
+DRAINAGE PLAN
+7
+11
+PROPOSED GRADE
+EXISTING GRADE
+EAST CHEYENNE COMMUNITY PARK
+MATCHLINE
+STA. 37+00
+MATCHLINE
+STA. 48+00
+PROPOSED GRAVEL TRAIL
+HESS, KENNETH E ET UX
+5' WIDE SIDEWALK CONNECTOR
+TO E. 13th STREET
+EXISTING CULVERT
+PROPOSED GREENWAY TO
+BE LOCATED ON TOP OF
+EXISTING GRAVEL TRAIL
+```
+
+### Page 148 of 151
+
+```text
+5930
+5935
+5940
+5945
+5950
+5955
+5960
+5930
+5935
+5940
+5945
+5950
+5955
+5960
+GREENWAY CROSSES DRAINAGEWAY
+INSTALL STRUCTURE AND/OR
+LOW FLOW CROSSING. INSTALL
+RAILING/FENCE AS NECESSARY.
+STA 55+50±
+-1.13%
+-0.18%
+-4.85%
+1.64%
+3.78%
+PVI STA 56+25.00
+ELEV = 5946.14
+50.0' VC
+PVI STA 47+65.00
+PVI ELEV = 5955.70
+A.D. = 4.49
+K = 11.13
+EVC STA 47+90
+EVC ELEV = 5954.49
+50.0' VC
+PVI STA 51+00.00
+PVI ELEV = 5939.45
+A.D. = 3.72
+K = 13.45
+BCV STA 50+75
+BVC ELEV = 5940.66
+ECV STA 51+25
+EVC ELEV = 5939.17
+50.0' VC
+PVI STA 52+00.00
+PVI ELEV = 5938.32
+A.D. = 0.96
+K = 52.25
+BCV STA 51+75
+BVC ELEV = 5938.60
+ECV STA 52+25
+EVC ELEV = 5938.27
+50.0' VC
+LOW PT ELEV = 5938.18
+LOW PT STA = 52+79.89
+PVI STA 53+00.00
+PVI ELEV = 5938.14
+A.D. = 1.81
+K = 27.55
+BCV STA 52+75
+BVC ELEV = 5938.18
+ECV STA 53+25
+EVC ELEV = 5938.55
+80.0' VC
+PVI STA 55+00.00
+PVI ELEV = 5941.41
+A.D. = 2.15
+K = 37.27
+BCV STA 54+59.99
+BVC ELEV = 5940.76
+ECV STA 55+39.99
+EVC ELEV = 5942.93
+
+
+
+
+
+
+
+PROPOSED GRADE
+EXISTING GRADE
+EAST CHEYENNE COMMUNITY PARK
+MATCHLINE
+STA. 48+00
+5' WIDE SIDEWALK
+CONNECTOR TO
+ATLANTIC DRIVE
+EAST CHEYENNE COMMUNITY PARK
+EDWARD HOZIAN, ET AL
+6211 ATLANTIC DR.
+EMMA HOZIAN, ET AL
+ 6207 ATLANTIC DR.
+(6211 ATLANTIC DR.,
+CHEYENNE, WY 82001)
+KREIDLER, JOHN R ET AL
+(NO NUMBER) ATLANTIC DR.
+(PO BOX 230608,
+SACRAMENTO, CA 95834)
+HESS DEVELOPMENT
+ (NO NUMBER) ATLANTIC DR.
+(5920 E. 13th ST,
+CHEYENNE, WY 82001)
+HESS DEVELOPMENT
+ (NO NUMBER) ATLANTIC DR.
+(5920 E. 13th ST,
+CHEYENNE, WY 82001)
+CITY OF CHEYENNE
+TRACE G LEWARK, ET UX
+700 GETTYSBURG DR.
+(814 McGOVERN AVE.,
+CHEYENNE, WY 82001)
+GREENWAY PROPOSED
+TO CONTINUE TO
+CONNECT WITH SUN
+VALLEY GREENWAY AT
+HENDERSON DITCH
+PROPOSED GRAVEL TRAIL
+EXISTING GRAVEL TRAIL
+```
+
+### Page 149 of 151
+
+```text
+5920
+5925
+5930
+5935
+5940
+5945
+5950
+5920
+5925
+5930
+5935
+5940
+5945
+5950
+-1.70%
+-3.26%
+-1.37%
+0.00%
+-1.04%
+-1.80%
+-4.80%
+PVI STA 0+17.92
+ELEV = 5944.37
+PVI STA 0+94.68
+ELEV = 5942.24
+PVI STA 0+22.92
+ELEV = 5944.28
+PVI STA 0+65.46
+ELEV = 5942.24
+50.0' VC
+PVI STA 2+13.67
+PVI ELEV = 5941.00
+A.D. = 0.66
+K = 76.08
+BVC STA 1+88.67
+BVC ELEV = 5941.26
+EVC STA 2+38.67
+EVC ELEV = 5940.58
+50.0' VC
+PVI STA 3+15.60
+PVI ELEV = 5939.27
+A.D. = 1.56
+K = 31.99
+BVC STA 2+90.60
+BVC ELEV = 5939.69
+EVC STA 3+40.60
+EVC ELEV = 5938.45
+50.0' VC
+PVI STA 3+69.10
+PVI ELEV = 5937.52
+A.D. = 1.89
+K = 26.42
+BCV STA 3+44.10
+BVC ELEV = 5938.34
+ECV STA 3+94.10
+EVC ELEV = 5937.18
+50.0' VC
+PVI STA 4+25.01
+PVI ELEV = 5936.76
+A.D. = 0.86
+K = 58.14
+BCV STA 4+00.01
+BVC ELEV = 5937.10
+ECV STA 4+50.01
+EVC ELEV = 5936.63
+CONNECT TO SADDLE RIDGE
+TO SUNVALLEY GREENWAY
+STA 0+17.92
+ELEV = 5944.37
+-0.51%
+
+
+
+
+
+
+
+PROPOSED GRADE
+EXISTING GRADE
+SADDLE RIDGE TO SUN VALLEY
+GREENWAY, SEE SHEET 3
+EAST CHEYENNE COMMUNITY PARK
+MATCHLINE
+STA. 11+00
+PROPOSED GRAVEL TRAIL
+INSTALL HAND RAIL OR FENCE AS
+NECESSARY AT EDGE OF RCBC
+WHITNEY ROAD
+GREENWAY TO BE 8" THICK IF
+ACCESS DRIVE IS TO REMAIN
+OLIVER, GEORGE EDWARD ET AL
+(NO NUMBER) WHITNEY ROAD
+(1607 HEMLOCK WAY, BROOMFIELD, CO 80020)
+CASNER, KERRY LYNN
+2905 WHITNEY ROAD
+(5331 KENNEDY DR., CHEYENNE, WY 82001)
+BAKER, ROBERT O
+2809 WHITNEY ROAD
+(2811 WHITNEY RD., CHEYENNE, WY 82001)
+WINKLER, E G,  ET UX
+2709 WHITNEY ROAD
+(2619 WHITNEY RD., CHEYENNE, WY 82001)
+WINKLER, E G,  ET UX
+2709 WHITNEY ROAD
+(2619 WHITNEY RD., CHEYENNE, WY 82001)
+```
+
+### Page 150 of 151
+
+```text
+11+00
+12+00
+13+00
+14+00
+15+00
+16+00
+17+00
+18+00
+19+00
+20+00
+21+00
+22+00
+23+00
+24+00
+25+00
+5935
+5940
+5930
+5940
+5930
+5933
+5932
+5933
+5925
+5930
+5935
+5940
+5940
+5930
+5930
+5929
+5935
+5940
+5939
+5930
+5935
+5935
+5935
+5931
+5920
+5925
+5930
+5935
+5940
+5945
+5920
+5925
+5930
+5935
+5940
+5945
+10+50
+11+00
+11+50
+12+00
+12+50
+13+00
+13+50
+14+00
+14+50
+15+00
+15+50
+16+00
+16+50
+17+00
+17+50
+18+00
+18+50
+19+00
+19+50
+20+00
+20+50
+21+00
+21+50
+22+00
+-0.51%
+SUMMIT ENGINEERING, LLC
+EAST PARK GREENWAY TO
+LEADS TRAIL, PAGE 2
+EAST PARK GREENWAY AND
+DRAINAGE PLAN
+10 11
+PROPOSED GRADE
+EXISTING GRADE
+PROPOSED GRAVEL TRAIL
+EAST CHEYENNE COMMUNITY PARK
+MATCHLINE
+STA. 11+00
+MARY E WINKLER
+2611 WHITNEY ROAD
+(2617 WHITNEY RD., CHEYENNE, WY 82001)
+MATCHLINE
+STA. 22+00
+E G WINKLER ET UX
+2619 WHITNEY ROAD
+(2619 WHITNEY RD., CHEYENNE, WY 82001)
+MARY E WINKLER
+2607 WHITNEY ROAD
+(2617 WHITNEY RD., CHEYENNE, WY 82001)
+UNION PACIFIC RAILROAD
+MARY E WINKLER
+2607 WHITNEY ROAD
+(2617 WHITNEY RD., CHEYENNE, WY 82001)
+```
+
+### Page 151 of 151
+
+```text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+39,67$
+(/(9 
+39,67$
+(/(9 
+39,67$
+(/(9 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+352326('*5$'(
+(;,67,1**5281'
+352326('*5$9(/75$,/
+81,213$&,),&5$,/52$'
+0$5<(:,1./(5
+:+,71(<52$'
+:+,71(<5'&+(<(11(:<
+0$7&+/,1(
+67$
+&+(<(11(/($'6
+12180%(5:+,71(<5'
+32%2;
+&+(<(11(:<
+
+7$//$5&+6758&785(
+$
+$
+[',$3,3(72%(%25('7+58
+7+(8355(0%$1.0(173(5$5(0$
+*8,'(/,1(672'5$,1($67%$6,1
+(;,67,1*0$6215<$5&+6758&785(72
+%(86('$6$3('(675,$181'(53$66
+60,7+7(55<(5(975
+7$7(5'
+3529,'(23(163$&(72
+$//2:)25612:6725$*(
+)253/2:,1*23(5$7,216
+3529,'(63$&($70$;6/23(72
+$//2:612:3/2:758&.72&203/(7($
+
+<
+785135,25727+($5&+6758&785(
+835575$&.6
+835575$&.6
+7232)%(50:,7+*5$9(/75$,/
+7232)%(50)25($67
+'5$,1$*(%$6,1 
+5()(572'5$,1$*(5(3257
+
+&21&5(7(*5((1:$<
+&5($7(',7&+$'-$&(1772*5((1:$<
+
+%27720Z6,'(6/23(6
+'((3$6680('
+
+
+
+(1685(326,7,9('5$,1$*(72
+'5$,1$5($%(7:((18355
+(0%$1.0(17$1'352326('%(50
+
+83555,*+72):$<
+&8/9(5772'5$,1($67%$6,1
+7+528*+352326('
+6(&21'$5<%(50',$
+&8/9(57Z)/$3*$7(
+```
+
+---
+
+[← document overview](supporting-document-large-file.md) · [← part 1](supporting-document-large-file.part1.md)

@@ -1,0 +1,1035 @@
+# Plan
+
+*Supporting document from the City Council — Monday, December 28, 2015 meeting, City of Cheyenne, Wyoming. Plain-text copy for reading and search. The original file is the authoritative version.*
+
+- **Meeting:** [City Council — Monday, December 28, 2015](../../../meetings/2015/city-council-2015-12-28.md)
+- **Document type:** Supporting document
+- **Text status:** full text
+- **Pages:** 26
+- **Original file:** [1451289600Dec 28, 2015 - City Council Meeting/Supporting_Documents/1451289600Dec 28, 2015 - City Council Meeting - Plan - Plan.pdf](https://github.com/therealwindycity/cheyenne-archives-2014-2017/blob/main/1451289600Dec%2028%2C%202015%20-%20City%20Council%20Meeting/Supporting_Documents/1451289600Dec%2028%2C%202015%20-%20City%20Council%20Meeting%20-%20Plan%20-%20Plan.pdf) in `therealwindycity/cheyenne-archives-2014-2017` ([direct download](https://raw.githubusercontent.com/therealwindycity/cheyenne-archives-2014-2017/main/1451289600Dec%2028%2C%202015%20-%20City%20Council%20Meeting/Supporting_Documents/1451289600Dec%2028%2C%202015%20-%20City%20Council%20Meeting%20-%20Plan%20-%20Plan.pdf))
+- **File size:** 4,973,312 bytes · git blob `9fde812a2e1d`
+- **Extraction:** PyMuPDF text layer. Wording is unchanged; line breaks and table layout may differ from the PDF.
+
+---
+
+### Page 1 of 26
+
+```text
+EVERS BOULEVARD
+ROAD REHABILITATION
+35% DESIGN PLAN
+Prepared for: Cheyenne Metropolitan
+Planning Organization
+October 2015
+Draft Final Plan
+```
+
+### Page 2 of 26
+
+```text
+Evers Boulevard Road Rehabilitation 35% Design
+
+i | P a g e
+
+ Evers Boulevard Road Rehabilitation 35% Design
+Final DRAFT Report
+
+Prepared for:
+Cheyenne Metropolitan Planning Organization
+
+October 2015
+
+"The  preparation  of  this  report  has  been  financed  in  part  through  grant[s]  from  the
+Federal Highway Administration and Federal Transit Administration, U.S. Department of
+Transportation,  under  the  State  Planning  and  Research  Program,  Section  505  [or
+Metropolitan Planning Program, Section 104(f)] of Title 23, U.S. Code.  The contents of
+this report do not necessarily reflect the official views or policy of the U.S. Department of
+Transportation."
+```
+
+### Page 3 of 26
+
+```text
+Table of Contents
+INTRODUCTION ............................................................................................................................................. 1
+EXISTING CONDITIONS .................................................................................................................................. 2
+Existing Facilities ....................................................................................................................................... 2
+Right-of-Way ............................................................................................................................................. 4
+PUBLIC OUTREACH ........................................................................................................................................ 4
+Corridor Walk ............................................................................................................................................ 4
+Comment Forms: Jessup Elementary School ............................................................................................ 5
+Meeting with Jessup Elementary PTO ...................................................................................................... 5
+Public Open House .................................................................................................................................... 5
+Interaction with Landowners .................................................................................................................... 6
+PRELIMINARY CORRIDOR ANALYSIS .............................................................................................................. 7
+DATA COLLECTION ........................................................................................................................................ 7
+POTENTIAL IMPROVEMENTS ........................................................................................................................ 9
+DESIGN ALTERNATIVES ................................................................................................................................. 9
+Drainage Design Alternatives .................................................................................................................... 9
+First Steps ............................................................................................................................................ 10
+Concept 1: Normal Crown Roadway with Curb Inlets ........................................................................ 10
+Concept 2: Inverted Crown Roadway with Median Bio-Swale. .......................................................... 10
+First Step Results – Concepts 1 and 2 ................................................................................................. 11
+Second Step – Concept 3 .................................................................................................................... 11
+Concept 3 Results ................................................................................................................................ 12
+Roadway Design Alternatives ................................................................................................................. 12
+Bicycle Provisions ................................................................................................................................ 12
+Sidewalks ............................................................................................................................................. 13
+Gateway Entrance - Center Median and Bio-Swale ............................................................................ 13
+Intersection Improvement Alternatives ................................................................................................. 16
+Ranger Drive ........................................................................................................................................ 16
+Deer Avenue ........................................................................................................................................ 17
+Safety Improvements Near Jessup Elementary School .......................................................................... 17
+CONCLUSION ............................................................................................................................................... 19
+Recommended Street Cross-Sections ..................................................................................................... 19
+Drainage .................................................................................................................................................. 20
+Traffic & Safety ........................................................................................................................................ 20
+Evers Boulevard Road Rehabilitation 35% Design
+
+ii | P a g e
+```
+
+### Page 4 of 26
+
+```text
+Table of Figures
+Figure 1 - Evers Boulevard at Jessup Elementary School .............................................................................. 2
+Figure 2 - Existing Facilities ........................................................................................................................... 2
+Figure 3 - Evers Boulevard Corridor (not to scale) ........................................................................................ 3
+Figure 4 - Public Open House April 28, 2015 ................................................................................................ 5
+Figure 5 - Existing Narrow Sidewalks Along the Corridor ............................................................................. 7
+Figure 6 - Existing Drainage Issues at Deer Avenue and Evers Boulevard .................................................... 7
+Figure 7 - Evers Boulevard Bio-Swale .......................................................................................................... 11
+Figure 8 - Proposed Normal Crown Street Section ..................................................................................... 13
+Figure 9 – Proposed Street Section with Bio-Swale .................................................................................... 14
+Figure 10 - Bio-Swale Locations .................................................................................................................. 14
+Figure 11 - Ranger Drive Existing Alignment ............................................................................................... 16
+Figure 12 - Existing Deer Avenue Alignment ............................................................................................... 17
+Figure 13 - Deer Avenue Realignment ........................................................................................................ 17
+Figure 14 - Jessup Elementary School at Morning Drop-off ....................................................................... 18
+Figure 15 - Proposed Jessup Curb Extensions ............................................................................................. 18
+Figure 16 - Evers Boulevard Overview Map ................................................................................................ 22
+Appendices
+Appendix A: Public Outreach
+−
+Corridor Walk, September 13, 2014
+o Summary of Comments
+o Handout for MindMixer web address
+o Corridor Walk Comment Form
+−
+Public Meeting, April 28, 2015
+o Summary of Comments
+o Public Meeting Comment Form
+o Sign in Sheets
+o Power Point Slides
+o Displays
+−
+MindMixer Survey Summaries
+Appendix B: Evers Boulevard Traffic Data
+−
+Technical Memo
+o Appendix A: Speed Spot Study Data
+o Appendix B: Crash Data
+o Appendix C: Turning Movement Counts & Future Traffic Forecasts
+o Appendix D: Synchro Analysis
+Appendix C: Drainage Analysis
+  Appendix D: Conceptual Plans
+−
+35% Plan and Profiles (Storm sewer outfall to Vandehei Avenue)
+−
+35% Plans (Vandehei Avenue to Brittany Drive)
+−
+35% Cross Sections (Bishop Boulevard to Vandehei Avenue)
+−
+Preliminary Engineer’s Opinion of Probable Cost
+Appendix E: Complete Streets Checklist
+Evers Boulevard Road Rehabilitation 35% Design
+
+iii | P a g e
+```
+
+### Page 5 of 26
+
+```text
+INTRODUCTION
+Evers Boulevard is a collector roadway in the Western Hills neighborhood in northwest Cheyenne,
+Wyoming.  The existing roadway is approximately 1.2 miles long, from Bishop Boulevard to Sterling
+Drive, south to north.  Evers Boulevard provides access into the established Western Hills neighborhood
+from Bishop Boulevard and Vandehei Avenue.  This neighborhood has been built out with no room
+available for further expansion as it is bordered by Interstate 25 to the east, Warren Air Force Base on
+the west, platted and developed Laramie County land to the north and development to the south.  The
+existing roadway section from Bishop Boulevard north to Brittany Drive is 60 feet from back of curb to
+back of curb.  The roadway then narrows to 40 feet north of Brittany Drive to Sterling Drive.  For the
+purposes and goals of this project, the older, 1-mile portion of Evers Boulevard from Bishop Boulevard
+to Brittany Drive was chosen to be the focus for all evaluations.
+
+On November 4, 2014 Laramie County voters renewed the Laramie County 1% Sales Tax.  Money for
+both the final engineering design and the reconstruction of Evers Boulevard will come from the 1% Sales
+Tax funds.
+
+Ayres Associates was hired to prepare the Evers Boulevard Rehabilitation 35% Design Plan.  The key
+issues to be addressed with the plan include the following:
+•
+Roadway improvements that create a safe and more inviting environment for pedestrians and
+bicyclists.
+•
+Safety improvements near Jessup Elementary School at the south end of the project.
+•
+Traffic improvements along the corridor that increase safety for vehicular travel.
+
+During the very early stages of this planning initiative it was identified that one of the main reasons the
+roadway was deteriorating was because of the poor storm water drainage along the corridor.  The
+planning effort was expanded such that the plan would:
+•
+Provide drainage improvements that decrease the amount of storm water on the surface of
+Evers Boulevard, make better use of the existing storm water culverts beneath Interstate 25,
+and remove all structures along the corridor from the 100-year effective floodplain.
+
+The Cheyenne Board of Public Utilities (BOPU) was involved throughout the planning effort because of
+their extensive facilities buried in the Evers Boulevard Corridor.  These facilities include dual sanitary
+sewer mains, a single water main from Sterling Drive to Ridgeland Street, and dual water mains from
+Ridgeland Street to Deer Avenue.   Maintaining dual pipe networks is not ideal and the existing
+infrastructure is aging.  Brad Brooks, Operations and Maintenance Manager for the BOPU, indicated that
+approximately $350,000 for design and $1.8 million for construction of the water and sanitary sewer
+improvements has been set aside in their Transportation Improvement Projects (TIP) list for fiscal year
+2015 and 2017 respectively, for the Evers Boulevard corridor.
+
+A project Steering Committee was formed to help guide the project.  The Steering Committee included:
+Nathan Beauheim, City Engineering; Frank Strong, BOPU; Brandon Cammarata, City Planning; Dennis
+Evers Boulevard Road Rehabilitation 35% Design
+
+1 | P a g e
+```
+
+### Page 6 of 26
+
+```text
+Auker, Laramie County School District #1 Planning and Construction Office; Tom Mason, MPO; Ed Fritz,
+Wyoming Department of Transportation Planning Department; Mike Vinson, City Engineering; Anna
+Lane, neighborhood resident; and Dr. Barbara Leiseth, Principal of Jessup Elementary School.  The
+Steering Committee met two times and was sent e-mail updates as the plan progressed.
+
+EXISTING CONDITIONS
+Existing Facilities
+Evers Boulevard is a two-lane collector roadway with
+bike lanes and adjacent parking for the extent of the
+study area.  The speed limit along the corridor is 30
+mph with a school zone speed reduction to 20 mph
+at Jessup Elementary on the south end of the
+corridor.  The majority of the intersections along the
+corridor are stop-controlled for the minor street;
+north of Silver Sage Avenue to Brittany Drive
+intersections are yield-controlled for the minor
+street.
+
+The corridor does not have consistent sidewalks
+throughout; there are a variety of sidewalk widths
+within the corridor, and the sidewalk is absent in
+some locations.  The corridor has one marked
+crosswalk on the north side of Creighton Street near
+Jessup Elementary school.
+
+Figure 2 - Existing Facilities
+Figure 1 - Evers Boulevard at Jessup
+Elementary School
+Evers Boulevard Road Rehabilitation 35% Design
+
+2 | P a g e
+```
+
+### Page 7 of 26
+
+```text
+Figure 3 - Evers Boulevard Corridor (not to scale)
+Evers Boulevard Road Rehabilitation 35% Design
+
+3 | P a g e
+```
+
+### Page 8 of 26
+
+```text
+Right-of-Way
+The existing right-of-way through the corridor is 80’ wide.  The existing street cross section consists of
+two 16’ travel lanes with a 5’ bike lane and 8’ parking on either side.  The sidewalk is inconsistent
+throughout; where present it varies from 3.5’ to 6’ in width.  The existing cross section does not use the
+entire right-of-way width.
+
+PUBLIC OUTREACH
+Ayres Associates worked with the Cheyenne MPO staff to conduct a comprehensive public outreach
+program for this project beginning in September 2014.  The outreach included conducting a corridor
+walk, distributing informational flyers and questionnaires at Jessup Elementary during morning drop-off,
+conducting a meeting with the Jessup Elementary PTO, placing informational posts and public opinion
+surveys on the City of Cheyenne’s MindMixer website, and holding a public open house.  The corridor
+walk and various meetings are detailed below.  Sign-in sheets, a summary of comments, and other
+public outreach documents are provided in Appendix A.
+
+Prior to Ayres Associates’ involvement with the Evers Boulevard Project, the City of Cheyenne held a
+meeting in June 2014 at Jessup Elementary School at the request of the residents along the corridor to
+discuss concerns with the storm water and drainage along the corridor.
+
+Corridor Walk
+A corridor walk was held on Saturday, September 13, 2014 from 9 a.m. – 12 p.m.  During the corridor
+walk, members from the project team went door-to-door on Evers Boulevard to talk with residents
+about their concerns and suggestions for improvements to the corridor.  All residents with property
+frontage along the corridor were contacted via U.S. mail alerting them of the corridor walk.  Along with
+being asked specific questions about the corridor, these residents were given the Evers Boulevard
+project MindMixer web site address and asked to look for updates on the site as the project progressed.
+A variety of comments were provided, which are summarized in Appendix A.  The comments that were
+received the most frequently included:
+1. Residents recognized there was significant flooding on the south end of Evers Boulevard.  This
+flooding has caused damages to the curb and gutter, sidewalk, and asphalt over time.
+2. Residents noted significant ice buildup on the pavement as well as on the sidewalk at the south
+end of Evers Boulevard near Jessup Elementary, making walking dangerous.
+3. Residents seem to enjoy the bike lanes that currently exist on the roadway and do not want that
+to change with a new design.
+4. Residents would like the drainage issues on Evers Boulevard addressed before any aesthetic
+aspects are included.  Drainage is the main concern, and if that cannot be fixed then residents do
+not want anything done to the roadway.
+5. Sidewalk width is too narrow.
+6. Speed of vehicles is a concern.
+
+Evers Boulevard Road Rehabilitation 35% Design
+
+4 | P a g e
+```
+
+### Page 9 of 26
+
+```text
+Figure 4 - Public Open House April 28, 2015
+Comment Forms: Jessup Elementary School
+Ayres Associates handed out comment forms for the Evers Boulevard project on September 24, 2014, at
+Jessup Elementary School during the morning drop-off period.  Those dropping off students were given
+comment forms and a brief explanation of the project goals.  All who received comment forms were
+encouraged to submit the filled-out forms so their input and concerns could be taken into consideration
+during design.  Additionally, the MindMixer web address for the project was provided.
+
+Meeting with Jessup Elementary PTO
+Ayres Associates attended the Jessup Elementary School PTO meeting October 8, 2014, to discuss the
+Evers Boulevard project.  A small presentation was made to the PTO group explaining the purpose,
+progress, and next steps for the project.  Comment forms were handed out to all PTO members present.
+Overall, the Jessup PTO had a general concern with the safety of students at Jessup Elementary School
+during pickup and drop-off times.
+
+Public Open House
+On April 28, 2015, an open house was held in the
+Jessup Elementary School cafeteria to present and
+review the Evers Boulevard project progress.  A
+series of exhibits was displayed throughout the
+space, including the following:
+•
+Tabulated results from questions asked via
+MindMixer as well as from the Corridor
+Walk.
+•
+Aerial display of the FEMA effective 100-
+year floodplain to reference which homes
+are currently in the regulatory floodplain
+•
+Cross sections for Evers Boulevard from Bishop
+Boulevard to Vandehei Avenue
+o Existing Cross Section
+o Cross Section with Proposed Bio-Swale
+•
+Cross sections for Evers Boulevard from Vandehei Avenue to Brittany Drive
+o Cross Section with 8’ Landscape Buffer
+o Cross Section with 2’ Stamped Concrete Buffer
+o Cross Section without Buffer
+•
+Rendering of Evers Boulevard at Jessup Elementary School with a bio-swale median
+•
+Aerial photograph of potential bio-swale locations along the corridor
+•
+Display of potential realignment of Deer Avenue
+•
+Display of safety improvements at Jessup Elementary School
+•
+Aerial display of the roadway collisions reported along Evers Boulevard
+•
+Existing turning movement counts at three intersections along the corridor
+
+Evers Boulevard Road Rehabilitation 35% Design
+
+5 | P a g e
+```
+
+### Page 10 of 26
+
+```text
+Approximately 100 people from the community attended the Open House. An informational
+presentation of the issues being addressed by the project and the progress thus far was conducted
+during the meeting.  The presentation was followed by a question-and-answer session, and attendees
+were given the opportunity to vote on specific aspects of the Evers Boulevard project.  The questions
+posed during the presentation along with the results collected are summarized below:
+
+Comment forms were handed out during the Open House.  The displays presented at the meeting are
+included in Appendix A.
+
+Interaction with Landowners
+Throughout the planning project several landowners contacted the City of Cheyenne, the MPO, and/or
+Ayres Associates directly to discuss their concerns about the project.  These interactions include the
+following:
+•
+Ayres Associates met with some of the homeowners and members of the North West
+Condominium Association to discuss the detention pond at the southwest corner of Bishop
+Boulevard and Evers Boulevard.
+•
+Ayres Associates, the MPO, and the City Engineer’s Office received letters from and met face-to-
+face with Kenneth and Pamela Moran to discuss their concerns with the proposed
+improvements for the project.
+•
+Ayres Associates corresponded via email with several interested residents including Brett Maret,
+Brant Christensen, Brianna Wheeler, Ed Heffern, and Dan Peel.
+Evers Boulevard Road Rehabilitation 35% Design
+
+6 | P a g e
+```
+
+### Page 11 of 26
+
+```text
+Figure 6 - Existing Drainage Issues at Deer Avenue
+and Evers Boulevard
+Figure 5 - Existing Narrow Sidewalks
+Along the Corridor
+PRELIMINARY CORRIDOR ANALYSIS
+To begin the project, the team conducted an analysis of the
+corridor to identify the items that needed addressing through
+this study.  Potential improvements identified in the
+preliminary analysis included:
+•
+Consider narrowing the roadway; the existing
+roadway is much wider than is necessary.
+•
+Widen sidewalks where currently present and add
+sidewalks in locations that are currently lacking.
+•
+Evers Boulevard is subject to flooding during both
+major and minor rainfall events; address the drainage
+issues and find solutions that will remove adjacent
+structures from the 100-year floodplain.
+•
+Provide a safer crossing alternative to the existing
+configuration at Jessup Elementary School.
+
+The improvements identified in the preliminary
+analysis must be contained within the existing 80
+foot right-of-way along Evers Boulevard in order
+to minimize the cost of the roadway
+reconstruction.  The existing roadway cross
+section does not use the full right-of-way width.
+Potential improvements may require widening
+the roadway footprint to the full right-of-way
+width.
+
+DATA COLLECTION
+A speed and traffic safety evaluation was conducted on Evers Boulevard from Bishop Boulevard to
+Brittany Drive.  Hi-Star traffic counters were used to collect speed and volume data along the corridor.
+Previously collected turning movement counts were provided by the MPO.  Recent crash data was
+obtained from the Wyoming Department of Transportation.  The complete traffic analysis is contained in
+Appendix B.  The following is a summary of the findings and conclusions:
+
+The following data was obtained from the spot speed study:
+•
+At the speed data location at Creighton Street northbound traffic is traveling at an 85th
+percentile speed of 21 mph, which is below the posted speed limit of 30 mph.  Southbound
+Evers Boulevard Road Rehabilitation 35% Design
+
+7 | P a g e
+```
+
+### Page 12 of 26
+
+```text
+traffic was traveling near the posted speed limit at an 85th percentile speed of 35 mph with
+13.4% of vehicles exceeding the speed limit.
+•
+At the speed location of Ranger Drive, southbound vehicles were traveling near the speed limit
+at an 85th percentile speed of 32 mph, and northbound vehicles were traveling under the posted
+speed limit at an 85th percentile speed of 24 mph.  Northbound traffic had 8.2% of vehicles
+exceeding the speed limit.
+•
+At the speed location of Rodeo Avenue both northbound and southbound traffic were traveling
+under the posted speed limit of 30 mph with 85th percentile speeds of 22 mph and 20 mph,
+respectively.  At this location, 5.5% of northbound vehicles and 4.6% of southbound vehicles
+were exceeding the speed limit.
+
+ The following conclusion was drawn from the spot speed study:
+•
+The average observed speeds from the spot speed study varied from 20 mph to 35 mph, with
+the higher speeds recorded on the lower portion of corridor, which is to be expected due to the
+vertical grade of the roadway.  Retaining the statutory speed limit of 30 mph, as currently
+posted throughout the corridor, is recommended.
+
+The following data was obtained from the crash history study:
+•
+Over the 5.5-year time period from January 1, 2009 to August 1, 2014, 19 crashes were
+reported within the study segment, resulting in an annual crash rate of 514 crashes per 100
+million vehicle miles traveled.
+•
+Of the 10 crashes reported, two were injury crashes.  No fatal crashes were recorded.
+•
+Five of the 10 crashes occurred during inclement weather conditions with either snow or ice
+reported on the roadway.
+
+There are no significant problem areas identified through the crash data analysis.  However, there is
+concern from residents along the corridor with the absence of stop signs at several intersections.  Stop
+signs are present on the minor approach at all intersections from Bishop Boulevard to Silver Sage
+Avenue.  North of Silver Sage Avenue all intersections are yield-controlled on the minor approach.  It is
+recommended that the existing yield signs from Rodeo Avenue to Brittany Drive be replaced with stop
+signs consistent with the rest of the corridor.
+
+The following data was obtained from the intersection capacity analysis:
+•
+The existing traffic conditions on Evers Boulevard at Vandehei Avenue, Oakhurst Drive, and
+Bishop Boulevard are all operating at an LOS B or better during both the AM and PM peak
+periods.
+•
+The 2017 forecasted conditions are expected to operate at an LOS B or better with the
+exception of westbound traffic on Vandehei during the PM peak, which is operating at an LOS C.
+The delay was increased from 12.3 seconds with existing traffic to 17.4 seconds with the
+projected traffic.
+Evers Boulevard Road Rehabilitation 35% Design
+
+8 | P a g e
+```
+
+### Page 13 of 26
+
+```text
+•
+The 2037 forecasted conditions have all movements operating at an LOS B or better with the
+exception of westbound vehicles at Vandehei during both the AM and PM peaks.  These
+movements are operating at an LOS C.  The delay during the PM peak further increased from
+17.4 seconds in 2017 to 24.3 seconds in 2037.  The AM peak period delay for westbound
+Vandehei increased from 14.3 seconds in 2017 to 17.5 seconds in 2037.
+
+There are no roadway capacity improvements, such as turn lanes, proposed for intersections along this
+corridor based on the level of service for future traffic volumes. The projected traffic volumes have all
+movements during the AM and PM peaks operating at an LOS C or better.  A LOS C or better is
+acceptable for all traffic operations.
+
+POTENTIAL IMPROVEMENTS
+Based on the results from the preliminary analysis and public outreach process a number of potential
+improvements were identified.
+•
+Improve sidewalk quality
+o Widen existing sidewalks and construct sidewalks where currently lacking.
+o Provide bulbouts at high pedestrian traffic intersections including Bishop Boulevard and
+Creighton Street.
+•
+ADA Accessibility
+o Sidewalks should have a cross slope no greater than 2%.  Many of the existing sidewalks
+have steep cross slopes at driveways and approaches.
+o Provide ADA ramps with detectable warning plates at all intersection corners.
+•
+Intersections
+o Realign skewed intersections whenever possible to provide better sight distance and
+increase the overall safety of the intersections.
+•
+Drainage
+o Increase storm water storage and conveyance capacity.
+•
+Crossings
+o Add additional crosswalks at Creighton Street for access to Jessup Elementary School.
+o Restrict parking near crosswalks to improve pedestrian visibility.
+
+DESIGN ALTERNATIVES
+
+Drainage Design Alternatives
+For many years Evers Boulevard has experienced flooding even during a minor storm event.  The only
+underground storm sewer collection system within this corridor is a single set of curb inlets between
+Deer Avenue and Bishop Boulevard.  These curb inlets, along with a single area drain behind the
+sidewalk, collect storm water and direct it underground to an existing 48-inch culvert crossing beneath
+Interstate 25 (I-25).  Storm water collected in that pipe network ultimately outfalls into Dry Creek on the
+east side of I-25.  A minor storm event along Evers Boulevard currently causes flooding in the gutters,
+Evers Boulevard Road Rehabilitation 35% Design
+
+9 | P a g e
+```
+
+### Page 14 of 26
+
+```text
+which often overtops the sidewalk.  A number of the structures in this corridor are within or adjacent to
+the FEMA-regulated floodplain.
+
+One of the initial goals of this project was to provide as much protection from a flood event as possible
+with $2 million worth of storm sewer improvements.  This goal was later refined to provide a storm
+sewer system that would remove all of the structures along Evers Boulevard, between Vandehei Avenue
+and Bishop Boulevard, from the 100-year event floodplain.  Complete details are contained within the
+drainage report, Appendix C.
+
+First Steps
+Ayres Associates explored two concepts that would provide a storm sewer system for greater flood
+protection to the Evers Boulevard corridor.  Each concept had an estimated construction cost of $2
+million.  Each concept was evaluated using EPA SWMM to analyze the storm sewer and HEC RAS to
+analyze the floodplain remaining on the roadway.  Existing ground topography was based on City of
+Cheyenne 1-foot aerial contours.  Proposed ground topography was based on a conceptual level
+proposed plan and profile generated by Ayres Associates as a part of this study.
+
+Concept 1: Normal Crown Roadway with Curb Inlets
+The first concept was a roadway with a normal crown section with inlets placed along the curb and
+draining to an underground storm sewer collection system.  A roadway with a normal crown means that
+the center of the roadway is at a higher elevation than the gutter such that storm water flows toward
+the gutter and then downhill to a curb inlet.  In this concept, storm water runoff is collected in curb
+inlets that are located at intervals such that storm water depths do not overtop the curb in a minor
+storm event.  A storm sewer trunk line is located under the roadway and ultimately conveys storm water
+under I-25 via two existing 60-inch equivalent storm sewer pipes, and discharges into Dry Creek.
+
+Concept 2: Inverted Crown Roadway with Median Bio-Swale.
+This concept was based on an inverted crown roadway section meaning that the elevation of the gutter
+is higher than the elevation at the center of the roadway; storm water flows toward a bio-swale located
+in the center of the roadway.  The bio-swale is a depression that collects storm water and directs it to an
+inlet located at the low point of the swale.  In a large storm event the bio-swale will also detain storm
+water until the storm sewer trunk line has the capacity to accept the runoff.  The bio-swale at the center
+of the right-of-way becomes the point of lowest elevation along the roadway such that storm water is
+further away from structures than in a normal crown roadway section.  A swale also is more efficient at
+collecting storm water because each inlet is located in a sump condition rather than collecting storm
+water as it flows over the inlet in the gutter.  To allow for turning movements at all side streets, the bio-
+swale was discontinued at intersections.  In these intersection locations the width of the swale, 12 feet,
+would be paved.
+Evers Boulevard Road Rehabilitation 35% Design
+
+10 | P a g e
+```
+
+### Page 15 of 26
+
+```text
+Figure 7 - Evers Boulevard Bio-Swale
+
+First Step Results – Concepts 1 and 2
+Both concepts reduced the amount of flooding expected in a 100-year event, but they did not remove all
+of the structures from the floodplain.  Each concept was generated to have an expected construction
+cost in storm sewer infrastructure improvements of $2 million.  This means that each concept had $2
+million worth of inlets, pipe laterals, trunk line pipe, and manholes.
+
+Concept 1, with curb inlets, requires more inlet boxes and pipe laterals than Concept 2, with the bio-
+swale.  Therefore, Concept 1, with curb inlets, does not have as much large diameter storm sewer trunk
+line pipe as more money was needed for inlets and laterals.  For this reason, Concept 2, the swale
+option, reduced the width of the floodplain along the corridor as this system had greater capacity due to
+the large diameter storm sewer trunk line pipe.  However, the total cost of the roadway improvements,
+including paving, bio-swale components, and storm sewer improvements, cost more for Concept 2
+because of the increased amount of paving at each side street location where the swale was
+discontinued to allow for turning movements.
+
+Second Step – Concept 3
+Ayres Associates was directed to provide a solution that would remove all structures along Evers
+Boulevard, from Vandehei Avenue to Bishop Boulevard, from the 100-year floodplain.  In this step the
+storm sewer improvements would not be held to an estimated construction cost of $2 million.
+This was accomplished by combining Concepts 1 and 2.  Between Vandehei Avenue and Creighton
+Street, the roadway would be constructed as a normal crown section with inlets placed in the gutter at
+the curb.  A bio-swale at the center of the roadway would be constructed between Creighton Street and
+Evers Boulevard Road Rehabilitation 35% Design
+
+11 | P a g e
+```
+
+### Page 16 of 26
+
+```text
+Bishop Boulevard.  This combined concept places the bio-swale at the existing sump location of the
+corridor – the location which has the deepest standing water during a rainfall event.  The bio-swale at
+the sump provides a place to store runoff until the trunk line has the capacity to accept the flow.
+
+Concept 3 Results
+This concept appears to remove all structures from the 100-year floodplain at a conceptual construction
+cost estimate of $2.3 million worth of drainage improvements including inlets, pipe laterals, trunk line
+pipe, and manholes.  It should be noted that two structures on the east side of Evers Boulevard, just
+south of Vandehei Avenue (779 Vandehei Avenue and 6835 Evers Boulevard) appear to be very close to
+the limits of the conceptual floodplain.  It is recommended that threshold elevations of these structures
+and existing ground topographic data be collected as part of the final engineering design for this corridor
+and that the floodplain be evaluated using final design topography and storm sewer design to ensure
+that all structures will be out of the floodplain.
+
+Roadway Design Alternatives
+Evers Boulevard between Brittany Drive and Bishop Boulevard is currently 60 feet wide from back of
+curb to back of curb.  The travel lanes, one in each direction, are 16 feet wide.  Wider streets tend to
+encourage higher vehicle speeds.  Wider streets are also costlier to maintain because of the additional
+pavement.  Evers Boulevard is classified as a Collector roadway from Bishop Boulevard to Oakhurst
+Drive; it is classified as a local street from Oakhurst Drive to Brittany Drive.  On-street parking is
+permitted along the entire corridor with the exception of the no parking zone adjacent to the existing
+crosswalk at Jessup Elementary School.  The corridor has a dedicated on-street bicycle lane from Deer
+Avenue to Oakhurst Drive.  The block between Oakhurst Drive and Brittany Drive is a Bicycle Route
+without a painted bicycle lane.
+
+The City of Cheyenne Unified Development Code classifies Collector roadways as Types A, B, and C.  A
+Type A Collector has no on-street parking; a Type B Collector has no on-street parking with a center turn
+lane; a Type C Collector has on-street parking.  Evers Boulevard is a collector roadway in a residential
+neighborhood with on-street parking.  This corridor is a Type C Collector roadway.  In accordance with
+the Unified Development Code, a typical Type C Collector has two 11-foot travel lanes and an 11-foot-
+wide parking lane that is also a shared bike lane.  Further, a Type C Collector has an 8-foot tree lawn and
+5-foot sidewalks.
+
+Bicycle Provisions
+The existing cross section has a dedicated on-street bicycle lane that is 5-feet-wide.  Public comments
+received indicated that this bicycle lane is heavily used by riders of all abilities.  Many riders use this
+bicycle lane to access Jessup Elementary School as well as a route to the I-25 overpass to access
+McCormick Junior High school, Central High School, and the Dry Creek Greenway.  A shared
+bicycle/parking lane is permitted on a Type C Collector.  Type A and B Collector standards require a 6-
+foot bike lane.  The AASHTO (1999) Guide for the Development of Bicycle Facilities, recommends a
+Evers Boulevard Road Rehabilitation 35% Design
+
+12 | P a g e
+```
+
+### Page 17 of 26
+
+```text
+minimum bike lane width of 5 feet.  Where parking is permitted adjacent to a bicycle lane, and parking
+turnover is high, wider bicycle lanes are desirable.  Parking turnover is high adjacent to Jessup
+Elementary School during drop off and pick up times.  A 6-foot bike lane is recommended for Evers
+Boulevard.
+
+Figure 8 - Proposed Normal Crown Street Section
+
+Sidewalks
+Sidewalk width varies along Evers Boulevard from 3.5-feet-wide to 6-feet-wide.  In some locations there
+is no sidewalk.  Comments from the public outreach efforts indicate that some residents believe that the
+existing sidewalk width is adequate, while others believe that the sidewalk is too narrow.  Observations
+were made during site visits where several people were walking in the roadway rather than on the
+sidewalk.  The Unified Development Code requires a 5 foot sidewalk and a 6 foot tree lawn for a Type C
+Collector.  The older homes along this corridor were built in the 1950’s.  Many of the homes have
+established landscaping that consists of large diameter trees.  A tree lawn between the roadway and the
+sidewalk would adversely affect many of the established trees.  Where a tree lawn is not provided and
+the sidewalk is placed adjacent to the curb, the Unified Development Code requires a 6 foot wide
+sidewalk.  A 6-foot sidewalk placed adjacent to the curb is recommended for Evers Boulevard.
+
+Gateway Entrance - Center Median and Bio-Swale
+During the early public involvement phase of this project, the corridor walk and MindMixer surveys, the
+public was asked if they would like to see a gateway entrance into the Western Hills neighborhood such
+as more green area or a median.  Most of the feedback indicated that a median was not desired for
+strictly beautification purposes.  Comments were made suggesting that the money could be better spent
+addressing more pressing issues such as drainage.  For this reason a raised center landscape median was
+not considered.
+
+A swale median provides a place to store storm sewer runoff during a storm event, as previously
+discussed.  A bio-swale is a storm water runoff conveyance system that is designed to improve water
+quality by filtering large storm flows.  The bio-swale considered for the Evers Boulevard corridor has a
+cobble lined channel rather than a concrete channel.  The cobbles act as a filter for sediment.  The side
+slopes of a bio-swale are made up of natural grasses that do not require regular watering.
+Evers Boulevard Road Rehabilitation 35% Design
+
+13 | P a g e
+```
+
+### Page 18 of 26
+
+```text
+Schizachryium scoparium, Little bluestem, has been considered for this planting area because it is
+tolerant of drought and poor soils.  Tolerance to poor soils is imperative because of the substances that
+will flow into the bio-swale during a storm event.  These substances can include salt, sand, oil, and
+fertilizer, to name a few.  Little bluestem is also tolerant of short-duration flooding that will occur during
+a large storm event as storm water is retained in the bio-swale until the storm sewer trunk line has the
+capacity to accept the water in the swale.
+
+Figure 9 – Proposed Street Section with Bio-Swale
+
+Maintenance and construction of the
+bio-swale should be considered during
+final design.  The bio-swale will not
+function properly as part of the storm
+sewer system if snow is plowed into the
+bio-swale.  Snow plowing is to be done
+such that the snow is directed toward
+the curb, as is typical within the City of
+Cheyenne. When snow melts from these
+piles it will be directed across the
+roadway and into the bio-swale.  The
+bio-swale is to be designed such that
+infiltration of storm water into the
+surrounding ground does not adversely
+affect the adjacent roadway pavement.
+Maintenance will be required for the
+plant material in the bio-swale.  A plant
+material such as Little bluestem needs to
+be trimmed once a year and may require
+occasional weeding depending on the
+density it is planted at.  Storm sewer
+inlets will be located at the bottom of
+the bio-swale.  Periodic maintenance of
+the inlets will be required, as with any
+Figure 10 - Bio-Swale Locations
+Evers Boulevard Road Rehabilitation 35% Design
+
+14 | P a g e
+```
+
+### Page 19 of 26
+
+```text
+storm sewer inlet, to ensure that the inlet is not blocked with trash and debris such that its capacity is
+diminished during a storm event.  Inlets at the bottom of the swale are to be a riser type or similar that
+will continue to accept storm water when debris, snow, or ice is present in the bio-swale.
+
+Consideration should be given in the final design of the bio-swale to alert drivers of its presence.  A curb
+head cannot surround the bio-swale because it will only function as a swale if runoff is allowed to freely
+flow into it.  The cross section of Evers Boulevard at the bio-swale contains a ribbon curb, a 2-foot-wide
+strip of concrete paving between the travel lane and the edge of the bio-swale.  This concrete strip
+adjacent to black asphalt paving acts as a visual indicator to drivers to define the limits of the travel way.
+
+During adverse weather conditions drivers may not be able to see the roadway clearly.  Other indicators
+or warning measures can be taken to alert drivers to the swale such as tubular markers and rumble
+strips ground into the concrete strip.  The bio-swale will terminate at all intersection locations to allow
+for turning movements at the side streets.  Concrete noses placed at the ends of the swale will provide a
+physical barrier as well as a visual indicator as to the limits of the bio-swale.
+
+A bio-swale at the center of the roadway will prohibit left turning movements out of adjacent
+properties.  There are two single-family residential properties adjacent to the proposed bio-swale
+between Creighton Street and Bishop Boulevard.  With the proposed storm sewer improvement these
+two single-family residential properties will receive the benefit of being removed from the 100-year
+floodplain.  Additionally there are two alley accesses, and one access to a condominium complex
+adjacent to the proposed bio-swale.
+
+Evers Boulevard Road Rehabilitation 35% Design
+
+15 | P a g e
+```
+
+### Page 20 of 26
+
+```text
+Intersection Improvement Alternatives
+Two existing intersections meet Evers Boulevard at undesirable angles.  These intersections are Ranger
+Drive and Deer Avenue, both on the west side of Evers Boulevard.  Ideally intersections intersect at or
+close to ninety degrees, which allows for a better view of oncoming traffic and reduces the crossing
+distance for pedestrians.
+
+Ranger Drive
+Ranger Drive intersects Evers Boulevard at a 48-degree angle.
+
+Figure 11 - Ranger Drive Existing Alignment
+
+Ranger Drive has a 60 foot right-of-way.  Given the right-of-way constraints, reconfiguring the
+intersection to 90 degrees within the existing right-of-way will not result in an improvement to the
+configuration.
+
+Evers Boulevard Road Rehabilitation 35% Design
+
+16 | P a g e
+```
+
+### Page 21 of 26
+
+```text
+Figure 12 - Existing Deer Avenue Alignment
+Deer Avenue
+Deer Avenue intersects Evers Boulevard at a 32-degree angle.
+
+Figure 13 - Deer Avenue Realignment
+
+Deer Avenue has an 80 foot right-of-way, which allows room to reconfigure the intersection within the
+existing right-of-way.  Reconfiguring the intersection to the design shown in Figure 12 reduces the
+pedestrian crossing distance from 112 feet to 45 feet.  The proposed centerline radius is only 42.6 feet
+as Deer Avenue approaches Evers Boulevard.  This is a less than desirable centerline radius.  However,
+this is a low volume, low speed urban roadway approaching a stop controlled tee intersection.
+
+Safety Improvements Near Jessup Elementary School
+Current conditions have a single crosswalk at the north corner of Creighton Street to Jessup Elementary
+School on the east side of Evers Boulevard.  The school zone has speed reduction flashers including back
+flashers.  During drop-off and pick-up times there are many vehicles parked on both sides of Evers
+Boulevard.  Frequently students cross Evers Boulevard at the south corner of Creighton Street rather
+than crossing Creighton Street and then using the crosswalk to cross Evers Boulevard.  The only on-
+street parking restrictions are a yellow painted curb approaching the crosswalk and a single “No
+Parking” sign.  Vehicles often crowd this no parking area during peak times.
+
+Evers Boulevard Road Rehabilitation 35% Design
+
+17 | P a g e
+```
+
+### Page 22 of 26
+
+```text
+Figure 14 - Jessup Elementary School at Morning Drop-off
+Figure 15 - Proposed Jessup Curb Extensions
+
+The Wyoming Department of
+Transportation’s Pedestrian and School
+Traffic Control Manual, January 2014,
+recommends that roads with on-street
+parallel parking restrict parking 50 feet in
+advance of the crosswalk and 20 feet
+beyond the crosswalk (section 2.14, p.21).
+Parking restrictions can be done with
+signage and curb markings or physical
+barriers.  Installing curb extensions at the
+intersection corners will narrow the
+roadway and remove the on-street parking
+lane.  Likewise, a curb extension on the east
+side of Evers Boulevard, opposite of
+Creighton Street, will narrow the roadway
+and remove the on-street parking lane
+between the two crosswalks, 50 feet in
+advance of the crosswalk, and 20 feet
+beyond the crosswalk.  Eliminating on-street
+parking in this manner will improve sight
+distance at the crossing locations for both the
+pedestrians and drivers.
+
+Evers Boulevard Road Rehabilitation 35% Design
+
+18 | P a g e
+```
+
+### Page 23 of 26
+
+```text
+Jessup Elementary School is one of several elementary schools in Laramie County School District
+Number One (LCSD#1) scheduled to be reconstructed.  No time frame has been given for this work;
+funding and timing will be determined by the School Facilities Department and LCSD#1.
+
+Observations of student pedestrian traffic show that many students are crossing Evers Boulevard at
+Bishop Boulevard.  There is an existing pedestrian bridge over I-25 north of McCormick Junior High
+School and Central High School, and south of Jessup Elementary School.  Many students were observed
+using this pedestrian bridge and walking north on Bishop Boulevard across Evers Boulevard.  Bulbouts
+and a marked crosswalk at this location would make this a dedicated pedestrian crossing.
+
+CONCLUSION
+Goals of the Evers Boulevard Corridor included:
+•
+Improving pedestrian safety
+•
+Creating a street cross section that is appropriate and desirable for this gateway collector street
+into Western Hills
+•
+Addressing storm water drainage by providing a system to convey storm water keeping it from
+ponding on the pavement for frequent storm events; and by narrowing the existing 100-year
+floodplain through the corridor where feasible given budget and hydraulic constraints
+
+Recommended Street Cross-Sections
+a. Brittany Drive to Creighton Street
+Between Brittany Drive and Creighton Street it is recommended to construct Evers Boulevard
+with two 11-foot travel lanes, two 6-foot bike lanes, two 8-foot parking lanes, and attached 6-
+foot wide sidewalks; a 51-foot back of curb to back of curb roadway width.  This improvement
+will more closely resemble the Collector roadway section in the City of Cheyenne Unified
+Development Code and is expected to enhance pedestrian safety, promote walkability, and
+reduce the average vehicle speeds by narrowing the available driving width from the current 16-
+foot wide travel lane.  Dedicated bike lanes are recommended rather than a joint parking/bike
+lane for the entire corridor due to the existing dedicated bike lane.  No additional right-of-way
+will be required for this street section.
+
+Providing a buffer between pedestrians and traffic is desirable for a walkable corridor.  The City
+of Cheyenne Unified Development Code recommends placing an 8-foot tree lawn/landscape
+buffer between the back of curb and the sidewalk.  The recommended cross section provides 14
+and a half feet between the edge of the sidewalk and the edge of the vehicle travel lane, in the
+form of a parking lane and a bicycle lane.  Additionally, many of the homes in this corridor were
+constructed over 50 years ago and as such have established large trees and well maintained
+landscaping.  For these reasons a tree lawn/landscape buffer is not recommended between the
+back of curb and the sidewalk.  A 6-foot wide sidewalk is recommended where no tree
+lawn/landscape buffer is provided, as in this case.
+
+Evers Boulevard Road Rehabilitation 35% Design
+
+19 | P a g e
+```
+
+### Page 24 of 26
+
+```text
+Between Brittany Drive and Creighton Street the proposed roadway would have a normal crown
+section with surface water draining away from the center of the roadway and towards the
+gutter section.  Curb inlets would be located in the gutter.
+
+b. Creighton Street to Bishop Boulevard
+Between Creighton Street and Bishop Boulevard it is recommended to construct a bio-swale
+centered within the roadway section.    The proposed bio-swale would be 12-feet-wide with a 2-
+foot ribbon curb on either side to create distance between the travel lane and the swale.  All
+other aspects of the roadway cross section, including lane widths and configuration, would
+match the Brittany Drive to Creighton Street recommendations.  The Creighton Street to Bishop
+Boulevard section will have a 67-foot back of curb to back of curb width.  No additional right-of-
+way will be required for this street section.
+
+Drainage
+A pavement drainage analysis was completed from just north of Vandehei Avenue to the existing inlet
+vault south of Western Hills Boulevard at Bishop Boulevard.  The drainage report is located in Appendix
+C.  It is recommended that a traditional roadway, with a normal crown section draining toward the
+gutter, be constructed from Vandehei Avenue to Creighton Street.  Inlet configuration and spacing shall
+be as recommended in the Drainage Design Report.  Storm water collected in the inlets will be directed
+to a large diameter storm sewer and ultimately directed to multiple existing large diameter culverts
+crossing beneath I-25.
+
+Beginning just south of Creighton Street it is recommended that the crown of the roadway be inverted
+such that storm water drains to the center of the roadway.  Between Creighton Street and Bishop
+Boulevard a bio-swale with inlets at the low points is recommended which would provide a location to
+capture storm water and store it until the storm sewer trunk line has the capacity to discharge the storm
+water into Dry Creek.  The bio-swale at the center of the right-of-way would become the point of lowest
+elevation along the roadway such that floodwater would be further away from the structures than with
+a normal crown roadway section.
+
+Traffic & Safety
+To increase pedestrian visibility and provide a safer crossing of Evers Boulevard at Jessup Elementary
+School, it is recommended that bulbouts be installed on both the east and west sides of Evers Boulevard
+to shorten the crossing distance.  A painted crosswalk is recommended on both corners of Creighton
+Street.  On the Jessup Elementary School side of Evers Boulevard a curb extension is recommended
+beginning 50 feet before the crosswalk and extending to 20 feet after the crosswalk.  The curb extension
+provides an area where parking is not allowed creating more visibility for pedestrians using the
+crosswalk.
+
+Evers Boulevard Road Rehabilitation 35% Design
+
+20 | P a g e
+```
+
+### Page 25 of 26
+
+```text
+It is recommended that the intersection of Deer Avenue and Evers Boulevard be reconfigured to a 90-
+degree intersection.  This would allow for a better view of oncoming traffic and reduce the crossing
+distance for pedestrians.
+
+It is recommended that turn warning signs and advisory speed plaques be placed at two horizontal
+curves within the corridor, between Silver Sage Avenue and Ranger Drive.
+
+Evers Boulevard Road Rehabilitation 35% Design
+
+21 | P a g e
+```
+
+### Page 26 of 26
+
+```text
+STA 39+50.00
+MATCHLINE
+SEE SHEET PP-9
+STA 39+50.00
+MATCHLINE
+SEE SHEET PP-8
+VANDEHEI
+AVENUE
+RANGER DRIVE
+HIRST STREET
+GOLDEN HILL STREET
+EVERGREEN STREET
+RIDGELAND STREET
+CREIGHTON STREET
+CREIGHTON STREET
+RIDGELAND STREET
+EVERGREEN STREET
+GOLDEN HILL STREET
+RANGER DRIVE
+DEER AVENUE
+JESSUP
+ELEMENTARY
+SCHOOL
+BISHOP BOULEVARD
+INTERSTATE 25
+VANDEHEI
+AVENUE
+DOGWOOD AVENUE
+DOGWOOD AVENUE
+SILVER SAGE AVENUE
+RODEO AVENUE
+OAKHURST DRIVE
+BRITTANY DRIVE
+ALDER
+COURT
+0
+300'
+600'
+SCALE: 1" = 300'
+150'
+Figure 16 - Evers Boulevard Overview Map
+```

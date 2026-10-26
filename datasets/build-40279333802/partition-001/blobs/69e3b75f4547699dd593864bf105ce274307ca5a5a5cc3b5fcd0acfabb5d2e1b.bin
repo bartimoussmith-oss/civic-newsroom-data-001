@@ -1,0 +1,9421 @@
+# Appendices (large file), part 3 of 3
+
+*City Council — Monday, December 28, 2015. Original: [1451289600Dec 28, 2015 - City Council Meeting - Appendices (large file) - Appendices (large file).pdf](https://github.com/therealwindycity/cheyenne-archives-2014-2017/blob/main/1451289600Dec%2028%2C%202015%20-%20City%20Council%20Meeting/Supporting_Documents/1451289600Dec%2028%2C%202015%20-%20City%20Council%20Meeting%20-%20Appendices%20%28large%20file%29%20-%20Appendices%20%28large%20file%29.pdf)*
+
+[← document overview](appendices-large-file.md) · [← part 2](appendices-large-file.part2.md)
+
+---
+
+### Page 283 of 359
+
+```text
+Node Depth Summary
+
+Maximum
+
+Average
+
+Maximum
+
+Maximum
+
+Day of
+
+Hour of
+
+Reported
+
+Depth
+
+Depth
+
+HGL
+
+Maximum
+
+Maximum
+
+Depth
+Node
+Type
+Feet
+Feet
+Feet
+Depth
+Depth
+Feet
+AboveCreighton
+JUNCTION
+0.12
+0.26
+6170.26
+0
+00:30
+0.26
+AboveVandeheiFlows
+JUNCTION
+0.19
+0.37
+6210.37
+0
+00:30
+0.37
+BelowEvergreen
+JUNCTION
+0.20
+0.44
+6170.44
+0
+00:30
+0.43
+BelowRanger
+JUNCTION
+0.20
+0.38
+6185.38
+0
+00:30
+0.38
+BishopSump
+JUNCTION
+0.19
+0.44
+6156.44
+0
+00:30
+0.44
+Junction01
+JUNCTION
+2.80
+7.70
+6145.86
+0
+00:50
+7.70
+Junction02
+JUNCTION
+2.80
+10.45
+6151.31
+0
+00:51
+10.45
+Junction03
+JUNCTION
+1.57
+4.95
+6163.13
+0
+00:51
+4.95
+Junction04
+JUNCTION
+2.23
+7.85
+6178.19
+0
+00:28
+7.21
+Riser-01
+JUNCTION
+2.76
+8.45
+6147.04
+0
+00:50
+8.45
+Riser-02
+JUNCTION
+2.96
+9.37
+6148.21
+0
+00:50
+9.37
+Riser-03
+JUNCTION
+2.83
+9.93
+6149.66
+0
+00:50
+9.93
+Riser-04
+JUNCTION
+2.43
+9.47
+6153.27
+0
+00:51
+9.47
+Riser-05
+JUNCTION
+2.60
+9.73
+6153.93
+0
+00:51
+9.73
+Riser-06
+JUNCTION
+2.87
+10.34
+6155.34
+0
+00:50
+10.34
+Riser-07
+JUNCTION
+2.82
+10.54
+6156.34
+0
+00:50
+10.54
+Concept 3
+SWMM 5.1
+Page 1
+```
+
+### Page 284 of 359
+
+```text
+Maximum
+
+Average
+
+Maximum
+
+Maximum
+
+Day of
+
+Hour of
+
+Reported
+
+Depth
+
+Depth
+
+HGL
+
+Maximum
+
+Maximum
+
+Depth
+Node
+Type
+Feet
+Feet
+Feet
+Depth
+Depth
+Feet
+Riser-08
+JUNCTION
+2.72
+10.57
+6157.57
+0
+00:50
+10.57
+Riser-09
+JUNCTION
+2.87
+11.00
+6158.70
+0
+00:51
+11.00
+Riser-10
+JUNCTION
+2.58
+10.54
+6160.42
+0
+00:51
+10.54
+Riser-11
+JUNCTION
+2.12
+8.98
+6161.22
+0
+00:51
+8.98
+Riser-12
+JUNCTION
+1.90
+7.45
+6162.01
+0
+00:51
+7.45
+Riser-13
+JUNCTION
+1.55
+5.71
+6162.57
+0
+00:51
+5.71
+Riser-14
+JUNCTION
+2.52
+7.38
+6168.24
+0
+00:28
+7.29
+Riser-15
+JUNCTION
+2.17
+7.50
+6173.12
+0
+00:28
+6.88
+Riser-15a
+JUNCTION
+2.24
+7.45
+6170.68
+0
+00:28
+7.09
+Riser-16
+JUNCTION
+2.27
+7.90
+6175.22
+0
+00:28
+7.18
+Riser-17
+JUNCTION
+2.23
+7.88
+6177.02
+0
+00:28
+7.23
+Riser-18
+JUNCTION
+2.11
+8.22
+6180.01
+0
+00:28
+7.35
+Riser-19
+JUNCTION
+1.93
+8.29
+6181.29
+0
+00:28
+7.00
+Riser-20
+JUNCTION
+1.88
+10.27
+6186.90
+0
+00:28
+6.53
+Riser-21
+JUNCTION
+2.18
+8.16
+6185.94
+0
+00:28
+7.43
+Riser-22
+JUNCTION
+2.55
+8.62
+6187.20
+0
+00:28
+8.47
+Riser-23
+JUNCTION
+2.09
+7.63
+6188.76
+0
+00:30
+7.63
+Concept 3
+SWMM 5.1
+Page 2
+```
+
+### Page 285 of 359
+
+```text
+Maximum
+
+Average
+
+Maximum
+
+Maximum
+
+Day of
+
+Hour of
+
+Reported
+
+Depth
+
+Depth
+
+HGL
+
+Maximum
+
+Maximum
+
+Depth
+Node
+Type
+Feet
+Feet
+Feet
+Depth
+Depth
+Feet
+Riser24
+JUNCTION
+2.06
+7.31
+6189.47
+0
+00:30
+7.27
+SS-EX
+JUNCTION
+2.07
+4.65
+6142.54
+0
+00:50
+4.65
+Street01
+JUNCTION
+0.00
+0.00
+6145.10
+0
+00:00
+0.00
+Street02
+JUNCTION
+1.93
+9.10
+6155.10
+0
+00:50
+9.10
+Street03
+JUNCTION
+2.03
+9.59
+6156.39
+0
+00:50
+9.59
+Street04
+JUNCTION
+0.12
+0.96
+6157.16
+0
+00:48
+0.96
+Street05
+JUNCTION
+0.11
+0.96
+6158.36
+0
+00:47
+0.96
+Street06
+JUNCTION
+1.75
+9.92
+6160.80
+0
+00:46
+9.92
+Street07
+JUNCTION
+1.92
+9.64
+6162.88
+0
+00:45
+9.64
+Street08
+JUNCTION
+0.13
+0.94
+6165.04
+0
+00:44
+0.94
+Street09
+JUNCTION
+2.36
+9.59
+6168.77
+0
+00:44
+9.59
+Street10
+JUNCTION
+1.95
+9.21
+6171.07
+0
+00:44
+9.21
+Street11
+JUNCTION
+0.12
+0.92
+6174.62
+0
+00:43
+0.92
+Street12
+JUNCTION
+1.51
+7.52
+6177.66
+0
+00:38
+7.52
+Street13
+JUNCTION
+2.16
+7.57
+6178.91
+0
+00:36
+7.56
+Street14
+JUNCTION
+0.07
+0.61
+6181.71
+0
+00:37
+0.61
+Street15
+JUNCTION
+1.66
+10.38
+6189.16
+0
+00:34
+10.38
+Concept 3
+SWMM 5.1
+Page 3
+```
+
+### Page 286 of 359
+
+```text
+Maximum
+
+Average
+
+Maximum
+
+Maximum
+
+Day of
+
+Hour of
+
+Reported
+
+Depth
+
+Depth
+
+HGL
+
+Maximum
+
+Maximum
+
+Depth
+Node
+Type
+Feet
+Feet
+Feet
+Depth
+Depth
+Feet
+Street16
+JUNCTION
+1.34
+2.26
+6189.46
+0
+00:35
+2.26
+Street17
+JUNCTION
+1.36
+7.39
+6189.52
+0
+00:34
+7.39
+Street18
+JUNCTION
+2.14
+8.26
+6191.42
+0
+00:30
+8.26
+SubBasin20
+JUNCTION
+0.18
+0.37
+6200.37
+0
+00:30
+0.37
+Out1-48inch
+OUTFALL
+0.42
+3.05
+6148.92
+0
+00:51
+3.05
+Outlet_Channel
+OUTFALL
+2.06
+4.65
+6141.53
+0
+00:51
+4.65
+Pond
+STORAGE
+0.71
+5.88
+6151.95
+0
+00:51
+5.88
+Concept 3
+SWMM 5.1
+Page 4
+```
+
+### Page 287 of 359
+
+```text
+Node Inflow Summary
+
+Maximum
+
+Maximum
+
+Lateral
+
+Total
+
+Flow
+
+Lateral
+
+Total
+
+Day of
+
+Hour of
+
+Inflow
+
+Inflow
+
+Balance
+
+Inflow
+
+Inflow
+
+Maximum
+
+Maximum
+
+Volume
+
+Volume
+
+Error
+Node
+Type
+CFS
+CFS
+Inflow
+Inflow
+10^6 gal
+10^6 gal
+Percent
+AboveCreighton
+JUNCTION
+56.00
+56.00
+0
+00:30
+1.88
+1.88
+0.020
+AboveVandeheiFlows
+JUNCTION
+179.99
+179.99
+0
+00:30
+7.07
+7.07
+0.009
+BelowEvergreen
+JUNCTION
+94.00
+94.00
+0
+00:30
+3.27
+3.27
+0.019
+BelowRanger
+JUNCTION
+110.00
+110.00
+0
+00:30
+4.44
+4.44
+0.007
+BishopSump
+JUNCTION
+70.00
+70.00
+0
+00:30
+2.26
+2.26
+0.032
+Junction01
+JUNCTION
+0.00
+461.27
+0
+00:51
+0
+22.2
+0.017
+Junction02
+JUNCTION
+0.00
+562.62
+0
+00:51
+0
+24.1
+0.008
+Junction03
+JUNCTION
+0.00
+354.55
+0
+00:32
+0
+18.3
+0.002
+Junction04
+JUNCTION
+0.00
+284.54
+0
+00:32
+0
+15.2
+-0.000
+Riser-01
+JUNCTION
+0.00
+461.27
+0
+00:51
+0
+22.2
+0.002
+Riser-02
+JUNCTION
+0.00
+461.26
+0
+00:51
+0
+22.2
+0.006
+Riser-03
+JUNCTION
+0.00
+461.26
+0
+00:51
+0
+22.2
+0.004
+Riser-04
+JUNCTION
+0.00
+462.23
+0
+00:30
+0
+22
+0.002
+Riser-05
+JUNCTION
+0.00
+462.29
+0
+00:31
+0
+22
+0.001
+Riser-06
+JUNCTION
+0.00
+462.33
+0
+00:31
+0
+22.4
+0.003
+Riser-07
+JUNCTION
+0.00
+443.57
+0
+00:27
+0
+22.2
+0.001
+Concept 3
+SWMM 5.1
+Page 1
+```
+
+### Page 288 of 359
+
+```text
+Maximum
+
+Maximum
+
+Lateral
+
+Total
+
+Flow
+
+Lateral
+
+Total
+
+Day of
+
+Hour of
+
+Inflow
+
+Inflow
+
+Balance
+
+Inflow
+
+Inflow
+
+Maximum
+
+Maximum
+
+Volume
+
+Volume
+
+Error
+Node
+Type
+CFS
+CFS
+Inflow
+Inflow
+10^6 gal
+10^6 gal
+Percent
+Riser-08
+JUNCTION
+0.00
+418.39
+0
+00:39
+0
+20.7
+0.004
+Riser-09
+JUNCTION
+0.00
+418.39
+0
+00:39
+0
+20.7
+0.004
+Riser-10
+JUNCTION
+0.00
+418.39
+0
+00:38
+0
+20.7
+0.000
+Riser-11
+JUNCTION
+0.00
+402.13
+0
+01:10
+0
+20.3
+0.002
+Riser-12
+JUNCTION
+0.00
+357.20
+0
+01:10
+0
+18.3
+0.000
+Riser-13
+JUNCTION
+0.00
+353.45
+0
+00:37
+0
+18.3
+0.003
+Riser-14
+JUNCTION
+0.00
+309.55
+0
+00:32
+0
+15.8
+0.002
+Riser-15
+JUNCTION
+0.00
+299.54
+0
+00:32
+0
+15.6
+0.002
+Riser-15a
+JUNCTION
+0.00
+299.54
+0
+00:32
+0
+15.6
+0.002
+Riser-16
+JUNCTION
+0.00
+299.54
+0
+00:32
+0
+15.6
+0.002
+Riser-17
+JUNCTION
+0.00
+299.54
+0
+00:32
+0
+15.6
+0.001
+Riser-18
+JUNCTION
+0.00
+229.54
+0
+00:32
+0
+11.6
+0.002
+Riser-19
+JUNCTION
+0.00
+229.54
+0
+00:32
+0
+11.6
+0.001
+Riser-20
+JUNCTION
+0.00
+241.90
+0
+00:28
+0
+11.6
+0.001
+Riser-21
+JUNCTION
+0.00
+241.84
+0
+00:28
+0
+11.6
+-0.000
+Riser-22
+JUNCTION
+0.00
+235.42
+0
+00:28
+0
+11.2
+0.003
+Riser-23
+JUNCTION
+0.00
+235.60
+0
+00:28
+0
+11.2
+-0.000
+Concept 3
+SWMM 5.1
+Page 2
+```
+
+### Page 289 of 359
+
+```text
+Maximum
+
+Maximum
+
+Lateral
+
+Total
+
+Flow
+
+Lateral
+
+Total
+
+Day of
+
+Hour of
+
+Inflow
+
+Inflow
+
+Balance
+
+Inflow
+
+Inflow
+
+Maximum
+
+Maximum
+
+Volume
+
+Volume
+
+Error
+Node
+Type
+CFS
+CFS
+Inflow
+Inflow
+10^6 gal
+10^6 gal
+Percent
+Riser24
+JUNCTION
+0.00
+229.53
+0
+00:22
+0
+10.8
+-0.000
+SS-EX
+JUNCTION
+0.00
+467.96
+0
+00:51
+0
+22.2
+0.030
+Street01
+JUNCTION
+0.00
+0.00
+0
+00:00
+0
+0
+0.000
+Street02
+JUNCTION
+0.00
+168.69
+0
+00:50
+0
+2.18
+-0.000
+Street03
+JUNCTION
+0.00
+156.00
+0
+00:48
+0
+3.4
+0.010
+Street04
+JUNCTION
+0.00
+101.86
+0
+00:48
+0
+1.14
+0.153
+Street05
+JUNCTION
+0.00
+100.79
+0
+00:46
+0
+1.15
+0.126
+Street06
+JUNCTION
+0.00
+123.56
+0
+00:45
+0
+1.56
+-0.806
+Street07
+JUNCTION
+0.00
+169.24
+0
+00:44
+0
+3.51
+0.199
+Street08
+JUNCTION
+0.00
+119.28
+0
+00:44
+0
+1.63
+0.089
+Street09
+JUNCTION
+0.00
+164.93
+0
+00:43
+0
+4.16
+-0.071
+Street10
+JUNCTION
+0.00
+93.73
+0
+00:43
+0
+1.11
+0.037
+Street11
+JUNCTION
+0.00
+109.73
+0
+00:39
+0
+1.11
+0.429
+Street12
+JUNCTION
+0.00
+126.69
+0
+00:36
+0
+1.52
+-0.517
+Street13
+JUNCTION
+0.00
+178.62
+0
+00:36
+0
+5.1
+0.080
+Street14
+JUNCTION
+0.00
+77.23
+0
+00:35
+0
+0.666
+0.789
+Street15
+JUNCTION
+0.00
+101.56
+0
+00:35
+0
+1.15
+-0.769
+Concept 3
+SWMM 5.1
+Page 3
+```
+
+### Page 290 of 359
+
+```text
+Maximum
+
+Maximum
+
+Lateral
+
+Total
+
+Flow
+
+Lateral
+
+Total
+
+Day of
+
+Hour of
+
+Inflow
+
+Inflow
+
+Balance
+
+Inflow
+
+Inflow
+
+Maximum
+
+Maximum
+
+Volume
+
+Volume
+
+Error
+Node
+Type
+CFS
+CFS
+Inflow
+Inflow
+10^6 gal
+10^6 gal
+Percent
+Street16
+JUNCTION
+0.00
+112.24
+0
+00:31
+0
+1.24
+5.701
+Street17
+JUNCTION
+0.00
+129.49
+0
+00:30
+0
+1.6
+-0.376
+Street18
+JUNCTION
+0.00
+319.80
+0
+00:30
+0
+12.3
+0.021
+SubBasin20
+JUNCTION
+139.99
+139.99
+0
+00:30
+5.25
+5.25
+0.015
+Out1-48inch
+OUTFALL
+0.00
+101.42
+0
+00:51
+0
+1.88
+0.000
+Outlet_Channel
+OUTFALL
+0.00
+468.50
+0
+00:51
+0
+22.2
+0.000
+Pond
+STORAGE
+0.00
+168.69
+0
+00:50
+0
+2.06
+0.004
+Concept 3
+SWMM 5.1
+Page 4
+```
+
+### Page 291 of 359
+
+```text
+Node Surcharge Summary
+
+Max Height
+
+Min Depth
+
+Above
+
+Below
+
+Hours
+
+Crown
+
+Rim
+Node
+Type
+Surcharged
+Feet
+Feet
+Junction02
+JUNCTION
+0.54
+1.271
+2.689
+Junction04
+JUNCTION
+0.86
+2.847
+0.000
+Riser-01
+JUNCTION
+1.21
+3.451
+2.959
+Riser-02
+JUNCTION
+1.24
+4.369
+1.791
+Riser-03
+JUNCTION
+1.21
+4.928
+1.342
+Riser-04
+JUNCTION
+1.01
+4.467
+5.233
+Riser-05
+JUNCTION
+1.02
+4.726
+4.474
+Riser-06
+JUNCTION
+1.05
+5.340
+0.000
+Riser-07
+JUNCTION
+1.04
+5.545
+0.000
+Riser-08
+JUNCTION
+1.00
+5.566
+0.000
+Riser-09
+JUNCTION
+1.00
+5.998
+0.000
+Riser-10
+JUNCTION
+0.95
+5.544
+0.000
+Riser-11
+JUNCTION
+0.88
+3.977
+0.783
+Riser-12
+JUNCTION
+0.80
+2.449
+2.091
+Riser-13
+JUNCTION
+0.64
+0.712
+3.428
+Riser-14
+JUNCTION
+1.03
+2.382
+2.158
+Concept 3
+SWMM 5.1
+Page 1
+```
+
+### Page 292 of 359
+
+```text
+Max Height
+
+Min Depth
+
+Above
+
+Below
+
+Hours
+
+Crown
+
+Rim
+Node
+Type
+Surcharged
+Feet
+Feet
+Riser-15
+JUNCTION
+0.90
+2.498
+0.582
+Riser-15a
+JUNCTION
+0.94
+2.451
+1.519
+Riser-16
+JUNCTION
+0.90
+2.903
+0.000
+Riser-17
+JUNCTION
+0.88
+2.880
+0.000
+Riser-18
+JUNCTION
+0.87
+3.722
+0.000
+Riser-19
+JUNCTION
+0.85
+3.786
+0.000
+Riser-20
+JUNCTION
+0.80
+5.766
+0.000
+Riser-21
+JUNCTION
+0.82
+3.658
+0.562
+Riser-22
+JUNCTION
+0.97
+4.117
+0.003
+Riser-23
+JUNCTION
+0.87
+3.132
+0.000
+Riser24
+JUNCTION
+0.86
+2.807
+1.233
+Concept 3
+SWMM 5.1
+Page 2
+```
+
+### Page 293 of 359
+
+```text
+Storage Volume Summary
+
+Average
+
+Average
+
+Evap
+
+Exfil
+
+Maximum
+
+Maximum
+
+Day of
+
+Hour of
+
+Storage
+
+Volume
+
+Percent
+
+Percent
+
+Percent
+
+Volume
+
+Percent
+
+Maximum
+
+Maximum
+Unit
+1000 ft3
+Full
+Loss
+Loss
+1000 ft3
+Full
+Volume
+Volume
+Pond
+0.266
+3
+0
+0
+3.912
+47
+0
+00:51
+Concept 3
+SWMM 5.1
+Page 1
+```
+
+### Page 294 of 359
+
+```text
+Storage Volume Summary
+
+Maximum
+
+Storage
+
+Outflow
+Unit
+CFS
+Pond
+168.67
+Concept 3
+SWMM 5.1
+Page 2
+```
+
+### Page 295 of 359
+
+```text
+Outfall Loading Summary
+
+Flow
+
+Avg.
+
+Max.
+
+Total
+
+Freq.
+
+Flow
+
+Flow
+
+Volume
+Outfall Node
+Pcnt.
+CFS
+CFS
+10^6 gal
+Out1-48inch
+19.68
+59.21
+101.42
+1.879
+Outlet_Channel
+98.10
+140.77
+468.50
+22.206
+Concept 3
+SWMM 5.1
+Page 1
+```
+
+### Page 296 of 359
+
+```text
+Link Flow Summary
+
+Maximum
+
+Day of
+
+Hour of
+
+Maximum
+
+Max /
+
+Max /
+
+|Flow|
+
+Maximum
+
+Maximum
+
+|Velocity|
+
+Full
+
+Full
+Link
+Type
+CFS
+Flow
+Flow
+ft/sec
+Flow
+Depth
+AboveCreighton
+CHANNEL
+55.91
+0
+00:30
+13.05
+0.00
+0.19
+AboveVandeheiFlows
+CHANNEL
+180.00
+0
+00:30
+25.98
+0.00
+0.07
+BelowEvergreen
+CHANNEL
+94.04
+0
+00:30
+8.94
+0.00
+0.10
+BelowRanger
+CHANNEL
+110.01
+0
+00:30
+13.68
+0.00
+0.08
+BishopSump
+CHANNEL
+69.95
+0
+00:30
+6.50
+0.00
+0.18
+I-25
+CHANNEL
+0.00
+0
+00:00
+0.00
+0.00
+0.00
+Inlet-06
+CONDUIT
+30.00
+0
+00:50
+4.24
+0.28
+1.00
+Inlet-07
+CONDUIT
+59.08
+0
+00:25
+8.92
+0.56
+1.00
+Inlet-10
+CONDUIT
+20.00
+0
+00:26
+2.83
+0.21
+1.00
+Inlet-11
+CONDUIT
+45.00
+0
+00:20
+7.58
+0.48
+1.00
+Inlet-13
+CONDUIT
+55.00
+0
+00:15
+8.72
+0.41
+1.00
+Inlet-14
+CONDUIT
+10.00
+0
+00:26
+1.42
+0.07
+1.00
+Inlet-17
+CONDUIT
+15.00
+0
+00:20
+2.12
+0.11
+1.00
+Inlet-21
+CONDUIT
+25.00
+0
+00:28
+12.52
+0.55
+1.00
+Inlet-23
+CONDUIT
+15.00
+0
+00:22
+4.77
+0.47
+1.00
+Inlet-24
+CONDUIT
+229.53
+0
+00:22
+16.24
+0.86
+1.00
+Concept 3
+SWMM 5.1
+Page 1
+```
+
+### Page 297 of 359
+
+```text
+Maximum
+
+Day of
+
+Hour of
+
+Maximum
+
+Max /
+
+Max /
+
+|Flow|
+
+Maximum
+
+Maximum
+
+|Velocity|
+
+Full
+
+Full
+Link
+Type
+CFS
+Flow
+Flow
+ft/sec
+Flow
+Depth
+Inlet-J3
+CONDUIT
+45.00
+0
+00:14
+9.09
+0.48
+1.00
+Outlet-Channel
+CONDUIT
+468.50
+0
+00:51
+10.45
+0.08
+0.31
+Pond-outlletA
+CONDUIT
+162.09
+0
+00:51
+12.90
+5.15
+1.00
+Pond-outlletB
+CONDUIT
+101.42
+0
+00:51
+8.65
+2.80
+0.88
+SS01
+CONDUIT
+461.27
+0
+00:51
+11.75
+1.16
+1.00
+SS02
+CONDUIT
+461.27
+0
+00:51
+11.75
+1.51
+1.00
+SS03
+CONDUIT
+461.26
+0
+00:51
+11.75
+1.23
+1.00
+SS04
+CONDUIT
+461.26
+0
+00:51
+11.75
+1.17
+1.00
+SS05
+CONDUIT
+462.17
+0
+00:30
+11.77
+0.86
+1.00
+SS06
+CONDUIT
+462.23
+0
+00:30
+11.77
+0.83
+1.00
+SS07
+CONDUIT
+462.29
+0
+00:31
+11.77
+1.27
+1.00
+SS08
+CONDUIT
+443.47
+0
+00:27
+11.29
+1.02
+1.00
+SS09
+CONDUIT
+418.38
+0
+00:40
+10.65
+0.97
+1.00
+SS10
+CONDUIT
+418.39
+0
+00:39
+10.65
+1.22
+1.00
+SS11
+CONDUIT
+418.39
+0
+00:39
+10.81
+0.87
+1.00
+SS12
+CONDUIT
+402.04
+0
+01:10
+13.64
+0.56
+1.00
+SS13
+CONDUIT
+357.13
+0
+01:10
+14.72
+0.57
+1.00
+Concept 3
+SWMM 5.1
+Page 2
+```
+
+### Page 298 of 359
+
+```text
+Maximum
+
+Day of
+
+Hour of
+
+Maximum
+
+Max /
+
+Max /
+
+|Flow|
+
+Maximum
+
+Maximum
+
+|Velocity|
+
+Full
+
+Full
+Link
+Type
+CFS
+Flow
+Flow
+ft/sec
+Flow
+Depth
+SS14
+CONDUIT
+357.20
+0
+01:10
+16.37
+0.47
+1.00
+SS15
+CONDUIT
+353.45
+0
+00:37
+16.14
+0.63
+1.00
+SS16
+CONDUIT
+309.55
+0
+00:32
+17.78
+0.87
+1.00
+SS17
+CONDUIT
+299.55
+0
+00:32
+15.26
+0.92
+1.00
+SS18
+CONDUIT
+299.54
+0
+00:32
+15.69
+0.92
+1.00
+SS19
+CONDUIT
+299.54
+0
+00:32
+16.16
+1.01
+1.00
+SS20
+CONDUIT
+299.54
+0
+00:32
+16.07
+0.96
+1.00
+SS21
+CONDUIT
+284.54
+0
+00:32
+16.03
+0.92
+1.00
+SS22
+CONDUIT
+229.54
+0
+00:32
+14.43
+0.99
+1.00
+SS23
+CONDUIT
+229.54
+0
+00:32
+15.41
+0.76
+1.00
+SS24
+CONDUIT
+229.54
+0
+00:32
+16.64
+0.90
+1.00
+SS25
+CONDUIT
+241.90
+0
+00:28
+15.53
+1.26
+1.00
+SS26
+CONDUIT
+235.45
+0
+00:28
+14.80
+1.64
+1.00
+SS27
+CONDUIT
+235.42
+0
+00:28
+14.80
+0.92
+1.00
+SS28
+CONDUIT
+229.49
+0
+00:22
+14.95
+0.93
+1.00
+SSEX
+CONDUIT
+461.38
+0
+00:51
+11.36
+3.19
+1.00
+Street01
+CHANNEL
+0.00
+0
+00:00
+0.00
+0.00
+0.02
+Concept 3
+SWMM 5.1
+Page 3
+```
+
+### Page 299 of 359
+
+```text
+Maximum
+
+Day of
+
+Hour of
+
+Maximum
+
+Max /
+
+Max /
+
+|Flow|
+
+Maximum
+
+Maximum
+
+|Velocity|
+
+Full
+
+Full
+Link
+Type
+CFS
+Flow
+Flow
+ft/sec
+Flow
+Depth
+Street02
+CHANNEL
+138.69
+0
+00:50
+2.36
+0.02
+0.10
+Street03
+CHANNEL
+99.56
+0
+00:48
+1.58
+0.01
+0.11
+Street04
+CHANNEL
+101.86
+0
+00:48
+3.35
+0.01
+0.09
+Street05
+CHANNEL
+100.79
+0
+00:46
+3.76
+0.01
+0.09
+Street06
+CHANNEL
+123.56
+0
+00:45
+3.58
+0.01
+0.08
+Street07
+CHANNEL
+121.53
+0
+00:44
+3.15
+0.01
+0.09
+Street08
+CHANNEL
+119.28
+0
+00:44
+4.23
+0.01
+0.08
+Street09
+CHANNEL
+83.63
+0
+00:44
+2.78
+0.01
+0.07
+Street10
+CHANNEL
+93.73
+0
+00:43
+2.90
+0.01
+0.08
+Street11
+CHANNEL
+109.73
+0
+00:39
+4.09
+0.01
+0.08
+Street12
+CHANNEL
+126.69
+0
+00:36
+3.39
+0.01
+0.09
+Street13
+CHANNEL
+75.44
+0
+00:37
+2.70
+0.00
+0.07
+Street14
+CHANNEL
+77.23
+0
+00:35
+5.76
+0.00
+0.06
+Street15
+CHANNEL
+101.56
+0
+00:35
+1.12
+0.01
+0.14
+Street16
+CHANNEL
+112.24
+0
+00:31
+4.06
+0.01
+0.15
+Street17
+CHANNEL
+129.49
+0
+00:30
+4.18
+0.01
+0.08
+SubBasin20
+CHANNEL
+139.88
+0
+00:30
+17.06
+0.00
+0.11
+Concept 3
+SWMM 5.1
+Page 4
+```
+
+### Page 300 of 359
+
+```text
+Maximum
+
+Day of
+
+Hour of
+
+Maximum
+
+Max /
+
+Max /
+
+|Flow|
+
+Maximum
+
+Maximum
+
+|Velocity|
+
+Full
+
+Full
+Link
+Type
+CFS
+Flow
+Flow
+ft/sec
+Flow
+Depth
+Weir
+WEIR
+6.64
+0
+00:51
+0.02
+Overflow
+WEIR
+168.69
+0
+00:50
+0.40
+Concept 3
+SWMM 5.1
+Page 5
+```
+
+### Page 301 of 359
+
+```text
+Flow Classification Summary
+
+Adjusted/
+
+Actual
+
+Fully
+
+Upstrm
+
+Dnstrm
+
+Sub
+
+Super
+
+Upstrm
+
+Dnstrm
+Conduit
+Length
+Dry
+Dry
+Dry
+Critical
+Critical
+Critical
+Critical
+AboveCreighton
+6.28
+0.00
+0.00
+0.00
+0.15
+0.01
+0.00
+0.84
+AboveVandeheiFlows
+10.08
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1.00
+BelowEvergreen
+3.05
+0.00
+0.00
+0.00
+0.00
+0.06
+0.00
+0.94
+BelowRanger
+4.80
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1.00
+BishopSump
+2.39
+0.00
+0.00
+0.00
+0.12
+0.02
+0.00
+0.87
+I-25
+1.00
+1.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+Inlet-06
+1.00
+0.00
+0.20
+0.00
+0.80
+0.00
+0.00
+0.00
+Inlet-07
+1.00
+0.00
+0.00
+0.00
+0.98
+0.02
+0.00
+0.00
+Inlet-10
+1.00
+0.00
+0.30
+0.00
+0.70
+0.00
+0.00
+0.00
+Inlet-11
+1.00
+0.00
+0.00
+0.00
+0.98
+0.02
+0.00
+0.00
+Inlet-13
+1.15
+0.00
+0.00
+0.00
+0.35
+0.65
+0.00
+0.00
+Inlet-14
+1.15
+0.00
+0.01
+0.00
+0.99
+0.00
+0.00
+0.00
+Inlet-17
+1.15
+0.00
+0.24
+0.00
+0.76
+0.00
+0.00
+0.00
+Inlet-21
+1.00
+0.00
+0.26
+0.00
+0.73
+0.00
+0.00
+0.00
+Inlet-23
+1.00
+0.00
+0.01
+0.00
+0.99
+0.00
+0.00
+0.00
+Inlet-24
+1.15
+0.00
+0.00
+0.00
+0.22
+0.78
+0.00
+0.00
+Concept 3
+SWMM 5.1
+Page 1
+```
+
+### Page 302 of 359
+
+```text
+Adjusted/
+
+Actual
+
+Fully
+
+Upstrm
+
+Dnstrm
+
+Sub
+
+Super
+
+Upstrm
+
+Dnstrm
+Conduit
+Length
+Dry
+Dry
+Dry
+Critical
+Critical
+Critical
+Critical
+Inlet-J3
+1.00
+0.00
+0.00
+0.00
+0.96
+0.04
+0.00
+0.00
+Outlet-Channel
+1.00
+0.01
+0.00
+0.00
+0.74
+0.25
+0.00
+0.00
+Pond-outlletA
+1.00
+0.05
+0.00
+0.00
+0.20
+0.00
+0.00
+0.75
+Pond-outlletB
+1.00
+0.80
+0.00
+0.00
+0.20
+0.00
+0.00
+0.00
+SS01
+1.00
+0.01
+0.00
+0.00
+0.98
+0.01
+0.00
+0.00
+SS02
+1.00
+0.01
+0.00
+0.00
+0.89
+0.10
+0.00
+0.00
+SS03
+1.00
+0.00
+0.00
+0.00
+0.71
+0.28
+0.00
+0.00
+SS04
+1.00
+0.00
+0.00
+0.00
+0.27
+0.72
+0.00
+0.00
+SS05
+1.00
+0.00
+0.00
+0.00
+0.21
+0.79
+0.00
+0.00
+SS06
+1.00
+0.00
+0.00
+0.00
+0.19
+0.80
+0.00
+0.00
+SS07
+1.00
+0.00
+0.00
+0.00
+0.21
+0.79
+0.00
+0.00
+SS08
+1.00
+0.00
+0.00
+0.00
+0.23
+0.77
+0.00
+0.00
+SS09
+1.00
+0.00
+0.00
+0.00
+0.23
+0.76
+0.00
+0.00
+SS10
+1.00
+0.00
+0.00
+0.00
+0.21
+0.79
+0.00
+0.00
+SS11
+1.00
+0.00
+0.00
+0.00
+0.18
+0.81
+0.00
+0.00
+SS12
+1.00
+0.00
+0.00
+0.00
+0.16
+0.84
+0.00
+0.00
+SS13
+1.00
+0.00
+0.00
+0.00
+0.16
+0.84
+0.00
+0.00
+Concept 3
+SWMM 5.1
+Page 2
+```
+
+### Page 303 of 359
+
+```text
+Adjusted/
+
+Actual
+
+Fully
+
+Upstrm
+
+Dnstrm
+
+Sub
+
+Super
+
+Upstrm
+
+Dnstrm
+Conduit
+Length
+Dry
+Dry
+Dry
+Critical
+Critical
+Critical
+Critical
+SS14
+1.00
+0.00
+0.00
+0.00
+0.14
+0.86
+0.00
+0.00
+SS15
+1.00
+0.00
+0.00
+0.00
+0.12
+0.88
+0.00
+0.00
+SS16
+1.00
+0.00
+0.00
+0.00
+0.09
+0.90
+0.00
+0.00
+SS17
+1.00
+0.00
+0.00
+0.00
+0.18
+0.82
+0.00
+0.00
+SS18
+1.00
+0.00
+0.00
+0.00
+0.16
+0.84
+0.00
+0.00
+SS19
+1.00
+0.00
+0.00
+0.00
+0.15
+0.84
+0.00
+0.00
+SS20
+1.00
+0.00
+0.00
+0.00
+0.15
+0.85
+0.00
+0.00
+SS21
+1.00
+0.00
+0.00
+0.00
+0.15
+0.85
+0.00
+0.00
+SS22
+1.00
+0.00
+0.00
+0.00
+0.15
+0.84
+0.00
+0.00
+SS23
+1.00
+0.00
+0.00
+0.00
+0.15
+0.85
+0.00
+0.00
+SS24
+1.00
+0.00
+0.00
+0.00
+0.14
+0.86
+0.00
+0.00
+SS25
+1.00
+0.00
+0.00
+0.00
+0.14
+0.86
+0.00
+0.00
+SS26
+1.00
+0.00
+0.00
+0.00
+0.17
+0.83
+0.00
+0.00
+SS27
+1.00
+0.00
+0.00
+0.00
+0.17
+0.83
+0.00
+0.00
+SS28
+1.00
+0.00
+0.00
+0.00
+0.15
+0.85
+0.00
+0.00
+SSEX
+1.00
+0.01
+0.00
+0.00
+0.99
+0.00
+0.00
+0.00
+Street01
+1.00
+0.88
+0.12
+0.00
+0.00
+0.00
+0.00
+0.00
+Concept 3
+SWMM 5.1
+Page 3
+```
+
+### Page 304 of 359
+
+```text
+Adjusted/
+
+Actual
+
+Fully
+
+Upstrm
+
+Dnstrm
+
+Sub
+
+Super
+
+Upstrm
+
+Dnstrm
+Conduit
+Length
+Dry
+Dry
+Dry
+Critical
+Critical
+Critical
+Critical
+Street02
+1.00
+0.86
+0.00
+0.00
+0.00
+0.00
+0.00
+0.14
+Street03
+1.00
+0.07
+0.01
+0.00
+0.13
+0.00
+0.00
+0.79
+Street04
+1.00
+0.07
+0.00
+0.00
+0.91
+0.01
+0.00
+0.00
+Street05
+1.00
+0.07
+0.80
+0.00
+0.11
+0.01
+0.00
+0.00
+Street06
+1.00
+0.85
+0.00
+0.00
+0.05
+0.01
+0.00
+0.08
+Street07
+1.00
+0.05
+0.00
+0.00
+0.05
+0.00
+0.00
+0.90
+Street08
+1.00
+0.05
+0.76
+0.00
+0.14
+0.06
+0.00
+0.00
+Street09
+1.00
+0.80
+0.08
+0.00
+0.12
+0.00
+0.00
+0.00
+Street10
+1.00
+0.06
+0.00
+0.00
+0.00
+0.00
+0.00
+0.94
+Street11
+1.00
+0.06
+0.79
+0.00
+0.12
+0.03
+0.00
+0.00
+Street12
+1.00
+0.80
+0.00
+0.00
+0.04
+0.00
+0.00
+0.16
+Street13
+1.00
+0.05
+0.04
+0.00
+0.16
+0.00
+0.00
+0.75
+Street14
+1.00
+0.08
+0.81
+0.00
+0.01
+0.09
+0.00
+0.00
+Street15
+1.00
+0.06
+0.27
+0.00
+0.00
+0.00
+0.67
+0.00
+Street16
+1.00
+0.06
+0.00
+0.00
+0.13
+0.01
+0.80
+0.00
+Street17
+1.00
+0.86
+0.00
+0.00
+0.10
+0.03
+0.00
+0.01
+SubBasin20
+6.48
+0.00
+0.00
+0.00
+0.00
+0.12
+0.00
+0.88
+Concept 3
+SWMM 5.1
+Page 4
+```
+
+### Page 305 of 359
+
+```text
+Flow Classification Summary
+
+Normal
+
+Flow
+
+Inlet
+Conduit
+Limited
+Control
+AboveCreighton
+0.16
+0.00
+AboveVandeheiFlows
+0.00
+0.00
+BelowEvergreen
+0.06
+0.00
+BelowRanger
+0.00
+0.00
+BishopSump
+0.13
+0.00
+I-25
+0.00
+0.00
+Inlet-06
+0.21
+0.00
+Inlet-07
+0.58
+0.00
+Inlet-10
+0.33
+0.00
+Inlet-11
+0.68
+0.00
+Inlet-13
+0.05
+0.00
+Inlet-14
+0.21
+0.00
+Inlet-17
+0.25
+0.00
+Inlet-21
+0.26
+0.00
+Inlet-23
+0.48
+0.00
+Inlet-24
+0.03
+0.00
+Concept 3
+SWMM 5.1
+Page 5
+```
+
+### Page 306 of 359
+
+```text
+Normal
+
+Flow
+
+Inlet
+Conduit
+Limited
+Control
+Inlet-J3
+0.18
+0.00
+Outlet-Channel
+0.85
+0.00
+Pond-outlletA
+0.00
+0.01
+Pond-outlletB
+0.00
+0.17
+SS01
+0.04
+0.00
+SS02
+0.00
+0.00
+SS03
+0.07
+0.00
+SS04
+0.09
+0.00
+SS05
+0.34
+0.00
+SS06
+0.00
+0.00
+SS07
+0.00
+0.00
+SS08
+0.03
+0.00
+SS09
+0.11
+0.00
+SS10
+0.69
+0.00
+SS11
+0.49
+0.00
+SS12
+0.58
+0.00
+SS13
+0.03
+0.00
+Concept 3
+SWMM 5.1
+Page 6
+```
+
+### Page 307 of 359
+
+```text
+Normal
+
+Flow
+
+Inlet
+Conduit
+Limited
+Control
+SS14
+0.46
+0.00
+SS15
+0.06
+0.00
+SS16
+0.00
+0.00
+SS17
+0.38
+0.00
+SS18
+0.07
+0.00
+SS19
+0.01
+0.00
+SS20
+0.09
+0.00
+SS21
+0.03
+0.00
+SS22
+0.17
+0.00
+SS23
+0.11
+0.00
+SS24
+0.00
+0.00
+SS25
+0.04
+0.00
+SS26
+0.17
+0.00
+SS27
+0.58
+0.00
+SS28
+0.03
+0.00
+SSEX
+0.00
+0.00
+Street01
+0.00
+0.00
+Concept 3
+SWMM 5.1
+Page 7
+```
+
+### Page 308 of 359
+
+```text
+Normal
+
+Flow
+
+Inlet
+Conduit
+Limited
+Control
+Street02
+0.00
+0.00
+Street03
+0.13
+0.00
+Street04
+0.87
+0.00
+Street05
+0.91
+0.00
+Street06
+0.05
+0.00
+Street07
+0.00
+0.00
+Street08
+0.92
+0.00
+Street09
+0.92
+0.00
+Street10
+0.00
+0.00
+Street11
+0.89
+0.00
+Street12
+0.04
+0.00
+Street13
+0.16
+0.00
+Street14
+0.90
+0.00
+Street15
+0.00
+0.00
+Street16
+0.02
+0.00
+Street17
+0.13
+0.00
+SubBasin20
+0.12
+0.00
+Concept 3
+SWMM 5.1
+Page 8
+```
+
+### Page 309 of 359
+
+```text
+Conduit Surcharge Summary
+
+Hours
+
+Hours
+
+Hours
+
+Hours
+
+Above
+
+Hours
+
+Both Ends
+
+Upstream
+
+Dnstream
+
+Normal
+
+Capacity
+Conduit
+Full
+Full
+Full
+Flow
+Limited
+Inlet-06
+1.19
+1.19
+1.48
+0.01
+0.01
+Inlet-07
+1.21
+1.21
+1.43
+0.01
+0.01
+Inlet-10
+0.98
+0.98
+1.17
+0.01
+0.06
+Inlet-11
+0.95
+0.98
+0.96
+0.01
+0.95
+Inlet-13
+1.23
+1.23
+1.27
+0.01
+1.22
+Inlet-14
+1.25
+1.25
+1.58
+0.01
+0.73
+Inlet-17
+0.94
+0.94
+1.26
+0.01
+0.62
+Inlet-21
+1.23
+1.23
+1.75
+0.01
+0.62
+Inlet-23
+1.09
+1.09
+1.60
+0.01
+0.08
+Inlet-24
+1.07
+1.22
+1.07
+1.33
+1.07
+Inlet-J3
+0.78
+1.21
+0.78
+0.01
+0.78
+Pond-outlletA
+0.54
+0.55
+0.54
+0.63
+0.54
+Pond-outlletB
+0.01
+0.54
+0.01
+0.84
+0.01
+SS01
+1.19
+1.21
+1.19
+1.56
+1.19
+SS02
+1.21
+1.24
+1.21
+1.72
+1.21
+SS03
+1.21
+1.21
+1.24
+1.60
+0.99
+Concept 3
+SWMM 5.1
+Page 1
+```
+
+### Page 310 of 359
+
+```text
+Hours
+
+Hours
+
+Hours
+
+Hours
+
+Above
+
+Hours
+
+Both Ends
+
+Upstream
+
+Dnstream
+
+Normal
+
+Capacity
+Conduit
+Full
+Full
+Full
+Flow
+Limited
+SS04
+1.18
+1.18
+1.21
+1.56
+0.90
+SS05
+1.01
+1.01
+1.18
+1.32
+0.01
+SS06
+1.01
+1.02
+1.01
+1.28
+1.01
+SS07
+1.02
+1.05
+1.02
+1.61
+1.02
+SS08
+1.04
+1.04
+1.05
+1.49
+0.96
+SS09
+1.00
+1.00
+1.04
+1.42
+0.66
+SS10
+1.00
+1.00
+1.00
+1.60
+0.99
+SS11
+0.95
+0.95
+1.00
+1.33
+0.01
+SS12
+0.88
+0.88
+0.95
+0.90
+0.01
+SS13
+0.80
+0.80
+0.88
+0.93
+0.01
+SS14
+0.64
+0.64
+0.80
+0.01
+0.01
+SS15
+0.01
+0.01
+0.64
+1.05
+0.01
+SS16
+0.01
+1.03
+0.01
+0.01
+0.01
+SS17
+0.94
+0.94
+1.03
+0.01
+0.01
+SS18
+0.90
+0.90
+0.94
+0.01
+0.01
+SS19
+0.90
+0.90
+0.90
+0.62
+0.89
+SS20
+0.88
+0.88
+0.90
+0.01
+0.64
+Concept 3
+SWMM 5.1
+Page 2
+```
+
+### Page 311 of 359
+
+```text
+Hours
+
+Hours
+
+Hours
+
+Hours
+
+Above
+
+Hours
+
+Both Ends
+
+Upstream
+
+Dnstream
+
+Normal
+
+Capacity
+Conduit
+Full
+Full
+Full
+Flow
+Limited
+SS21
+0.86
+0.86
+0.88
+0.01
+0.01
+SS22
+0.87
+0.87
+0.88
+0.01
+0.76
+SS23
+0.85
+0.85
+0.87
+0.01
+0.01
+SS24
+0.80
+0.80
+0.85
+0.01
+0.01
+SS25
+0.80
+0.82
+0.80
+0.94
+0.80
+SS26
+0.82
+0.97
+0.82
+1.26
+0.82
+SS27
+0.87
+0.87
+0.97
+0.01
+0.01
+SS28
+0.86
+0.86
+0.87
+0.01
+0.02
+SSEX
+1.08
+1.40
+1.08
+2.74
+1.08
+Concept 3
+SWMM 5.1
+Page 3
+```
+
+### Page 312 of 359
+
+```text
+APPENIDX B
+
+HYDRAULICS
+HEC RAS MODELS
+```
+
+### Page 313 of 359
+
+```text
+APPENIDX B
+
+HYDRAULICS
+CONCEPT 1
+```
+
+### Page 314 of 359 (scanned page: no text layer yet; see the original PDF)
+
+### Page 315 of 359
+
+```text
+HEC-RAS  Plan: no swale   River: HEC-RAS Thalweg   Reach: HEC-RAS Thalweg    Profile: 100yr
+Reach
+River Sta
+Profile
+Q Total
+Min Ch El
+W.S. Elev
+Crit W.S.
+E.G. Elev
+E.G. Slope
+Vel Chnl
+Flow Area
+Top Width
+Froude # Chl
+(cfs)
+(ft)
+(ft)
+(ft)
+(ft)
+(ft/ft)
+(ft/s)
+(sq ft)
+(ft)
+
+HEC-RAS Thalweg
+564.79
+100yr
+314.00
+6153.88
+6155.09
+6155.09
+6155.53
+0.003998
+5.33
+58.95
+68.15
+1.01
+HEC-RAS Thalweg
+724.56
+100yr
+314.00
+6154.50
+6155.79
+6155.72
+6156.06
+0.002491
+4.60
+89.96
+138.52
+0.81
+HEC-RAS Thalweg
+914.79
+100yr
+314.00
+6155.19
+6156.42
+6156.42
+6156.78
+0.003497
+5.23
+75.05
+111.90
+0.95
+HEC-RAS Thalweg
+1118.82
+100yr
+277.00
+6156.55
+6157.53
+6157.53
+6157.83
+0.004823
+5.13
+75.52
+121.38
+1.06
+HEC-RAS Thalweg
+1299.23
+100yr
+280.00
+6157.95
+6159.10
+6159.10
+6159.47
+0.003806
+5.24
+63.22
+90.93
+0.98
+HEC-RAS Thalweg
+1432.11
+100yr
+280.00
+6159.73
+6160.87
+6160.87
+6161.21
+0.003985
+4.87
+62.80
+101.11
+1.00
+HEC-RAS Thalweg
+1571.97
+100yr
+290.00
+6161.56
+6162.57
+6162.57
+6162.89
+0.018622
+4.83
+65.46
+103.44
+0.97
+HEC-RAS Thalweg
+1696.4
+100yr
+260.00
+6163.03
+6164.19
+6164.19
+6164.52
+0.003669
+4.72
+56.70
+85.16
+0.99
+HEC-RAS Thalweg
+1832.48
+100yr
+260.00
+6165.39
+6166.53
+6166.53
+6166.89
+0.003920
+4.93
+55.15
+80.57
+1.00
+HEC-RAS Thalweg
+1977
+100yr
+195.00
+6167.91
+6168.90
+6168.90
+6169.21
+0.003932
+4.67
+46.08
+79.15
+0.96
+HEC-RAS Thalweg
+2108.55
+100yr
+195.00
+6170.18
+6171.17
+6171.17
+6171.45
+0.003803
+4.56
+52.08
+98.74
+0.94
+HEC-RAS Thalweg
+2267
+100yr
+208.00
+6172.02
+6173.01
+6173.01
+6173.29
+0.003879
+4.64
+55.47
+104.29
+0.96
+HEC-RAS Thalweg
+2463.8
+100yr
+208.00
+6173.98
+6174.99
+6174.99
+6175.30
+0.003920
+4.72
+51.97
+93.67
+0.96
+HEC-RAS Thalweg
+2574.39
+100yr
+207.00
+6175.23
+6176.27
+6176.27
+6176.59
+0.003795
+4.74
+48.30
+82.32
+0.95
+HEC-RAS Thalweg
+2700.88
+100yr
+216.00
+6176.87
+6177.86
+6177.86
+6178.21
+0.004003
+4.78
+46.52
+69.30
+0.98
+HEC-RAS Thalweg
+2793.31
+100yr
+216.00
+6178.55
+6179.61
+6179.61
+6179.96
+0.003949
+4.89
+47.07
+70.47
+0.97
+HEC-RAS Thalweg
+2967.08
+100yr
+158.00
+6182.24
+6183.04
+6183.04
+6183.30
+0.004427
+4.11
+40.14
+85.14
+0.97
+HEC-RAS Thalweg
+3064.75
+100yr
+158.00
+6184.83
+6185.74
+6185.74
+6185.98
+0.003800
+4.21
+46.17
+106.20
+0.93
+HEC-RAS Thalweg
+3260.43
+100yr
+159.00
+6186.23
+6187.20
+6187.20
+6187.45
+0.004026
+4.28
+45.56
+98.39
+0.95
+HEC-RAS Thalweg
+3401.18
+100yr
+172.00
+6186.93
+6187.93
+6187.93
+6188.20
+0.004532
+4.20
+41.40
+79.94
+0.99
+HEC-RAS Thalweg
+3523.33
+100yr
+172.00
+6187.99
+6188.62
+6188.62
+6188.86
+0.004495
+3.94
+45.03
+100.04
+0.98
+HEC-RAS Thalweg
+3628.05
+100yr
+180.00
+6190.01
+6190.90
+6190.90
+6191.17
+0.003973
+4.24
+43.95
+83.01
+0.95
+```
+
+### Page 316 of 359
+
+```text
+0
+50
+100
+150
+200
+250
+300
+6190
+6191
+6192
+6193
+6194
+6195
+6196
+6197
+6198
+EversConcept1       Plan: Evers-Proposed NO Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 3628.05
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6187
+6188
+6189
+6190
+6191
+6192
+6193
+6194
+6195
+EversConcept1       Plan: Evers-Proposed NO Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 3523.33
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6186
+6188
+6190
+6192
+6194
+6196
+EversConcept1       Plan: Evers-Proposed NO Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 3401.18
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6186
+6188
+6190
+6192
+6194
+6196
+EversConcept1       Plan: Evers-Proposed NO Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 3260.43
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6184
+6185
+6186
+6187
+6188
+6189
+6190
+6191
+EversConcept1       Plan: Evers-Proposed NO Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 3064.75
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6182
+6183
+6184
+6185
+6186
+6187
+6188
+EversConcept1       Plan: Evers-Proposed NO Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 2967.08
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+1
+```
+
+### Page 317 of 359
+
+```text
+0
+50
+100
+150
+200
+250
+300
+6178
+6179
+6180
+6181
+6182
+6183
+6184
+EversConcept1       Plan: Evers-Proposed NO Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 2793.31
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6176
+6177
+6178
+6179
+6180
+6181
+6182
+6183
+EversConcept1       Plan: Evers-Proposed NO Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 2700.88
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+20
+40
+60
+80
+100
+120
+140
+160
+6175
+6176
+6177
+6178
+6179
+6180
+EversConcept1       Plan: Evers-Proposed NO Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 2574.39
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6173
+6174
+6175
+6176
+6177
+6178
+EversConcept1       Plan: Evers-Proposed NO Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 2463.8
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6172.0
+6172.5
+6173.0
+6173.5
+6174.0
+6174.5
+6175.0
+6175.5
+6176.0
+EversConcept1       Plan: Evers-Proposed NO Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 2267
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6170
+6171
+6172
+6173
+6174
+6175
+6176
+6177
+EversConcept1       Plan: Evers-Proposed NO Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 2108.55
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+2
+```
+
+### Page 318 of 359
+
+```text
+0
+50
+100
+150
+200
+250
+300
+6167
+6168
+6169
+6170
+6171
+6172
+6173
+6174
+6175
+EversConcept1       Plan: Evers-Proposed NO Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 1977
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6164
+6166
+6168
+6170
+6172
+6174
+EversConcept1       Plan: Evers-Proposed NO Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 1832.48
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6162
+6164
+6166
+6168
+6170
+6172
+EversConcept1       Plan: Evers-Proposed NO Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 1696.4
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+6161
+6162
+6163
+6164
+6165
+6166
+6167
+EversConcept1       Plan: Evers-Proposed NO Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 1571.97
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.035
+0
+50
+100
+150
+200
+250
+300
+6159
+6160
+6161
+6162
+6163
+6164
+6165
+EversConcept1       Plan: Evers-Proposed NO Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 1432.11
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6156
+6158
+6160
+6162
+6164
+6166
+6168
+6170
+EversConcept1       Plan: Evers-Proposed NO Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 1299.23
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+3
+```
+
+### Page 319 of 359
+
+```text
+0
+100
+200
+300
+400
+500
+6156
+6158
+6160
+6162
+6164
+6166
+6168
+EversConcept1       Plan: Evers-Proposed NO Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 1118.82
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+100
+200
+300
+400
+6155
+6156
+6157
+6158
+6159
+6160
+6161
+6162
+6163
+EversConcept1       Plan: Evers-Proposed NO Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 914.79
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+100
+200
+300
+400
+6154
+6155
+6156
+6157
+6158
+6159
+6160
+6161
+EversConcept1       Plan: Evers-Proposed NO Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 724.56
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+100
+200
+300
+400
+500
+6152
+6154
+6156
+6158
+6160
+6162
+6164
+EversConcept1       Plan: Evers-Proposed NO Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 564.79
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+4
+```
+
+### Page 320 of 359
+
+```text
+APPENIDX B
+
+HYDRAULICS
+CONCEPT 2
+```
+
+### Page 321 of 359 (scanned page: no text layer yet; see the original PDF)
+
+### Page 322 of 359
+
+```text
+HEC-RAS  Plan: swale   River: HEC-RAS Thalweg   Reach: HEC-RAS Thalweg    Profile: 100yr
+Reach
+River Sta
+Profile
+Q Total
+Min Ch El
+W.S. Elev
+Crit W.S.
+E.G. Elev
+E.G. Slope
+Vel Chnl
+Flow Area
+Top Width
+Froude # Chl
+(cfs)
+(ft)
+(ft)
+(ft)
+(ft)
+(ft/ft)
+(ft/s)
+(sq ft)
+(ft)
+
+HEC-RAS Thalweg
+564.79
+100yr
+230.00
+6153.88
+6154.90
+6154.90
+6155.28
+0.004209
+4.95
+46.51
+62.48
+1.01
+HEC-RAS Thalweg
+724.56
+100yr
+230.00
+6152.60
+6155.53
+6155.37
+6155.78
+0.002242
+3.95
+58.21
+66.56
+0.74
+HEC-RAS Thalweg
+914.79
+100yr
+230.00
+6152.35
+6155.86
+6155.94
+0.000389
+2.29
+103.84
+84.69
+0.34
+HEC-RAS Thalweg
+1118.82
+100yr
+192.00
+6154.33
+6157.03
+6157.03
+6157.35
+0.004269
+4.50
+42.69
+65.53
+0.98
+HEC-RAS Thalweg
+1299.23
+100yr
+192.00
+6155.96
+6158.67
+6158.67
+6158.98
+0.004150
+4.45
+43.19
+66.04
+0.97
+HEC-RAS Thalweg
+1432.11
+100yr
+212.00
+6157.35
+6160.09
+6160.09
+6160.44
+0.004424
+4.75
+44.80
+66.03
+1.01
+HEC-RAS Thalweg
+1571.97
+100yr
+232.00
+6162.10
+6162.86
+6162.86
+6163.21
+0.004418
+4.74
+49.49
+76.21
+1.02
+HEC-RAS Thalweg
+1696.4
+100yr
+205.00
+6160.88
+6163.59
+6163.59
+6163.94
+0.004733
+4.75
+43.20
+66.08
+1.03
+HEC-RAS Thalweg
+1832.48
+100yr
+205.00
+6163.29
+6166.00
+6166.00
+6166.35
+0.004665
+4.73
+43.38
+66.07
+1.03
+HEC-RAS Thalweg
+1977
+100yr
+146.00
+6168.14
+6168.82
+6168.82
+6169.08
+0.004678
+4.15
+35.16
+66.06
+1.00
+HEC-RAS Thalweg
+2108.55
+100yr
+146.00
+6169.07
+6171.66
+6171.66
+6171.92
+0.004625
+4.12
+35.42
+66.01
+0.99
+HEC-RAS Thalweg
+2267
+100yr
+157.00
+6169.94
+6172.56
+6172.56
+6172.83
+0.004334
+4.16
+37.74
+66.02
+0.97
+HEC-RAS Thalweg
+2463.8
+100yr
+157.00
+6173.95
+6174.68
+6174.68
+6174.95
+0.004282
+4.17
+37.64
+65.68
+0.97
+HEC-RAS Thalweg
+2574.39
+100yr
+157.00
+6174.98
+6176.03
+6176.03
+6176.32
+0.005019
+4.36
+35.98
+66.15
+1.04
+HEC-RAS Thalweg
+2700.88
+100yr
+167.00
+6174.96
+6177.59
+6177.59
+6177.89
+0.004750
+4.38
+38.40
+71.94
+1.02
+HEC-RAS Thalweg
+2793.31
+100yr
+167.00
+6179.31
+6180.00
+6180.00
+6180.29
+0.004473
+4.32
+38.69
+66.16
+0.99
+HEC-RAS Thalweg
+2967.08
+100yr
+100.00
+6180.73
+6183.09
+6183.09
+6183.28
+0.006079
+3.56
+28.08
+80.32
+1.06
+HEC-RAS Thalweg
+3064.75
+100yr
+100.00
+6182.96
+6185.33
+6185.33
+6185.56
+0.005264
+3.85
+26.01
+60.69
+1.02
+HEC-RAS Thalweg
+3260.43
+100yr
+100.00
+6184.15
+6186.57
+6186.57
+6186.82
+0.005355
+3.99
+25.09
+54.78
+1.04
+HEC-RAS Thalweg
+3401.18
+100yr
+107.00
+6185.61
+6188.08
+6188.08
+6188.31
+0.004914
+3.87
+27.65
+59.23
+1.00
+HEC-RAS Thalweg
+3523.33
+100yr
+107.00
+6187.99
+6188.62
+6188.75
+0.002594
+2.92
+38.63
+101.63
+0.74
+HEC-RAS Thalweg
+3628.05
+100yr
+121.00
+6190.01
+6190.74
+6190.74
+6190.97
+0.004908
+3.85
+31.42
+69.90
+1.01
+```
+
+### Page 323 of 359
+
+```text
+0
+50
+100
+150
+200
+250
+300
+6190
+6191
+6192
+6193
+6194
+6195
+6196
+6197
+6198
+EversBlvd       Plan: Evers-Proposed WITH Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 3628.05
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+
+0
+50
+100
+150
+200
+250
+300
+6187
+6188
+6189
+6190
+6191
+6192
+6193
+6194
+6195
+EversBlvd       Plan: Evers-Proposed WITH Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 3523.33
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+
+0
+50
+100
+150
+200
+250
+300
+6184
+6186
+6188
+6190
+6192
+6194
+6196
+EversBlvd       Plan: Evers-Proposed WITH Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 3401.18
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Levee
+Bank Sta
+.035
+.016
+.035
+
+0
+50
+100
+150
+200
+250
+300
+6184
+6186
+6188
+6190
+6192
+6194
+6196
+EversBlvd       Plan: Evers-Proposed WITH Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 3260.43
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Levee
+Bank Sta
+.035
+.016
+.035
+
+0
+50
+100
+150
+200
+250
+300
+6182
+6183
+6184
+6185
+6186
+6187
+6188
+6189
+6190
+6191
+EversBlvd       Plan: Evers-Proposed WITH Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 3064.75
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+
+0
+50
+100
+150
+200
+250
+300
+6180
+6181
+6182
+6183
+6184
+6185
+6186
+6187
+6188
+EversBlvd       Plan: Evers-Proposed WITH Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 2967.08
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+1
+```
+
+### Page 324 of 359
+
+```text
+0
+50
+100
+150
+200
+250
+300
+6179
+6180
+6181
+6182
+6183
+6184
+EversBlvd       Plan: Evers-Proposed WITH Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 2793.31
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Levee
+Bank Sta
+.035
+.016
+.035
+
+0
+50
+100
+150
+200
+250
+300
+6174
+6175
+6176
+6177
+6178
+6179
+6180
+6181
+6182
+6183
+EversBlvd       Plan: Evers-Proposed WITH Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 2700.88
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+
+0
+20
+40
+60
+80
+100
+120
+140
+160
+6174
+6175
+6176
+6177
+6178
+6179
+6180
+EversBlvd       Plan: Evers-Proposed WITH Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 2574.39
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Levee
+Bank Sta
+.035
+.016
+.035
+
+0
+50
+100
+150
+200
+250
+300
+6173
+6174
+6175
+6176
+6177
+6178
+EversBlvd       Plan: Evers-Proposed WITH Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 2463.8
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Levee
+Bank Sta
+.035
+.016
+.035
+
+0
+50
+100
+150
+200
+250
+300
+6169
+6170
+6171
+6172
+6173
+6174
+6175
+6176
+EversBlvd       Plan: Evers-Proposed WITH Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 2267
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Levee
+Bank Sta
+.035
+.016
+.035
+
+0
+50
+100
+150
+200
+250
+300
+6168
+6170
+6172
+6174
+6176
+6178
+EversBlvd       Plan: Evers-Proposed WITH Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 2108.55
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Levee
+Bank Sta
+.035
+.016
+.035
+2
+```
+
+### Page 325 of 359
+
+```text
+0
+50
+100
+150
+200
+250
+300
+6168
+6169
+6170
+6171
+6172
+6173
+6174
+6175
+EversBlvd       Plan: Evers-Proposed WITH Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 1977
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Levee
+Bank Sta
+.035
+.016
+.035
+
+0
+50
+100
+150
+200
+250
+300
+6162
+6164
+6166
+6168
+6170
+6172
+6174
+EversBlvd       Plan: Evers-Proposed WITH Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 1832.48
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+
+0
+50
+100
+150
+200
+250
+300
+6160
+6162
+6164
+6166
+6168
+6170
+6172
+EversBlvd       Plan: Evers-Proposed WITH Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 1696.4
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+
+80
+100 120 140 160 180 200 220 240 260
+6162
+6163
+6164
+6165
+6166
+6167
+EversBlvd       Plan: Evers-Proposed WITH Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 1571.97
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Levee
+Bank Sta
+.
+0
+3
+5
+.016
+.035
+
+0
+50
+100
+150
+200
+250
+300
+6157
+6158
+6159
+6160
+6161
+6162
+6163
+6164
+6165
+EversBlvd       Plan: Evers-Proposed WITH Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 1432.11
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+
+0
+50
+100
+150
+200
+250
+300
+6154
+6156
+6158
+6160
+6162
+6164
+6166
+6168
+6170
+EversBlvd       Plan: Evers-Proposed WITH Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 1299.23
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Levee
+Bank Sta
+.035
+.016
+.035
+3
+```
+
+### Page 326 of 359
+
+```text
+0
+100
+200
+300
+400
+500
+6154
+6156
+6158
+6160
+6162
+6164
+6166
+6168
+EversBlvd       Plan: Evers-Proposed WITH Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 1118.82
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Levee
+Bank Sta
+.035
+.016
+.035
+
+0
+100
+200
+300
+400
+6152
+6154
+6156
+6158
+6160
+6162
+6164
+EversBlvd       Plan: Evers-Proposed WITH Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 914.79
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+
+160
+180
+200
+220
+240
+260
+6152.5
+6153.0
+6153.5
+6154.0
+6154.5
+6155.0
+6155.5
+6156.0
+EversBlvd       Plan: Evers-Proposed WITH Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 724.56
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Levee
+Bank Sta
+.
+0
+3
+5
+.016
+.
+0
+3
+5
+
+0
+100
+200
+300
+400
+500
+6152
+6154
+6156
+6158
+6160
+6162
+6164
+EversBlvd       Plan: Evers-Proposed WITH Swale    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 564.79
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.
+0
+3
+5
+4
+```
+
+### Page 327 of 359
+
+```text
+APPENIDX B
+
+HYDRAULICS
+CONCEPT 3
+```
+
+### Page 328 of 359 (scanned page: no text layer yet; see the original PDF)
+
+### Page 329 of 359
+
+```text
+HEC-RAS  Plan: Combined   River: HEC-RAS Thalweg   Reach: HEC-RAS Thalweg    Profile: 100yr
+Reach
+River Sta
+Profile
+Q Total
+Min Ch El
+W.S. Elev
+Crit W.S.
+E.G. Elev
+E.G. Slope
+Vel Chnl
+Flow Area
+Top Width
+Froude # Chl
+(cfs)
+(ft)
+(ft)
+(ft)
+(ft)
+(ft/ft)
+(ft/s)
+(sq ft)
+(ft)
+
+HEC-RAS Thalweg
+564.79
+100yr
+138.00
+6153.88
+6154.65
+6154.65
+6154.95
+0.004512
+4.33
+31.87
+55.07
+1.00
+HEC-RAS Thalweg
+724.56
+100yr
+138.00
+6154.55
+6155.29
+6155.44
+0.002102
+3.07
+46.92
+92.94
+0.69
+HEC-RAS Thalweg
+914.79
+100yr
+138.00
+6154.71
+6155.60
+6155.69
+0.000894
+2.41
+59.34
+82.97
+0.47
+HEC-RAS Thalweg
+1118.82
+100yr
+99.00
+6156.26
+6156.70
+6156.70
+6156.90
+0.005153
+3.63
+27.25
+66.03
+1.00
+HEC-RAS Thalweg
+1299.23
+100yr
+102.00
+6157.48
+6158.13
+6158.13
+6158.34
+0.004950
+3.66
+27.85
+66.02
+0.99
+HEC-RAS Thalweg
+1432.11
+100yr
+101.00
+6159.63
+6160.30
+6160.30
+6160.50
+0.006439
+3.63
+27.83
+72.49
+1.03
+HEC-RAS Thalweg
+1571.97
+100yr
+122.00
+6161.54
+6162.28
+6162.28
+6162.51
+0.002941
+3.90
+37.51
+95.19
+0.97
+HEC-RAS Thalweg
+1696.4
+100yr
+119.00
+6163.03
+6163.85
+6163.85
+6164.09
+0.004195
+3.99
+31.34
+66.68
+0.95
+HEC-RAS Thalweg
+1832.48
+100yr
+119.00
+6165.39
+6166.21
+6166.21
+6166.47
+0.004511
+4.14
+31.62
+69.76
+0.98
+HEC-RAS Thalweg
+1977
+100yr
+84.00
+6167.91
+6168.62
+6168.62
+6168.82
+0.004617
+3.64
+25.31
+71.74
+0.96
+HEC-RAS Thalweg
+2108.55
+100yr
+84.00
+6170.18
+6170.88
+6170.88
+6171.07
+0.004456
+3.55
+27.85
+84.34
+0.94
+HEC-RAS Thalweg
+2267
+100yr
+94.00
+6172.02
+6172.75
+6172.75
+6172.95
+0.004276
+3.66
+30.43
+89.61
+0.93
+HEC-RAS Thalweg
+2463.8
+100yr
+94.00
+6173.98
+6174.74
+6174.74
+6174.94
+0.004235
+3.71
+28.33
+80.51
+0.93
+HEC-RAS Thalweg
+2574.39
+100yr
+110.00
+6175.23
+6176.04
+6176.04
+6176.28
+0.004282
+3.97
+30.45
+72.58
+0.95
+HEC-RAS Thalweg
+2700.88
+100yr
+127.00
+6176.87
+6177.63
+6177.63
+6177.88
+0.004708
+4.05
+32.44
+69.75
+1.00
+HEC-RAS Thalweg
+2793.31
+100yr
+127.00
+6178.55
+6179.41
+6179.41
+6179.67
+0.004106
+4.09
+34.07
+68.21
+0.95
+HEC-RAS Thalweg
+2967.08
+100yr
+76.00
+6182.24
+6182.84
+6182.84
+6183.02
+0.005632
+3.48
+24.27
+73.92
+1.03
+HEC-RAS Thalweg
+3064.75
+100yr
+77.00
+6184.83
+6185.52
+6185.52
+6185.71
+0.004723
+3.55
+23.27
+66.37
+0.96
+HEC-RAS Thalweg
+3260.43
+100yr
+77.00
+6186.23
+6186.98
+6186.98
+6187.15
+0.004882
+3.42
+24.77
+82.75
+0.97
+HEC-RAS Thalweg
+3401.18
+100yr
+112.00
+6186.93
+6187.78
+6187.78
+6188.00
+0.005338
+3.74
+29.94
+73.14
+1.02
+HEC-RAS Thalweg
+3523.33
+100yr
+112.00
+6187.99
+6188.49
+6188.49
+6188.69
+0.004566
+3.67
+32.16
+88.40
+0.97
+HEC-RAS Thalweg
+3628.05
+100yr
+130.00
+6190.01
+6190.76
+6190.76
+6191.02
+0.004676
+4.08
+32.65
+72.18
+1.00
+HEC-RAS Thalweg
+3726.43
+100yr
+130.00
+6193.62
+6194.22
+6194.22
+6194.44
+0.004583
+3.83
+36.15
+86.42
+0.98
+1
+```
+
+### Page 330 of 359
+
+```text
+0
+50
+100
+150
+200
+250
+300
+6193.5
+6194.0
+6194.5
+6195.0
+6195.5
+6196.0
+6196.5
+6197.0
+EversConcept3       Plan: Combined    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 3726.43
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6190
+6191
+6192
+6193
+6194
+6195
+6196
+6197
+6198
+EversConcept3       Plan: Combined    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 3628.05
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6187
+6188
+6189
+6190
+6191
+6192
+6193
+6194
+6195
+EversConcept3       Plan: Combined    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 3523.33
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6186
+6188
+6190
+6192
+6194
+6196
+EversConcept3       Plan: Combined    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 3401.18
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6186
+6188
+6190
+6192
+6194
+6196
+EversConcept3       Plan: Combined    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 3260.43
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6184
+6185
+6186
+6187
+6188
+6189
+6190
+6191
+EversConcept3       Plan: Combined    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 3064.75
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+1
+```
+
+### Page 331 of 359
+
+```text
+0
+50
+100
+150
+200
+250
+300
+6182
+6183
+6184
+6185
+6186
+6187
+6188
+EversConcept3       Plan: Combined    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 2967.08
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Levee
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6178
+6179
+6180
+6181
+6182
+6183
+6184
+EversConcept3       Plan: Combined    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 2793.31
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Levee
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6176
+6177
+6178
+6179
+6180
+6181
+6182
+6183
+EversConcept3       Plan: Combined    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 2700.88
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+20
+40
+60
+80
+100
+120
+140
+160
+6175
+6176
+6177
+6178
+6179
+6180
+EversConcept3       Plan: Combined    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 2574.39
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6173
+6174
+6175
+6176
+6177
+6178
+EversConcept3       Plan: Combined    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 2463.8
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Levee
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6172.0
+6172.5
+6173.0
+6173.5
+6174.0
+6174.5
+6175.0
+6175.5
+6176.0
+EversConcept3       Plan: Combined    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 2267
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+2
+```
+
+### Page 332 of 359
+
+```text
+0
+50
+100
+150
+200
+250
+300
+6170
+6171
+6172
+6173
+6174
+6175
+6176
+6177
+EversConcept3       Plan: Combined    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 2108.55
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6167
+6168
+6169
+6170
+6171
+6172
+6173
+6174
+6175
+EversConcept3       Plan: Combined    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 1977
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6164
+6166
+6168
+6170
+6172
+6174
+EversConcept3       Plan: Combined    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 1832.48
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+300
+6162
+6164
+6166
+6168
+6170
+6172
+EversConcept3       Plan: Combined    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 1696.4
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+50
+100
+150
+200
+250
+6161
+6162
+6163
+6164
+6165
+6166
+6167
+EversConcept3       Plan: Combined    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 1571.97
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.013
+.035
+0
+50
+100
+150
+200
+250
+300
+6159
+6160
+6161
+6162
+6163
+6164
+6165
+EversConcept3       Plan: Combined    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 1432.11
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+3
+```
+
+### Page 333 of 359
+
+```text
+0
+50
+100
+150
+200
+250
+300
+6156
+6158
+6160
+6162
+6164
+6166
+6168
+6170
+EversConcept3       Plan: Combined    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 1299.23
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.
+0
+1
+6
+.016
+0
+100
+200
+300
+400
+500
+6156
+6158
+6160
+6162
+6164
+6166
+6168
+EversConcept3       Plan: Combined    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 1118.82
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+100
+200
+300
+400
+6154
+6156
+6158
+6160
+6162
+6164
+EversConcept3       Plan: Combined    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 914.79
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+100
+200
+300
+400
+6154
+6155
+6156
+6157
+6158
+6159
+6160
+6161
+EversConcept3       Plan: Combined    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 724.56
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.035
+0
+100
+200
+300
+400
+500
+6152
+6154
+6156
+6158
+6160
+6162
+6164
+EversConcept3       Plan: Combined    9/20/2015
+River = HEC-RAS Thalweg   Reach = HEC-RAS Thalweg      RS = 564.79
+Station (ft)
+Elevation (ft)
+Legend
+WS 100yr
+Ground
+Bank Sta
+.035
+.016
+.
+0
+3
+5
+4
+```
+
+### Page 334 of 359 (scanned page: no text layer yet; see the original PDF)
+
+### Page 335 of 359
+
+```text
+Estimated
+Quantity
+1
+General Work and Demolition
+1
+LS
+$30,000.00
+$30,000.00
+2
+Surveying
+5966
+LF
+$2.50
+$14,915.00
+3
+Material Testing
+1
+LS
+$5,000.00
+$5,000.00
+4
+Water Control
+1
+LS
+$15,000.00
+$15,000.00
+5
+Connection into existing storm sewer
+1
+LS
+$15,000.00
+$15,000.00
+6
+24-inch Dia. Storm Sewer Culvert - Laterals
+800
+LS
+$84.00
+$67,200.00
+7
+36-inch Dia. Storm Sewer Culvert - Laterals
+150
+LF
+$106.00
+$15,900.00
+8
+54-inch Dia. Storm Sewer Culvert
+2233
+LF
+$220.00
+$491,260.00
+9
+60-inch Dia. Storm Sewer Culvert
+2748
+LF
+$252.00
+$692,496.00
+10
+ Manhole Risers/Bends
+35
+EA
+$5,000.00
+$175,000.00
+11
+Vault Manholes
+4
+EA
+$18,000.00
+$72,000.00
+12
+Curb Inlets (Concrete & Iron Works Installed)
+100
+EA
+$3,500.00
+$350,000.00
+13
+Trench Drain (Concrete & Iron Works Installed)
+1
+LS
+$50,000.00
+$50,000.00
+14
+Water Main Lowering
+1
+LS
+$40,000.00
+$40,000.00
+16
+Sanitary Sewer Pipe Replacement and Casing (15')
+1
+LS
+$10,000.00
+$10,000.00
+$2,033,771.00
+Cost
+BID SCHEDULE A - Alternative 1/Concept 1 (No Swale)
+  TOTAL COST
+Bid Item
+Description
+Unit
+Unit Price
+```
+
+### Page 336 of 359
+
+```text
+Estimated
+Quantity
+1
+General Work and Demolition
+1
+LS
+$30,000.00
+$30,000.00
+2
+Surveying
+6339
+LF
+$2.50
+$15,847.50
+3
+Material Testing
+1
+LS
+$5,000.00
+$5,000.00
+4
+Water Control
+1
+LS
+$15,000.00
+$15,000.00
+5
+Connection into existing storm sewer
+1
+LS
+$15,000.00
+$15,000.00
+6
+24-inch Dia. Storm Sewer Culvert - Laterals
+250
+LS
+$84.00
+$21,000.00
+7
+36-inch Dia. Storm Sewer Culvert - Laterals
+110
+LF
+$106.00
+$11,660.00
+8
+54-inch Dia. Storm Sewer Culvert
+3104
+LF
+$220.00
+$682,880.00
+9
+60-inch Dia. Storm Sewer Culvert
+2840
+LF
+$252.00
+$715,680.00
+10
+Manhole Risers/Bends
+35
+EA
+$5,000.00
+$175,000.00
+11
+Vault Manholes
+4
+EA
+$18,000.00
+$72,000.00
+13
+Area Inlets (Concrete & Iron Works Installed)
+50
+EA
+$4,500.00
+$225,000.00
+14
+Trench Drain (Concrete & Iron Works Installed)
+1
+LS
+$50,000.00
+$50,000.00
+15
+Water Main Lowering
+1
+LS
+$40,000.00
+$40,000.00
+16
+Sanitary Sewer Pipe Replacement and Casing (15')
+1
+LS
+$10,000.00
+$10,000.00
+$2,074,067.50
+Cost
+BID SCHEDULE A: Alternative 2/Concept 2 (Swale)
+  TOTAL COST
+Bid Item
+Description
+Unit
+Unit Price
+```
+
+### Page 337 of 359
+
+```text
+Estimated
+Quantity
+1
+General Work and Demolition
+1
+LS
+$30,000.00
+$30,000.00
+2
+Surveying
+6755
+LF
+$2.50
+$16,887.50
+3
+Material Testing
+1
+LS
+$5,000.00
+$5,000.00
+4
+Water Control
+1
+LS
+$15,000.00
+$15,000.00
+5
+Connection into existing storm sewer
+1
+LS
+$15,000.00
+$15,000.00
+6
+24-inch Dia. Storm Sewer Culvert - Laterals
+558
+LS
+$84.00
+$46,872.00
+7
+36-inch Dia. Storm Sewer Culvert - Laterals
+116
+LF
+$106.00
+$12,296.00
+8
+54-inch Dia. Storm Sewer Culvert
+994
+LF
+$220.00
+$218,680.00
+9
+60-inch Dia. Storm Sewer Culvert
+5052
+LF
+$252.00
+$1,273,104.00
+10
+Manhole Risers/Bends
+35
+EA
+$5,000.00
+$175,000.00
+11
+Vault Manholes
+4
+EA
+$18,000.00
+$72,000.00
+12
+Curb Inlets (Concrete & Iron Works Installed)
+68
+EA
+$3,500.00
+$238,000.00
+13
+Area Inlets (Concrete & Iron Works Installed)
+28
+EA
+$4,500.00
+$126,000.00
+14
+Trench Drain (Concrete & Iron Works Installed)
+1
+LS
+$50,000.00
+$50,000.00
+15
+Water Main Lowering
+1
+LS
+$40,000.00
+$40,000.00
+16
+Sanitary Sewer Pipe Replacement and Casing (15')
+1
+LS
+$10,000.00
+$10,000.00
+$2,343,839.50
+  TOTAL COST
+BID SCHEDULE A - Alternative 3/Concept 3 (Combination of Concept 1 and 2)
+Bid Item
+Description
+Unit
+Unit Price
+Cost
+```
+
+### Page 338 of 359
+
+```text
+Appendix D: Conceptual Plans and Opinion of Probable Cost
+
+
+35% Plan and Profiles (Storm sewer outfall to Vandehei Avenue)
+
+35% Plans (Vandehei Avenue to Brittany Drive)
+
+35% Cross Sections (Bishop Boulevard to Vandehei Avenue)
+
+Preliminary Engineer’s Opinion of Probable Cost
+```
+
+### Page 339 of 359
+
+```text
+8'
+PARKING
+11'
+TRAVEL LANE
+6'
+BIKE LANE
+8'
+PARKING
+11'
+TRAVEL LANE
+6'
+BIKE LANE
+2'
+CONC.
+4'
+4' COBBLE
+CHANNEL
+4'
+2'
+CONC.
+80' ROW
+6'
+SIDEWALK
+6'
+SIDEWALK
+1'
+67' ROADWAY WIDTH
+0.5'
+0.5'
+11' TRAVEL LANE
+6'
+BIKE
+LANE
+8'
+PARKING
+11' TRAVEL LANE
+6'
+BIKE
+LANE
+8'
+PARKING
+50' ROADWAY WIDTH
+6'
+SIDEWALK
+80' ROW
+8.5'
+2.0%
+2.0%
+2.0%
+2.0%
+2.0%
+2.0%
+2.0%
+2.0%
+PROFILE POINT
+PROFILE POINT
+6" OF ASPHALT ON 8"
+OF CRUSHED BASE
+4" CONCRETE
+SIDEWALK ON 4" OF
+CRUSHED BASE
+TYPE A CURB AND
+GUTTER ON 8" OF
+CRUSHED BASE
+6" OF ASPHALT ON 8"
+OF CRUSHED BASE
+4" CONCRETE
+SIDEWALK ON 4" OF
+CRUSHED BASE
+TYPE A CURB AND
+GUTTER ON 8" OF
+CRUSHED BASE
+4" CONCRETE
+SIDEWALK ON 4" OF
+CRUSHED BASE
+TYPE A CURB AND
+GUTTER ON 8" OF
+CRUSHED BASE
+6" OF ASPHALT ON 8"
+OF CRUSHED BASE
+4" CONCRETE
+SIDEWALK ON 4" OF
+CRUSHED BASE
+TYPE A CURB AND
+GUTTER ON 8" OF
+CRUSHED BASE
+TYPICAL SECTION - EVERS BOULEVARD
+FROM CREIGHTON STREET TO VANDEHEI AVENUE
+TYPICAL SECTION - EVERS BOULEVARD
+FROM BISHOP BOULEVARD TO CREIGHTON STREET
+6'
+SIDEWALK
+8.5'
+```
+
+### Page 340 of 359
+
+```text
+6130
+6135
+6140
+6145
+6150
+6155
+6160
+6165
+6170
+6130
+6135
+6140
+6145
+6150
+6155
+6160
+6165
+6170
+0+00
+1+00
+2+00
+3+00
+4+00
+5+00
+5+50
+24" WATER MAIN IN A CASING PIPE
+7.0' BURY DEPTH ASSUMED
+15" SANITARY
+11.5' BURY DEPTH ASSUMED
+TO BE CASED UNDER STORM SEWER
+92.49 LF 60" CULVERT @ 0.3%
+60.21 LF 60" CULVERT @ 0.7%
+197.19 LF 60" CULVERT @ 0.6%
+171.19 LF 60" CULVERT @ 0.5%
+JUNCTION 1
+STA 0+09.01
+RIM 6146.9±
+INV. OUT 6138.16 (NW)
+RISER 3
+STA 3+32.88
+RIM 6151.9±
+INV. IN 6139.73 (S)
+INV. OUT 6139.73 (N)
+RISER 2
+STA 1+61.71
+RIM 6150.0±
+INV. IN 6138.84 (S)
+INV. OUT 6138.84 (N)
+RISER 1
+STA 0+69.22
+RIM 6149.9±
+INV. IN 6138.59 (SE)
+INV. OUT 6138.59 (N)
+JUNCTION 2
+STA 5+30.07
+RIM 6154.0±
+INV. IN 6140.86 (S)
+INV. OUT 6140.86 (N)
+MATCH LINE
+STA 5+50.00
+SEE SHEET PP-2
+0
+20'
+40'
+SCALE: 1" = 40'
+10'
+BISHOP BLVD.
+I-25
+CONCEPTUAL
+NOT FOR CONSTRUCTION
+EXISTING GROUND
+WESTERN
+HILLS BLVD.
+EXISTING 24" WATER MAIN, DEPTH UNKNOWN.
+LINE TO BE POTHOLED AND DEPTH DETERMINED
+DURING DESIGN. LOWERING OF THIS WATER MAIN
+IS ANTICIPATED FOR STORM SEWER
+CONSTRUCTION. WATER MAIN IS IN A CASING
+PIPE UNDER BISHOP BOULEVARD. CASING PIPE
+TO BE CUT AT WYDOT R.O.W. LINE, LOWERING TO
+TAKE PLACE UNDER BISHOP BOULEVARD.
+PORTION OF PIPE UNDER STORM SEWER SHALL
+BE PLACED IN A CASING PIPE. WATER MAIN WORK
+IS RESTRICTED TO NOVEMBER 1 THRU APRIL 1.
+EXISTING SANITARY SEWER
+EXISTING
+DETENTION
+POND
+EXISTING
+INLET
+STRUCTURE
+```
+
+### Page 341 of 359
+
+```text
+6135
+6140
+6145
+6150
+6155
+6160
+6165
+6170
+6175
+6135
+6140
+6145
+6150
+6155
+6160
+6165
+6170
+6175
+5+50
+6+00
+7+00
+8+00
+9+00
+10+00
+11+00
+-4.40%
+200.0' VC
+LOW PT ELEV = 6153.42
+LOW PT STA = 10+60.89
+PVI STA = 9+90.02
+PVI ELEV = 6152.78
+A.D. = 5.15
+K = 38.84
+BCVS: 8+90.03
+BVCE: 6157.18
+ECVS: 10+90.02
+EVCE: 6153.53
+90° TURN IN ℄
+276.24 LF 60" CULVERT @ 1.1%
+34.95 LF 60" CULVERT @ 1.1%
+162.65 LF 60" CULVERT @ 0.5%
+RISER 5
+STA 8+66.59
+RIM 6158.4±
+INV. IN 6144.20 (SE)
+INV. OUT 6144.20 (W)
+RISER 4
+STA 8+06.31
+RIM 6158.0±
+INV. IN 6143.80 (S)
+INV. OUT 6143.80 (NW)
+RISER 6
+STA 10+26.18
+RIM 6153.7±
+INV. IN 6145.00 (E)
+INV. OUT 6145.00 (NW)
+114.26 LF 60" CULVERT @ 0.7%
+MATCH LINE
+STA 5+50.00
+SEE SHEET PP-1
+MATCH LINE
+STA 11+00.00
+SEE SHEET PP-3
+0
+20'
+40'
+SCALE: 1" = 40'
+10'
+BISHOP BLVD.
+I-25
+EVERS BLVD.
+ BIO-SWALE
+6' SIDEWALK
+ADA RAMPS
+EXISTING GROUND
+PROPOSED ROADWAY
+CONCEPTUAL
+NOT FOR CONSTRUCTION
+6' SIDEWALK
+JESSUP
+ELEMENTARY
+SECHOOL
+I-25
+END EXISTING UTILITY LINEWORK.  EXISTING
+BOPU UTILITIES TO BE RECONSTRUCTED ALONG
+EVERS BOULEVARD AND HAVE NOT BEEN
+INCLUDED WITH THIS CONCEPTUAL DESIGN
+EXISTING SANITARY SEWER
+EXISTING
+DETENTION
+POND
+Dry Creek GW
+0.1 mi.
+1 min.
+Bike Lane Ends
+Vandehei Ave.
+0.6 mi.
+4 min.
+Bike Lane Begins
+```
+
+### Page 342 of 359
+
+```text
+6135
+6140
+6145
+6150
+6155
+6160
+6165
+6170
+6175
+6135
+6140
+6145
+6150
+6155
+6160
+6165
+6170
+6175
+11+00
+12+00
+13+00
+14+00
+15+00
+16+00
+0.75%
+75.0' VC
+PVI STA = 15+39.57
+PVI ELEV = 6156.90
+A.D. = 0.33
+K = 226.57
+BCVS: 15+02.07
+BVCE: 6156.62
+ECVS: 15+77.08
+EVCE: 6157.31
+176.47 LF 60" CULVERT @ 0.7%
+162.59 LF 60" CULVERT @ 0.4%
+RISER 8
+STA 13+12.88
+RIM 6155.2±
+INV. IN 6147.00 (SE)
+INV. OUT 6147.00 (NW)
+RISER 7
+STA 11+37.92
+RIM 6154.0±
+INV. IN 6145.80 (SE)
+INV. OUT 6145.80 (NW)
+RISER 9
+STA 14+75.02
+RIM 6156.4±
+INV. IN 6147.70 (SE)
+INV. OUT 6147.70 (NW)
+MATCH LINE
+STA 11+00.00
+SEE SHEET PP-2
+MATCH LINE
+STA 16+00.00
+SEE SHEET PP-4
+0
+20'
+40'
+SCALE: 1" = 40'
+10'
+EVERS BLVD.
+DEER AVE.
+CREIGHTON ST.
+JESSUP ELEMENTARY
+SCHOOL
+12' BIO-SWALE
+6' SIDEWALK
+ADA RAMPS
+12' BIO-SWALE
+BIO-SWALE
+ADA RAMPS
+6' SIDEWALK
+6' SIDEWALK
+EXISTING
+GROUND
+RESET EXISTING
+SCHOOL ZONE
+FLASHER
+RESET EXISTING
+SCHOOL ZONE
+FLASHER
+ADA RAMPS
+ADA RAMPS
+CONCEPTUAL
+NOT FOR CONSTRUCTION
+PROPOSED ROADWAY
+PRIVATE
+DRIVE
+6' SIDEWALK
+Dry Creek GW
+0.3 mi.
+2 min.
+705 CREIGHTON ST.
+6404 EVERS BLVD.
+REMOVE EXISTING
+RETAINING WALL
+NEW RETAINING WALL
+NEW
+RETAINING
+WALL
+REMOVE EXISTING
+RETAINING WALL
+RECONSTRUCT
+STAIRS AND
+RAILING
+REMOVE EXISTING
+TREES (5 TOTAL)
+VALLEY PAN
+VALLEY PAN
+254.93 LF 60" CULVERT @ 0.9%
+```
+
+### Page 343 of 359
+
+```text
+6140
+6145
+6150
+6155
+6160
+6165
+6170
+6175
+6180
+6140
+6145
+6150
+6155
+6160
+6165
+6170
+6175
+6180
+16+00
+17+00
+18+00
+19+00
+20+00
+21+00
+21+50
+1.00%
+1.08%
+3.35%
+1.70%
+50.0' VC
+PVI STA = 18+39.58
+PVI ELEV = 6162.00
+A.D. = 0.70
+K = 71.42
+BVCS: 18+14.58
+BVCE: 6161.58
+EVCS: 18+64.58
+EVCE: 6162.25
+50.0' VC
+PVI STA = 19+39.58
+PVI ELEV = 6163.00
+A.D. = 0.74
+K = 67.85
+BCVS: 19+14.58
+BVCE: 6162.75
+ECVS: 19+64.58
+EVCE: 6163.43
+1.74%
+254.93 LF 60" CULVERT @ 0.9%
+122.61 LF 60" CULVERT @ 1.9%
+159.15 LF 60" CULVERT @ 1.5%
+109.37 LF 60" CULVERT @ 2.1%
+RISER 13
+STA 21+20.95
+RIM 6166.0±
+INV. IN 6156.86 (SE)
+INV. OUT 6156.86 (NW)
+RISER 12
+STA 20+11.61
+RIM 6164.1±
+INV. IN 6154.56 (SE)
+INV. OUT 6154.56 (NW)
+RISER 11
+STA 18+52.41
+RIM 6162.0±
+INV. IN 6152.24 (SE)
+INV. OUT 6152.24 (NW)
+RISER 10
+STA 17+29.86
+RIM 6159.9±
+INV. IN 6149.88 (SE)
+INV. OUT 6149.88 (NW)
+PROFILE POINT
+TRANSITION
+MATCH LINE
+STA 16+00.00
+SEE SHEET PP-3
+MATCH LINE
+STA 21+50.00
+SEE SHEET PP-5
+0
+20'
+40'
+SCALE: 1" = 40'
+10'
+EVERS BLVD.
+RIDGELAND ST.
+CREIGHTON ST.
+RIDGELAND ST.
+BIO-SWALE
+6' SIDEWALK
+ADA RAMPS
+ADA RAMPS
+ADA RAMPS
+6' SIDEWALK
+6' SIDEWALK
+6' SIDEWALK
+6' SIDEWALK
+EXISTING
+GROUND
+PROPOSED
+ROADWAY
+CONCEPTUAL
+NOT FOR CONSTRUCTION
+℄
+0%
+17+30
+℄
+-2%
+-2%
+17+60
+SUPERELEVATION
+ROTATION
+-2%
+-2%
+℄
+17+00
+0%
+12' VALLEY PAN
+12' VALLEY PAN
+12' VALLEY PAN
+6404 EVERS BLVD.
+6414 EVERS BLVD.
+657 CREIGHTON ST.
+6421 EVERS BLVD.
+6427 EVERS BLVD.
+706 RIDGELAND ST.
+6507 EVERS BLVD.
+ CONCRETE VALLEY PAN,
+MIN. 4' WIDE AT STATION
+17+00, TAPER TO OUTSIDE
+OF SLOPED NOSE.  SLOPED
+NOSE WILL HAVE 4' WIDE
+OPENING FOR WATER TO
+FLOW INTO SWALE.
+TREE PROTECTION (2 TOTAL)
+```
+
+### Page 344 of 359
+
+```text
+6145
+6150
+6155
+6160
+6165
+6170
+6175
+6180
+6185
+6145
+6150
+6155
+6160
+6165
+6170
+6175
+6180
+6185
+21+50
+22+00
+23+00
+24+00
+25+00
+26+00
+26+50
+1.74%
+1.00%
+100.0' VC
+PVI STA = 24+14.58
+PVI ELEV = 6171.25
+A.D. = 0.74
+K = 135.70
+BVCS: 23+64.58
+BVCE: 6170.38
+EVCS: 24+64.58
+EVCE: 6171.75
+112.92 LF 60" CULVERT @ 1.2%
+143.37 LF 60" CULVERT @ 1.9%
+153.30 LF 60" CULVERT @ 1.6%
+152.54 LF 60" CULVERT @ 1.6%
+RISER 15A
+STA 25+29.73
+RIM 6172.2±
+INV. IN 6163.27 (SE)
+INV. OUT 6163.23 (NW)
+RISER 14
+STA 23+77.19
+RIM 6170.4±
+INV. IN 6160.86 (SE)
+INV. OUT 6160.86 (NW)
+JUNCTION 3
+STA 22+33.84
+RIM 6167.9±
+INV. IN 6158.18 (SE)
+INV. OUT 6158.18 (NW)
+MATCH LINE
+STA 21+50.00
+SEE SHEET PP-4
+MATCH LINE
+STA 26+50.00
+SEE SHEET PP-6
+0
+20'
+40'
+SCALE: 1" = 40'
+10'
+EVERS BLVD.
+EVERGREEN ST.
+EVERGREEN  ST.
+GOLDEN HILL ST.
+6' SIDEWALK
+ADA RAMPS
+6' SIDEWALK
+ADA RAMPS
+ADA RAMPS
+6' SIDEWALK
+6' SIDEWALK
+EXISTING GROUND
+PROPOSED ROADWAY
+CONCEPTUAL
+NOT FOR CONSTRUCTION
+12' VALLEY PAN
+12' VALLEY PAN
+6516 EVERS BLVD.
+6507 EVERS BLVD.
+6521 EVERS BLVD.
+6600 EVERS BLVD.
+6616 EVERS BLVD.
+6605 EVERS BLVD.
+6615 EVERS BLVD.
+REGRADE EXISTING
+GRAVEL TO MATCH NEW
+CONCRETE DRIVEWAY
+EXISTING WOOD LANDSCAPE
+RETAINING WALL
+```
+
+### Page 345 of 359
+
+```text
+6155
+6160
+6165
+6170
+6175
+6180
+6185
+6190
+6195
+6155
+6160
+6165
+6170
+6175
+6180
+6185
+6190
+6195
+26+50
+27+00
+28+00
+29+00
+30+00
+31+00
+31+50
+1.25%
+2.00%
+100.0' VC
+PVI STA = 27+89.57
+PVI ELEV = 6175.00
+A.D. = 0.25
+K = 400.12
+BCVS: 27+39.57
+BVCE: 6174.50
+ECVS: 28+39.57
+EVCE: 6175.63
+100.0' VC
+PVI STA = 29+89.58
+PVI ELEV = 6177.50
+A.D. = 0.75
+K = 133.33
+BCVS: 29+39.58
+BVCE: 6176.88
+ECVS: 30+39.58
+EVCE: 6178.50
+1.00%
+131.67 LF 60" CULVERT @ 1.3%
+127.95 LF 60" CULVERT @ 1.4%
+84.74 LF 60" CULVERT @ 1.4%
+103.91 LF 54" CULVERT @ 1.4%
+RISER 18
+STA 31+29.01
+RIM 6180.0±
+INV. IN 6171.79 (SE)
+INV. OUT 6171.79 (NW)
+RISER 17
+STA 29+40.61
+RIM 6176.7±
+INV. IN 6169.14 (SE)
+INV. OUT 6169.14 (NW)
+RISER 16
+STA 28+12.60
+RIM 6175.1±
+INV. IN 6167.32 (SE)
+INV. OUT 6167.32 (NW)
+RISER 15
+STA 26+82.03
+RIM 6173.7±
+INV. IN 6165.62 (SE)
+INV. OUT 6165.62 (NW)
+RISER 18
+STA 31+29.01
+RIM 6180.0±
+INV. IN 6171.79 (SE)
+INV. OUT 6171.79 (NW)
+JUNCTION 4
+STA 30+25.34
+RIM 6178.0±
+INV. IN 6170.34 (SE)
+INV. OUT 6170.34 (NW)
+MATCH LINE
+STA 26+50.00
+SEE SHEET PP-5
+MATCH LINE
+STA 31+50.00
+SEE SHEET PP-7
+0
+20'
+40'
+SCALE: 1" = 40'
+10'
+EVERS BLVD.
+GOLDEN HILL ST.
+HIRST ST.
+RANGER DR.
+RANGER DR.
+CONCEPTUAL
+NOT FOR CONSTRUCTION
+6' SIDEWALK
+ADA RAMPS
+6' SIDEWALK
+6' SIDEWALK
+ADA RAMP
+ADA RAMPS
+EXISTING GROUND
+PROPOSED ROADWAY
+12' VALLEY PAN
+12' VALLEY PAN
+12' VALLEY PAN
+ADA RAMP
+ADA RAMP
+12' VALLEY PAN
+ADA RAMP
+808 GOLDEN HILL ST.
+6705 EVERS BLVD.
+751 HIRST ST.
+803 RANGER DR.
+6805 EVERS BLVD.
+779 RANGER DR.
+EXISTING RETAINING WALL
+BEHIND BACK OF WALK
+REMOVE AND RESET
+EXISTING FENCE
+```
+
+### Page 346 of 359
+
+```text
+6160
+6165
+6170
+6175
+6180
+6185
+6190
+6195
+6200
+6160
+6165
+6170
+6175
+6180
+6185
+6190
+6195
+6200
+31+50
+32+00
+33+00
+34+00
+35+00
+36+00
+36+50
+50.0' VC
+PVI STA = 32+89.58
+PVI ELEV = 6184.82
+A.D. = 3.59
+K = 13.93
+BVCS: 32+64.59
+BVCE: 6183.66
+EVCS: 33+14.57
+EVCE: 6185.08
+100.0' VC
+PVI STA = 34+14.58
+PVI ELEV = 6186.13
+A.D. = 0.55
+K = 183.04
+BVCS: 33+64.58
+BVCE: 6185.60
+EVCS: 34+64.58
+EVCE: 6186.38
+49.0' VC
+PVI STA = 32+39.58
+PVI ELEV = 6182.50
+A.D. = 2.63
+K = 18.60
+BCVS: 32+15.08
+BVCE: 6182.01
+ECVS: 32+64.08
+EVCE: 6183.64
+0.50%
+217.07 LF 54" CULVERT @ 1.7%
+120.77 LF 54" CULVERT @ 1.0%
+150.32 LF 54" CULVERT @ 0.5%
+51.72 LF 54" CULVERT @ 2.3%
+RISER 21
+STA 35+29.11
+RIM 6186.5±
+INV. IN 6177.78 (S)
+INV. OUT 6177.78 (NE)
+RISER 20
+STA 34+01.33
+RIM 6185.8±
+INV. IN 6176.63 (SE)
+INV. OUT 6176.63 (N)
+RISER 19
+STA 31+80.98
+RIM 6181.1±
+INV. IN 6173.00 (SE)
+INV. OUT 6173.00 (NW)
+2.00%
+1.05%
+MATCH LINE
+STA 31+50.00
+SEE SHEET PP-6
+MATCH LINE
+STA 36+50.00
+SEE SHEET PP-8
+0
+20'
+40'
+SCALE: 1" = 40'
+10'
+EVERS BLVD.
+ALDER CT.
+RANGER DR.
+EXISTING GROUND
+PROPOSED ROADWAY
+ADA RAMPS
+6' SIDEWALK
+ADA RAMPS
+6' SIDEWALK
+6' SIDEWALK
+ADA RAMPS
+TURN  SIGN WITH
+ADVISORY SPEED
+PLAQUE
+CONCEPTUAL
+NOT FOR CONSTRUCTION
+REGRADE EXISTING
+GRAVEL TO MATCH
+NEW CONCRETE DRIVE
+12' VALLEY PAN
+6816 EVERS BLVD.
+780 RANGER DR.
+6809 EVERS. BLVD
+6817 EVERS. BLVD
+6820 EVERS BLVD.
+6826  EVERS. BLVD
+TREE PROTECTION
+TREE PROTECTION
+TREE PROTECTION
+(3 TOTAL)
+EXISTING LANDSCAPE
+RETAINING WALL
+EXISTING FENCE TO BE
+REMOVED AND RESET
+```
+
+### Page 347 of 359
+
+```text
+6160
+6165
+6170
+6175
+6180
+6185
+6190
+6195
+6200
+6160
+6165
+6170
+6175
+6180
+6185
+6190
+6195
+6200
+36+50
+37+00
+38+00
+39+00
+39+50
+STA. 37+64.81
+TIE TO EXISTING
+END TOTAL
+RECONSTRUCTION
+151.66 LF 54" CULVERT @ 1.7%
+95.63 LF 54" CULVERT @ 1.1%
+19.45 LF 54" CULVERT @ 4.5%
+RISER 22
+STA 36+82.06
+RIM 6187.2±
+INV. IN 6178.58 (SW)
+INV. OUT 6178.58 (N)
+RISER 23
+STA 38+33.68
+RIM 6188.5±
+INV. IN 6181.13 (S)
+INV. OUT 6181.13 (NE)
+JUNCTION 5
+STA 39+48.64
+RIM 6192.0±
+INV. IN 6183.03 (SW)
+STA 39+50.00
+MATCHLINE
+SEE SHEET PP-9
+MATCH LINE
+STA 36+50.00
+SEE SHEET PP-7
+0
+20'
+40'
+SCALE: 1" = 40'
+10'
+EVERS BLVD.
+VANDEHEI AVE.
+ADA RAMPS
+6' SIDEWALK
+6' SIDEWALK
+EXISTING GROUND
+PROPOSED
+ROADWAY
+TURN SIGN WITH
+ADVISORY SPEED
+PLAQUE
+CONCEPTUAL
+NOT FOR CONSTRUCTION
+12' VALLEY PAN
+QUADRUPLE TYPE A INLET,
+REMOVE AND REPLACE
+CURB AND GUTTER
+QUADRUPLE TYPE A INLET,
+REMOVE AND REPLACE
+CURB AND GUTTER
+TRENCH GRATE 20' x 4'
+FUTURE
+IMPROVEMENTS
+EXISTING VALLEY
+PAN TO REMAIN
+6835 EVERS BLVD.
+779 VANDEHEI AVE.
+801 VANDEHEI AVE.
+770 VANDEHEI AVE.
+800 VANDEHEI AVE.
+STA. 37+05.94
+TIE TO EXISTING
+END TOTAL RECONSTRUCTION
+ADA RAMPS
+Yellowstone Rd.
+0.8 mi.
+5 min.
+Pointe Park
+1.5 mi.
+9 min.
+Dry Creek GW
+0.7 mi.
+4 min.
+Yellowstone Rd.
+0.8 mi.
+5 min.
+Pointe Park
+1.5 mi.
+9 min.
+```
+
+### Page 348 of 359
+
+```text
+STA 39+50.00
+MATCHLINE
+SEE SHEET PP-8
+0
+20'
+40'
+SCALE: 1" = 40'
+10'
+EVERS BLVD.
+DOGWOOD AVE.
+0
+20'
+40'
+SCALE: 1" = 40'
+10'
+EVERS BLVD.
+SILVER SAGE AVE.
+ADA RAMPS
+6' SIDEWALK
+6' SIDEWALK
+6' SIDEWALK
+6' SIDEWALK
+ADA RAMPS
+6' SIDEWALK
+6' SIDEWALK
+6' SIDEWALK
+6' SIDEWALK
+TURN  SIGN WITH
+ADVISORY SPEED
+PLAQUE
+TURN  SIGN WITH
+ADVISORY SPEED
+PLAQUE
+12' VALLEY PAN
+12' VALLEY
+PAN
+12' VALLEY
+PAN
+12' VALLEY
+PAN
+ADA RAMPS
+6' SIDEWALK
+6' SIDEWALK
+12' VALLEY
+PAN
+12' VALLEY
+PAN
+REMOVE EXISTING YIELD SIGN
+AND REPLACE WITH STOP SIGN
+REMOVE EXISTING
+YIELD SIGN AND
+REPLACE WITH
+STOP SIGN
+RODEO AVE.
+6910 EVERS BLVD.
+749 DOGWOOD AVE.
+6911 EVERS BLVD.
+6923 EVERS BLVD.
+7001 EVERS BLVD.
+7007 EVERS BLVD.
+7013 EVERS BLVD.
+748 DOGWOOD AVE.
+749 SILVER SAGE AVE.
+7019 EVERS BLVD.
+732 SILVER SAGE AVE.
+748 SILVER SAGE AVE.
+733 RODEO AVE.
+745 RODEO AVE.
+7200 EVERS BLVD.
+730 RODEO AVE.
+QUADRUPLE TYPE A INLET,
+REMOVE AND REPLACE
+CURB AND GUTTER
+QUADRUPLE TYPE A INLET,
+REMOVE AND REPLACE
+CURB AND GUTTER
+```
+
+### Page 349 of 359
+
+```text
+0
+20'
+40'
+SCALE: 1" = 40'
+10'
+EVERS BLVD.
+EARLE CT.
+0
+20'
+40'
+SCALE: 1" = 40'
+10'
+EVERS BLVD.
+BRITTANY DR.
+6' SIDEWALK
+6' SIDEWALK
+ADA RAMPS
+6' SIDEWALK
+6' SIDEWALK
+6' SIDEWALK
+REMOVE EXISTING YIELD SIGN
+AND REPLACE WITH STOP SIGN
+REMOVE EXISTING YIELD SIGN
+AND REPLACE WITH STOP SIGN
+REMOVE EXISTING YIELD SIGN
+AND REPLACE WITH STOP SIGN
+REMOVE EXISTING
+YIELD SIGN AND
+REPLACE WITH
+STOP SIGN
+REMOVE EXISTING YIELD SIGN
+AND REPLACE WITH STOP SIGN
+OAKHURST DR.
+7200 EVERS BLVD.
+751 EARLE CT.
+730 RODEO AVE.
+7213 EVERS BLVD.
+7221 EVERS BLVD.
+7229 EVERS BLVD.
+7224 EVERS BLVD.
+741 OAKHURST DR.
+721 OAKHURST DR.
+740 OAKHURST DR.
+726 OAKHURST DR.
+7404 EVERS BLVD.
+7409 EVERS BLVD.
+735 BRITTANY DR.
+713 BRITTANY DR.
+7509 EVERS BLVD.
+W. Hills Park
+0.1 mi.
+1 min.
+Bike Lane Ends
+Dry Creek GW
+1.0 mi.
+6 min.
+Bike Lane Begins
+```
+
+### Page 350 of 359 (scanned page: no text layer yet; see the original PDF)
+
+### Page 351 of 359
+
+```text
+16+33
+6156
+6160
+6164
+6156
+6160
+6164
+0
+20
+40
+60
+0
+-20
+-40
+-60
+10+97.65
+6152
+6156
+6160
+6152
+6156
+6160
+0
+20
+40
+60
+0
+-20
+-40
+-60
+12+34.98
+6152
+6156
+6160
+6164
+6152
+6156
+6160
+6164
+0
+20
+40
+60
+0
+-20
+-40
+-60
+14+37.41
+6152
+6156
+6160
+6164
+6152
+6156
+6160
+6164
+0
+20
+40
+60
+0
+-20
+-40
+-60
+15+76.54
+6156
+6160
+6164
+6156
+6160
+6164
+0
+20
+40
+60
+0
+-20
+-40
+-60
+16+09.40
+6156
+6160
+6164
+6156
+6160
+6164
+0
+20
+40
+60
+0
+-20
+-40
+-60
+17+24.35
+6156
+6160
+6164
+6156
+6160
+6164
+0
+20
+40
+60
+0
+-20
+-40
+-60
+17+81.97
+6160
+6164
+6168
+6160
+6164
+6168
+0
+20
+40
+60
+0
+-20
+-40
+-60
+18+35.71
+6160
+6164
+6168
+6160
+6164
+6168
+0
+20
+40
+60
+0
+-20
+-40
+-60
+18+65.31
+6160
+6164
+6168
+6160
+6164
+6168
+0
+20
+40
+60
+0
+-20
+-40
+-60
+18+89.66
+6160
+6164
+6168
+6160
+6164
+6168
+0
+20
+40
+60
+0
+-20
+-40
+-60
+20+01.43
+6160
+6164
+6168
+6160
+6164
+6168
+0
+20
+40
+60
+0
+-20
+-40
+-60
+20+23.63
+6164
+6168
+6172
+6164
+6168
+6172
+0
+20
+40
+60
+0
+-20
+-40
+-60
+20+63.15
+6164
+6168
+6172
+6164
+6168
+6172
+0
+20
+40
+60
+0
+-20
+-40
+-60
+21+08.85
+6164
+6168
+6172
+6164
+6168
+6172
+0
+20
+40
+60
+0
+-20
+-40
+-60
+21+59.94
+6164
+6168
+6172
+6164
+6168
+6172
+0
+20
+40
+60
+0
+-20
+-40
+-60
+PRIVATE DRIVE
+TO CONDOS
+CREIGHTON ST.
+WEST SIDE
+DEER AVE.
+6404 EVERS BLVD.
+DRIVEWAY
+657 CREIGHTON ST.
+DRIVEWAY
+ALLEY
+CREIGHTON ST.
+EAST SIDE
+6414 EVERS BLVD.
+DRIVEWAY
+6421 EVERS BLVD.
+DRIVEWAY
+RIDGELAND ST.
+WEST SIDE
+6427 EVERS BLVD.
+DRIVEWAY
+RIDGELAND ST.
+EAST SIDE
+ALLEY
+6507 EVERS BLVD.
+DRIVEWAY
+6516 EVERS BLVD.
+DRIVEWAY
+6521 EVERS BLVD.
+DRIVEWAY
+10.0%
+3.6%
+3.2%
+1.5%
+10.0%
+8.0%
+6.9%
+10.0%
+10.0%
+6.4%
+9.7%
+10.0%
+9.5%
+6.8%
+8.8%
+6156.4
+6155.0
+6159.2
+6156.5
+6160.0
+6157.1
+6160.1
+6159.4
+6163.0
+6162.6
+6162.0
+6162.0
+6167.0
+6167.0
+6166.6
+6166.2
+6.3%
+6168.0
+6167.8
+6186.0
+6185.5
+NOTE:  EXISTING TOPOGRAPHY IS BASED ON 1' GIS AERIAL CONTOURS
+NEW RETAINING WALL
+NEW RETAINING WALL
+```
+
+### Page 352 of 359
+
+```text
+22+22.41
+6164
+6168
+6172
+6176
+6164
+6168
+6172
+6176
+0
+20
+40
+60
+0
+-20
+-40
+-60
+22+80.32
+6168
+6172
+6176
+6168
+6172
+6176
+0
+20
+40
+60
+0
+-20
+-40
+-60
+23+39.29
+6168
+6172
+6176
+6168
+6172
+6176
+0
+20
+40
+60
+0
+-20
+-40
+-60
+23+66.11
+6168
+6172
+6176
+6168
+6172
+6176
+0
+20
+40
+60
+0
+-20
+-40
+-60
+24+22.59
+6168
+6172
+6176
+6168
+6172
+6176
+0
+20
+40
+60
+0
+-20
+-40
+-60
+24+55.72
+6168
+6172
+6176
+6168
+6172
+6176
+0
+20
+40
+60
+0
+-20
+-40
+-60
+25+19.18
+6168
+6172
+6176
+6168
+6172
+6176
+0
+20
+40
+60
+0
+-20
+-40
+-60
+25+61.38
+6168
+6172
+6176
+6168
+6172
+6176
+0
+20
+40
+60
+0
+-20
+-40
+-60
+26+40.83
+6172
+6176
+6180
+6172
+6176
+6180
+0
+20
+40
+60
+0
+-20
+-40
+-60
+26+25.32
+6168
+6172
+6176
+6168
+6172
+6176
+0
+20
+40
+60
+0
+-20
+-40
+-60
+26+91.72
+6172
+6176
+6180
+6172
+6176
+6180
+0
+20
+40
+60
+0
+-20
+-40
+-60
+28+16.24
+6172
+6176
+6180
+6172
+6176
+6180
+0
+20
+40
+60
+0
+-20
+-40
+-60
+28+34.25
+6172
+6176
+6180
+6172
+6176
+6180
+0
+20
+40
+60
+0
+-20
+-40
+-60
+28+98.95
+6172
+6176
+6180
+6172
+6176
+6180
+0
+20
+40
+60
+0
+-20
+-40
+-60
+30+51.29
+6176
+6180
+6184
+6176
+6180
+6184
+0
+20
+40
+60
+0
+-20
+-40
+-60
+-80
+30+94.17
+6176
+6180
+6184
+6176
+6180
+6184
+0
+20
+40
+60
+0
+-20
+-40
+-60
+31+91.08
+6180
+6184
+6188
+6180
+6184
+6188
+0
+20
+40
+60
+0
+-20
+-40
+-60
+32+25
+6180
+6184
+6188
+6180
+6184
+6188
+0
+20
+40
+60
+0
+-20
+-40
+-60
+EVERGREEN ST.
+WEST SIDE
+EVERGREEN ST.
+EAST SIDE
+6600 EVERS BLVD.
+DRIVEWAY
+6605 EVERS BLVD.
+DRIVEWAY
+ALLEY
+6615 EVERS BLVD.
+DRIVEWAY
+6616 EVERS BLVD.
+DRIVEWAY
+GOLDEN HILL ST
+EAST SIDE
+6705 EVERS BLVD.
+DRIVEWAY
+GOLDEN HILL ST.
+WEST SIDE
+ALLEY
+HIRST ST.
+ALLEY
+6805 EVERS BLVD.
+DRIVEWAY
+RANGER DR.
+WEST SIDE
+RANGER DR.
+EAST SIDE
+780 RANGER DR.
+DRIVEWAY
+6816 EVERS BLVD.
+DRIVEWAY
+ALLEY
+7.3%
+1.5%
+10.3%
+3.2%
+1.9%
+5.4%
+2.4%
+7.4%
+2.2%
+6.1%
+2.6%
+10.0%
+2.0%
+10.0%
+10.0%
+7.8%
+8.8%
+2.3%
+0.5%
+6170.5
+6170.9
+6171.8
+6171.9
+6174.0
+6174.0
+6174.9
+6174.6
+6180.6
+6179.9
+6183.2
+6183.0
+NOTE:  EXISTING TOPOGRAPHY IS BASED ON 1' GIS AERIAL CONTOURS
+6168.8
+6168.9
+6171.0
+6171.3
+6174.1
+6174.1
+HIRST ST.
+6169.8
+6169.9
+6172.0
+6172.3
+11.0%
+EXISTING =
+```
+
+### Page 353 of 359
+
+```text
+32+65.90
+6180
+6184
+6188
+6180
+6184
+6188
+0
+20
+40
+60
+0
+-20
+-40
+-60
+33+48.50
+6184
+6188
+6192
+6184
+6188
+6192
+0
+20
+40
+60
+0
+-20
+-40
+-60
+33+59.14
+6184
+6188
+6192
+6184
+6188
+6192
+0
+20
+40
+60
+0
+-20
+-40
+-60
+34+37.10
+6184
+6188
+6192
+6184
+6188
+6192
+0
+20
+40
+60
+0
+-20
+-40
+-60
+35+50.66
+6184
+6188
+6192
+6184
+6188
+6192
+0
+20
+40
+60
+0
+-20
+-40
+-60
+35+70.41
+6184
+6188
+6192
+6184
+6188
+6192
+0
+20
+40
+60
+0
+-20
+-40
+-60
+6809 EVERS BLVD.
+DRIVEWAY
+6820 EVERS BLVD.
+DRIVEWAY
+6817 EVERS BLVD.
+DRIVEWAY
+6826 EVERS BLVD.
+DRIVEWAY
+6835 EVERS BLVD.
+DRIVEWAY
+ALDER CT.
+0.4%
+15.5%
+0.6%
+4.1%
+13.8%
+9.2%
+6184.4
+6185.2
+6185.4
+6186.0
+6186.8
+6187.1
+NOTE:  EXISTING TOPOGRAPHY IS BASED ON 1' GIS AERIAL CONTOURS
+EXISTING =
+17.0%
+EXISTING =
+12.5%
+6187.0
+6187.2
+```
+
+### Page 354 of 359
+
+```text
+EVERS BOULEVARD ROAD REHABILITATION 35% DESIGN PLAN
+PRELIMINARY ENGINEER'S OPINION OF PROBABLE CONSTRUCTION COST
+9/22/2015
+DESCRIPTION
+UNIT
+ESTIMATED
+QUANTITIES
+UNIT COST
+TOTAL COST
+BONDS AND INSURANCE
+LS
+LUMP SUM
+$41,110.00
+$41,110.00
+FORCE ACCOUNT WORK
+$$
+1
+$200,000.00
+$200,000.00
+MOBILIZATION
+LS
+LUMP SUM
+$360,000.00
+$360,000.00
+CONTRACTOR SURVEYING
+LS
+LUMP SUM
+$65,000.00
+$65,000.00
+CONTRACTOR TESTING AND QUALITY CONTROL
+LS
+LUMP SUM
+$40,000.00
+$40,000.00
+TEMPORARY CONSTRUCTION FENCE (AS DIRECTED)
+LF
+2000
+$2.00
+$4,000.00
+REMOVE RETAINING WALL
+LS
+LUMP SUM
+$10,000.00
+$10,000.00
+TREE REMOVAL
+EA
+5
+$3,000.00
+$15,000.00
+EROSION CONTROL AND STORM WATER MGMT.
+LS
+LUMP SUM
+$25,000.00
+$25,000.00
+DEMOLITION OF EXISTING STORM SEWER
+LS
+LUMP SUM
+$2,500.00
+$2,500.00
+REMOVAL OF SURFACING
+SY
+22317
+$5.50
+$122,743.50
+REMOVAL OF SIDEWALK
+SY
+2457
+$8.00
+$19,656.00
+REMOVAL OF CURB AND GUTTER
+FT
+6320
+$5.00
+$31,600.00
+REMOVAL OF DOUBLE GUTTER
+SY
+760
+$9.00
+$6,840.00
+REMOVAL OF VALLEY PAN
+SY
+780
+$9.00
+$7,020.00
+REMOVAL OF PIPE
+LF
+70
+$18.00
+$1,260.00
+REMOVAL OF INLET
+EA
+3
+$600.00
+$1,800.00
+REMOVE AND RESET FENCE (WYDOT ROW)
+LF
+50
+$40.00
+$2,000.00
+REMOVE AND RESET FENCE (PRIVATE)
+LF
+100
+$30.00
+$3,000.00
+UNCLASSIFIED EXCAVATION
+CY
+5675
+$15.00
+$85,125.00
+IMPORT TRENCH BACKFILL
+CY
+322
+$27.00
+$8,694.00
+EXCAVATION BELOW SUBGRADE
+CY
+1448
+$15.00
+$21,720.00
+REGRADE GRAVEL DRIVEWAYS
+LS
+LUMP SUM
+$2,000.00
+$2,000.00
+SODDING
+SY
+3264
+$15.00
+$48,960.00
+TOPSOIL (4")
+CY
+425
+$22.00
+$9,350.00
+CRUSHED BASE (8" UNDER PAVEMENT, 8" UNDER C&G, 4" UNDER SIDEWALK)
+TON
+10862
+$34.00
+$369,308.00
+HOT PLANT MIX (6")
+TON
+6500
+$99.00
+$643,500.00
+PRECAST WALL COMPONENT SYSTEM
+SF
+1022
+$32.00
+$32,704.00
+24‐INCH DIA. CULVERT ‐ LATERALS
+FT
+558
+$84.00
+$46,872.00
+36‐INCH DIA.CULVERT ‐ LATERALS
+FT
+116
+$105.75
+$12,267.00
+54‐INCH DIA. CULVERT
+FT
+994
+$165.00
+$164,010.00
+60‐INCH DIA. CULVERT
+LF
+5052
+$252.00
+$1,273,104.00
+48‐INCH DIA. MANHOLE AND MANHOLE RISERS/BENDS
+EA
+35
+$5,000.00
+$175,000.00
+STORM SEWER VAULT MANHOLE
+EA
+4
+$18,000.00
+$72,000.00
+CURB INLET (CONCRETE AND IRON WORKS, INSTALLED)
+EA
+68
+$3,500.00
+$238,000.00
+AREA INLET (CONCRETE AND IRON WORKS, INSTALLED, BOTTOM OF SWALE)
+EA
+28
+$4,500.00
+$126,000.00
+TRENCH GRATE (20' x 4')
+LS
+LUMP SUM
+$50,000.00
+$50,000.00
+WATER LINE LOWERING (24" IN CASING PIPE)
+LS
+LUMP SUM
+$40,000.00
+$40,000.00
+SANITARY SEWER PIPE REPLACEMENT AND CASING (15" IN CASING PIPE)
+LS
+LUMP SUM
+$10,000.00
+$10,000.00
+4" SIDEWALK (CONC)
+SY
+3755
+$50.00
+$187,750.00
+CURB AND GUTTER TYPE A
+FT
+7535
+$22.00
+$165,770.00
+DOUBLE GUTTER
+SY
+1644
+$62.00
+$101,928.00
+CONCRETE VALLEY GUTTERS
+SY
+953
+$100.00
+$95,300.00
+CONCRETE ISLAND SLOPED NOSE
+EA
+6
+$1,000.00
+$6,000.00
+2' CONCRETE STRIP, 6" THICK
+SY
+278
+$62.00
+$17,236.00
+SWALE PLANTINGS
+SF
+4984
+$28.00
+$139,552.00
+4' COBBLE CHANNEL
+TON
+187
+$100.00
+$18,700.00
+TREE PROTECTION
+EA
+7
+$3,300.00
+$23,100.00
+STAIR AND RAILING (JESSUP ELEMENTARY SCHOOL)
+LS
+LUMP SUM
+$6,000.00
+$6,000.00
+SIGNS (INCL. REMOVE AND RESET EXISTING AND NEW SIGNS)
+LF
+2942
+$7.25
+$21,329.50
+CROSSWALKS, THERMOPLASTIC
+SF
+495
+$20.00
+$9,900.00
+STOP BARS, THERMOPLASTIC
+SF
+48
+$19.00
+$912.00
+BIKE SYMBOL, THERMOPLASTIC
+EA
+18
+$200.00
+$3,600.00
+"SCHOOL" LEGENDS, THERMOPLASTIC
+EA
+2
+$1,900.00
+$3,800.00
+4 in STRIPE, EPOXY
+LF
+11432
+$1.15
+$13,146.80
+FLAGGING
+HR
+2000
+$29.00
+$58,000.00
+TEMPORARY TRAFFIC CONTROL
+LS
+LUMP SUM
+$120,000.00
+$120,000.00
+$5,379,167.80
+$806,875.17
+$6,186,042.97
+$618,604.30
+$433,023.01
+$7,237,670.27
+DISCLAIMER:
+TOTAL RECONSTRUCTION BISHOP BLVD. TO VANDEHEI AVENUE + SURFACING REPAIR FOR STORM SEWER TRENCH BISHOP BLVD. TO INLET/OUTFALL
++ SURFACING AND CURB & GUTTER REPAIR FOR  STORM SEWER TRENCH, INLETS, AND TRENCH DRAIN FROM VANDEHEI AVENUE NORTH TO LIMITS
+OF STORM SEWER IMPROVEMENTS. WATER AND SANITARY SEWER IMPROVEMENTS ARE NOT INCLUDED.
+TOTAL:
+Because the Engineer has no control over the cost of labor, materials, equipment or services furnished by others, or over competitive bidding or market conditions, Engineer's
+opinion of probable Construction Cost or Project Cost provided herein are to be made on the basis of of Engineer's experience and qualifications, and represent Engineer's best
+judgement as an experienced and qualified Professional Engineer familiar with the construction industry.  However, Engineer cannot and does not guarantee that proposals, bids or
+actual Project or Construction Cost will not vary from Opinions of Probable Cost prepared by Engineer.  If, prior to Bidding or Negotiating for Construction, the Owner wishes greater
+assurance as to Construction Cost or Project Cost, Owner should employ an independent Cost Estimator.
+TOTAL ESTIMATED COST:
+7% CONSTRUCTION ADMINSTRATION:
+10% FINAL DESIGN:
+TOTAL ESTIMATED CONSTRUCTION COST:
+15% CONTINGENCY:
+```
+
+### Page 355 of 359
+
+```text
+Appendix E: Complete Streets Checklist
+```
+
+### Page 356 of 359
+
+```text
+What is a Complete Street?
+-
+Complete streets provide facilities for all modes of transportation within the public Right of Way on or
+adjacent to streets.
+
+What are the various modes of transportation?
+-
+Vehicular
+-
+Pedestrian
+-
+Bicycle
+-
+Transit
+
+Vehicles
+
+YES  NO
+
+Do the lane widths for the travel lanes match the width listed in the City of Cheyenne
+Unified Development Code for this type of Collector roadway?
+
+Is a center turn lane warranted?
+
+Is speeding an issue, either perceived or a reality?
+
+If yes, can raised medians, landscape buffers, or other traffic calming measures be
+incorporated into the reconstruction?
+
+Are there school zones within the corridor?
+
+If yes, are the school zones adequately signed to reduce vehicle speeds and increase
+driver awareness within the school zone?
+
+Pedestrians
+
+YES  NO
+
+Is there existing sidewalk on both sides of the roadway?
+
+Is there a buffer between the sidewalk and the travel way in the form of a landscape
+area, hard scape, or parking lane?
+
+If there is no buffer the minimum desirable sidewalk width is 6 feet.  Will a 6 foot
+sidewalk fit inside the available right-of-way?
+
+Do the existing sidewalks meet ADA design guidelines for cross slope?
+
+Do the existing sidewalks meet ADA design guidelines at driveway/approaches and
+street corners?
+CONTEXT SENSITIVITY GUIDELINES FOR CONVERTING
+EXISTING COLLECTORS TO COMPLETE STREETS WHEN
+RECONSTRUCTION IS PLANNED
+1 | P a g e
+```
+
+### Page 357 of 359
+
+```text
+Do the existing sidewalks meet ADA design guidelines for tripping hazards?
+
+If there are existing traffic signals, do they have pedestrian count down timers?
+
+If there is a school zone crossing within this corridor does it have rapid flashing
+beacons, school zone reverse flashers or hawk beacons at the crossing?
+
+Is there pedestrian scale street lighting?
+
+Bicycle
+
+YES  NO
+
+Is there a dedicated on-street bicycle lane?
+
+If there is not an existing on-street bicycle lane, one should be included in the
+reconstruction design based on the Collector Type (A, B, or C)
+If yes, does the width of the on-street bicycle lane meet the On-Street Facility
+Design Guidelines established in the latest adopted version of the Cheyenne On-
+Street Bicycle Plan and Greenway Plan?
+
+Is there on-street parking along this corridor?  (Collector Type C)
+
+If yes, is there a high turn-over of the parked vehicles?  If yes, consideration should
+be given to widening the shared parking/bike lane to provide additional space
+between vehicle doors being opened and the bike riders.
+
+Is this a Collector Type C adjacent to a school or City Park which would encourage
+bicycle usage by cyclists of all abilities?  If yes, consideration should be given to
+including a dedicated on-street marked bicycle lane rather than a shared parking/bike
+lane.
+
+Is this roadway included as a future bicycle network facility in the latest adopted
+version of Plan Cheyenne, or as a Proposed Bikeway Network Project in the latest
+adopted version of the Cheyenne On-Street Bicycle Plan and Greenway Plan?
+
+If yes, design should include coordination with the Parks and Recreation Trails
+Planner / Coordinator.
+
+Are the drainage facilities along the corridor compatible with bicycles, such as
+appropriate inlet grates and bicycle lane widths in the vicinity of inlets?
+
+Street Crossings
+
+YES  NO
+
+Are the existing crosswalks marked with paint and/or signage?
+
+Are existing crosswalks located in the ideal place where crossings most frequently
+occur?
+
+Has a stop bar been considered at crosswalk locations?
+
+Can crossing widths be reduced at crosswalk locations by adding bulbouts or refuge
+medians?
+
+Is there adequate lighting at the crossing location?
+2 | P a g e
+```
+
+### Page 358 of 359
+
+```text
+Does the crossing location meet ADA guidelines for cross slope and vertical slope?
+
+Are there existing drainage issues which cause ponding at street crossing locations?
+
+Do the corner radii meet the criteria established in the Uniform Development Code?
+
+Large corner radii encourage speeding for turning vehicles – can the radii be reduced?
+
+If there is a channelized right turn lane, is it warranted or can it be eliminated?
+
+If there is a channelized right turn lane, does it have a low-angle (112°) design to slow
+drivers and provide improved visibility?
+
+Is there a median pedestrian refuge island that is adequately designed for pedestrian
+access and visibility of pedestrians?
+
+If the intersection is signalized, are ‘right turns on red’ prohibited?
+
+Transit
+
+YES  NO
+
+Is there a transit stop along this corridor?
+
+If yes, is there adequate, direct pedestrian sidewalk access to the transit stop?
+
+If yes, does the transit stop meet ADA guidelines for widths, slopes, clearance, etc.?
+
+If yes, is there appropriate pedestrian lighting at the transit stop?
+
+If yes, is there a transit passenger shelter, bench, bike rack, or other amenities?
+
+3 | P a g e
+```
+
+### Page 359 of 359
+
+```text
+Context Sensitive Design
+
+In a Context Sensitive Design the character and desired functionality of a corridor is incorporated into the design.
+This is achieved by including the land owners and corridor users in the design process to solicit their input and
+incorporate it into the design to a reasonable extent.  A context sensitive design is not achieved by telling the
+public what will be done, but rather by asking them what they would like to have included in the design and then
+using engineering judgement to decide which elements can be included.  A broad range of engagement strategies
+shall be used to reach and to gather input from affected persons.
+
+YES  NO
+
+Have the adjacent landowners been contacted about the proposal to reconstruct the
+street?
+
+Are there any destinations outside of the reconstruction area which would be accessed
+along the reconstruction area or by crossing the reconstruction area?
+
+If yes, has an effort been made to contact the public who access the destination via
+this reconstruction area?
+
+ Public participation in a context sensitive design is outcome based.  The desire is to
+achieve a consensus.  To accomplish this there needs to be a minimum of two public
+involvement processes; one to ask for input from interested persons and one to present
+the ideas gathered and share the intended design for comment.
+Has there been at least two public involvement processes?
+
+Was a consensus achieved among the participants in the public involvement
+process?
+
+Were additional public involvement efforts made to achieve a context sensitive
+design outcome?  Examples of additional opportunities include the use of
+MindMixer, project mailers, etc.
+
+Does the street design reflect the adjacent land use context character?
+
+Does the design include landscaping?
+
+4 | P a g e
+```
+
+---
+
+[← document overview](appendices-large-file.md) · [← part 2](appendices-large-file.part2.md)

@@ -1,0 +1,73 @@
+# CHEY-2021-06-01 packet-11
+
+*Agenda packet item from the City Council — Tuesday, June 1, 2021 meeting, City of Cheyenne, Wyoming. Plain-text copy for reading and search. The original file is the authoritative version.*
+
+- **Meeting:** [City Council — Tuesday, June 1, 2021](../../../meetings/2021/city-council-2021-06-01.md)
+- **Document type:** Agenda packet item
+- **Text status:** full text
+- **Pages:** 2
+- **Original file:** [agenda-packets/CHEY-2021-06-01_packet-11.pdf](https://github.com/therealwindycity/cheyenne-archives-2018-2021/blob/main/agenda-packets/CHEY-2021-06-01_packet-11.pdf) in `therealwindycity/cheyenne-archives-2018-2021` ([direct download](https://raw.githubusercontent.com/therealwindycity/cheyenne-archives-2018-2021/main/agenda-packets/CHEY-2021-06-01_packet-11.pdf))
+- **File size:** 66,913 bytes · git blob `e86e9eadd997`
+- **Extraction:** PyMuPDF text layer. Wording is unchanged; line breaks and table layout may differ from the PDF.
+
+---
+
+### Page 1 of 2
+
+```text
+Wyoming
+Association of
+Municipalities
+Building Strong Communities
+TO:
+All Mayors
+FROM:
+Earla Checchi, Finance Manager
+SUBJECT:
+Voting Delegates for the 2021 WAM Summer Convention
+DATE:
+April 2, 2021
+We are requesting that your municipality’s governing body appoint its Official Voting Delegate and
+alternate to WAM’s Summer Convention Business Meeting, held Thursday, July 15, 2021 in
+Cheyenne. Items that your Voting Delegate will be voting on may include: By-law changes,
+Resolutions, Membership Dues. Any individual member of the association is entitled to speak during
+the June business meeting. However, when a vote is taken on any action the official voting delegate,
+or the alternate, is the only one allowed to vote for the city or town. Any elected or appointed
+official/staff may be designated by the city/town as its official voting delegate.
+Please complete the attached form and email, mail or fax it to WAM by Friday, June 25. We
+appreciate your cooperation and prompt action on this matter to ensure that each municipality is
+represented by a person who has been duly authorized by your governing body to take an active role
+in the business meeting.
+If you find your official delegate is not able to attend the conference at the last moment, you may re
+appoint someone else. For this change to be accepted we do need the change in writing. You may
+send/fax it to the WAM office by Friday, June 25 or your voting delegate may bring the written
+change/authorization to the convention and submit it to the WAM registration desk by Wednesday,
+July 14 before 12:00pm. After that time, changes will not be accepted.
+Please contact us with any questions.
+Ensure YOUR community has a VOICE and a VOTE at the June business meeting!
+```
+
+### Page 2 of 2
+
+```text
+WYOMING ASSOCIATION OF
+MUNICIPALITIES
+2021 WAM SUMMER CONVENTION
+OFFICIAL VOTING DELEGATE FORM
+The following person has been selected as the Official Voting Delegate for the 2021 WAM Summer
+Convention Business Meeting in Cheyenne, Thursday, July 15, 2021.
+City/Town:
+Name:
+Title:
+Alternate Delegate will be:
+______________________________________________________
+Title:
+Date Approved by the City/Town Council:
+________________________________________
+Attest:
+(City/Town Clerk)
+PLEASE EMAIL, MAIL OR FAX TO WAM NO LATER THAN June 25, 2021
+315 West 27 Street, Cheyenne, WY 82001
+Phone (307) 632-0398, Fax (307) 632-1942 or
+Email to Earla Checchi at: checchi@wyomuni.org
+```

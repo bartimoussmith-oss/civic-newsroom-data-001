@@ -1,0 +1,4395 @@
+# CHEY-2025-06-02 packet-3, part 1 of 3
+
+*City Council — Monday, June 2, 2025. Original: [CHEY-2025-06-02_packet-3.pdf](https://github.com/therealwindycity/cheyenne-archives-2025-2026/blob/main/agenda-packets/CHEY-2025-06-02_packet-3.pdf)*
+
+[← document overview](chey-2025-06-02-packet-3.md) · [part 2 →](chey-2025-06-02-packet-3.part2.md)
+
+---
+
+### Page 1 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    1
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+City of Cheyenne
+2025-2027 Consolidated Plan
+Housing & Community Development Division
+
+This document outlines the City of Cheyenne’s strategic vision and action plan for housing and
+community development, for the Plan Period: July 1, 2025 – June 30, 2027
+Date of Publication: June 9, 2025
+Website: Housing & Community Development Division – City of Cheyenne
+For questions or additional information, please contact the Housing & Community Development Division
+at (307) 637-6255 or email agorbey@cheyennecity.org
+```
+
+### Page 2 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    2
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+Executive Summary
+ES-05 Executive Summary - 24 CFR 91.200(c), 91.220(b)
+1.
+Introduction
+A Housing and Urban Development (HUD) Consolidated Plan (Con Plan) is a framework to assist
+communities in identifying housing and community development priorities that focus and align funding
+from the Community Planning and Development formula block grant. The City of Cheyenne (City) has
+received Community Development Block Grant (CDBG) funding from HUD since the 1970’s. HUD
+requires that Entitlement Cities, which is a city designated by HUD to receive formula grant funds, must
+submit a Con Plan every three to five years. The Consolidated Plan is carried out through Annual Action
+Plans, which provide a concise summary of the actions, activities, and the specific federal and non-
+federal resources that will be used each year to address the priority needs and specific goals identified
+by the Con Plan. Grantees report on accomplishments and progress toward Consolidated Plan goals in
+the Consolidated Annual Performance and Evaluation Report (CAPER).
+The City of Cheyenne will complete the 2020-2024 Con Plan on June 30, 2025. The proposed 2025-2027
+Con Plan reflects the City’s priority needs, goals and strategies that have been identified through
+consultations and citizen participation from July 2024 through May 2025. The plan is prepared in
+accordance with 24 CFR part 91, which describes needs, resources, priorities and proposed activities to
+be undertaken with respect to HUD programs, including the CDBG program. An approved consolidated
+plan means that it has been approved by HUD in accordance with 24 CFR part 91.
+2.
+Summary of the objectives and outcomes identified in the Plan Needs
+Assessment
+The objectives and outcomes outlined in the Needs Assessment section of the plan include investments
+in public facility and neighborhood improvements within low- to moderate-income neighborhoods.
+Public service needs are a high priority, and the City has set a goal to use CDBG funds to support
+initiatives such as domestic violence shelters, transitional housing, and public facilities that serve or
+house elderly or disabled residents. Additional priorities include food and health services—particularly
+those supporting vulnerable populations such as the elderly and disabled, as well as employment
+training programs that provide low- to moderate-income Cheyenne residents with opportunities in fields
+such as construction, trades, healthcare, or information technology.
+For the 2025-2027 Consolidated Planning period, all funded activities are required to meet the HUD
+National Objective of benefiting low- and moderate-income (LMI) persons. At least 70% of CDBG funds
+must be used to benefit LMI individuals. Qualifying activities under this objective include public services,
+housing assistance, and infrastructure improvements that serve areas where at least 51% of residents
+are low- or moderate-income.
+```
+
+### Page 3 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    3
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+Additionally, activities must meet one of the following eligible objectives and outcomes in the 2025-
+2027 Consolidated Plan:
+Objectives:
+•
+Create a sustainable living environment
+•
+Provide supportive services for low-income and special needs populations
+•
+Create economic opportunities
+Outcomes:
+•
+Affordability
+•
+Availability/Accessibility
+These objectives reflect the City’s commitment to addressing a broad range of community needs, from
+infrastructure and public facility improvements to job training and support services.
+3.
+Evaluation of past performance
+The City has conducted a thorough evaluation of its performance during the previous Con Plan period to
+inform the goals and priorities for the 2025–2027 Con Plan. Our objective is to set achievable goals that
+fully comply with HUD requirements and ensure timely expenditure of CDBG funds.
+During the 2020–2024 planning period, the City set goals to rehabilitate existing homes and add two
+new housing units; however, unforeseen challenges impeded progress toward these goals. CDBG funds
+were allocated to Habitat for Humanity of Laramie County (Habitat) for home acquisition and
+rehabilitation, but this initiative faced setbacks due to environmental issues, administrative capacity
+constraints, and shifting priorities within the affiliate. Similarly, Habitat was awarded CDBG funds for its
+Home Repairs program to assist LMI homeowners, but environmental requirements, a shortage of
+Sam.gov-registered contractors, and staffing turnover led to the return of these funds. After consulting
+with the City, Habitat decided to pause its CDBG applications for several grant cycles to focus on the
+ Pronghorn Crossing housing development project.
+In the most recent grant cycle, there were no applications for rehabilitation or acquisition activities. In
+response to these trends, the City strategically shifted its focus from housing rehabilitation and
+acquisition goals to prioritizing public facility, infrastructure, and neighborhood improvements in LMI
+areas. This approach will remain in place until new development partners are identified and engaged,
+maximizing the impact of CDBG funds and building local capacity for future initiatives.
+Despite the challenges in housing rehabilitation, CDBG funds were successfully utilized during the 2020–
+2024 Con Plan period to address a range of community needs. These included improvements to
+domestic violence shelters, senior centers, a women’s dormitory at a local homeless shelter, the
+acquisition of a public facility to support LMI families with mortgage assistance and financial literacy,
+and accessibility enhancements to neighborhood parks serving low-and moderate-income residents.
+```
+
+### Page 4 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    4
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+4.
+Summary of citizen participation process and consultation process
+The City is committed to fostering an inclusive and transparent process for developing its 2025-2027 Con
+Plan. To ensure that all residents, public agencies, and interested parties have ample opportunity to
+contribute their insights and feedback, the City has established a comprehensive Citizen Participation
+Plan. This plan can be viewed on the City’s Housing & Community Development Division webpage, under
+the “Learn More About: Plans” tab. Housing & Community Development Division – City of Cheyenne
+The 2025-2027 Con Plan will be made widely accessible to the public through various channels during
+the 30-day comment period from Monday, June 9, 2025, to Tuesday, July 8, 2025. A summary of the
+plan will be published in local newspapers, providing an overview of its content and purpose. The full
+plan will be available at the following locations:
+•
+Online: An electronic version of the full document will be available for review on the City’s
+Housing & Community Development Division webpage, under the “Learn More About: Plans”
+tab.
+•
+Laramie County Library: A printed copy is available at the Laramie County Library, 2200 Pioneer
+Ave, 3rd Floor, Cheyenne, WY 82001.
+•
+City of Cheyenne Municipal Building: Printed copies are available at the City of Cheyenne
+Municipal Building, 2101 O’Neil Ave., Cheyenne, WY 82001, in the Clerk’s and the Mayor’s
+Office.
+To facilitate direct engagement with the community, the City held two public meetings during the plan’s
+development phase. These meetings were accessible via Zoom and served as forums for residents to
+voice their opinions, ask questions, and provide valuable input. Additionally, the City will hold one public
+hearing and one public meeting during the required 30-day comment period. During this time,
+community members can submit feedback on the proposed plan, either in writing or orally at the public
+hearing. This extended period ensures that all stakeholders have sufficient time to review the document
+thoroughly and provide thoughtful responses.
+The City values the input of its residents and is committed to carefully considering all comments
+received during the participation process. The final plan will incorporate relevant feedback, and a
+summary of all comments will be attached to the document. In cases where certain suggestions are not
+incorporated, the City will provide explanations for these decisions, maintaining transparency
+throughout the process.
+By implementing this comprehensive Citizen Participation Plan, the City aims to create a three-year plan
+that truly reflects the needs and aspirations of our community, ensuring that the 2025-2027 strategic
+vision aligns with the collective interests of all residents.
+```
+
+### Page 5 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    5
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+5.
+Summary of public comments
+Upon completion of the public comment period, and in accordance with the regulations set forth in 24
+CFR Part 91, a final summary reflecting the comments received will be included. The comment period for
+the 2025-2027 Con Plan is Monday, June 9, 2025, to Tuesday, July 8, 2025.
+6.
+Summary of comments or views not accepted and the reasons for not
+accepting them
+Upon completion of the Public Comment period, in accordance with the regulations set forth in 24 CFR
+Part 91, a summary which includes a description of the comments received and an explanation of how
+they were considered or, if not accepted, the reasons for non-acceptance will be included. (24 CFR §
+91.105).
+7.
+Summary
+Upon completion of the public comment period, and in accordance with the regulations set forth in 24
+CFR Part 91, a final summary reflecting the comments received will be included.
+```
+
+### Page 6 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    6
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+The Process
+PR-05 Lead & Responsible Agencies 24 CFR 91.200(b)
+1.
+Describe the agency/entity responsible for preparing the Consolidated Plan
+and those responsible for administration of each grant program and funding
+source
+The following are the agencies/entities responsible for preparing the Consolidated Plan and
+those responsible for administration of each grant program and funding source.
+Agency Role
+Name
+Department/Agency
+Lead Agency
+CITY OF CHEYENNE
+
+CDBG Administrator
+CITY OF CHEYENNE
+Housing & Community Development
+Division
+HOPWA Administrator
+
+HOME Administrator
+
+HOPWA-C Administrator
+
+Table 1 – Responsible Agencies
+Narrative
+The City of Cheyenne serves as the lead agency overseeing the development of the 2025–2027
+Consolidated Plan (Con Plan) through its Housing & Community Development Division (H&CD).
+H&CD staff administer grants for eligible activities that support Con Plan goals and objectives,
+leveraging partnerships with local nonprofits, housing providers, and social service agencies to
+maximize impact. H&CD ensures that CDBG funding will be used to support the plan goals: to
+support public facility and neighborhood infrastructure improvements, job training, and
+essential public services.
+Consolidated Plan Public Contact Information
+Amy Gorbey, Community Development Manager
+Housing & Community Development Division, City of Cheyenne
+Mayor’s Office, 2101 O’Neil Ave. Room 310. Cheyenne, WY  82001
+Email: agorbey@cheyennecity.org, Direct: (307) 637-6255
+```
+
+### Page 7 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    7
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+PR-10 Consultation - 91.100, 91.110, 91.200(b), 91.300(b), 91.215(I) and
+91.315(l)
+1.
+Introduction
+The PR-10 Consultation Section provides an overview of how the City developed its 2025–2027 Con Plan
+for the U.S. Department of Housing and Urban Development (HUD). It describes the City's process for
+gathering community input, working with stakeholders, and using public feedback to guide its strategy
+for community development. This section explains the methods used to collect input, identifies the main
+participants, and outlines the results that influenced the Con Plan to address housing and community
+needs over the next three years.
+In preparing the Con Plan, the H&CD Division collected input from City departments, nonprofit
+organizations, and state agencies. The City contracted with the University of Wyoming’s Center for
+Business and Economic Analysis (CBEA) to update the Analysis of Impediments to Fair Housing Study,
+which was last updated in 2020. In accordance with the Fair Housing Act, the Secretary requires that
+CDBG grantees administer all programs and activities related to housing and community development in
+a manner that affirmatively furthers the policies of the Fair Housing Act. As part of this certification
+process, grantees must complete an analysis of impediments to fair housing choice and take actions to
+overcome the effects of any impediments identified through that analysis. In summary, requirements
+for the analysis of impediments include assuming the responsibility of fair housing planning by
+conducting an analysis to identify impediments to fair housing choice within their jurisdictions; strongly
+encouraging grantees to annually update their analysis of impediments; taking appropriate actions to
+overcome the effects of any impediments identified through their analyses; and maintaining records
+reflecting the analyses and related actions.
+CBEA conducted a comprehensive analysis of housing, population, demographic, workforce, and income
+data, among other datasets, to identify barriers to fair housing. This data-driven approach was
+combined with consultations focused on understanding local challenges to fair housing. Together, these
+consultations and analyses helped identify the community’s fair housing needs and set clear goals for
+the Con Plan. This process ensured that the plan reflects the priorities of Cheyenne residents and
+supports the needs of low- and moderate-income (LMI) populations, with a focus on projects and
+strategies that have broad community support.
+Provide a concise summary of the jurisdiction’s activities to enhance coordination
+between public and assisted housing providers and private and governmental
+health, mental health and service agencies (91.215(I)).
+H&CD staff regularly meet and communicate with housing providers such as My Front Door, Habitat for
+Humanity of Laramie County, Wyoming Housing Network, and the Cheyenne Housing Authority, and
+actively participate in the Laramie County Community Partnership Housing Task Force to strengthen
+```
+
+### Page 8 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    8
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+coordination between the City and these organizations. Additionally, the Community Development
+Manager (CDM) of the H&CD Division has conducted interviews and consultations with representatives
+from the Wyoming Department of Health Communicable Disease Division, HealthWorks, the Cheyenne
+Regional Medical Center Foundation, and the Community Action of Laramie County Crossroads Health
+Clinic. These efforts support needs assessments and help coordinate initiatives between the City and
+both public and private health, mental health, and service agencies.
+Describe coordination with the Continuum of Care and efforts to address the
+needs of homeless persons (particularly chronically homeless individuals and
+families, families with children, veterans, and unaccompanied youth) and persons
+at risk of homelessness
+The H&CD staff actively coordinate with the Wyoming Continuum of Care (CoC) to address the needs of
+homeless individuals and families, including chronically homeless persons, families with children,
+veterans, unaccompanied youth, and those at risk of homelessness. As a CoC member, the CDM
+regularly participates in meetings and collaborates with local agencies and service providers to
+strengthen the local response to homelessness.
+In 2024, the CDM partnered with several organizations in Cheyenne to expand the Laramie County
+Point-in-Time (PIT) Count Committee. The CoC conducts the annual PIT Count each January, providing a
+snapshot of homelessness across Wyoming by counting individuals residing in homeless residential
+projects on a designated night. This initiative, held nationwide during the last 10 days of January, helps
+communities assess available resources and better understand the demographics and needs of those
+experiencing homelessness. The expanded collaboration led to two successful PIT Count events on
+January 25 and 26, 2025, significantly increasing participation and enhancing coordination among local
+service providers.
+These efforts have improved the accuracy of homelessness data in Wyoming and strengthened the
+network of services for a wide range of vulnerable populations in Cheyenne. Additionally, in spring 2025,
+CDM participated in a three-part CoC forum focused on homelessness in Wyoming. This forum identified
+service gaps, gathered feedback on CoC priorities, and established benchmarks for progress. Such
+ongoing collaboration ensures the CoC can more effectively allocate resources and address the evolving
+needs of Wyoming communities.
+Describe consultation with the Continuum(s) of Care that serves the jurisdiction's
+area in determining how to allocate ESG funds, develop performance standards
+and evaluate outcomes, and develop funding, policies and procedures for the
+administration of HMIS
+The H&CD staff has not engaged in direct discussions with the State of Wyoming Continuum of Care
+(CoC) regarding the allocation of ESG funds for the jurisdiction. However, at a recent CoC Gap Analysis
+forum, the CDM proposed a post-Point-in-Time (PIT) Count debrief for all CoC members statewide, as
+```
+
+### Page 9 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    9
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+well as the sharing of PIT data among participating communities. These initiatives would facilitate
+collaborative data review, identify trends, and enhance strategies for addressing homelessness.
+CDM also recommended establishing an annual meeting to assess performance benchmarks and discuss
+opportunities for improvement. These suggestions were well received by the CoC and may be included
+in the benchmarks for 2025-2026.
+Additionally, the City’s Economic Resource Administrator, who oversees the CDBG Program, participated
+as a member of the CoC’s grant review committee and contributed feedback to the CoC on the grant
+review process.
+2.
+Describe Agencies, groups, organizations and others who participated in
+the process and describe the jurisdictions consultations with housing, social
+service agencies and other entities
+Please see the table below for detailed information on the consultations for the City’s 2025-2027
+Comprehensive Plan (Con Plan):
+Table 2 – Agencies, groups, organizations who participated
+1
+Agency/Group/Organization
+COMEA House and Resource Center
+Agency/Group/Organization Type
+Services-homeless
+What section of the Plan was addressed
+by Consultation?
+Homeless Needs - Chronically homeless
+Homeless Needs - Families with children
+How was the
+Agency/Group/Organization consulted
+and what are the anticipated outcomes
+of the consultation or areas for improved
+coordination?
+The City consulted with Comea Shelter’s Executive
+Director to discuss needs. Comea is expanding its
+capacity through ongoing construction to serve
+more unhoused individuals. The shelter provides
+emergency and transitional housing, private family
+rooms with case management, and daily meals.
+Their main need is operational funding, not
+construction support, and they do not plan to seek
+CDBG funds for new building projects until the
+currently funded projects are completed.
+2
+Agency/Group/Organization
+Blue Foundation – Blue Boost Center
+Agency/Group/Organization Type
+Financial Literacy and other services
+What section of the Plan was addressed
+by Consultation?
+Anti-poverty Strategy
+```
+
+### Page 10 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    10
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+How was the
+Agency/Group/Organization consulted
+and what are the anticipated outcomes
+of the consultation or areas for improved
+coordination?
+The City consulted with the Blue Foundation's Blue
+Boost Center, whose Executive Director identified
+funding for a Case Worker as their top support
+need. The Center’s mission focuses on stability,
+educational growth, and economic opportunity,
+providing resources and helping individuals
+achieve financial independence and a better
+quality of life.
+3
+Agency/Group/Organization
+Laramie County Senior Services
+Agency/Group/Organization Type
+Services-Elderly Persons
+What section of the Plan was addressed
+by Consultation?
+Housing Need Assessment
+Anti-Poverty Strategy
+How was the
+Agency/Group/Organization consulted
+and what are the anticipated outcomes
+of the consultation or areas for improved
+coordination?
+The City consulted with the Executive Director of
+the Cheyenne Senior Center, who stated that they
+did not have a priority need for Community
+Development Block Grant (CDBG) funds. The
+Senior Center is currently undergoing a transition,
+with its governance being transferred from the
+Cheyenne Housing Authority to a newly
+established non-profit organization that will be
+owned by Laramie County.
+4
+Agency/Group/Organization
+Habitat for Humanity of Laramie County
+Agency/Group/Organization Type
+Housing
+What section of the Plan was addressed
+by Consultation?
+Housing Need Assessment
+How was the
+Agency/Group/Organization consulted
+and what are the anticipated outcomes
+of the consultation or areas for improved
+coordination?
+The City works closely with Habitat, which is
+developing 12+ units at Pronghorn Crossing in
+North Cheyenne. The City secured $1.8 million in
+state funds to extend water and sewer lines for the
+project. Due to Habitat’s shift from rehabilitation
+to new construction and ongoing staffing and
+budget constraints, the City’s 2025-2027
+Consolidated Plan excludes rehabilitation goals.
+Both organizations remain committed to
+addressing Cheyenne’s housing needs through
+ongoing collaboration and strategic planning.
+```
+
+### Page 11 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    11
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+5
+Agency/Group/Organization
+Community Action of Laramie County
+Agency/Group/Organization Type
+Services - Housing
+Services-Persons with Disabilities
+Services-homeless
+Services-Health
+What section of the Plan was addressed
+by Consultation?
+Homeless Needs - Chronically homeless
+Homelessness Needs - Veterans
+Non-Homeless Special Needs
+How was the
+Agency/Group/Organization consulted
+and what are the anticipated outcomes
+of the consultation or areas for improved
+coordination?
+The City of Cheyenne consulted with Community
+Action of Laramie County (CALC), whose services
+include case management, veterans housing, and,
+through the Crossroads Healthcare Clinic, medical,
+mental health, and substance abuse treatment for
+the homeless. CALC highlighted the need for ADA-
+compliant infrastructure at their facilities.
+6
+Agency/Group/Organization
+Local Domestic Violence Shelter
+Agency/Group/Organization Type
+Services-Victims of Domestic Violence
+What section of the Plan was addressed
+by Consultation?
+Homeless Needs - Families with children
+How was the
+Agency/Group/Organization consulted
+and what are the anticipated outcomes
+of the consultation or areas for improved
+coordination?
+The City consulted with the Executive Director of
+the local domestic violence shelter, who reported
+rising utility costs—especially from Black Hills
+Energy—and a need for emergency funds for
+victims. The shelter struggles to maintain its large
+facility year-round due to these expenses.
+7
+Agency/Group/Organization
+Magic City Enterprises
+Agency/Group/Organization Type
+Services - Housing
+Services-Persons with Disabilities
+What section of the Plan was addressed
+by Consultation?
+Housing Need Assessment
+Non-Homeless Special Needs
+```
+
+### Page 12 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    12
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+How was the
+Agency/Group/Organization consulted
+and what are the anticipated outcomes
+of the consultation or areas for improved
+coordination?
+The City consulted with Magic City Inc., a Title XIX
+provider in Cheyenne, who identified a need for
+more housing units to support independent living
+for clients with disabilities. Magic City Inc. is
+working with Habitat on a joint multi-unit housing
+project and highlights the need for local
+infrastructure improvements near the proposed
+site. Magic City plans to seek CDBG funding for this
+effort during the 2025-2027 Consolidated Planning
+period.
+8
+Agency/Group/Organization
+Equal Justice Wyoming Foundation
+Agency/Group/Organization Type
+Services-Elderly Persons
+Services-Persons with Disabilities
+Services-Victims of Domestic Violence
+Services-homeless
+Service-Fair Housing
+Services - Victims
+Other government - State
+Foundation
+What section of the Plan was addressed
+by Consultation?
+Anti-Poverty Strategy
+Legal Services
+How was the
+Agency/Group/Organization consulted
+and what are the anticipated outcomes
+of the consultation or areas for improved
+coordination?
+The City consulted with the Equal Justice Wyoming
+Foundation (EJWF) and Equal Justice Wyoming to
+address Wyoming’s critical need for civil legal
+services. EJWF, committed to equal access to
+justice, provides grants and collaborates with state
+organizations to strengthen legal support for all
+residents. Priority needs include family law
+(especially domestic violence), eviction risk,
+financial issues, and the impact of losing the ERAP
+program, all intensified by high post-pandemic
+housing costs.
+9
+Agency/Group/Organization
+Climb Wyoming
+Agency/Group/Organization Type
+Services-Education
+Services-Employment
+What section of the Plan was addressed
+by Consultation?
+Housing Need Assessment
+Economic Development
+Anti-Poverty Strategy
+Job Training
+```
+
+### Page 13 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    13
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+How was the
+Agency/Group/Organization consulted
+and what are the anticipated outcomes
+of the consultation or areas for improved
+coordination?
+The City consulted with Climb Wyoming, an
+organization serving low-income single mothers—
+primarily those earning 30–40% of the Area
+Median Income (AMI), who face significant housing
+challenges due to a shortage of affordable units.
+Climb provided data to support the importance of
+career training programs for LMI mothers and
+advocated that employment training be included in
+the Con Plan as a goal.
+10
+Agency/Group/Organization
+Recover Wyoming
+Agency/Group/Organization Type
+Services-homeless
+What section of the Plan was addressed
+by Consultation?
+Homeless Needs - Chronically homeless
+Anti-Poverty Strategy
+How was the
+Agency/Group/Organization consulted
+and what are the anticipated outcomes
+of the consultation or areas for improved
+coordination?
+The City’s consultation with Recover Wyoming
+highlighted the Path Program, which helps prevent
+evictions by providing rental assistance to low-
+income clients with mental health diagnoses. In
+January 2024, the program served 60 clients,
+demonstrating its positive community impact. The
+consultation underscored the importance of
+prevention of eviction, mental health support for
+housing stability, and expanding partnerships
+when setting future priorities for Cheyenne’s
+Consolidated Plans.
+11
+Agency/Group/Organization
+HealthWorks
+Agency/Group/Organization Type
+Services-Health
+What section of the Plan was addressed
+by Consultation?
+Homelessness Strategy
+Anti-Poverty Strategy
+Health
+How was the
+Agency/Group/Organization consulted
+and what are the anticipated outcomes
+of the consultation or areas for improved
+coordination?
+The City’s consultation with the CEO and CFO of
+HealthWorks for the Con Plan identified a need for
+facility rehabilitation, especially sidewalk
+improvements at HealthWorks’ new location and a
+critical need for language interpretation services to
+improve healthcare access for LMI clients.
+12
+Agency/Group/Organization
+Laramie County Community College
+Agency/Group/Organization Type
+Services-Education
+```
+
+### Page 14 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    14
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+What section of the Plan was addressed
+by Consultation?
+Economic Development
+Workforce Development
+How was the
+Agency/Group/Organization consulted
+and what are the anticipated outcomes
+of the consultation or areas for improved
+coordination?
+The City consulted with the Manager of Laramie
+County Community College’s Adult Career and
+Education System (ACES) Program, which provides
+free individualized instruction and high school
+equivalency preparation for students 16 and older,
+serving about 500 students annually. The ACES
+Manager expressed interest in applying for CDBG
+funds to support two new initiatives: a digital
+curriculum software subscription for over 300
+students and a free digital literacy program.
+13
+Agency/Group/Organization
+City of Cheyenne Community, Recreation &
+Events Department
+Agency/Group/Organization Type
+Other Government - Local
+Grantee Department
+What section of the Plan was addressed
+by Consultation?
+Economic Development
+How was the
+Agency/Group/Organization consulted
+and what are the anticipated outcomes
+of the consultation or areas for improved
+coordination?
+The City consulted with the Director of the
+Community Recreation and Events Department
+about the need to replace outdated playground
+equipment in LMI neighborhoods, as many of
+these playgrounds are over 20 years old and are
+not ADA compliant. Although the City can maintain
+existing equipment, it lacks dedicated funds for
+replacements.
+14
+Agency/Group/Organization
+Wyoming Independent Citizen Coalition
+Agency/Group/Organization Type
+Community Advocacy
+Neighborhood Organization
+What section of the Plan was addressed
+by Consultation?
+Homelessness Strategy
+Economic Development
+Community beautification projects in LMI areas
+```
+
+### Page 15 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    15
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+How was the
+Agency/Group/Organization consulted
+and what are the anticipated outcomes
+of the consultation or areas for improved
+coordination?
+The City consulted with members of the Wyoming
+Independent Citizen's Coalition (WICC), a
+Cheyenne-based nonprofit advocating for
+underserved groups, who has worked with the City
+to identify key needs for low-to-moderate income
+residents, especially on Cheyenne’s south side.
+Their input shaped the 2025-2027 Con Plan, to
+include area benefit programs for LMI
+neighborhoods.
+15
+Agency/Group/Organization
+City of Cheyenne, Engineering Department
+Agency/Group/Organization Type
+Other government - Local
+What section of the Plan was addressed
+by Consultation?
+Public Safety
+How was the
+Agency/Group/Organization consulted
+and what are the anticipated outcomes
+of the consultation or areas for improved
+coordination?
+The H&CD staff consulted with the Traffic Engineer
+from the City’s Engineering Department to learn
+about traffic safety needs, particularly the Safe
+Routes to School (SRTS) Initiative and to determine
+which schools in qualified census tracts or block
+groups needed SRTS improvements.
+16
+Agency/Group/Organization
+Family Promise Cheyenne
+Agency/Group/Organization Type
+Services - Housing
+Services-Children
+Services-Victims of Domestic Violence
+Services-homeless
+What section of the Plan was addressed
+by Consultation?
+Housing Need Assessment
+Homeless Needs - Families with children
+Anti-poverty Strategy
+How was the
+Agency/Group/Organization consulted
+and what are the anticipated outcomes
+of the consultation or areas for improved
+coordination?
+The City consulted with Family Promise’s Executive
+Director, who reported a rising demand for rental,
+security deposit, and utility assistance. Despite
+partnerships, requests continue to grow, a need
+recognized by multiple community organizations.
+17
+Agency/Group/Organization
+Unaccompanied Student Initiative
+Agency/Group/Organization Type
+Services-Children
+Services-homeless
+What section of the Plan was addressed
+by Consultation?
+Homeless-Unaccompanied youth
+```
+
+### Page 16 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    16
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+How was the
+Agency/Group/Organization consulted
+and what are the anticipated outcomes
+of the consultation or areas for improved
+coordination?
+The City of Cheyenne consulted with the
+Unaccompanied Student Initiative (USI) about
+youth homelessness. USI’s Executive Director
+emphasized the need for a new building to expand
+housing for homeless youth. Although USI is not
+applying for funding this grant cycle, they plan to
+seek future funding and public service support to
+grow their services in Cheyenne.
+18
+Agency/Group/Organization
+Wyoming Coalition for the Homeless
+Agency/Group/Organization Type
+Services-Homeless
+What section of the Plan was addressed
+by Consultation?
+Homeless Needs - Chronically homeless
+How was the
+Agency/Group/Organization consulted
+and what are the anticipated outcomes
+of the consultation or areas for improved
+coordination?
+The City consulted with the Wyoming Coalition for
+the Homeless, which operates the Welcome Mat
+Day Shelter, to discuss the shelter facility
+maintenance needs. The agency’s leaders
+highlighted the need for facility improvements to
+the flooring, shower area and kitchen area.
+Although this organization did not apply for the
+2025 grant cycle, they are considering future
+applications.
+19
+Agency/Group/Organization
+Laramie County Community Partnership
+Agency/Group/Organization Type
+Services-Health
+Civic Leaders
+What section of the Plan was addressed
+by Consultation?
+Community Needs Assessments
+How was the
+Agency/Group/Organization consulted
+and what are the anticipated outcomes
+of the consultation or areas for improved
+coordination?
+The City of Cheyenne consulted with the Laramie
+County Community Partnership (LCCP) and
+participates on the LCCC Housing Task Force.
+Discussions and upcoming data highlight
+affordable housing as the city’s top priority, with a
+focus on increasing affordable units and addressing
+related policy and tenant concerns.
+20
+Agency/Group/Organization
+State of Wyoming, Wyoming Business Council
+Agency/Group/Organization Type
+Services - Broadband Internet Service Providers
+Services - Narrowing the Digital Divide
+Other government - State
+```
+
+### Page 17 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    17
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+What section of the Plan was addressed
+by Consultation?
+Economic Development
+How was the
+Agency/Group/Organization consulted
+and what are the anticipated outcomes
+of the consultation or areas for improved
+coordination?
+The City consulted with the Wyoming Business
+Council’s Broadband Manager, who stated that
+expanding broadband wiring and connections for
+low- and moderate-income (LMI) households
+would significantly increase access to essential
+services. This expansion would directly enable
+opportunities for work, education, and
+telehealth—including remote health monitoring
+options for vulnerable populations. Regarding
+broadband internet service providers serving the
+jurisdiction, the Broadband Manager also noted
+that increased competition among providers will
+help lower the cost of internet service for
+consumers.
+21
+Agency/Group/Organization
+Cheyenne Police Department
+Agency/Group/Organization Type
+Other government - Local
+What section of the Plan was addressed
+by Consultation?
+Homeless Needs - Chronically homeless
+Homelessness Needs - Unaccompanied youth
+How was the
+Agency/Group/Organization consulted
+and what are the anticipated outcomes
+of the consultation or areas for improved
+coordination?
+The City consulted with the Cheyenne Police
+Department to gather information about the
+unsheltered homeless population in Cheyenne. In
+January 2025, the CPD actively participated in the
+annual Point-in-Time (PIT) Count, joining groups of
+volunteers to interview individuals experiencing
+homelessness.
+22
+Agency/Group/Organization
+City of Cheyenne, Compliance Department
+Agency/Group/Organization Type
+Other government - Local
+What section of the Plan was addressed
+by Consultation?
+Homeless Needs - Chronically homeless
+```
+
+### Page 18 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    18
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+How was the
+Agency/Group/Organization consulted
+and what are the anticipated outcomes
+of the consultation or areas for improved
+coordination?
+The H&CD Division consulted with the City’s
+Compliance Department to gather information
+regarding the unsheltered homeless population in
+Cheyenne, as well as to assess the public health
+risks associated with homeless encampments.
+These risks include the presence of drug
+paraphernalia, discarded needles, and increased
+exposure to individuals sleeping outdoors.
+23
+Agency/Group/Organization
+Cheyenne Fire & Rescue Department
+Agency/Group/Organization Type
+Agency - Emergency Management
+Other government - Local
+What section of the Plan was addressed
+by Consultation?
+Hazard Mitigation
+How was the
+Agency/Group/Organization consulted
+and what are the anticipated outcomes
+of the consultation or areas for improved
+coordination?
+The H&CD Division consulted with Cheyenne Fire
+Rescue to gather information on hazard mitigation,
+natural hazards related to climate change, and
+effective mitigation strategies for the Cheyenne
+area.
+
+24
+Agency/Group/Organization
+City of Cheyenne Engineering Department
+
+Agency/Group/Organization Type
+Agency - Emergency Management
+Other government - Local
+
+What section of the Plan was addressed
+by Consultation?
+Hazard Mitigation
+
+How was the Agency/Group/Organization
+consulted and what are the anticipated
+outcomes of the consultation or areas for
+improved coordination?
+The H&CD Division consulted with the Stormwater
+Division Manager and City Drainage Engineer
+regarding hazard mitigation. CDBG funding may be
+allocated for minor infrastructure improvements
+during the Con Plan period, which could support
+larger stormwater projects.
+25
+Agency/Group/Organization
+Wyoming Department of Health (WDH), Public
+Health, Communicable Disease Unit
+
+Agency/Group/Organization Type
+Other government - State
+```
+
+### Page 19 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    19
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+
+What section of the Plan was addressed
+by Consultation?
+Services - Housing
+Services-homeless
+
+How was the Agency/Group/Organization
+consulted and what are the anticipated
+outcomes of the consultation or areas for
+improved coordination?
+The City consulted with the WDH Housing Grant
+Manager about the HOPWA grant, Housing
+Opportunities for Persons with AIDS/HIV. The
+consultation resulted in sharing resources such as
+the City’s 2025 updated AI study with the WDH.
+25
+Agency/Group/Organization
+Wyoming Department of Health (WDH), Lead
+Prevention Program Manager
+
+Agency/Group/Organization Type
+Other government - State
+
+What section of the Plan was addressed
+by Consultation?
+Services-Children
+Public Safety
+
+How was the Agency/Group/Organization
+consulted and what are the anticipated
+outcomes of the consultation or areas for
+improved coordination?
+The City consulted with the WDH Lead Prevention
+Program Manager about the lead exposure in
+Cheyenne and across the state. The consultation
+resulted in the incorporation of information about
+Statewide Lead prevention strategies and efforts in
+the Con Plan.
+26
+Agency/Group/Organization
+Wyoming Housing Network (WHN)
+
+Agency/Group/Organization Type
+Services-Housing
+Civic Leader
+
+What section of the Plan was addressed
+by Consultation?
+Services-Housing
+
+How was the Agency/Group/Organization
+consulted and what are the anticipated
+outcomes of the consultation or areas for
+improved coordination?
+The City consults with the Director of WHN on an
+ongoing basis. H&CD staff serves on the board of
+the WyoNAHRO board with the Director of WHN.
+The City is exploring future opportunities with
+WHN to support affordable housing development
+in Cheyenne. The City contributed $150,000 in
+unused program income funds to a 2025 WHN
+multi-family housing project, Robin’s Point
+apartments.
+```
+
+### Page 20 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    20
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+Identify any Agency Types not consulted and provide rationale for not consulting
+Despite limited staff resources, the H&CD Division conducted thorough due diligence in consulting
+agencies and stakeholders serving low-to-moderate income residents for the Con Plan. We prioritized
+engagement with key stakeholders, community partners, and City departments. To further broaden
+input, we contracted with the University of Wyoming's Business and Economic Development Division to
+facilitate additional required consultations for the Analysis of Impediments to Fair Housing Study.
+Other local/regional/state/federal planning efforts considered when preparing
+the Plan
+Name of Plan
+Lead
+Organization
+How do the goals of your Strategic Plan overlap with the goals of
+each plan?
+Continuum of
+Care
+Wyoming
+Continuum of
+Care
+The Wyoming Continuum of Care (WY CoC) and the City of
+Cheyenne’s Consolidated Plan both focus on reducing
+homelessness and increasing affordable housing. WY CoC
+coordinates statewide housing and services for homeless
+individuals, while Cheyenne’s plan supports agencies providing
+shelter, transitional, and rapid re-housing. Both prioritize essential
+services and aim to make homelessness rare, brief, and non-
+recurring, with Cheyenne also emphasizing the creation of decent,
+affordable living environments.
+Table 3 – Other local / regional / federal planning efforts
+
+Describe cooperation and coordination with other public entities, including the
+State and any adjacent units of general local government, in the implementation
+of the Consolidated Plan (91.215(l))
+The H&CD staff works closely with state agencies and neighboring local governments to effectively
+implement its Consolidated Plan. Although there is no formal collaboration established specifically for
+the 2025-2027 plan, the City maintains ongoing partnerships and continually seeks new opportunities to
+address community priorities.
+This collaborative approach includes:
+•
+Regular communication between the City’s Economic Resource Administrator and CDBG
+Supervisor, and state departments
+•
+H&CD staff participation in regional planning sessions, such as the CoC Gap Analysis Forums, PIT
+Count preparation meetings, and service on the WyoNAHRO Board
+•
+Sharing resources, including data, knowledge of federal regulations and requirements, and
+information on available federal grants with local agencies
+```
+
+### Page 21 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    21
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+•
+Aligning local initiatives with broader state and regional priorities, such as supporting the Board
+of Public Utilities Lead-Free Initiative
+The H&CD Division is proactive in identifying potential partnerships, monitoring relevant programs,
+engaging with local organizations, and exploring innovative ways to collaborate. This flexible strategy
+enables the City to adapt to changing needs and maximize the impact of its Con Plan for the benefit of
+all residents.
+```
+
+### Page 22 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    22
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+PR-15 Citizen Participation – 91.105, 91.115, 91.200(c) and 91.300(c)
+1.
+Summary of citizen participation process/Efforts made to broaden citizen
+participation
+
+The City’s Citizen Participation Process for the 2025-2027 Consolidated Plan (Con Plan) is designed to
+ensure robust public involvement in developing the Community Development Block Grant (CDBG)
+program. This process encourages citizen engagement from the outset, clearly outlining procedures for
+community approval of both the Con Plan and the Annual Action Plan (AAP), as well as methods for
+addressing concerns and amending plans after approval. The H&CD Division’s Advisory Council leads the
+citizen participation process, conducting public hearings and collecting public comments to ensure
+meaningful community input.
+The Citizen Participation Process plays a critical role in goal-setting for the CDBG program by prioritizing
+community needs. Through public hearings, comment periods, and targeted outreach efforts, citizens
+provide valuable feedback on the Con Plan and AAP, directly influencing how CDBG funds are allocated
+to address local priorities such as housing, public improvements, and essential services for low- and
+moderate-income residents. To enhance outreach and engagement, the City’s H&CD Division has
+implemented strategies including hosting lunch and learns, collecting survey data, conducting in-person
+surveys, targeting hard-to-reach populations, and leveraging technology to provide virtual access to
+meetings. This comprehensive process ensures that the goals established in the Consolidated Plan are
+relevant, realistic, and achievable, aligning with HUD National Objectives while reflecting the
+community’s priorities.
+Sort Order
+Mode of  Outreach
+Target of  Outreach
+Summary  of
+Response/
+attendance
+Summary  of
+Comments  received
+Summary of  comments
+not accepted and reasons
+URL (If
+applicable)
+1
+Newspaper Ad
+Non-targeted/ broad
+community
+A public notice
+was published
+on 10-18-24 in
+the Wyoming
+Tribune Eagle
+announcing the
+CDBG Program
+Year 2025 grant
+cycle and
+proposed goals
+for the 2025-
+2027 Con Plan.
+N/A
+N/A
+
+2
+Public Hearing
+Non-targeted/ broad
+community
+A Public Hearing
+was held on 11-
+06-24 on CDBG
+grant proposals
+and proposed
+2025-2027 Con
+Plan Goals.
+No comments were
+received.
+N/A
+```
+
+### Page 23 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    23
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+Sort Order
+Mode of  Outreach
+Target of  Outreach
+Summary  of
+Response/
+attendance
+Summary  of
+Comments  received
+Summary of  comments
+not accepted and reasons
+URL (If
+applicable)
+3
+Internet Outreach
+Non-targeted/ broad
+community
+A survey for the
+2025-27 Con
+Plan was
+conducted on
+03-01-25 via
+Facebook and
+in-person to
+solicit public
+input.  There
+were over 83
+responses.
+Affordable housing,
+infrastructure
+upgrades, and
+economic
+development/job
+training, and
+homelessness were
+the highest priorities.
+All comments were
+considered in determining
+which goals to include in
+the 2025-2027 Con Plan.
+
+4
+Internet Outreach
+Non-targeted/ broad
+community
+An email and a
+Facebook post
+were
+disseminated on
+03-26-25, to
+provide notice
+for a Lunch and
+Learn session for
+the Con Plan and
+AI Study.
+N/A
+N/A
+
+5
+Newspaper Ad
+Non-targeted/ broad
+community
+Public Notice
+was published in
+the Wyoming
+Tribune Eagle on
+03-28-25
+announcing a
+Lunch and Learn
+session.
+ N/A
+ N/A
+
+6
+Public Meeting
+Non-targeted/ broad
+community
+The City hosted
+a Con Plan and
+AI Study Lunch
+N' Learn on 04-
+10-25. The
+meeting was
+attended by 12
+participants.
+Comments on the
+necessity of zoning
+changes to
+accommodate mobile
+home parks within city
+limits were discussed.
+As a result, two
+attendees were
+interviewed for the
+2025 AI Study.
+All comments made by
+attendees were
+considered.
+
+7
+Internet
+Outreach
+Non-targeted/ broad
+community
+Announcement
+on the Laramie
+County
+Community
+Partnership
+Monthly
+meeting, public
+comment period
+and hearing for
+the Consolidated
+Plan.
+
+8
+Newspaper Ad
+Non-targeted/ broad
+community
+Public Notice,
+Wyoming
+Tribune Eagle,
+06-09-25
+announcement
+for the
+Consolidated
+Plan Public
+comment
+period, hearing
+and meetings.
+N/A
+N/A
+```
+
+### Page 24 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    24
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+Sort Order
+Mode of  Outreach
+Target of  Outreach
+Summary  of
+Response/
+attendance
+Summary  of
+Comments  received
+Summary of  comments
+not accepted and reasons
+URL (If
+applicable)
+9
+Internet Outreach
+Non-targeted/ broad
+community
+An email and a
+Facebook post
+will be
+disseminated on
+06-09-25, to
+provide notice
+for the
+Consolidated
+Plan Public
+comment
+period, hearing
+and meetings.
+ N/A
+ N/A
+
+10
+Public Hearing
+Non-targeted/ broad
+community
+A Public Hearing
+for the 2025-
+2027 Con Plan
+and the 2025 AI
+Study will be
+held during the
+Finance
+Committee
+Meeting on 06-
+23-25
+A Summary of
+comments that are
+received will be added
+at the conclusion of
+the Public Comment
+Period on or after July
+8, 2025.
+A Summary of comments
+not accepted, and the
+reasons will be added at
+the conclusion of the
+Public Comment Period on
+or after July 8, 2025.
+
+11
+Public Meeting
+Non-targeted/ broad
+community
+A Public Meeting
+for the 2025-
+2027 Con Plan
+and the 2025 AI
+Study will be
+held during the
+Finance
+Committee
+Meeting on 07-
+08-25
+A Summary of
+comments that are
+received will be added
+at the conclusion of
+the Public Comment
+Period on or after July
+8, 2025.
+A Summary of comments
+not accepted, and the
+reasons will be added at
+the conclusion of the
+Public Comment Period on
+or after July 8, 2025.
+
+Table 4 – Citizen Participation Outreach
+```
+
+### Page 25 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    25
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+Needs Assessment
+NA-05 Overview
+Needs Assessment Overview
+Cheyenne, Wyoming, has seen steady population and economic growth over the past two decades, with
+a 3% population increase from 2009 to 2020 and median household income projected to rise from
+$58,219 to $77,176 by 2025. Despite these gains, the city faces persistent housing challenges, especially
+for low- and moderate-income (LMI) residents, including a critical shortage of affordable housing
+affecting extremely low-income households (0–30% AMI) and those earning up to 80% AMI. Renters
+face higher overcrowding and cost burdens, while seniors and people with disabilities are
+disproportionately affected by the lack of accessible units.
+Limited housing supply, high prices, and regulatory barriers contribute to these issues. Housing
+instability and homelessness risk are linked to severe cost burdens, overcrowding, and inadequate
+housing, with single-person and very low-income households particularly vulnerable. The aging housing
+stock and slow development worsen conditions, especially for seniors, people with disabilities, and racial
+and ethnic minorities.
+Homelessness is increasing due to affordable housing shortages, inflation, and rising demand for shelter
+and transitional housing, affecting both local and transient populations. CDBG-funded efforts like the
+COMEA Shelter’s Women’s Dormitory expansion aim to increase shelter capacity. The H&CD Division
+prioritizes supporting shelters, improving healthcare access, expanding education and job training,
+increasing food and outreach services, and enhancing public facilities and infrastructure for LMI
+communities. For 2025-2027, the H&CD Division will strategically allocate CDBG funds to improve
+infrastructure and public facilities and strengthen partnerships with stakeholders including the Wyoming
+Continuum of Care, City Departments, and local non-profits.
+```
+
+### Page 26 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    26
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+NA-10 Housing Needs Assessment - 24 CFR 91.205 (a, b,c)
+Summary of Housing Needs
+Cheyenne, Wyoming’s largest city and capital, has seen modest but steady growth over the past two
+decades. From 2009 to 2020, the population rose 3% (62,195 to 64,100) and households grew 10%
+(25,130 to 27,600). Median household income increased 18% from $58,219 to $68,611, and as of 2025,
+it is $77,176. Despite this growth, low-to-moderate-income residents face persistent housing challenges,
+chiefly a shortage of affordable housing. As a result, 30,555 households spend over 30% of their income
+on housing, with 17,305 spending more than half.
+Extremely low-income households (0–30% AMI) are especially affected; 33% of renters in this group
+spend over half their income on housing, and 3,430 residents face severe housing problems, such as cost
+burden, overcrowding, or substandard conditions. Overall, 15,600 households experience significant
+housing issues, with 87% of low-income renters and 90% of low-income homeowners being cost
+burdened. The lack of accessible units further impacts the elderly and disabled. These challenges mirror
+broader statewide trends of limited supply, high prices, and regulatory barriers, leading to economic and
+social consequences for Cheyenne, including reduced disposable income, business pressures, and
+workforce retention difficulties.
+Demographics
+Base Year:  2009
+Most Recent Year:  2020
+% Change
+Population
+62,195
+64,100
+3%
+Households
+25,130
+27,600
+10%
+Median Income
+$58,219.00
+$68,611.00
+18%
+Table 5 - Housing Needs Assessment Demographics
+
+Data Source:
+2000 Census (Base Year), 2016-2020 ACS (Most Recent Year)
+
+Number of Households Table
+
+0-30%
+HAMFI
+>30-50%
+HAMFI
+>50-80%
+HAMFI
+>80-100%
+HAMFI
+>100%
+HAMFI
+Total Households
+3,430
+3,160
+4,665
+3,505
+12,840
+Small Family Households
+520
+610
+1,295
+1,320
+6,665
+Large Family Households
+235
+225
+675
+165
+535
+Household contains at least one
+person 62-74 years of age
+849
+965
+940
+740
+2,530
+Household contains at least one
+person aged 75 or older
+620
+680
+490
+319
+1,100
+Households with one or more
+children 6 years old or younger
+509
+430
+965
+595
+1,090
+Table 6 - Total Households Table
+Data
+Source:
+2016-2020 CHAS
+```
+
+### Page 27 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    27
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+Housing Needs Summary Tables
+1. Housing Problems (Households with one of the listed needs)
+
+Renter
+Owner
+0-30%
+AMI
+>30-
+50%
+AMI
+>50-
+80%
+AMI
+>80-
+100%
+AMI
+Total
+0-30%
+AMI
+>30-
+50%
+AMI
+>50-
+80%
+AMI
+>80-
+100%
+AMI
+Total
+NUMBER OF HOUSEHOLDS
+Substandard
+Housing -
+Lacking
+complete
+plumbing or
+kitchen
+facilities
+60
+110
+20
+4
+194
+0
+45
+0
+0
+45
+Severely
+Overcrowded -
+With >1.51
+people per
+room (and
+complete
+kitchen and
+plumbing)
+0
+0
+0
+0
+0
+0
+0
+20
+0
+20
+Overcrowded -
+With 1.01-1.5
+people per
+room (and
+none of the
+above
+problems)
+50
+0
+50
+0
+100
+0
+10
+95
+40
+145
+Housing cost
+burden greater
+than 50% of
+income (and
+none of the
+above
+problems)
+1,150
+180
+4
+0
+1,334
+620
+320
+180
+10
+1,130
+```
+
+### Page 28 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    28
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+
+Renter
+Owner
+0-30%
+AMI
+>30-
+50%
+AMI
+>50-
+80%
+AMI
+>80-
+100%
+AMI
+Total
+0-30%
+AMI
+>30-
+50%
+AMI
+>50-
+80%
+AMI
+>80-
+100%
+AMI
+Total
+Housing cost
+burden greater
+than 30% of
+income (and
+none of the
+above
+problems)
+270
+895
+500
+135
+1,800
+270
+380
+705
+305
+1,660
+Zero/negative
+Income (and
+none of the
+above
+problems)
+170
+0
+0
+0
+170
+80
+0
+0
+0
+80
+Table 7 – Housing Problems Table
+Data
+Source:
+2016-2020 CHAS
+
+2. Housing Problems 2 (Households with one or more Severe Housing Problems:
+Lacks kitchen or complete plumbing, severe overcrowding, severe cost burden)
+
+Renter
+Owner
+0-30%
+AMI
+>30-
+50%
+AMI
+>50-
+80%
+AMI
+>80-
+100%
+AMI
+Total
+0-
+30%
+AMI
+>30-
+50%
+AMI
+>50-
+80%
+AMI
+>80-
+100%
+AMI
+Total
+NUMBER OF HOUSEHOLDS
+Having 1 or more
+of four housing
+problems
+1,260
+290
+75
+4
+1,629
+620
+375
+290
+45
+1,330
+Having none of
+four housing
+problems
+965
+1,275
+1,875
+880
+4,995
+590
+1,215
+2,425
+2,565
+6,795
+Household has
+negative income,
+but none of the
+other housing
+problems
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Table 8 – Housing Problems 2
+Data
+Source:
+2016-2020 CHAS
+```
+
+### Page 29 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    29
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+3. Cost Burden > 30%
+
+Renter
+Owner
+0-30%
+AMI
+>30-50%
+AMI
+>50-
+80%
+AMI
+Total
+0-30%
+AMI
+>30-
+50%
+AMI
+>50-
+80%
+AMI
+Total
+NUMBER OF HOUSEHOLDS
+Small Related
+220
+335
+235
+790
+80
+175
+325
+580
+Large Related
+100
+15
+15
+130
+0
+40
+35
+75
+Elderly
+490
+355
+4
+849
+615
+325
+235
+1,175
+Other
+710
+450
+250
+1,410
+190
+175
+280
+645
+Total need by
+income
+1,520
+1,155
+504
+3,179
+885
+715
+875
+2,475
+Table 9 – Cost Burden > 30%
+Data
+Source:
+2016-2020 CHAS
+
+4. Cost Burden > 50%
+
+Renter
+Owner
+0-30%
+AMI
+>30-
+50%
+AMI
+>50-
+80%
+AMI
+Total
+0-30%
+AMI
+>30-
+50%
+AMI
+>50-
+80%
+AMI
+Total
+NUMBER OF HOUSEHOLDS
+Small Related
+0
+0
+85
+85
+70
+55
+0
+125
+Large Related
+0
+0
+0
+0
+0
+0
+0
+0
+Elderly
+445
+95
+4
+544
+390
+145
+60
+595
+Other
+0
+540
+65
+605
+160
+0
+0
+160
+Total need by
+income
+445
+635
+154
+1,234
+620
+200
+60
+880
+Table 10 – Cost Burden > 50%
+Data
+Source:
+2016-2020 CHAS
+
+5. Crowding (More than one person per room)
+
+Renter
+Owner
+0-
+30%
+AMI
+>30-
+50%
+AMI
+>50-
+80%
+AMI
+>80-
+100%
+AMI
+Total
+0-
+30%
+AMI
+>30-
+50%
+AMI
+>50-
+80%
+AMI
+>80-
+100%
+AMI
+Total
+NUMBER OF HOUSEHOLDS
+Single family
+households
+50
+30
+45
+0
+125
+0
+0
+115
+40
+155
+```
+
+### Page 30 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    30
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+
+Renter
+Owner
+0-
+30%
+AMI
+>30-
+50%
+AMI
+>50-
+80%
+AMI
+>80-
+100%
+AMI
+Total
+0-
+30%
+AMI
+>30-
+50%
+AMI
+>50-
+80%
+AMI
+>80-
+100%
+AMI
+Total
+Multiple,
+unrelated family
+households
+0
+0
+4
+0
+4
+0
+10
+0
+0
+10
+Other, non-family
+households
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Total need by
+income
+50
+30
+49
+0
+129
+0
+10
+115
+40
+165
+Table 11 – Crowding Information – 1/2
+Data
+Source:
+2016-2020 CHAS
+
+Renter
+Owner
+0-
+30%
+AMI
+>30-
+50%
+AMI
+>50-
+80%
+AMI
+Total
+0-
+30%
+AMI
+>30-
+50%
+AMI
+>50-
+80%
+AMI
+Total
+Households with
+Children Present
+0
+0
+0
+0
+0
+0
+0
+0
+Table 12 – Crowding Information – 2/2
+Data Source
+Comments:
+
+Describe the number and type of single-person households in need of housing
+assistance.
+Single-person households in Cheyenne face significant housing challenges. According to HUD definitions,
+a single-person household is an individual living alone, including elderly, disabled, displaced, near-
+elderly, or other single adults—all eligible for HUD assistance. In Cheyenne, these households are
+primarily categorized as “Other” in the Needs Assessment tables.
+Among households earning 0–30% of the Area Median Income (AMI), 4,265 experience housing
+problems, and 3,540 of these face severe cost burdens, spending more than half their income on
+housing. Additionally, 290 single non-elderly households are experiencing crowding, indicating that
+affordability issues are forcing some individuals into shared or substandard living conditions. These
+findings highlight an urgent need for affordable housing options specifically for single adults.
+```
+
+### Page 31 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    31
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+Estimate the number and type of families in need of housing assistance who are
+disabled or victims of domestic violence, dating violence, sexual assault and
+stalking.
+In 2024–2025, Cheyenne’s domestic violence shelter has 52 beds and serves 50–60 clients per month,
+including children, with an estimated 600–720 individuals housed annually. The shelter serves a diverse
+population—including families, seniors, crime victims, and those with special needs—and provides
+wraparound services such as advocacy, legal support, and financial aid. In 2023–2024, the shelter
+assisted over 1,200 new or unduplicated individuals, delivering nearly 19,000 services and providing
+more than 12,000 bed nights—a 28% increase from the previous year. About one-third of clients were
+under 18.
+Cheyenne’s disabled population is about 7% (8,222 people), with higher rates among older adults. Many
+face long affordable housing waitlists, and those on Supplemental Security Income (SSI) are particularly
+affected. In 2025, the maximum federal SSI income is $11,604 per year, still below the poverty line. In
+Laramie County, 15.6% to 19.5% of people with disabilities, about 1,280 to 1,600 individuals, live in
+poverty. Research shows that rental assistance with supportive services is more cost-effective than the
+public costs of homelessness or institutional care.
+What are the most common housing problems?
+Extremely low-income households are facing the most severe housing challenges, including the highest
+rates of cost burden, severe cost burden, overcrowding, and substandard living conditions. In the area,
+more than 10,500 extremely low-income households are dealing with at least one serious housing
+problem. Renters in Cheyenne are particularly vulnerable, experiencing higher rates of overcrowding—
+2,930 renter households compared to just 875 owner households—and greater struggles with housing
+affordability. Single-person households, especially those with very low incomes, are at heightened risk
+for severe cost burdens and are more likely to reside in shared or substandard housing.
+Are any populations/household types more affected than others by these
+problems?
+Racial and ethnic minorities are disproportionately affected by housing problems. Nearly all extremely
+low-income American Indian, Alaska Native, and Asian households, as well as over 90% of extremely
+low-income Hispanic households, face at least one major housing issue, compared to about 86% of
+White non-Hispanic households. Additionally, people with disabilities and seniors encounter significant
+barriers to finding accessible and affordable housing, often facing long waitlists for public housing and
+vouchers. The need for public housing and vouchers in Cheyenne continues to grow, particularly for
+one- and two-bedroom units, underscoring the urgent demand for expanded affordable housing options
+in the community.
+```
+
+### Page 32 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    32
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+Describe the characteristics and needs of Low-income individuals and families
+with children (especially extremely low-income) who are currently housed but are
+at imminent risk of either residing in shelters or becoming unsheltered
+91.205(c)/91.305(c)). Also discuss the needs of formerly homeless families and
+individuals who are receiving rapid re-housing assistance and are nearing the
+termination of that assistance
+Family Promise of Cheyenne, Community Action of Laramie County, and organizations like the Comea
+Shelter participate in rapid re-housing and homeless prevention efforts. While specific data on the
+needs of those receiving rapid re-housing is lacking, local nonprofits report that clients often require
+supportive services such as childcare, job training, legal aid, and health services to overcome barriers to
+stable housing. Access to landlord mediation, legal assistance, and credit repair is also critical to
+preventing homelessness among low-income families. Tailored support and resource connections are
+essential, particularly for extremely low-income individuals and families at risk of losing their housing.
+If a jurisdiction provides estimates of the at-risk population(s), it should also
+include a description of the operational definition of the at-risk group and the
+methodology used to generate the estimates:
+The City’s H&CD Division follows the HUD Continuum of Care program’s definition of “at-risk”
+populations. This includes individuals or families who are likely to become homeless within 14 days and
+who lack the resources or support networks needed to secure other permanent housing. The definition
+also covers unaccompanied youth under 25, families with children experiencing housing instability, and
+individuals or families fleeing domestic violence or other dangerous conditions without safe alternatives.
+To ensure a comprehensive understanding of local needs, the City incorporates recent data on “at-risk”
+populations from a variety of agencies and organizations. These include the local domestic violence
+shelter, Comea Shelter, Family Promise of Cheyenne, Community Action of Laramie County, Wyoming
+Department of Health, Recover Wyoming, Unaccompanied Student Initiative, the Cheyenne Housing
+Authority, and the CoC 2025 Point-In-Time Count.
+Specify particular housing characteristics that have been linked with instability
+and an increased risk of homelessness
+Several housing characteristics are strongly associated with instability and an increased risk of
+homelessness. A severe cost burden is a primary factor, occurring when households spend more than
+50% of their income on housing and are left with limited resources for other essentials. Overcrowding,
+often defined as more than one person per room, is another indicator of instability and typically results
+from unaffordable rents and a lack of suitable housing options. Substandard housing conditions-such as
+units lacking complete kitchen or plumbing facilities, further contribute to unsafe and precarious living
+situations.
+```
+
+### Page 33 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    33
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+
+Other factors also play a significant role. Much of Cheyenne’s housing stock was built before 1980,
+raising concerns about ongoing safety, maintenance, and accessibility. Affordable housing tends to be
+concentrated in historically underserved neighborhoods, which can limit access to critical services and
+opportunities. These challenges disproportionately impact extremely low-income households, single-
+person households, racial and ethnic minorities, people with disabilities, and survivors of domestic
+violence. Additionally, long waitlists for public housing and housing vouchers underscore the shortage of
+affordable, stable housing options, increasing the likelihood of housing instability and homelessness.
+```
+
+### Page 34 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    34
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+NA-15 Disproportionately Greater Need: Housing Problems – 91.205
+(b)(2)
+Assess the need of any racial or ethnic group that has a disproportionately greater
+need in comparison to the needs of that category of need as a whole.
+Introduction
+Cheyenne’s Housing Needs Assessment shows that minority groups, particularly American Indian/Alaska
+Native, Asian, Black, and Hispanic households, experience disproportionately greater housing problems
+compared to the population. Among extremely low-income households (0–30% of area median income),
+100% of American Indian/Alaska Native and Asian households, and over 91% of Hispanic households,
+face at least one significant housing problem such as lacking kitchen or plumbing facilities,
+overcrowding, or severe cost burden.
+These disparities persist, though to a lesser degree, in higher income brackets, with Black and multiracial
+households in the 30–50% AMI range and Hispanic households in the 50–80% AMI range also
+experiencing higher rates of housing problems than the citywide average for their income levels.
+Overall, the data highlights that minority households in Cheyenne are more likely to struggle with
+affordability, overcrowding, and substandard housing conditions.
+These burdens are most pronounced among extremely low-income families and underscore the need
+for targeted housing interventions and resources to address persistent gaps faced by these vulnerable
+groups.
+Housing Problems Table Data and Definitions
+The four housing problems referred to in the charts in the Housing Problems sections are:
+1. Lacks complete kitchen facilities
+2. Lacks complete plumbing facilities
+3. More than one person per room
+4. Cost Burden greater than 30%
+Date Source for Tables 9-12 (below) is from the 2016-2020 CHAS
+In the context of HUD housing data, CHAS stands for Comprehensive Housing Affordability Strategy. It
+refers to special data tabulations that help analyze housing needs, especially for low-income
+households.
+```
+
+### Page 35 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    35
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+
+0%-30% of Area Median Income
+Housing Problems
+Has one or more
+of four housing
+problems
+Has none of the
+four housing
+problems
+Household has
+no/negative
+income, but none
+of the other
+housing problems
+Jurisdiction as a whole
+2,415
+1,015
+0
+White
+1,875
+750
+0
+Black / African American
+0
+0
+0
+Asian
+94
+0
+0
+American Indian, Alaska Native
+20
+0
+0
+Pacific Islander
+0
+0
+0
+Hispanic
+340
+235
+0
+Table 13 - Disproportionally Greater Need 0 - 30% AMI
+
+30%-50% of Area Median Income
+Housing Problems
+Has one or more
+of four housing
+problems
+Has none of the
+four housing
+problems
+Household has
+no/negative
+income, but none
+of the other
+housing problems
+Jurisdiction as a whole
+1,945
+1,220
+0
+White
+1,605
+935
+0
+Black / African American
+10
+35
+0
+Asian
+0
+0
+0
+American Indian, Alaska Native
+15
+0
+0
+Pacific Islander
+20
+0
+0
+Hispanic
+295
+250
+0
+Table 14 - Disproportionally Greater Need 30 - 50% AMI
+
+50%-80% of Area Median Income
+Housing Problems
+Has one or more
+of four housing
+problems
+Has none of the
+four housing
+problems
+Household has
+no/negative
+income, but none
+of the other
+housing problems
+Jurisdiction as a whole
+1,575
+3,090
+0
+White
+1,195
+2,700
+0
+Black / African American
+39
+15
+0
+```
+
+### Page 36 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    36
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+Housing Problems
+Has one or more
+of four housing
+problems
+Has none of the
+four housing
+problems
+Household has
+no/negative
+income, but none
+of the other
+housing problems
+Asian
+0
+40
+0
+American Indian, Alaska Native
+30
+0
+0
+Pacific Islander
+0
+15
+0
+Hispanic
+270
+285
+0
+Table 15 - Disproportionally Greater Need 50 - 80% AMI
+80%-100% of Area Median Income
+Housing Problems
+Has one or more
+of four housing
+problems
+Has none of the
+four housing
+problems
+Household has
+no/negative
+income, but none
+of the other
+housing problems
+Jurisdiction as a whole
+495
+3,010
+0
+White
+415
+2,685
+0
+Black / African American
+0
+0
+0
+Asian
+20
+4
+0
+American Indian, Alaska Native
+0
+0
+0
+Pacific Islander
+0
+14
+0
+Hispanic
+50
+245
+0
+Table 16 - Disproportionally Greater Need 80 - 100% AMI
+```
+
+### Page 37 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    37
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+NA-20 Disproportionately Greater Need: Severe Housing Problems –
+91.205 (b)(2)
+Assess the need of any racial or ethnic group that has a disproportionately greater
+need in comparison to the needs of that category of need as a whole.
+Introduction
+The data included in the AMI tables included in the NA-20 Disproportionately Greater Need: Severe
+Housing Problems Section demonstrate that communities of color face more severe housing problems
+than White populations with similar incomes.
+Among extremely low-income households (0–30% AMI), 100% of American Indian/Alaska Native and
+Asian households face severe housing problems, nearly 15 percentage points higher than White
+households in the same bracket. Hispanic households in this income category experience severe
+overcrowding at three times the rate of their White counterparts, while Black households in the 30–50%
+AMI range face severe cost burdens 22% more frequently. These disparities persist across moderate-
+income brackets, with minority groups consistently experiencing compounded challenges, including
+substandard housing, overcrowding, and cost burden, compared to citywide averages for their income
+levels. Data from the Severe Housing Problems by AMI Levels tables included in this section underscore
+how communities of color, particularly in southside neighborhoods with aging housing stock, face a
+disproportionately greater need.
+Severe Housing Problems Table Data and Definitions
+The four housing problems referred to in the charts in the Housing Problems sections are:
+1. Lacks complete kitchen facilities
+2. Lacks complete plumbing facilities
+3. More than one person per room
+4. Cost Burden greater than 30%
+Date Source for Tables 13-16 is from the 2016-2020 CHAS. In the context of HUD housing data, CHAS
+stands for Comprehensive Housing Affordability Strategy. It refers to special data tabulations that help
+analyze housing needs, especially for low-income households.
+0%-30% of Area Median Income
+Severe Housing Problems*
+Has one or more
+of four housing
+problems
+Has none of the
+four housing
+problems
+Household has
+no/negative
+income, but none
+of the other
+housing problems
+Jurisdiction as a whole
+1,880
+1,555
+0
+White
+1,525
+1,100
+0
+```
+
+### Page 38 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    38
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+Severe Housing Problems*
+Has one or more
+of four housing
+problems
+Has none of the
+four housing
+problems
+Household has
+no/negative
+income, but none
+of the other
+housing problems
+Black / African American
+0
+0
+0
+Asian
+94
+0
+0
+American Indian, Alaska Native
+20
+0
+0
+Pacific Islander
+0
+0
+0
+Hispanic
+165
+410
+0
+Table 17 – Severe Housing Problems 0 - 30% AMI
+
+30%-50% of Area Median Income
+Severe Housing Problems*
+Has one or more
+of four housing
+problems
+Has none of the
+four housing
+problems
+Household has
+no/negative
+income, but none
+of the other
+housing problems
+Jurisdiction as a whole
+665
+2,490
+0
+White
+570
+1,970
+0
+Black / African American
+0
+45
+0
+Asian
+0
+0
+0
+American Indian, Alaska Native
+15
+0
+0
+Pacific Islander
+0
+20
+0
+Hispanic
+85
+455
+0
+Table 18 – Severe Housing Problems 30 - 50% AMI
+50%-80% of Area Median Income
+Severe Housing Problems*
+Has one or more
+of four housing
+problems
+Has none of the
+four housing
+problems
+Household has
+no/negative
+income, but none
+of the other
+housing problems
+Jurisdiction as a whole
+365
+4,300
+0
+White
+260
+3,635
+0
+Black / African American
+0
+55
+0
+Asian
+0
+40
+0
+American Indian, Alaska Native
+0
+30
+0
+Pacific Islander
+0
+15
+0
+Hispanic
+109
+450
+0
+Table 19 – Severe Housing Problems 50 - 80% AMI
+```
+
+### Page 39 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    39
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+80%-100% of Area Median Income
+Severe Housing Problems*
+Has one or more
+of four housing
+problems
+Has none of the
+four housing
+problems
+Household has
+no/negative
+income, but none
+of the other
+housing problems
+Jurisdiction as a whole
+49
+3,445
+0
+White
+49
+3,045
+0
+Black / African American
+0
+0
+0
+Asian
+0
+24
+0
+American Indian, Alaska Native
+0
+0
+0
+Pacific Islander
+0
+14
+0
+Hispanic
+0
+300
+0
+Table 20 – Severe Housing Problems 80 - 100% AMI
+```
+
+### Page 40 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    40
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+NA-25 Disproportionately Greater Need: Housing Cost Burdens – 91.205
+(b)(2)
+Assess the need of any racial or ethnic group that has a disproportionately greater
+need in comparison to the needs of that category of need.
+Introduction:
+The analysis of Housing Cost Burdens reveals persistent racial and ethnic disparities across AMI income
+levels, with minority households consistently spending disproportionate shares of income on housing.
+Among extremely low-income households (0-30% AMI), Hispanic and Black families face severe cost
+burdens at rates 15-20% higher than their White counterparts, while American Indian/Alaska Native
+households in moderate-income brackets (50-80% AMI) experience cost burdens at nearly double the
+citywide average for their income tier. These disproportionate burdens persist even as incomes rise,
+with minority groups in higher brackets still allocating larger portions of earnings to housing compared
+to non-Hispanic White households at similar income levels. The data underscores how affordability
+challenges compound for communities of color, particularly in southside Cheyenne which has limited
+affordable housing options.
+Housing Cost Burden
+Housing Cost Burden
+<=30%
+30-50%
+>50%
+No / negative
+income (not
+computed)
+Jurisdiction as a whole
+20,785
+3,930
+2,639
+245
+White
+17,450
+3,090
+2,055
+170
+Black / African
+American
+345
+49
+0
+0
+Asian
+370
+20
+94
+0
+American Indian,
+Alaska Native
+35
+30
+40
+0
+Pacific Islander
+25
+20
+0
+0
+Hispanic
+2,140
+595
+350
+74
+Table 21 – Greater Need: Housing Cost Burdens AMI
+Data
+Source:
+2016-2020 CHAS
+```
+
+### Page 41 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    41
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+NA-30 Disproportionately Greater Need: Discussion – 91.205(b)(2)
+Are there any Income categories in which a racial or ethnic group has
+disproportionately greater need than the needs of that income category as a
+whole?
+The analysis of the Table data reveals that there are income categories, as a whole, in which racial and
+ethnic groups have disproportionately greater housing needs compared to others in the same income
+bracket. According to data from the 2016–2020 American Community Survey (ACS) and the 2000 Census
+(Base Year), included in the Con Plan, American Indian/Alaska Native, Asian, Black, and Hispanic
+households consistently experience higher rates of housing problems, including cost burden,
+overcrowding, and substandard conditions, than the citywide average for their income levels.
+In the extremely low-income category (0–30% AMI), 100% of American Indian/Alaska Native and Asian
+households, and over 91% of Hispanic households, face at least one housing problem, compared to
+85.7% of White households. Similar disparities appear in other income brackets, such as Black
+households in the 30–50% AMI range and Hispanic households in the 50–80% AMI range.
+If they have needs not identified above, what are those needs?
+Hispanic workers in Wyoming and Cheyenne experience significantly higher unemployment rates than
+White workers. As of late 2023, Wyoming had the highest Hispanic-white unemployment ratio in the
+country, with Hispanic workers more than twice as likely to be unemployed as their White counterparts.
+These employment gaps, combined with lower educational attainment and ongoing racial and gender
+pay disparities, create economic instability and make it harder for minority populations to find stable
+housing.
+In Cheyenne, minority communities—especially those living on the south side—face greater
+socioeconomic challenges, including higher poverty rates and less access to healthcare. These factors
+increase their risk of housing instability and homelessness. The findings are based on data from the
+2016–2020 American Community Survey and the 2000 Census.
+Are any of those racial or ethnic groups located in specific areas or neighborhoods
+in your community?
+Cheyenne’s population is primarily White, accounting for about 75–81% of residents, with Hispanic or
+Latino individuals making up the largest minority group at 14–16%. Black or African American residents
+represent roughly 2.8–2.9%, Asian residents about 1.2%, and American Indian and Alaska Native about
+0.8%. Individuals identifying with two or more races comprise about 10%. Approximately 3% of residents
+are foreign-born, and about 6% of households speak a language other than English at home.
+The area around Francis E. Warren Air Force Base has a more varied racial and ethnic composition,
+including significant proportions of Black or African American, Asian, American Indian, and Hispanic or
+```
+
+### Page 42 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    42
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+Latino residents. Most households in this area speak only English, but a notable portion speak only
+Spanish.
+Several neighborhoods in Cheyenne, especially in the south and near the Air Force base, have a high
+proportion of low- and moderate-income households. For example, in some block groups, the
+percentage of low- and moderate-income households ranges from about 55% to over 87%. The
+downtown area and many southern neighborhoods also have a significant presence of Hispanic
+residents, with some areas having Hispanic populations approaching 48%.
+Census Tract 15.02, for instance, has a population of approximately 5,100, a median household income
+of about $47,000, a poverty rate of 15%, and a median home value of $190,000. The percentage of
+residents with at least a high school diploma is about 96%, and the median age is approximately 39.
+Certain racial and ethnic groups in Cheyenne are concentrated in specific neighborhoods, with Hispanic
+residents mostly residing in the southern areas and White residents more prevalent in the north. The
+neighborhoods near the Air Force base and in the southern part of the city also have greater economic
+diversity and higher proportions of low- and moderate-income households.
+```
+
+### Page 43 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    43
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+NA-35 Public Housing – 91.205(b)
+Introduction
+The Cheyenne Housing Authority (CHA) provides low-income housing to residents of Cheyenne and runs
+a Section 8 housing voucher program, which subsidizes rent for tenants who have a private landlord.
+The family pays the difference between the total rent charged and the amount subsidized by the
+voucher.  The CHA serves as the primary public housing authority for Cheyenne, owning and managing
+341 public housing units, with 266 in Cheyenne and 75 in Laramie. In addition, the CHA administers
+1,786 Housing Choice Section 8 Vouchers across multiple Wyoming communities, as well as specialized
+programs such as Veterans Assistance Supportive Housing (VASH) and Project-Based Section 8 Contract
+Administration, which supports 51 properties with over 2,100 rental units statewide.
+The University of Wyoming Center for Business and Economic Analysis (CBEA) consulted with CHA’s
+Director while preparing the updated Analysis of Impediments to Fair Housing for the City. Much of the
+information in the Needs Analysis- Public Housing Section (NA-35) is taken from CBEA’s consultation
+with the CHA’s Director.
+The waitlist for housing vouchers has nearly tripled in the past three years, rising from approximately
+1,000 to 3,100 applicants. Mr. Hancock, the Executive Director of the CHA, believes that the waitlist
+increase may be due to a falling number of participating private landlords/associated housing units and
+a “shortage” of vouchers. The landlord shortage may be the result of rising property and liability
+insurance premiums that are increasing because of reduced competition among insurance providers.
+Mr. Hancock suggests that one potential solution might be the establishment of an affordable housing
+trust fund in the state, although a proposal to create a trust fund in Wyoming died in committee in the
+2023 legislative session. Additional options include expanding the use of Tax Increment Financing
+districts, allowing leases of state and federal lands to private developers, and encouraging property
+owners to restore abandoned buildings.
+```
+
+### Page 44 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    44
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+```
+
+### Page 45 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    45
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+```
+
+### Page 46 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    46
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+
+Section 504 Needs Assessment: Describe the needs of public housing tenants and
+applicants on the waiting list for accessible units:
+All households that apply for housing assistance through the CHA are required to complete a pre-
+application that contains basic household and contact information and make clear the applicant’s
+requested housing assistance program(s). Once this pre-application is completed, the household is
+placed on CHA’s wait lists. Only 12% to 30% of households that submit a pre-application remain on the
+wait list and provide the more detailed information needed to qualify and receive the housing benefits
+provided through the CHA. Information on applicant household characteristics is relatively basic because
+the CHA currently does not have the required staff time or resources needed to gather more complete
+data on every household at the time of pre-application.
+When a household moves up to the top of the wait list, the CHA contacts the household and collects the
+data required to complete a full application prior to being eligible to receive a voucher or sign a lease for
+a public housing unit. At that time, the CHA analyzes the collected household information to confirm
+household program eligibility to receive the housing benefit.  The CHA collects information on
+accessibility needs during pre-application, but lacks comprehensive, up-to-date data until full
+applications are completed.
+```
+
+### Page 47 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    47
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+Despite this, the CHA recognizes a significant need for accessible units, especially for individuals with
+mobility, hearing, or visual impairments.  Section 504 forbids organizations and employers from
+excluding or denying individuals with disabilities an equal opportunity to receive program benefits and
+services. It defines the rights of individuals with disabilities to participate in, and have access to,
+program benefits and services. The CHA complies with Section 504 by ensuring at least 5% of units in
+substantially renovated properties are accessible for mobility disabilities and 2% for hearing or visual
+disabilities. However, the current supply of accessible units is insufficient, particularly as the population
+ages and the waiting list grows. Most immediate needs are for one- and two-bedroom accessible units.
+The CHA provides reasonable accommodations and is considering improved tracking systems to better
+assess and address these needs, ensuring equal access for all applicants and residents.
+Most immediate needs of residents of Public Housing and Housing Choice voucher holders
+According to the CHA, an initial review of 35 pre-applications submitted in February 2025 found that 10
+of the 35 pre-applicants (28%) requested units with stair rails, ADA units, ground level units (most
+common), or units with ramps. The current Housing Choice Voucher program wait list contains 2,560
+households with a combined Public Housing plus Housing Choice Voucher wait list totaling 4,457
+households.
+The most recent data on the public housing wait list found that applicants requested:
+•
+805 one-bedroom units,
+•
+831 two-bedroom units,
+•
+204 three-bedroom units,
+•
+54 four-bedroom units, and
+•
+3 five-bedroom units.
+The recent data from the CHA’s pre-applications from February 2025 illustrates that the most immediate
+needs of residents of Public Housing and Housing Choice Voucher holders are to increase the availability
+of 1–2-bedroom units and to increase the number of available units that feature stair rails, ADA units,
+ground level units (most common), or units with ramps.
+
+How do these needs compare to the housing needs of the population at large
+The CHA primarily serves very low-income households, seniors, people with disabilities, and families in
+poverty, groups that often face severe cost burdens, require accessible or specialized housing, and
+experience long waitlists due to limited supply. Their needs are primarily for affordable, stable, and
+accessible housing, with many at risk of housing insecurity or homelessness. In contrast, the general
+Cheyenne population faces broader but less severe housing challenges. While affordability is a growing
+```
+
+### Page 48 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    48
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+concern citywide, especially for middle-income “workforce” households, these needs are not as urgent
+as those of the CHA beneficiaries.
+```
+
+### Page 49 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    49
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+NA-40 Homeless Needs Assessment – 91.205(c)
+Introduction:
+Assessing the homeless needs in Cheyenne, Wyoming for 2025 reveals a range of challenges and
+ongoing initiatives. The city’s homeless population is on the rise and includes both residents and
+transient individuals and families. Efforts to expand shelter capacity are underway, exemplified by the
+Comea Shelter’s recent expansion of its Women’s Dormitory. Collaborative partnerships with
+stakeholders such as Wyoming CoC and local nonprofits are crucial for addressing homelessness in a
+coordinated and effective manner. Striking a balance between immediate shelter needs and long-term
+housing solutions will be essential, requiring the strategic use of federal, state, and local funding. Certain
+groups, particularly chronically homeless individuals—often affected by mental illness, substance abuse,
+or a history of incarceration—are especially in need of innovative housing strategies and supportive
+services.
+Homeless Needs Assessment
+
+Population
+Estimate the # of
+persons experiencing
+homelessness on a given
+night
+Estimate the
+#
+experiencing
+homelessness
+each year
+Estimate
+the #
+becoming
+homeless
+each year
+Estimate the
+# exiting
+homelessness
+each year
+Estimate the
+# of days
+persons
+experience
+homelessness
+
+Sheltered
+Unsheltered
+
+Persons in
+Households with
+Adult(s) and
+Child(ren)
+0
+77
+77
+0
+0
+0
+Persons in
+Households with
+Only Children
+0
+0
+0
+0
+0
+0
+Persons in
+Households with
+Only Adults
+34
+71
+105
+0
+0
+0
+Chronically
+Homeless
+Individuals
+24
+19
+43
+0
+0
+0
+Chronically
+Homeless
+Families
+0
+0
+0
+0
+0
+0
+Veterans
+0
+16
+16
+0
+0
+0
+Unaccompanied
+Child
+2
+12
+28
+28
+21
+0
+Persons with HIV
+0
+1
+1
+0
+0
+0
+Table 22 - Homeless Needs Assessment
+```
+
+### Page 50 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    50
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+
+Data Source
+Comments:
+
+The data for the "Sheltered estimate of homeless persons experiencing homelessness on a
+given night" column is sourced from the 2025 Sheltered PIT Count. An exception is the
+"Sheltered Unaccompanied Youth" field, where the number "12" was reported directly by
+the Unaccompanied Student Initiative (USI) through a consultation request. In the
+"Estimate the # experiencing homelessness each year" column, the figure "28" was also
+provided by USI via consultation. For the following columns-"Estimate the # becoming
+homeless each year," "Estimate the # exiting homelessness each year," and "Estimate the #
+of days persons experience homelessness each year"-no data was available beyond what
+was provided by USI.
+
+Indicate if the homeless
+population is:
+Has No Rural Homeless
+
+If data is not available for the categories "number of persons becoming and exiting homelessness each
+year," and "number of days that persons experience homelessness," describe these categories for each
+homeless population type (including chronically homeless individuals and families, families with
+children, veterans and their families, and unaccompanied youth):
+
+•
+General Unsheltered Population Overview: Unsheltered individuals live in places not meant for
+habitation, such as streets, vehicles, or abandoned buildings. This population faces significant
+challenges, including chronic homelessness, mental health and substance use disorders, and
+limited access to healthcare and employment. They typically experience longer periods of
+homelessness and higher rates of physical and mental health conditions compared to sheltered
+populations.
+•
+Chronically Homeless Individuals: Defined as those homeless for at least one year or with
+multiple episodes totaling 12 months, chronically homeless individuals often become homeless
+due to mental illness, substance abuse, and lack of affordable housing. Exiting homelessness
+usually requires intensive case management, supportive housing, and healthcare services. Their
+duration of homelessness frequently exceeds one year.
+•
+Families with Children: This group includes parents or guardians with minor children who lack
+stable housing. Common contributing factors are economic hardship, domestic violence, and
+unaffordable housing. Rapid rehousing and supportive services are the primary strategies to
+help these families exit homelessness. Generally, the duration of homelessness is shorter than
+that of chronically homeless individuals.
+•
+Veterans and Their Families: Veterans experiencing homelessness often struggle with PTSD,
+unemployment, and housing affordability. Programs like HUD-VASH play a critical role in
+assisting them to exit homelessness. The duration of homelessness varies, but targeted
+interventions aim to reduce it.
+```
+
+### Page 51 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    51
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+•
+Unaccompanied Youth: According to the 2025 PIT Count, there were two unsheltered
+unaccompanied youth and 12 sheltered youth, as reported by the Unaccompanied Students
+Initiative (USI), which provides housing support for students in need. All estimates for this group
+come from USI. No additional local data is available for unsheltered or sheltered youth in
+Laramie County.
+•
+Data Gaps: The Homeless Needs Assessment Table for the unsheltered population in Cheyenne,
+WY, is based on the January 2025 PIT Count. Additional data for sheltered populations was
+provided by Unaccompanied Students Initiative and Comea Shelter Services.
+Nature and Extent of Homelessness: (Optional)
+Race:
+Sheltered:
+Unsheltered (optional)
+White
+62
+20
+Black or African American
+5
+6
+Asian
+1
+0
+American Indian or Alaska
+Native
+7
+5
+Pacific Islander
+1
+0
+Ethnicity:
+Sheltered:
+Unsheltered (optional)
+Hispanic
+6
+0
+Not Hispanic
+66
+0
+Data Source
+Comments:
+The "Nature and Extent of Homelessness" table for Laramie County presents race
+and ethnicity data for both sheltered and unsheltered populations, based on the
+2025 Wyoming Point-in-Time (PIT) Count reports. The Unaccompanied Student
+Initiative (USI) reported a total of 28 sheltered youths in Laramie County. Of these,
+18 identified as white and 6 as Black or African American; 4 youth identified as
+Hispanic. No American Indian, Alaska Native, Asian, or Pacific Islander youth were
+reported among the sheltered population. - All estimates for sheltered youth were
+provided exclusively by USI, as no other local data sources were available for this
+group. These data reflect the demographic composition of unaccompanied youth
+experiencing homelessness in Laramie County, as captured by the USI during the
+2025 PIT Count.
+
+Estimate the number and type of families in need of housing assistance for families with children and
+the families of veterans.
+The Cheyenne VA Healthcare System has housed 136 veterans experiencing homelessness in southeast
+Wyoming and northern Colorado so far, this fiscal year. Impressively, 96% of these veterans have not
+returned to homelessness. Additionally, 134 unsheltered veterans in the network have been engaged to
+ensure they have access to housing and other essential wraparound services.
+```
+
+### Page 52 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    52
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+According to an article from the Cheyenne Cap City News (September 24, 2024), and as reported at a
+March 2025 Laramie County Task Force meeting, local transitional housing is currently operating at 95-
+100% capacity, with a waiting list. Efforts are underway to secure additional housing, including
+collaboration with the Veterans Administration to potentially designate some transitional units
+specifically for veterans. However, this may reduce availability for others in need.
+Describe the Nature and Extent of Homelessness by Racial and Ethnic Group.
+Based on the 2025 PIT Count Results for Laramie County, unsheltered homelessness affects a total of 34
+individuals, all of whom are adults. There were no reports of children or families experiencing
+unsheltered homelessness in this count. When examining the racial and ethnic breakdown, most
+unsheltered individuals are White, accounting for 20 out of the 34 people. Black, African American, or
+African individuals make up 6 of the unsheltered population, while 5 individuals identify as American
+Indian, Alaska Native, or Indigenous. Additionally, 3 individuals are Hispanic or Latina/e/o. Other racial
+and ethnic groups, such as Asian, Middle Eastern, Native Hawaiian, or Pacific Islander, were not
+represented in the unsheltered population.
+Chronic homelessness is a significant component of the unsheltered population, with 24 individuals
+identified as chronically homeless. Of these, 16 are White, 4 are Black, African American, or African, 2
+are American Indian, Alaska Native, or Indigenous, and 2 are Hispanic or Latina/e/o. This distribution
+closely mirrors the overall racial and ethnic breakdown of the unsheltered group.
+Regarding where people are sleeping, many unsheltered individuals reported staying in abandoned
+structures (16 people) or on the streets and outdoors (15 people), while a smaller number (3 people)
+were sleeping in vehicles. Overall, the data reveals that unsheltered homelessness in Laramie County is
+primarily experienced by adults, with a notable presence of White, Black, and Indigenous individuals.
+Chronic homelessness is widespread within this group, and most are finding shelter in precarious
+locations such as abandoned buildings or outdoors.
+Describe the Nature and Extent of Unsheltered and Sheltered Homelessness.
+The nature and extent of unsheltered and sheltered homelessness in Laramie County are characterized
+by seasonal fluctuations and persistent gaps in available resources, underscoring the need for
+transitional housing and low-barrier shelters.
+In the 2025 Laramie County Point-in-Time (PIT) Count, 34 individuals experiencing homelessness were
+surveyed. Of these, 24 were chronically homeless, and 16 reported a substance use disorder or serious
+mental illness. The survey’s "Sleeping Locations" section revealed that 16 respondents were staying in
+abandoned structures, while 15 were sleeping on the streets. The Cheyenne Police Department noted
+that the number and locations of unsheltered individuals change frequently due to factors such as
+weather, police enforcement, and compliance activities. During the summer, about 80% of unsheltered
+individuals sleep outdoors; in winter, this drops to around 20%, with more people seeking shelter in low-
+cost hotels, the Comea Shelter, or any available indoor spaces.
+```
+
+### Page 53 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    53
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+The City’s Compliance Department generally agreed with the PIT estimate of 34 unsheltered individuals,
+noting their own January estimate was around 30. However, they also acknowledged that the
+unsheltered population increases significantly in the summer, potentially reaching two to three times
+the January totals. Local nonprofits and service agencies report similar trends. The Compliance
+Department focuses on identifying encampment locations, addressing vagrancy, and ensuring property
+safety, rather than tracking individuals.
+While conducting the PIT count in January provides the most accurate data on shelter bed use, it does
+not fully capture the year-round fluctuations in Wyoming’s unsheltered population, which varies
+considerably due to harsh winters.
+There is a clear need for transitional housing and low-barrier shelter programs, particularly for
+individuals exiting incarceration, struggling with addiction or mental health issues. Currently, the Comea
+Shelter cannot accept individuals with extensive criminal histories into their long-term housing
+programs. However, they are developing a plan, supported by a $3 million grant proposal, to purchase
+an additional motel focused on individuals leaving prison or jail. This would provide 35 units for short- or
+long-term housing for people who are homeless or at risk (such as those exiting incarceration) once they
+secure employment, rather than requiring them to complete lengthy programs. Comea is working with
+the Department of Corrections and Laramie County Jail on this initiative and expects to know by the end
+of 2025 if funding is approved. If funded, the program could launch by mid-2026.
+```
+
+### Page 54 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    54
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+NA-45 Non-Homeless Special Needs Assessment - 91.205 (b,d)
+Introduction
+Non-homeless Special Needs populations in Cheyenne include a range of individuals who require
+additional support due to various challenges and vulnerabilities, as defined by HUD. These groups
+include frail and non-frail elderly individuals, who make up approximately 18% of Cheyenne’s
+population, reflecting the city’s significant senior demographic. Persons with physical disabilities
+represent another key segment, with an estimated 8.5% of residents under age 65, about 5,539
+individuals, living with a disability, according to recent U.S. Census Bureau data. The special needs
+community also includes persons with serious mental illness, individuals experiencing homelessness or
+at risk of homelessness, and persons living with HIV, the majority of whom are male and white, with
+sexual transmission as the primary risk factor. Additionally, persons with extremely low income face
+unique housing and support challenges.
+Describe the characteristics of special needs populations in your community:
+In Cheyenne, WY, the following groups are recognized as special needs populations:
+•
+Frail and Non-Frail Elderly Individuals: Approximately 18% of Cheyenne’s residents are seniors
+aged 65 and older, according to the latest U.S. Census Bureau estimates. This significant portion
+of the population may require specialized housing, healthcare, and social services.
+•
+Persons with Physical Disabilities: Based on U.S. Census Bureau data from 2019–2023, about
+8.5% of Cheyenne residents under the age of 65 live with a disability. With a 2023 population
+estimate of 65,168, this equates to roughly 5,539 individuals under 65 who may need accessible
+facilities and supportive services.
+•
+Persons with Serious Mental Illness: Individuals experiencing serious mental health conditions
+are a key special needs group, often requiring ongoing mental health services, supportive
+housing, and community resources.
+•
+Individuals Experiencing Homelessness: People without stable housing face heightened
+vulnerability and often need coordinated support, including shelter, healthcare, and
+employment assistance.
+•
+Persons Living with HIV: In Laramie County, most people living with HIV are male and white.
+These individuals may need specialized medical care and social support.
+•
+Individuals At Risk of Homelessness: This group includes people whose living situations are
+unstable or who are at imminent risk of losing their housing. Preventive services and financial
+assistance are crucial for this population.
+•
+Persons with Extremely Low Incomes: Residents with extremely limited financial resources often
+face barriers to accessing housing, healthcare, and other essential services, placing them at
+greater risk for adverse outcomes.
+These special needs populations in Cheyenne require targeted programs and resources to ensure their
+health, safety, and well-being within the community.
+```
+
+### Page 55 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    55
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+What are the housing and supportive service needs of these populations and how
+are these needs determined?
+Analysis by the University of Wyoming’s CBEA has identified the primary housing and supportive service
+needs of individuals experiencing homelessness, people with special service needs, and those exiting the
+prison system in Laramie County. These populations are typically served by homeless shelters and public
+housing, and most have extremely low incomes, less than 30% of the Area Median Income (AMI), or
+$28,400 per year for a family of four.
+Housing Needs
+The most urgent housing need for these groups is an increased supply of affordable housing units that
+are accessible to households earning less than 30% AMI. Many individuals in these populations face
+significant barriers to stable housing, including a lack of affordable options, poor housing conditions, and
+challenges related to physical accessibility. There is also a critical need for emergency shelter and
+transitional housing, especially for those exiting institutional settings or with special service needs.
+Supportive Service Needs
+Beyond housing, these populations require a range of supportive services to achieve and maintain
+stability. Key needs include:
+•
+Legal Assistance: Consultations with Legal Aid of Wyoming and the Equal Justice Wyoming
+Foundation revealed that many clients face complex landlord-tenant issues, such as disputes
+over housing conditions, security deposits, and evictions. Other legal needs include help with
+understanding renters’ rights, accessing housing assistance, and navigating the legal system,
+which many find confusing and inaccessible.
+•
+Health and Wellness Support: Housing instability and substandard living conditions have been
+shown to negatively impact health. According to Cheyenne Regional Medical Center staff,
+individuals with inadequate housing are more likely to require hospital care and may have
+difficulty returning home after discharge, especially if their homes lack basic utilities or
+accessibility features. Many also struggle to afford both housing and essential medications.
+•
+Home Repairs and Accessibility Modifications: There is a significant need for critical home
+repairs and modifications to ensure safe and healthy living environments, particularly for those
+with limited mobility or chronic health conditions. Organizations like Habitat for Humanity of
+Laramie County and Rebuilding Together are working to address these needs through repair
+programs funded by sources such as CDBG.
+How Needs Are Determined
+These needs are identified through a combination of direct service provider consultations, data analysis,
+and community assessments:
+```
+
+### Page 56 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    56
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+•
+Civil Legal Needs Assessments: The Equal Justice Wyoming Foundation commissioned a
+statewide assessment to evaluate the legal needs of Wyoming’s most economically
+disadvantaged residents, revealing widespread difficulties in navigating the legal system.
+•
+Health Provider Feedback: Healthcare professionals report on the intersection of housing and
+health, highlighting the real-world impacts of housing instability on patient outcomes.
+•
+Community and Stakeholder Input: Regular engagement with local nonprofits, housing
+organizations, and residents helps to identify gaps in services and emerging needs.
+Discuss the size and characteristics of the population with HIV/AIDS and their
+families within the Eligible Metropolitan Statistical Area:
+Laramie County, which includes Cheyenne, has the highest concentration of people living with HIV in
+Wyoming, accounting for about 30% of the state's HIV cases. From 2016 to 2020, Laramie County
+reported 8 newly diagnosed HIV cases, representing about 11% of new diagnoses in the state during
+that period. In 2020, Laramie County had the highest HIV prevalence rate in Wyoming at 92.9 cases per
+100,000 population. While the absolute numbers remain small, the concentration of cases in Cheyenne
+and Laramie County underscores the need for ongoing prevention, testing, and outreach efforts in the
+area. This information is sourced from the 2020 Wyoming HIV Surveillance Report published by the
+Wyoming Department of Health.
+According to the 2023 HIV in Wyoming Report from the Wyoming Department of Health, 22 new cases
+of HIV were reported, 81.8% were male and 18.2% were female. Of those new cases 45.5% of the newly
+diagnosed cases were diagnosed with HIV Stage 3 (AIDS) This is an increase from the 2022 data when
+less than 10% of the cases were diagnosed with HIV Stage 3. In 2023, the 25-34 and 45-54 age groups
+represented the largest portion of reported cases. New cases have been rising steadily in Wyoming since
+2023. The diagnosis rates for Laramie County for 2019-2023 are 1.5 to 2.8 per 100,000 people.
+If the PJ will establish a preference for a HOME TBRA activity for persons with a
+specific category of disabilities (e.g., persons with HIV/AIDS or chronic mental
+illness), describe their unmet need for housing and services needed to narrow the
+gap in benefits and services received by such persons. (See 24 CFR 92.209(c)(2) (ii)
+
+A HOME TBRA preference refers to the order in which applicants are admitted to tenant-based rental
+assistance programs. Participating jurisdictions may establish local preferences for providing this
+assistance. In the Cheyenne area, the Wyoming Department of Health’s Communicable Disease Unit
+manages the HOPWA grant funds. Through this program, qualifying Cheyenne residents can receive
+short-term rental, mortgage, and utility assistance (STRMU), tenant-based rental assistance (TBRA),
+permanent housing placement (PHP), and emergency shelter, which includes temporary motel stays
+while clients work to secure stable housing. These services help narrow the gap in benefits and services
+received by persons with HIV/AIDS.
+```
+
+### Page 57 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    57
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+Covered supportive services include case management provided by public health offices and medical
+transportation reimbursement to help ensure people get to their appointments, especially in rural
+Wyoming. There is also a nutrition component, where Boost or Ensure nutritional drinks are sent
+directly to the client. They work with Meals on Wheels, Mom’s Meals, and other organizations to ensure
+their clients receive nutritious foods. The cost of treating HIV is prohibitive for many individuals, which is
+often what brings them to their program. The nurse case manager compiles a care plan, which includes
+a housing component. If there are housing needs, the program first checks to ensure the individual is
+eligible for HOPWA. The only two requirements for HOPWA eligibility are being HIV positive and having
+a household income at or below 80% of the area median income (AMI).
+The Wyoming Department of Health’s Communicable Disease Unit reports that other eligible supportive
+services are included in the HOPWA grant, though many overlap with those provided under the Ryan
+White grants. Since Ryan White funding is higher than HOPWA funding, the Department typically
+allocates supportive services under Ryan White, allowing more HOPWA funds to be spent on direct
+services such as rental and/or utility assistance. The specific supportive services offered include
+education, employment assistance and training, health/medical services, life skills management,
+meals/nutritional services, mental health services, outreach, and transportation.
+They report that the order of service frequency used to be: STRMU (Short-Term Rental, Mortgage,
+Utility), TBRA (Tenant-Based Rental Assistance), PHP (Permanent Housing Placement), and, lastly,
+Emergency Shelter within the HOPWA grant.
+There are few resources available for persons with chronic mental illness. Currently, in Wyoming, no
+state program ensures individuals being released from an institution are connected to outpatient care
+and/or supportive services. The Cheyenne Regional Medical Center’s Behavioral Health, the Wyoming
+State Hospital in Evanston, and the Lighthouse in Worland all have different protocols for discharge
+planning and continuity of care. In Cheyenne, we are fortunate to have Volunteers of America Serenity
+Place, a transitional housing facility and program that assists clients from the point of crisis to a place
+where they can live with their diagnosis. More consistency in discharge protocol planning and continuity
+of care is needed. Programs that offer wraparound services are critical to ensuring that gaps in benefits
+and services are reduced.
+```
+
+### Page 58 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    58
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+NA-50 Non-Housing Community Development Needs – 91.215 (f)
+Describe the jurisdiction’s need for Public Facilities:
+The City has consistently prioritized and funded public facility projects, recognizing them as a high-level
+need in the 2020-2024 Consolidated Plan. During the previous plan cycle, the City completed several
+public facility projects, including the Senior Center HVAC upgrade and the construction of a sound
+barrier wall for a local domestic violence shelter. These projects were funded through both annual CDBG
+allocations and CDBG-CV funds.
+For the 2025-2027 CDBG grant cycle, the City will continue to emphasize Public Facilities Assistance as a
+strategic goal. Consultations conducted for the upcoming Consolidated Plan revealed ongoing and
+emerging needs among local service providers:
+•
+Crossroads Health Clinic, operated by Community Action of Laramie County (CALC), and
+HealthWorks are considering applying for CDBG funds to improve sidewalk safety and
+accessibility at their respective clinics and facilities.
+•
+CALC also expressed interest in seeking funding for sidewalk improvements at Smith Manor, a
+transitional housing facility serving homeless and low-income individuals as they work with case
+managers to secure permanent housing.
+•
+Healthworks expressed interest in applying for CDBG funds to replace the sidewalks surrounding
+a newly renovated building that will double the size of the current clinic and allow the team to
+provide comprehensive primary care across all service lines. The new building will incorporate
+space for ten medical providers, ten behavioral health specialists, two dentists, four dental
+hygienists, and support staff required to make operations run smoothly. The City has approved
+Healthworks plans to phase the sidewalk replacements based on funding.
+•
+Needs Inc. indicated plans to pursue public facility improvements for their food bank, which also
+supports a thrift shop, working wardrobe program, and other essential services.
+•
+The Wyoming Homeless Coalition, which operates the Welcome Mat day shelter, has discussed
+applying for CDBG funds to repair flooring in the main room and address additional facility
+maintenance needs. The Welcome Mat provides day shelter, laundry, and shower facilities for
+individuals experiencing homelessness.
+Feedback from these organizations, along with input from other non-profits, underscores a sustained
+and growing demand for public facility improvements to enhance safety, accessibility, and the overall
+quality of services provided to vulnerable populations. The City remains committed to addressing these
+needs through targeted investment in public facilities during the 2025-2027 planning cycle.
+How were these needs determined?
+The City identified public facility needs through a comprehensive consultation process with a wide range
+of local stakeholders, including Community Action of Laramie County (CALC), HealthWorks, Needs Inc.,
+```
+
+### Page 59 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    59
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+the Wyoming Homeless Coalition, and other non-profit organizations. As part of the Consolidated Plan
+development, the City’s Community Development staff conducted direct outreach and held discussions
+with these organizations to assess their current and anticipated facility needs.
+During these consultations, organizations were specifically asked about any public facility needs they
+were experiencing or anticipating, and whether they were interested in seeking CDBG funding. For those
+expressing interest, the Community Development Manager provided guidance on project eligibility and
+worked collaboratively to determine whether proposed projects met HUD’s National Objectives and
+CDBG program requirements.
+Some agencies indicated plans to apply for CDBG funding during the 2025-2027 cycle, though many are
+still in the early stages of project development. Others, after learning more about the federal regulatory
+requirements associated with CDBG funding, determined that the process was too complex for their
+current capacity and opted not to apply for the 2025 Program Year, but may apply in 2026 or 2027.
+A City of Cheyenne CDBG 2025-2027 Comprehensive Consolidated Plan survey was sent out through the
+City’s Facebook page. Initial survey results revealed a gap in senior respondents. To expand the
+respondent pool, the H&CD Manager collaborated with Meals on Wheels to distribute paper surveys to
+their clients. The online and paper survey collected data from the participants on their zip code, age,
+household income, number of occupants in the household.
+•
+136 recipients viewed the survey
+•
+83 participants took the survey
+•
+1,847 responses were recorded
+Respondents ranked the top four areas of need as:
+•
+Affordable Housing: 92%
+•
+Infrastructure Upgrades: 90%
+•
+Economic Development and Job Training: 88%
+•
+Public Facility Improvements: 83%
+Respondents ranked the top 3 infrastructure and public facility improvements most needed in their
+neighborhood as:
+•
+Sidewalk and accessibility improvements: 51%
+•
+Parks and recreational facilities: 49%
+•
+Road repairs: 44%
+Describe the jurisdiction’s need for Public Improvements:
+The City has identified significant public improvement needs, particularly in LMI neighborhoods, through
+consultation interviews and community engagement. Consultations with organizations such as the
+Wyoming Independent Citizens Coalition, a grassroots group dedicated to neighborhood safety,
+```
+
+### Page 60 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    60
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+accessibility, and beautification, underscored the need for targeted improvements to foster community
+pride and create safer, more welcoming environments.
+The H&CD Division Staff consulted with the City Traffic Engineer on the public improvement needs for
+the City’s Safe Routes to School Plan. The City Engineering Department applied for and was allocated
+CDBG funds for the Safe Routes to School Alta Vista Elementary School project. This project prioritizing
+safety upgrades around an elementary school in a neighborhood located in a low- to moderate-income
+(LMI) area, located in a Qualitied Census Tract. The City’s Safe Routes to School plan has identified
+several schools in need of these critical improvements in other LMI areas and is considering submitting
+additional applications during the 2025-2027 Con Plan period.
+Additionally, the H&CD Division consulted with Magic City Enterprises about public improvement needs.
+Magic City expressed interest in applying for CDBG fund for a sidewalk grant for the 2026 Program Year.
+The project is in an LMI neighborhood where Magic City and Habitat for Humanity of Laramie County are
+collaborating on a housing development project. This public improvement activity would directly benefit
+LMI individuals with disabilities.
+How were these needs determined?
+In addition to extensive consultations conducted by the H&CD Division on Public Improvement needs for
+Cheyenne and public feedback, gathered through Community surveys and outreach for the 2025–2027
+Con Plan, reinforced residents’ priorities for investments in sidewalks, streets, and other infrastructure,
+especially in LMI neighborhoods. Of the respondents who participated in the City of Cheyenne CDBG
+2025-2027 Comprehensive Consolidated Plan Survey, 51% ranked Sidewalk and accessibility
+improvements has the highest need for Cheyenne. 90% of respondents chose infrastructure upgrades as
+the 2nd highest need for the City to address.
+Describe the jurisdiction’s need for Public Services:
+The City engaged with over 30 nonprofits and government agencies to assess public service needs,
+receiving numerous inquiries about eligible activities. While organizations such as After School for Kids
+and the Cheyenne Family YMCA expressed interest in youth program funding, they ultimately did not
+apply due to regulatory challenges and limited capacity.
+Employment training emerged as a significant need, especially for low- and moderate-income (LMI)
+residents. The Laramie County Community College ACES program and Climb Wyoming highlighted the
+importance of workforce development, digital literacy, and support services for single mothers—who
+face the highest poverty rates in Wyoming. Recent studies show that 20% of Laramie County children
+are raised by single mothers, with 12% living below the poverty line. Wyoming also has the nation’s
+largest wage gap, with women earning just 71 cents for every dollar earned by men. Digital skills were
+identified as essential, with almost 70% of jobs now requiring some level of digital literacy.
+Needs Inc. Food Pantry reported a steady increase in families enrolling in their monthly food box
+program and plans to launch a food walking bag program for homeless clients.
+```
+
+### Page 61 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    61
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+Health service providers, including CALC and HealthWorks, emphasized the need for support for clinics
+serving LMI and homeless populations. HealthWorks identified language barriers and the need for
+comprehensive interpretation services, while CALC noted rising demand for prescription assistance.
+Shelters and service organizations such as Recover Wyoming, Family Promise, and the Salvation Army
+reported increased requests for utility and rental assistance, attributing this to inflation and higher
+utility costs. Both Needs Inc. and Meals on Wheels observed a sharp rise in food insecurity, with Needs
+Inc. reporting a 44% increase in monthly food boxes distributed from 2022 to 2023. Meals on Wheels
+also noted a growing elderly population and more seniors living below the poverty line.
+The Blue Boost Center and other agencies stressed the need for additional case workers to connect LMI
+residents with support services, financial literacy resources, and other critical programs. Reflecting these
+growing needs, the City received 15 public service grant applications for the 2025 Program Year—up
+from four the previous year—demonstrating a significant increase in community demand across
+multiple sectors.
+How were these needs determined?
+The City identified these needs through consultations with over 30 local nonprofits and agencies. Service
+providers reported increasing challenges for low- and moderate-income residents due to rising housing,
+utility, and food costs. A surge in requests for assistance and a sharp increase in public service grant
+applications reflect growing demand for youth programs, workforce training, food security, and health
+services. This direct feedback ensured that the most urgent community needs are addressed in the
+2025-2027 Consolidated Plan.
+Survey data from the City of Cheyenne CDBG 2025-2027 Comprehensive Consolidated Plan Survey
+generally supports the public service needs identified during the Housing & Community Development
+consultations with local agencies. Among survey respondents, 85% ranked services for seniors, youth, or
+persons with disabilities as a high priority need in Cheyenne. When asked which public services were
+most important to address, respondents identified the top four as youth programs (47%), substance
+abuse programs (16%), health services (15%), and job training and placement (15%). Additionally, when
+asked about specific populations needing targeted services, respondents most frequently cited seniors,
+youth, and children (95%), followed by low-income individuals and families (45%), and persons with
+disabilities or health challenges (38%).
+```
+
+### Page 62 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    62
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+Housing Market Analysis
+MA-05 Overview
+Housing Market Analysis Overview
+As part of the Consolidated Plan (Con Plan) process, grantees conduct a comprehensive assessment of
+the jurisdiction’s housing, economic, and demographic conditions within the Needs Assessment and
+Market Analysis sections. Grantees are required to gather and analyze extensive data to prepare their
+Consolidated Plans. The information compiled in the Needs Assessment and Market Analysis serves as
+the foundation for the grantee’s Strategic Plan, as well as for policy and investment decisions.
+The Con Plan is developed for HUD using the HUD eCon Plan Template. Community Planning and
+Development (CPD) Maps provide grantees with population, housing, and economic data collected from
+the U.S. Census Bureau, HUD, and other federal agencies. Data for the Needs Assessment and Market
+Analysis sections are drawn from multiple sources, including information provided by agencies, City
+departments or divisions, and local nonprofits.
+Data Sources Used
+•
+eCon Planning Suite Data Sources
+o
+American Community Survey (ACS): Conducted annually by the U.S. Census Bureau, the
+ACS collects data from a sample of the population and provides a wide range of
+statistics on household demographics, economics, and housing conditions. Data is
+available at various geographic levels, down to the census block group.
+o
+Comprehensive Housing Affordability Strategy (CHAS): CHAS data is a special tabulation
+of ACS data for HUD, illustrating the extent of housing problems and needs, particularly
+for low-income households.
+o
+Homeless Data Exchange/Annual Homeless Assessment Report (AHAR): HUD
+collaborates with communities to collect data on homeless populations through the
+Point-In-Time (PIT) and Housing Inventory Count (HIC). The AHAR publishes annual
+figures at the national, state, and Continuum of Care (CoC) levels, including numbers of
+homeless persons, chronically homeless individuals, veterans, and homeless children
+and youth.
+o
+Fair Market Rents (FMR): FMRs are gross rent estimates published annually by HUD and
+used by Public Housing Authorities to set payment standards for the Housing Choice
+Voucher program. FMRs also determine rent ceilings for the HOME rental assistance
+program and other HUD initiatives. HUD calculates FMRs using data from the Decennial
+Census, the ACS, and random digit dialing telephone surveys.
+```
+
+### Page 63 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    63
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+•
+HOME Program Rent and Income Limits: These limits are used to determine eligibility and
+affordability for HUD programs.
+The Housing & Community Development (H&CD) staff utilized available data to predict trends and
+supplemented this analysis with findings from the City’s Analysis of Impediments to Fair Housing Study
+(AI), updated this year by the University of Wyoming Center for Business and Economic Analysis (CEBA).
+CEBA conducted an in-depth analysis of local and state trends, many of which are reflected in the
+Market Analysis section of the Con Plan. The updated AI is available on the City’s H&CD webpage under
+the “Learn More About: Analysis of Impediments to Fair Housing” tab.
+When additional data from other sections is used, the alternative source will be identified accordingly.
+```
+
+### Page 64 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    64
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+MA-10 Number of Housing Units – 91.210(a)&(b)(2)
+Introduction
+Cheyenne’s housing stock includes about 30,000 residential units, primarily single-family detached
+homes, which make up roughly two-thirds of all units and reflect the city’s historic preference for low-
+density neighborhoods. Single-family-attached homes are limited, and apartment buildings with five or
+more units account for only about 10% of the total, underscoring a lack of diverse housing options.
+Much of the housing stock is aging, with nearly half of all units built before 1980. This highlights a need
+for rehabilitation and contributes to a shortage of quality, available homes. The shortage is especially
+acute for low- and moderate-income households, who face limited access not just due to overall supply,
+but because affordable units are particularly scarce.
+
+As of 2025, Cheyenne offers 542 subsidized rental units and 533 units that accept Section 8 vouchers, but
+the demand far exceeds supply, resulting in long waitlists and ongoing challenges for families, seniors,
+and people with disabilities. This situation emphasizes the need for more and varied affordable housing
+throughout the city.
+All residential properties by number of units
+Property Type
+Number
+%
+1-unit detached structure
+19,720
+66%
+1-unit, attached structure
+2,815
+9%
+2-4 units
+3,620
+12%
+5-19 units
+1,520
+5%
+20 or more units
+1,620
+5%
+Mobile Home, boat, RV, van, etc.
+715
+2%
+Total
+30,010
+100%
+Table 23 – Residential Properties by Unit Number
+Alternate Data Source Name:
+2023: ACS 1-Year estimates
+Data Source Comments:
+Table 1: All residential properties by number of units
+```
+
+### Page 65 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    65
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+
+All residential properties by number of units
+Unit Size by Tenure
+
+Owners
+Renters
+Number
+%
+Number
+%
+No bedroom
+65
+0%
+345
+4%
+1 bedroom
+345
+2%
+2,600
+31%
+2 bedrooms
+2,640
+14%
+3,090
+37%
+3 or more bedrooms
+16,120
+84%
+2,390
+28%
+Total
+19,170
+100%
+8,425
+100%
+Table 24 – Unit Size by Tenure
+Alternate Data Source Name:
+2023: ACS 1-Year estimates
+Data Source Comments:
+Table 2: Unit Size by Tenure. The ACS 2023 1-Year estimates do not provide bedroom counts by owner and
+renter status, unlike the 2016- 2020 data, which is included here for that breakdown. For 2023, only total
+bedroom counts (not separated by tenure) are available and included for reference. As of April 2024 in
+Cheyenne: Studio apartments: 6 units available, priced from $750 to $1,700 per month. One-bedroom units:
+38 available, ranging from $695 to $1,695 per month. Two-bedroom units: 80 available, priced from $725 to
+$2,300 per month. Three or more bedrooms: Only 21 units available. Two income-restricted units were listed
+at $503+ per month; other units ranged from $1,075 to $2,970 per month. Zillow listed four income-restricted
+units at Lexington Hills Apartments: one 2-bedroom for $465, two 3-bedrooms for $508 each, and one 4-
+bedroom for $550. Income limits for these units are based on HUD estimates.
+```
+
+### Page 66 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    66
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+
+Unit Size By Tenure Table 2
+Describe the number and targeting (income level/type of family served) of units
+assisted with federal, state, and local programs.
+Cheyenne, Wyoming utilizes a mix of federal, state, and local programs to assist a wide range of low-
+and moderate-income residents with affordable housing. The number and targeting of Federal, State,
+and Local Assisted Housing Units are as follows:
+Subsidized Rental Units
+•
+There are 8 subsidized properties in Cheyenne, totaling 542 units. These are primarily targeted
+to low-income households, with some properties specifically serving seniors and persons with
+disabilities. The largest concentration is in zip code 82001 (Central Cheyenne), which includes
+448 units, mostly managed by the Cheyenne Housing Authority.
+•
+Subsidized properties are distributed as follows:
+o 82001 (Central): 4 buildings, 448 units
+o 82007 (South): 1 building, 4 units
+o 82009 (North): 3 buildings, 90 units (including senior/disabled housing)
+Voucher-Accepting Units
+•
+Cheyenne has 15 properties that accept Section 8 Housing Choice Vouchers, with a total of 533
+units across three main zip codes. These serve income-qualified families, including seniors and
+people with disabilities. Below is a breakdown of the number of buildings and units by zip code:
+o 82001: 6 buildings, 119 units
+o 82007: 7 buildings, 299 units
+o 82009: 2 buildings, 113 units
+```
+
+### Page 67 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    67
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+Overall Affordable Housing
+According to Affordable Housing Online, Cheyenne has 1,688 affordable units, including both subsidized
+and voucher-accepting units, covering a broad spectrum of low-income residents, including seniors with
+disabilities, and low-income individuals and families. Some properties and programs are specifically
+designed for seniors or persons with disabilities, such as Heritage Court and Indian Hills Manor, which is
+run by the Cheyenne Housing Authority. Most of these units have waiting lists, although specific data
+about occupancy was not available online.
+Provide an assessment of units expected to be lost from the affordable housing
+inventory for any reason, such as expiration of Section 8 contracts.
+According to the Director of the Cheyenne Housing Authority (CHA), there are currently no affordable
+housing units in Cheyenne expected to be lost due to the expiration of Section 8 contracts or similar
+agreements. While four Section 8 contracts are set to expire in Wyoming, none of these properties are
+located in Cheyenne. This means the city’s affordable housing inventory is not at immediate risk from
+expiring federal rental assistance contracts. Cheyenne’s affordable housing stock remains stable with
+respect to expiring federal contracts; however, the broader statewide increase in demand and potential
+losses elsewhere underscores the need for ongoing vigilance and coordinated housing policy efforts.
+Does the availability of housing units meet the needs of the population?
+Mobile and manufactured homes represent a small segment, accounting for just 2% of all housing units.
+While these homes provide a lower-cost alternative, typically priced between $25,000 and $80,000,
+their future is challenged by rising rents, restrictive zoning, and utility challenges which hinder the
+development of new parks and the preservation of affordability. Policy changes could help protect and
+expand this housing option.
+Recent development has increased the city’s total housing units from 30,010 to 32,201, according to the
+2023 ACS 1-year estimates, driven by new construction of both apartments and single-family homes.
+However, much of this new supply is market-rate and remains out of reach for many low- and
+moderate-income (LMI) residents. As of April 2025, Cheyenne’s median home value is $372,516, with a
+median listing price of $422,000, further underscoring affordability challenges for LMI households.
+Rental housing also faces affordability constraints. Of Cheyenne’s 9,655 rental units, only 8.3% are
+affordable to households earning 30% of the area median income. Most affordable rentals are
+accessible only to those earning 50–80% of the HUD Area Median Family Income (HAMFI), leaving very
+few options for the lowest-income renters. New apartment complexes are under construction, with
+rents ranging from $600 to $1,637, but these rates remain high for those at LMI levels. There is a
+growing need for smaller units and accessible, maintenance-free living-especially for singles, seniors,
+and small families.
+```
+
+### Page 68 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    68
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+Describe the need for specific types of housing:
+Cheyenne’s current supply of affordable housing units does not meet the needs of its population,
+especially for low-income families, seniors, and persons with disabilities. The City has 542 subsidized
+rental units and 533 units that accept Section 8 vouchers, but demand far exceeds supply, as shown by
+long waitlists and inconsistent reporting on unit availability. The total of 1,688 affordable units, including
+both subsidized and voucher-accepting properties, remains insufficient given the growing population
+and rising rates of homelessness. This shortage is most pronounced in central and south Cheyenne.
+A major barrier to expanding affordable housing is the limited availability of land zoned for such
+developments, as well as regulatory restrictions. Rental units for Extremely Low Income (ELI) renters are
+especially needed. According to NLIHC’s 2024 Wyoming Housing Profile, there are 18,176 ELI renter
+households in Wyoming, but only 13.5% of affordable homes are available to them. Wyoming is
+experiencing a shortage of 8,866 affordable rental homes for the state’s ELI renter population. In
+Laramie County, about 13% of residents are disabled, and seniors 65 and over make up around 16% of
+the population—both groups that are particularly vulnerable to housing instability. Despite the
+placement of 521 multifamily affordable housing units between 2019 and 2023 using federal funds, the
+gap remains significant.
+A key challenge is ensuring that new developments serve the most vulnerable populations. Cheyenne
+should encourage developers to include accessible units and prioritize projects that directly benefit ELI
+renters, seniors, and persons with disabilities. This can be supported by providing incentives and
+targeting funding to developments that meet these needs. Actively leveraging federal and state
+resources, such as Low-Income Housing Tax Credits (LIHTC) is key essential to expanding the affordable
+housing stock.
+Alternative housing options, such as mobile and manufactured homes, townhomes, and new
+apartments, provide solutions to reducing the City’s housing shortage but are limited by high prices,
+zoning restrictions, and escalating rents. For example, while mobile homes represent one of the most
+affordable pathways to homeownership in Cheyenne, there is currently no zoning by right for mobile
+home parks in either Laramie County or the City of Cheyenne. This regulatory barrier restricts the
+expansion of this critical entry-level housing style. Effective planning and rezoning agricultural land on
+the edge of the city could make mobile home park development feasible, expanding the housing stock
+for low-income residents while minimizing community resistance.
+Similarly, higher-density options like townhomes and cottages could help address the shortage, but
+current prices remain out of reach for many residents due to high construction costs and zoning
+limitations. New apartment developments are underway, but with rents ranging from $600 to $1,637,
+they are often unaffordable for many in need. MA-15 Cost of Housing – 91.310(a)
+MA-15 Cost of Housing – 91.310(a)
+```
+
+### Page 69 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    69
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+Introduction:
+Cheyenne’s housing market continues to suffer from rising costs, with recent data showing significant
+affordability challenges for both homebuyers and renters. According to the 2023 ACS 1-Year Estimates,
+the city’s median home value was $340,800, while the ACS 5-Year Profile reported a median of
+$311,200. More recent figures from Zillow show the median home value reached $372,516 in April
+2025, a 3.4% increase over the past year. Realtor.com lists the median listing price even higher at
+$425,000, with a median price per square foot of $1921. The median sold price stands at $351,817,
+underscoring the persistent upward pressure on home prices.
+This escalation in home values is largely driven by a shortage of affordable housing, making
+homeownership increasingly unattainable for many Cheyenne residents. Rental affordability is also a
+growing concern: nearly half of Laramie County renters are cost-burdened, with median rents rising 42%
+from 2010 to 2021, disproportionately impacting low- and moderate-income (LMI) households. The
+demand for subsidized and Section 8 rental units far exceeds supply, as reflected in long waitlists.
+Cost of Housing
+
+Base Year:  2009
+Most Recent Year:
+2020
+% Change
+Median Home Value
+182,900
+229,100
+25%
+Median Contract Rent
+686
+767
+12%
+Table 25 - Cost of Housing
+
+Data Source:
+2000 Census (Base Year), 2016-2020 ACS (Most Recent Year)
+Rental Estimates
+Rent Paid
+Number
+%
+Less than $500
+1,415
+16.8%
+$500-999
+4,980
+59.1%
+$1,000-1,499
+1,464
+17.4%
+$1,500-1,999
+510
+6.1%
+$2,000 or more
+54
+0.6%
+Total
+8,423
+100.0%
+Table 26 - Rent Paid
+Data Source:
+2016-2020 ACS
+```
+
+### Page 70 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    70
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+
+ACS 2023 5 YR. Number of Units Paying Rent Estimations Table
+
+Housing Affordability
+Number of Units affordable to
+Households earning
+Renter
+Owner
+30% HAMFI
+805
+No Data
+50% HAMFI
+3,085
+915
+80% HAMFI
+5,765
+4,300
+100% HAMFI
+No Data
+7,580
+Total
+9,655
+12,795
+Table 27 - Housing Affordability
+Data Source:
+2016-2020 CHAS
+
+Monthly Rent
+Monthly Rent ($)
+Efficiency (no
+bedroom)
+1 Bedroom
+2 Bedroom
+3 Bedroom
+4 Bedroom
+Fair Market Rent
+0
+0
+0
+0
+0
+High HOME Rent
+0
+0
+0
+0
+0
+Low HOME Rent
+0
+0
+0
+0
+0
+Table 28 – Monthly Rent
+Data Source Comments:
+
+Is there sufficient housing for households at all income levels?
+Cheyenne does not have enough housing for all income levels. Home prices and rents have risen sharply,
+with the median home value at $372,516 in April 2025 and average rents up 42% since 2010. Nearly half
+of renters are cost-burdened, spending more than 30% of their income on housing. Affordable rental
+units, especially for low- and moderate-income households, are in short supply, and demand for
+subsidized housing far exceeds availability. Federal rent limits and subsidies are not keeping pace with
+```
+
+### Page 71 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    71
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+local market rents, making it difficult for lower-income residents to find affordable options. Overall,
+Cheyenne faces a significant shortage of affordable housing, particularly for those with the greatest
+need, and targeted strategies are required to address these gaps.
+How is the affordability of housing likely to change considering changes to home
+values and/or rents?
+Housing affordability in Cheyenne is becoming increasingly challenging as both home values and rents
+continue to rise. As of April 2025, the median home value in Cheyenne is $372,516, reflecting a 3.4%
+increase over the past year1. This growth follows a trend from 2023, when median values ranged
+between $311,200 and $340,800, indicating a steady upward trajectory. Similarly, rental costs have seen
+significant increases: the average rent in Cheyenne is now $1,500 per month, up by $405 compared to
+the previous year.
+These rising costs mean that more residents are likely to spend a higher percentage of their income on
+housing, which can lead to increased financial strain. Housing is generally considered affordable when it
+accounts for no more than 30% of a household’s income; exceeding this threshold often forces families
+to make difficult choices between housing and other basic needs.
+How do HOME rents / Fair Market Rent compare to Area Median Rent? How
+might this impact your strategy to produce or preserve affordable housing?
+Both HOME rents and Fair Market Rents (FMR) are well below the area median rents in Cheyenne. This
+gap makes it more difficult to produce or preserve affordable housing without additional subsidies.
+Because rental subsidies tied to FMR or HOME limits may not be enough to secure units in the open
+market-especially with rents having increased 42% since 2010-low- and moderate-income households
+may have a harder time finding affordable options.
+Given that funding sources are limited, the City cannot fully close these funding gaps on its own.
+However, by removing barriers to affordable housing development and increasing the overall supply of
+housing, the City can help reduce housing costs in the long term. Other strategies include encouraging
+and supporting more development projects that use Low-Income Housing Tax Credits and utilizing CDBG
+funds to rehabilitate affordable housing projects.
+In summary, the difference between FMR/HOME rents and area median rents means that producing or
+preserving affordable housing will require additional financial support or policy interventions to keep
+rents affordable for those who need it most.
+```
+
+### Page 72 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    72
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+MA-20 Housing Market Analysis: Condition of Housing – 91.210(a)
+Introduction
+
+The City of Cheyenne defines “standard condition” housing as well-maintained, structurally sound
+homes meeting all local and HUD standards, while “substandard but suitable for rehabilitation” units are
+those that fall short of these criteria but can feasibly be improved through repairs. These definitions
+guide the city’s rehabilitation efforts and ensure compliance with building and fire codes. With only 20%
+of Cheyenne’s housing stock built since 2000, there is a significant need for both owner-occupied and
+rental unit rehabilitation. Additionally, a substantial portion of homes-especially those built before 1980-
+pose potential lead-based paint hazards, with an estimated 355 low- or moderate-income units
+requiring testing and possible remediation. The overall condition of Cheyenne’s housing stock highlights
+the urgent need for targeted strategies to address rehabilitation needs and the removal of lead-based
+paint hazards.
+Describe the jurisdiction's definition of "standard condition" and "substandard condition but
+suitable for rehabilitation":
+The City’s Housing & Community Development (H&CD) Division defines “standard condition” and
+“substandard condition but suitable for rehabilitation” according to its Minimum Housing Rehabilitation
+Standards, which are based on the Uniform Building Code (UBC), Uniform Housing Codes, and follow
+HUD Section 8 Minimum Housing Quality Standards and other HUD guidelines.
+•
+Standard Condition: A unit in standard condition is a well-maintained residential structure built
+on a permanent, stable foundation. It must have solid structural integrity, be weather-tight and
+insulated against the elements, and include all basic mechanical systems: plumbing, electricity,
+heating, hot water, toilet facilities, and kitchen facilities, as required by the Uniform Building
+Code and HUD standards.
+•
+Substandard Condition (but Suitable for Rehabilitation): A unit is considered substandard if it
+lacks a permanent solid foundation, structural integrity, weather tightness, minimal insulation,
+or if its basic mechanical systems do not meet current standards. It may also show deferred
+maintenance to the extent that the structure is at risk of increased decay. However, if such a
+unit can feasibly be brought up to standard through rehabilitation, it is considered suitable for
+rehabilitation.
+These definitions serve as the minimum requirements for rehabilitation projects using HUD funding and
+are intended as guidance for contractors, developers, homeowners, and city officials. All rehabilitation
+work must also comply with requirements set by the City’s Building and Fire Departments before
+starting.
+```
+
+### Page 73 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    73
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+Condition of Units
+Condition of Units
+Owner-Occupied
+Renter-Occupied
+Number
+%
+Number
+%
+With one selected Condition
+3,440
+18%
+3,270
+39%
+With two selected Conditions
+15
+0%
+220
+3%
+With three selected Conditions
+10
+0%
+30
+0%
+With four selected Conditions
+0
+0%
+0
+0%
+No selected Conditions
+15,710
+82%
+4,905
+58%
+Total
+19,175
+100%
+8,425
+100%
+Table 29 - Condition of Units
+Data Source:
+2016-2020 ACS
+
+Year Unit Built
+Year Unit Built
+Owner-Occupied
+Renter-Occupied
+Number
+%
+Number
+%
+2000 or later
+3,750
+20%
+1,530
+18%
+1980-1999
+3,810
+20%
+1,745
+21%
+1950-1979
+8,385
+44%
+3,145
+37%
+Before 1950
+3,230
+17%
+2,010
+24%
+Total
+19,175
+101%
+8,430
+100%
+Table 30 – Year Unit Built
+Data Source:
+2016-2020 CHAS
+
+Risk of Lead-Based Paint Hazard
+Risk of Lead-Based Paint Hazard
+Owner-Occupied
+Renter-Occupied
+Number
+%
+Number
+%
+Total Number of Units Built Before 1980
+11,615
+61%
+5,155
+61%
+Housing Units build before 1980 with children present
+1,984
+10%
+1,329
+16%
+Table 31 – Risk of Lead-Based Paint
+Data Source:
+2016-2020 ACS (Total Units) 2016-2020 CHAS (Units with Children present)
+
+Vacant Units:
+The Cheyenne Housing Authority does not maintain data on vacancy units, abandoned vacant
+properties, REO properties, or abandoned REO properties. At present, there are no vacant or
+abandoned units within CHA’s housing stock.
+
+Suitable for
+Rehabilitation
+Not Suitable for
+Rehabilitation
+Total
+Vacant Units
+0
+0
+0
+```
+
+### Page 74 of 167
+
+```text
+Consolidated Plan
+CHEYENNE
+    74
+OMB Control No: 2506-0117 (exp. 09/30/2021)
+
+Suitable for
+Rehabilitation
+Not Suitable for
+Rehabilitation
+Total
+Abandoned Vacant Units
+0
+0
+0
+REO Properties
+0
+0
+0
+Abandoned REO Properties
+0
+0
+0
+Table 32 - Vacant Units
+Data Source:
+2005-2009 CHAS; Vacant units suitable
+Need for Owner and Rental Rehabilitation:
+Estimated Number of Housing Units Occupied by Low- or Moderate-Income
+Families with LBP Hazards
+The CHA utilizes capital funds for ongoing modernization and preventive maintenance, including
+upgrades such as new flooring and electrical system improvements. The agency is committed to
+maintaining high occupancy rates and ensuring quick turnaround times for unit readiness.
+HUD contracts a third-party to conduct unit inspections in accordance with HUD’s NSPIRE standards. The
+most recent NSPIRE inspection for the CHA took place on October 24, 2024. During this inspection, HUD
+randomly selected 30 out of CHA’s 341 Public Housing units—266 located in Cheyenne and 75 in
+Laramie. CHA achieved a score of 90 during the October 24, 2024, inspection. Due to this high score,
+CHA’s Public Housing units will not require another HUD inspection for three years.
+```
+
+---
+
+[← document overview](chey-2025-06-02-packet-3.md) · [part 2 →](chey-2025-06-02-packet-3.part2.md)

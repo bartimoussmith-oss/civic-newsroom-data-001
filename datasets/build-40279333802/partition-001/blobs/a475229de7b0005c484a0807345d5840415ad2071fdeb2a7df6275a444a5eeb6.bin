@@ -1,0 +1,192 @@
+# Supporting document
+
+*Supporting document from the City Council — Monday, July 8, 2019 meeting, City of Cheyenne, Wyoming. Plain-text copy for reading and search. The original file is the authoritative version.*
+
+- **Meeting:** [City Council — Monday, July 8, 2019](../../../meetings/2019/city-council-2019-07-08.md)
+- **Document type:** Supporting document
+- **Text status:** full text
+- **Pages:** 4
+- **Original file:** [1562569200Jul  8, 2019 - City Council Meeting/Supporting_Documents/1562569200Jul  8, 2019 - City Council Meeting - Supporting document - Supporting document.pdf](https://github.com/therealwindycity/cheyenne-archives-2018-2021/blob/main/1562569200Jul%20%208%2C%202019%20-%20City%20Council%20Meeting/Supporting_Documents/1562569200Jul%20%208%2C%202019%20-%20City%20Council%20Meeting%20-%20Supporting%20document%20-%20Supporting%20document.pdf) in `therealwindycity/cheyenne-archives-2018-2021` ([direct download](https://raw.githubusercontent.com/therealwindycity/cheyenne-archives-2018-2021/main/1562569200Jul%20%208%2C%202019%20-%20City%20Council%20Meeting/Supporting_Documents/1562569200Jul%20%208%2C%202019%20-%20City%20Council%20Meeting%20-%20Supporting%20document%20-%20Supporting%20document.pdf))
+- **File size:** 32,452 bytes · git blob `bc117621bab8`
+- **Extraction:** PyMuPDF text layer. Wording is unchanged; line breaks and table layout may differ from the PDF.
+
+---
+
+### Page 1 of 4
+
+```text
+RESOLUTION NO. __________
+
+ENTITLED: “A RESOLUTION ADOPTING A COMPREHENSIVE OPEN DATA POLICY
+AS IS PRACTICAL.”
+
+WHEREAS, much of the data collected by the City of Cheyenne (“City”) is stored in a
+manner which impedes the ability to aggregate, analyze and synthesize it to better allocate public
+resources; and
+
+WHEREAS, access to public information promotes a higher level of civic engagement
+and allows citizens to provide valuable feedback to government officials regarding local issues;
+and
+
+WHEREAS, every citizen has the right to prompt, efficient service from the government;
+and
+
+WHEREAS, the thoughtful implementation of an open data policy improves the
+provision of services, increases transparency and access to public information, and enhances
+coordination and efficiencies among departments, partner organizations and citizens; and
+
+WHEREAS, one goal of an open data policy is to proactively provide information
+currently sought through public records requests, thereby saving the City time and money; and
+
+WHEREAS, in commitment to the spirit of open government, the City will consider
+public information to be open by default and will proactively publish data and data containing
+information, consistent with relevant public records law; and
+
+WHEREAS, information technologies, including web-based and other Internet
+applications and services, are essential to open government, and good government generally; and
+
+WHEREAS, by publishing standardized data, the City seeks to encourage the software
+community to develop software applications and tools to collect, organize, and share public
+record data in new and innovative ways; and
+
+WHEREAS, the protection of privacy and confidentiality will be maintained as a
+paramount priority while also advancing the government’s transparency and accountability
+through open data; and
+
+WHEREAS, the City adopts an administrative policy which outlines the specifics of how
+the policy will be implemented and maintained, a copy of which is attached hereto as Exhibit A.
+
+NOW THEREFORE, BE IT RESOLVED BY THE GOVERNING BODY OF THE
+CITY OF CHEYENNE, WYOMING, that the City of Cheyenne adopts a comprehensive Open
+Data Policy as is practical.
+
+PRESENTED, READ AND ADOPTED this ______ day of ________________, 2019.
+
+__________________________________________
+
+Marian J. Orr, Mayor
+(SEAL)
+Attest:
+
+__________________________________
+Kristina F. Jones, City Clerk
+By Alessandra at 3:48 pm, Jun 18, 2019
+```
+
+### Page 2 of 4
+
+```text
+1
+
+Exhibit A
+Administrative Policy Regarding Open Data
+Section 1: Definitions
+a. “Data” means statistical, factual, quantitative, or qualitative information that is maintained
+or created by or on behalf of a City department, office, administrative unit, commission,
+board, advisory committee or other division of City government. This definition is inclusive
+of software source code developed or maintained by or on behalf of the City.
+b. “Dataset” means a named collection of related records, with the collection containing data
+organized or formatted in a specific or prescribed way, often in tabular form.
+c. “Open Data” means data that is available online, in an open format, with no legal
+encumbrances on use or reuse, and is available for all to access and download in full
+without fees or a requirement of registration. “Legal encumbrance” includes federal
+copyright protections and other, non-statutory legal limitations on how or under what
+conditions a dataset may be used. This definition is also inclusive of any software source
+code made available online (“open source software”).
+d. “Open Format” means any widely accepted, nonproprietary, platform-independent,
+machine-readable data format, which permits automated processing of such data and
+facilitates analysis and search capabilities.
+e. “Policy” when referenced throughout this document means this Administrative Policy
+Regarding Open Data.
+f. “Protected Information” means any dataset or portion thereof to which an agency may
+deny access pursuant to Wyoming Statute § 16-4-201 through 16-4-205 or any other
+applicable law, rule or regulation.
+g. “Publishable Data” means data which is not protected or sensitive and which has been
+prepared for release to the public.
+h. “Sensitive Information” means any data which, if published by the City online, could raise
+privacy, confidentiality or security concerns or have the potential to jeopardize public
+health, safety or welfare to an extent that is greater than the potential public benefit of
+publishing that data.
+
+Section 2: Open Data Program Goals
+a. The City commits to develop and implement practices that will allow it to:
+1. Proactively release all publishable City data, making it freely available in
+appropriately varied and useful open formats, using an open license with no
+restrictions on use or reuse, and fully accessible to the broadest range of users to
+use for varying purposes;
+2. Publish quality, updated data with documentation (metadata) and appropriate
+longevity to encourage maximum use;
+3. Measure the effectiveness of this Policy;
+4. Minimize limitations on the disclosure of public information while appropriately
+safeguarding protected and sensitive information; and
+5. Encourage the use of the City’s publishable data by agencies, the public, and other
+partners.
+b. The development and implementation of this Policy shall be overseen by a designated
+```
+
+### Page 3 of 4
+
+```text
+2
+
+city representative(s).
+c. The requirements of this Policy shall apply to any City department, office, administrative
+unit, commission, board, advisory committee or other division of City government,
+including the records of third-party contractors that create or acquire information, records,
+or data on behalf of the City.
+d. The City’s designated representative will seek appropriate funding to achieve the goals of
+this program.
+
+Section 3: Implementation
+a. This Policy will be overseen by a designated city representative(s), who will work with City
+entities and third party’s to:
+1. Oversee the creation of an inventory of City datasets;
+2. Identify potential datasets for release and periodically plan and develop new
+datasets;
+3. Develop and implement a process for determining the public benefit associated with
+release of potentially sensitive data;
+4. Develop and implement a process for prioritizing the release of datasets;
+5. Establish processes for publishing datasets and excluding protected and sensitive
+information; and
+6. Provide support to develop awareness and training programs to incorporate Open
+Data practices into City business planning processes.
+
+Section 4: Management
+a. The following principles shall be used to manage City datasets:
+1. Released datasets will be as complete and up-to-date as possible while complying
+with legal obligations regarding the release of personal information, proprietary, or
+other confidential information;
+2. Datasets will be comprised of City source data;
+3. Datasets will be available to the public in a timely fashion;
+4. Datasets will be easily accessible and retrievable to everyone, with no requirement
+for registration;
+5. Access will be granted without charge or license to any person retrieving published
+City data and associated documentation files to use, copy, merge, publish,
+distribute, and sublicense subject only to city copyright restrictions;
+6. Datasets made available online should remain online;
+7. Ensure information at the City is managed in a way that assists in creating a
+culture of Open Government and information sharing; and
+8. Actively encourage agency and public participation by providing regular
+opportunities for feedback and collaboration.
+
+Section 5: Central Online Location for Published Data
+a. The City will maintain a publicly available location on the City's website or in another
+suitable online location where the City’s published data will be available.
+b. Published datasets shall be placed into the public domain. Dedicating datasets to the
+```
+
+### Page 4 of 4
+
+```text
+3
+
+public domain means that there are no restrictions or requirements placed on use of
+these datasets.
+
+Section 6: Open Data Report and Review
+a. The designated representative(s) will publish an annual Open Data Report. The report
+shall include an assessment of progress towards achievement of the goals of the City’s
+Open Data Policy.
+b. The report will include suggestions for improving City open data management processes
+to ensure movement towards policy goals.
+```

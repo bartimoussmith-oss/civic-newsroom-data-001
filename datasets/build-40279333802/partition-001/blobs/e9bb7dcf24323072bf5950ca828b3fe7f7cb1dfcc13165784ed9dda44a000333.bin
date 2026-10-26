@@ -1,0 +1,2267 @@
+# CHEY-2022-03-14 packet-11
+
+*Agenda packet item from the City Council — Monday, March 14, 2022 meeting, City of Cheyenne, Wyoming. Plain-text copy for reading and search. The original file is the authoritative version.*
+
+- **Meeting:** [City Council — Monday, March 14, 2022](../../../meetings/2022/city-council-2022-03-14.md)
+- **Document type:** Agenda packet item
+- **Text status:** partial text (32 of 76 pages image-only, 30 via OCR)
+- **Pages:** 76 (image-only pages: 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 69, 70, 75)
+- **Original file:** [agenda-packets/CHEY-2022-03-14_packet-11.pdf](https://github.com/therealwindycity/cheyenne-archives-2022/blob/main/agenda-packets/CHEY-2022-03-14_packet-11.pdf) in `therealwindycity/cheyenne-archives-2022` ([direct download](https://raw.githubusercontent.com/therealwindycity/cheyenne-archives-2022/main/agenda-packets/CHEY-2022-03-14_packet-11.pdf))
+- **File size:** 4,201,900 bytes · git blob `0c19b68f0a74`
+- **Extraction:** PyMuPDF text layer; RapidOCR for image-only pages. Wording is unchanged; line breaks and table layout may differ from the PDF.
+
+---
+
+### Page 1 of 76
+
+```text
+(2/21)
+NEW OR TRANSFER
+LIQUOR LICENSE OR
+PERMIT APPLICATION
+FOR LIQUOR DIVISION USE ONLY
+Customer #:
+Trf from:
+Reviewer:
+Initials
+Date
+Agent:
+/
+ /
+Chief:
+/
+ /
+To be completed by City/County Clerk
+Local License #:__________________________________
+License
+Fees
+Annual Fee:
+$___________._____
+Date filed with
+clerk:
+________/________/________
+Prorated Fee:
+$___________._____
+Advertising Dates: (2 Weeks)
+Transfer Fee:
+$___________._____
+_____________________&_____________________
+Publishing Fee:
+$___________._____
+Hearing Date:
+________/________/________
+Publishing Fee Direct Billed to Applicant:
+License Term:
+__
+/
+/__ _________  Through __
+/
+/_____________
+    Month
+  Day
+ Year
+         Month
+ Day
+Year
+LICENSING AUTHORITY:  Begin publishing promptly. As W.S. 12-4-104(d) specifies: NO LICENSING AUTHORITY SHALL APPROVE
+OR DENY THE APPLICATION UNTIL THE LIQUOR DIVISION HAS CERTIFIED THE APPLICATION IS COMPLETE.
+Applicant: __________________________________________________________________________________________
+Trade/Business Name (dba): ___________________________________________________________________________
+Building to be licensed/Building Address: __________________________________________________________________
+Number & Street
+     __________________________________________________________________
+City
+State
+Zip
+County
+Local Mailing Address: ___________________________________________________________________
+Number & Street or P.O. Box
+__________________________________________________________________
+City
+State
+Zip
+Local Business Telephone Number: (_ _ __)_____________________  Fax Number:  (_ __ __)_______________________
+Business E-Mail Address:_______________________________________________________________________________
+FILING FOR
+FILING IN (CHOOSE ONLY ONE)
+FILING AS (CHOOSE ONLY ONE)
+  NEW LICENSE
+  CITY OF:__________________
+  INDIVIDUAL
+  PARTNERSHIP
+  TRANSFER OF LOCATION
+  COUNTY OF:_______________
+  LP/LLP
+  LLC
+  CORPORATION
+  TRANSFER OWNERSHIP
+  ASSIGNMENT LETTER ATTACHED
+  LTD PARTNERSHIP
+  ORGANIZATION
+FORMERLY HELD BY:_______________________________________________
+  OTHER ___________________
+TYPE OF LICENSE OR PERMIT (CHOOSE ONLY ONE)
+RETAIL LIQUOR LICENSE
+  RESTAURANT LIQUOR LICENSE
+  MICROBREWERY
+  ON-PREMISE ONLY
+  RESORT LIQUOR LICENSE
+  WINERY
+    (BAR)
+  BAR AND GRILL
+  DISTILLERY SATELLITE
+  WINERY SATELLITE
+  OFF-PREMISE ONLY
+LIMITED RETAIL (CLUB)
+  COUNTY RETAIL/SPECIAL
+   (PACKAGE STORE)
+  VETERANS CLUB
+  MALT BEVERAGE PERMIT
+  FRATERNAL CLUB
+  COMBINATION
+  ON/OFF PREMISE
+  GOLF CLUB
+  SOCIAL CLUB
+       (BOTH BAR & PACKAGE STORE)
+SPECIAL DESIGNATIONS
+  CONVENTION FACILITY
+  GOLF CLUB
+  RESORT
+  CIVIC CENTER/EVENT CENTER/ PUBLIC AUDITORIUM
+  GUEST RANCH
+To Assist the Liquor Division with scheduling inspections:  OPERATIONAL STATUS
+  FULL TIME (e.g. Jan through Dec)
+(specify months of operation)
+from ___________  to  ____________
+  SEASONAL/PART-TIME
+DAYS OF WEEK (e.g. Mon through Sat)
+from ___________  to  ____________
+  NON-OPERATIONAL/PARKED
+HOURS OF OPERATION (e.g. 10a - 2a)
+from ___________  to  ____________
+46
+02
+09
+2022
+100
+00
+February 17
+February 24, 2022
+100
+00
+02
+28
+2022
+Denver
+CO
+80223
+Cheyenne
+Avanti, Inc., a Wyoming corporation, d/b/a Dell Range Liquor
+Sun
+10 PM
+04
+01
+2022
+03
+31
+2023
+Dillon Companies, LLC, a Kansas limited liability company
+King Soopers
+3702 Dell Range Boulevard
+Cheyenne
+WY
+82009
+Laramie
+303
+778-3100
+65 Tejon Street
+Mon
+8 AM
+teresa.dietz@kingsoopers.com
+```
+
+### Page 2 of 76
+
+```text
+(2/21)
+ALL APPLICANTS MUST COMPLETE QUESTIONS 1- 4
+
+1. BUILDING OWNERSHIP: Does the applicant? W.S. 12-4-103(a)(iii)
+
+(a)  OWN the licensed building?
+
+  YES (own)
+
+(b)  LEASE the licensed building? (Lease must be through the term of the liquor license)
+  YES (lease)
+
+If Yes, please submit a copy of the lease and indicate:
+
+(i)   When the lease expires, located on page___________paragraph______________of lease.
+
+     (ii)  Where the Sales provision for alcoholic or malt beverages is located, on page___________
+
+           paragraph____________of lease.
+
+(MUST contain a provision for SALE OF ALCOHOLIC or MALT BEVERAGES.)
+
+2. To operate your liquor business, have you assigned, leased, transferred or contracted with
+any other person (entity) to operate and assert total or partial control of the license and
+the licensed building?  W.S. 12-4-601(b)
+
+ YES
+ NO
+
+3. Does any manufacturer, brewer, rectifier, wholesaler, or through a subsidiary affiliate, officer,
+director or member of any such firm: W.S. 12-5-401, 12-5-402, 12-5-403
+
+(a)   Hold any interest in the license applied for?
+
+ YES
+ NO
+
+(b)   Furnish by way of loan or any other money or financial assistance for
+       purposes hereof in your business?
+
+ YES
+ NO
+
+(c)   Furnish, give, rent or loan any equipment, fixtures, interior decorations or
+ signs other than standard brewery or manufacturer's signs?
+
+ YES
+ NO
+
+(d)   If you answered YES to any of the above, explain fully and submit any
+ documents in connection there within:
+___________________________________________________________________________________
+
+4. Does the applicant have any interest or intent to acquire an interest in any other liquor
+license issued by this licensing authority? W.S. 12-4-103(b)
+
+ YES
+ NO
+
+If "YES", explain: ___________________________________________________________________________
+
+5. BAR AND GRILL LICENSE OR RESTAURANT LICENSE:
+
+Have you submitted a valid food service permit or application? W.S. 12-4-413(a)
+
+ YES
+ NO
+
+6. RESORT LICENSE:
+
+Does the resort complex:
+
+(a)  Have an actual valuation of at least one million dollars, or have you committed or
+ expended at least one million dollars ($1,000,000.00) on the complex, excluding
+ the value of the land? W.S. 12-4-401(b)(i)
+
+ YES
+ NO
+
+(b)  Include a restaurant and a convention facility which will seat at least one hundred
+ (100)  persons?  W.S. 12-4-401(b)(ii)
+
+ YES
+ NO
+
+(c) Include motel, hotel or privately owned condominium, town house or home
+accommodations approved for short term occupancy with at least one hundred
+(100) sleeping rooms? W.S. 12-4-401(b)(iii)
+
+ YES
+ NO
+
+(d) If no on question (c), have a ski resort facility open to the general public in which you
+have committed or expended not less than 10 million dollars ($10,000,000.00)?
+W.S. 12-4-401(b)(iv)
+
+ YES
+ NO
+
+(e) Are you contracting/leasing the food and beverage services? W.S. 12-4-403(b)
+
+1. If Yes, have you submitted a copy of the food and beverage contract/lease?
+
+ YES
+ NO
+
+7. MICROBREWERY LICENSE:
+
+Will the license be held in conjunction with another liquor license? W.S. 12-4-412(b)(iii)
+ YES
+ NO
+
+(a) If "YES", please specify type:
+ RETAIL
+ RESTAURANT
+ RESORT
+
+ BAR AND GRILL
+ WINERY
+
+(b) Do you self distribute your products?  W.S. 12-2-201(a)
+
+ YES
+ NO
+
+            (Requires wholesale malt beverage license with the Liquor Division)
+
+8. WINERY LICENSE:
+
+Will the license be held in conjunction with another liquor license? W.S. 12-4-412(b)(iii)
+ YES
+ NO
+
+(a) If "YES", please specify type:
+ RETAIL
+ RESTAURANT
+ RESORT
+
+ BAR AND GRILL
+ MICROBREWERY
+
+1
+2
+5
+2
+I
+I
+I
+I
+I
+```
+
+### Page 3 of 76
+
+```text
+(2/21)
+
+9. LIMITED RETAIL (CLUB) LICENSE:
+FRATERNAL CLUBS  W.S. 12-1-101(a)(iii)(B)
+(a)
+Has the fraternal organization been actively operating in at least thirty-six (36) states?
+ YES
+ NO
+(b)
+Has the fraternal organization been actively in existence for at least twenty (20) years?
+ YES
+ NO
+10. LIMITED RETAIL (CLUB) LICENSE:
+VETERANS CLUBS W.S. 12-1-101(a)(iii)(A):
+(a) Does the Veteran’s organization hold a charter by the Congress of the United States?
+ YES
+ NO
+(b) Is the membership of the Veteran's organization comprised only of Veterans and its
+duly organized auxiliary?
+ YES
+ NO
+11. LIMITED RETAIL (CLUB) LICENSE:
+GOLF CLUBS W.S. 12-1-101(a)(iii)(D)/W.S. 12-4-301(e):
+(a) Do you have more than fifty (50) bona fide members?
+ YES
+ NO
+(b) Do you own, maintain, or operate a bona fide golf course together with clubhouse?
+ YES
+ NO
+(c) Are you a political subdivision of the state that owns, maintains, or operates a golf
+course?
+ YES
+ NO
+1. Are you contracting/leasing the food and beverage services? W.S. 12-5-201(g)
+ YES
+ NO
+2. If Yes, have you submitted a copy of the food and beverage contract/lease?
+ YES
+ NO
+12. LIMITED RETAIL (CLUB) LICENSE:
+SOCIAL CLUBS W.S. 12-1-101(a)(iii)(E)/W.S. 12-4-301(b):
+(a) Do you have more than one hundred (100) bona fide members who are residents
+of the county in which the club is located?
+ YES
+ NO
+(b) Is the club incorporated and operating solely as a nonprofit organization under the
+laws of this state?
+ YES
+ NO
+(c) Is the club qualified as a tax exempt organization under the Internal Revenue Service?
+ YES
+ NO
+(d) Has the club been in continuous operation for a period of not less than one (1) year?
+ YES
+ NO
+(e) Has the club received twenty-five dollars ($25.00) from each bona fide member as
+Recorded by the secretary of the club and are club members at the time of this
+application in good standing by having paid at least one (1) full year in dues?
+ YES
+ NO
+(f) Does the club hold quarterly meetings and have an actively engaged membership
+carrying out the objectives of the club?
+ YES
+ NO
+(g) Have you filed a true copy of your bylaws with this application?
+ YES
+ NO
+(h) Has at least fifty one percent (51%) of the membership signed a petition indicating
+a desire to secure a Limited Retail Liquor License? (Petition Attached)
+ YES
+ NO
+13. If applicant is filing as an Individual, Partnership or Club: W.S. 12-4-102(a)(ii) & (iii)
+Each individual, partner or club officer must complete the box below.
+True and Correct Name
+Date of
+Birth
+Residence Address No. & Street
+City, State & Zip
+DO NOT LIST
+PO BOXES
+Residence
+Phone
+Number
+Have you been a
+DOMICILED
+resident for
+at least 1 year and
+not claimed
+residence in any
+other state
+in the last year?
+Have you
+been
+Convicted
+of
+a Felony
+Violation?
+Have you been
+Convicted of a
+Violation
+Relating
+to Alcoholic
+Liquor or Malt
+Beverages?
+YES
+NO
+YES
+NO
+YES
+NO
+YES
+NO
+YES
+NO
+YES
+NO
+YES
+NO
+YES
+NO
+YES
+NO
+YES
+NO
+YES
+NO
+YES
+NO
+YES
+NO
+YES
+NO
+YES
+NO
+YES
+NO
+YES
+NO
+YES
+NO
+```
+
+### Page 4 of 76
+
+```text
+(2/21)
+(If more information is required, list on a separate piece of paper and attach to this application.)
+
+14. If the applicant is a Corporation, Limited Liability Company, Limited Liability Partnership or Limited
+Partnership: W.S. 12-4-102(a)(iv) & (v)
+
+  Each stockholder holding, either jointly or severally, ten percent (10%) or more of the outstanding
+
+  and issued capital stock of the corporation, limited liability company, limited liability partnership,
+
+  or limited partnership, and every officer, and every director must complete the box below.
+
+True and Correct Name
+
+Date of
+Birth
+
+Residence Address No. & Street
+City, State & Zip
+
+DO NOT LIST
+PO BOXES
+
+Residence
+Phone
+Number
+
+No. of
+Years in
+Corp or
+LLC
+
+% of
+Corpora
+te
+Stock
+Held
+
+Have you
+been
+Convicted
+of
+a Felony
+Violation?
+Have you been
+Convicted of a
+Violation
+Relating
+to Alcoholic
+Liquor or Malt
+Beverages?
+
+YES
+
+NO
+
+YES
+
+NO
+
+YES
+
+NO
+
+YES
+
+NO
+
+YES
+
+NO
+
+YES
+
+NO
+
+YES
+
+NO
+
+YES
+
+NO
+
+YES
+
+NO
+
+YES
+
+NO
+
+YES
+
+NO
+
+YES
+
+NO
+
+  (If more information is required, list on a separate piece of paper and attach to this application)
+
+REQUIRED ATTACHMENTS:
+
+A statement indicating the financial condition and financial stability of the applicant
+ W.S. 12-4-102(a)(vi).
+
+Attach any lease agreements (especially for resort/political subdivisions leasing out food &
+
+ beverage services) W.S. 12-4-103 (a)(iii)/W.S. 12-4-403(b)/W.S. 12-4-301(e).
+
+If transferring a license from one ownership to another, a form of assignment from the current
+                 licensee to the new applicant authorizing the transfer W.S. 12-4-601(b).
+
+OATH OR VERIFICATION
+
+(Requires signatures by ALL Individuals, ALL Partners, ONE (1) LLC Member, or TWO (2) Corporate Officers or
+Directors except that if all the stock of the corporation is owned by ONE (1) individual then that individual may sign and
+verify the application upon his oath, or TWO (2) Club Officers.) W.S. 12-4-102(b)
+
+Under penalty of perjury, and the possible revocation or cancellation of the license,
+I swear the above stated facts, are true and accurate.
+
+STATE OF WYOMING
+)
+
+) SS.
+
+COUNTY OF ________________ )
+Signed and sworn to before me on this ____________ day of ________________________, 20____ that the facts
+alleged in the foregoing instrument are true by the following:
+
+1) _________________________________________
+____________________________________
+___________________
+(Signature)
+
+(Printed Name)
+
+Title
+
+2) _________________________________________
+____________________________________
+___________________
+(Signature)
+
+(Printed Name)
+
+Title
+
+3) _________________________________________
+____________________________________
+___________________
+(Signature)
+
+(Printed Name)
+
+Title
+
+4) _________________________________________
+____________________________________
+___________________
+(Signature)
+
+(Printed Name)
+
+Title
+
+5) _________________________________________
+____________________________________
+___________________
+(Signature)
+
+(Printed Name)
+
+Title
+
+6) _________________________________________
+____________________________________
+___________________
+(Signature)
+
+(Printed Name)
+
+Title
+
+Witness my hand and official seal:
+
+_________________________________
+
+Signature of Notary Public
+
+See Attached
+21
+SIGN
+Christine S. Wheatley
+VP and Sec
+SIGN
+SIGN
+SIGN
+SIGN
+SIGN
+SIGN
+```
+
+### Page 5 of 76
+
+```text
+(2/21)
+(SEAL)
+
+My commission expires:________________
+```
+
+### Page 6 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+Avanti Inc.
+D/b/a: Dell Range Liquors
+3806Dell Range Blvd suite b4
+Cheyenne Wy82009
+January 27/2022
+City of Cheyenne
+2102O'Neil Avenue
+Cheyenne, Wyoming 82001
+To: The Honorable Mayor Patrick Collins and Members of the City Council
+From: Avanti, Inc.(d/b/a Dell Range Liquor Store)
+Dear Mayor and City Council Members:
+As youknow, our roots in Cheyenne goback many decades, and we have enjoyed every moment
+of that time.However, we arewriting toyou tolet youknowthat agreat opportunity has
+presented itself forus to sell our current business to King So oper s, our next-door neighbors.Due
+to personal reasons, we are requesting your support and approval to sell the business to King
+Soopers, whichwill be asmooth and seamless transition.
+King Soopers has been serving Cheyenne since2000 and they have been anintegral part of our
+city all theseyears.We think they will be agreat successor in continuing our business.It has
+beena pleasure serving our community, but after some twenty-sixyears, we believe now is the
+time for us to finally retire and enjoy the fruits of our labor.We ask for your support in this
+decision.
+Thank you, and please let us know if we can be of assistance.
+Respectfully,
+Sine Qimalhi
+Date:
+Gino Dimarzio
+Roberto Mancini
+Owner/Manager
+Owner/Manager
+```
+
+### Page 7 of 76
+
+```text
+February 7, 2022
+Mayor and City Council
+Re:
+Application for a transfer of ownership and expansion of location as to Dell Range
+Liquors’ retail license
+Dear Mr. Mayor and City Councilors:
+We have enclosed an application for a transfer of retail liquor license number 46 that has been issued to
+Avanti, Inc. dba Dell Range Liquor.  The proposed transfer is to Dillon Companies, LLC, which is the
+owner/operator of the King Soopers store to the west of Dell Range Liquors.  In addition, the application
+seeks to expand the liquor license area from the approximately 5,600 sqft site that currently exists to an
+approximately 7,278 sqft site.
+As is required under Cheyenne’s zoning code, any expansion of a liquor license conditional use permit
+requires approval of the Cheyenne Board of Adjustment.  On December 16, 2021, the Board of
+Adjustment approved the conditional use permit expansion of the liquor store here.  A site plan shows
+the boundaries of the liquor store and liquor storage area.
+Thus, we apply for the Mayor and Council’s consideration of a transfer of ownership and approval of the
+expanded store area.  We believe that Dillon Companies, LLC will be a suitable successor to Mr. Dimarzio
+and Mr. Mancini who have operated this liquor license since 2000 as Avanti, Inc.  King Soopers has been
+a fixture in this neighborhood for many years, and we greatly enjoy being a part of the Cheyenne
+community.
+The transaction between Avanti, Inc. and Dillon Companies, LLC is contingent on the City approving the
+liquor license transfer.  Upon an approval of the transfer, the parties can quickly close.  We respectfully
+request that any approval be conditioned on the closing of the transaction between Avanti, Inc. and
+Dillon Companies, LLC.
+We look forward to speaking to you in your consideration of this proposed transfer, and appreciate the
+time you invest into consideration of items like this.
+Very truly yours,
+
+Teresa Dietz
+```
+
+### Page 8 of 76
+
+```text
+LEASE WITH AMENDMENTS (REDACTED) (SECTION
+SEE ATTACHED
+AS TO THE PREMISES FOR LIQUOR SALES AND THE
+AUTHORIZATION TO CONDUCT LIQUOR SALES, PLEASE
+SEE THE FOURTH AMENDMENT TO THE LEASE (PAGES
+ONE AND TWO)
+```
+
+### Page 9 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+LEASE AGREEMENT
+between
+R&KS DELL RANGE DEVELOPMENT, LLC,
+a Wyoming limited liability company
+"LANDLORD"
+and
+DILLON COMPANIES, INC.,
+d/b/a KING SO OPER S, a Kansas corporation
+"TENANT""
+Dated: December1,2000
+THE ND LORD IN CUNG UT TM IT EDO ITS HEIR SUCCESS RSS SIGNS DEG A
+USEBEST EFFORTS TO PRESERVE THE CONFIDENTIALITY OF THIS TRANSACTION.THIS CONFIDENTIALITY
+AGREEMENT EXTENDS TO ANY DEVELOPERS, BANKERS, LAWYERS, ACCOUNTANTS, EMPLOYEES, AGENTSRANY
+OTHER PERSONS ACTING ON BEHALF OF THE LANDLORD.THE LANDLORD AGREES TO USE BEST EFFORTS TO
+COVENANT OF CONFIDENTIALITY SETFORTH HERE IN SHALL NOT BE BREACHED IF SUCH INFORMATION IS
+CONFIDENTIALITY SHALL BE BREACHED IF LANDLORD, OR ANY OF LANDLORD'SDEVELOPERS, BANKERS,
+ACCOUNTANTS, AGENTS, LENDERS, LAWYERS OR OTHER SIMILAR PARTIES, DISCLOSES THE CONTENT F, R
+THE CONFIDENTIAL NATURE OF THIS LEASE.
+```
+
+### Page 10 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+INDEX
+1.PARTIES AND RECITALS
+I1.PREMISES
+III.RESTRICTIVE COVENANTS AND EASE MENT S
+IV.TERM
+V.OPTION TO RENEW
+VI. RENT
+VII.CONSTRUCTION OF IMPROVEMENTS
+VIII.LANDLORD NOT A PARTNER
+IX.USE OFPREMISES
+X.WARRANTY OFUSE
+XI.MAINTENANCE
+8
+XII.TAXES
+10
+XIII.UTILITIES
+12
+XIV.INSURANCE
+12
+XV.FIRE OR OTHER CASUALTY
+13
+XVI.EMINENT DOMAIN
+14
+XVII.ALTERATIONS
+15
+XVIII.MECHANICS'LIENS
+16
+XIX. FIXTURES AND EQUIPMENT .
+XX.INVESTMENT CREDIT
+17
+-i-
+```
+
+### Page 11 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+XXI.SIGNS
+XXII.ASSIGNMENT AND SUBLETTING
+18
+XXIII.INDEMNIFICATION
+18
+XXIV.TITLE AND POSSESSION
+19
+XXV.CONDITION OF PREMISES UPON SURRENDER
+19
+XXVI.HOLDING OVER THE PREMISES
+20
+XXVII.NON DISTURBANCE, AT TORN MENT AND MORTGAGING.
+.20
+XXVIII.DEFAULT BY TENANT
+21
+XXIX.DEFAULT BY LANDLORD
+21
+XXX.REMEDIES CUMULATIVE
+22
+XXXI.NOTICES
+22
+XXXII.MEMORANDUM OF LEASE
+23
+XXXIII.HAZARDOUS SUBSTANCES
+23
+XXXIV.BINDING EFFECT
+25
+XXXV.CONSTRUCTION, COURTS AND JURISDICTION
+25
+XXXVI.PARAGRAPH HEADINGS
+25
+XXXVII.ENTIRE AGREEMENT
+25
+XXXVIII.AMENDMENT
+26
+XXXIX.MULTIPLE COPIES
+26
+XL.LEASE CERTIFICATES
+26
+XLI.ATTORNEYS'FEES
+26
+-ii-
+```
+
+### Page 12 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+XLII.FORCE MA JEURE
+26
+XLIII. TENANT'S EXPANSION
+26
+XLIV. LEASE CONDITIONS
+26
+-ii-
+```
+
+### Page 13 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+DEFINITIONS
+Store
+ArticleI
+Center
+Article I (Exhibit A)
+Site Plan
+Article I (Exhibit B)
+Premises
+Article I, Paragraph 1
+Common Areas
+Article II, Paragraph 3
+Proportionate Share
+Article Xll, Paragraph 1
+Kings Tax Lot
+Article XX, Paragraph 4
+-iv-
+```
+
+### Page 14 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+EXHIBITLIST
+"A”
+Legal Description of Center
+"B"
+Site Plan
+"C"
+Declaration of Reciprocal Ease ment s and Restrictions
+"D"
+Agreement for Operation and Maintenance for Common Areas for Dell Range
+Marketplace
+"E"
+Permitted Exceptions
+"F"
+Subordination, Non-Disturbance and Attornment Agreement
+"G"
+Estoppei Certificate Form
+```
+
+### Page 15 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+1.PARTIES AND RECITALS
+THIS INDENTURE, made and entered into this 1st day of December, 2000, by and
+between R&KS DELL RANGE DEVELOPMENT, LLC, a Wyoming limited liability company
+(hereinafter referred to as Landlord) and DILLON COMPANIES, INC., d/b/a KING SOOPERS,
+a Kansas corporation, P.O.Box 5567, Denver, Colorado 80217(hereinafter referred to as
+Tenant).
+WITNESSETH:
+WHEREAS, Landlord desires to construct a new store (the Store)on the property owned
+by Landlord, legally described in Exhibit"A", attached here to and incorporated hereinby this
+reference (the Center), which new store shall be located in the space designated as "King
+Soopers"on the"Site Plan” attached hereto and incorporated herein by this reference marked
+Exhibit"B"; and
+WHEREAS, the parties desire tofully state the terms, conditions and the obligations of
+the respective parties in the event of construction of the Store;
+NOW, THEREFORE, it is hereby mutually agreed between the parties that this Lease
+Agreement shall govern the rights, duties and obligations of the parties concerning the Store.
+II.PREMISES
+1.In consideration of the payment of rent and additional rent hereinafter provided
+and the keeping and performance of each of the covenants and agreements of the said Lease,
+Landlord does hereby lease unto said Tenant the following described premises (the Premises) to
+be located at Ridge Road and Dell Range Boulevard, Cheyenne, Wyoming, to wit:
+The to-bebuilt store building(the Building)consisting of
+approximately61,887square feet of ground floor building area
+located in the space designated as“King Soopers”on the Site Plan
+Underground conduit and facilities for water, sewer, electrical, gas, telephone,
+cable and other utility services to the to-be constructed and completed Premises, are
+non-exclusive appurtenances to this leasehold interest.
+3.The non-exclusive right of Tenant, its employees, customers, contractors, and
+invitees to use the Center entrances, driveways, parking areas and the other Common Areas is an
+appurtenance to the leasehold interest. The term “Common Areas"”when used in this Lease
+means all of the Center except (i) the Premises,(i) other building areas including the exterior
+walls and structural components of those areas, the roof over those areas and canopies attached to
+those areas (including the canopy roof),(ii) outdoor dining areas and (iv) drive-up or drive-
+through access areas and improvements used for that purpose. The term includes, but is not
+```
+
+### Page 16 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+limited to ntrances, exits, driveways, parking areas, delivery areas, outside docks, landscape
+areas and sidewalks.
+III.RESTRICTIVE COVENANTS AND EASE MENT S
+Landlord covenants and agrees asfollows:
+1.That portions of the Common Area utilized for the purpose of ingress and egress
+to the Premises; for the purposes of parking on Lots 4, 5 and 6; or for the purposes of ingress or
+egress to the other structures on the Center; either at the present or at any future time, shown on
+the Site Plan for the Center attached hereto as Exhibit "B", shall be subject to a non-exclusive
+irrevocable easement during the term of this Lease and its extensions foringress and egress in
+common with other Center occupants or tenants for Tenant's use and the use of Tenant's invitees
+and customers for parking and access purposes, as an appurtenance to this Lease.
+2.During the term of this Lease and any extensions, Landlord shall not, without the
+prior written consent of Tenant, alter, change, modify orpermit any otherperson or party under
+its control to alter, change ormodify in any respect any building envelope, traffic lanes, lanes for
+ingress and egress, entrances, exits, walks, parking areas, set backs, or Common Areas in Lots 4,
+5 and 6 of the Center.The Landlord shall not expand the Center onto adjoining land whereby
+additional tenants would utilize the Common Areas of the Center without the prior written
+consent of Tenant.
+3.
+Except as specifically provided for in this paragraph, Tenant shall have the
+exclusive right to the use of the Centerfor a cigarette store or smoke shop, a drug store ora
+pharmacy requiring the services of a registered pharmacist, provided that this restriction shall
+cease to be in force and effect if the occupant of the Premises fails to sell tobacco products,
+operate a drug store, or a pharmacy department, for a period of three hundred sixty-five (365)
+consecutive days or longer subsequent to the opening for business of the Premises except when
+such failureis caused by remodelling, labor disputes, force majeure (including reconstruction as
+a result of fire or other casualty)or conditions beyond the control of the occupant.
+4.No part of the Center, except the Premises, shall be used as a food store or food
+department, or for the sale of groceries, meats, fish, produce, dairy products, bakery products, or
+any of them, for off-premises consumption, provided that nothing herein shall prevent (i) any
+occupant of the Centerfrom selling such products as an incidental part ofits principal business
+so long as the total number of square feet devoted to the display for the sale of such products
+does not exceed:
+)of the total number of square feet of building area occupied by
+same or eight hundred (800) square fet, including, in either case, one-half (/) of the aisle space
+adjacent to any such display area, whicheveris smaller,(i) the operation of a restaurant (subject
+to the location provisions of Paragraph 5below) which permits customers to"take out”orders, or
+(i) the operation of a retail operation which derives at leas1
+)of its
+gross revenues from the sale of ice cream and similar related dairy products, and further provided
+2
+```
+
+### Page 17 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+that this restriction shall cease tobeinforce and effectif the occupant of the Premises fails to
+conduct a business for the saleof groceries, meatsfish, produce, dairy products, bakery
+products, or any of them, for off-premises consumption, for three hundred sixty-five (365)
+consecutive days or longer subsequent to the opening for business of the Premises, except when
+such failure is caused by remodelling, labor disputes, force ma jeure (including reconstruction as
+a result of a fire or other casualty)or conditions beyond the control of the occupant.
+5.No portion of the retail stores on Lot 4 or the first one hundred feet(100)of retail
+stores on Lot 5 to the east of the Premises shall be used as a restaurant without the written
+consent of Tenant.No portion of the Center, excluding the Premises, shall be used as a
+restaurant which permits“take out”of gourmet to go or home meal replacement items. This
+restricts Gourmet To Go, Boston Market, Marty's, Eat Zi's or similar establishments.The
+foregoing is not intended torestrict a pizza restaurant, Mexican food restaurant, oriental food
+restaurant, salad bar or restaurant selling primarily prepared sandwiches.
+6.No portion of the Center shall be used for office use not ancillary to a retail
+business or as a car wash without the written consent of the occupant of the Premises.
+7.The premises and the Center are encumbered by that certain Declaration of
+Reciprocal Easements and Restrictions dated the 17"h day of October,2000 (the"Declaration"), a
+copy of whichis attached hereto marked Exhibit “C”and incorporated herein by reference.
+Tenantwill notviolate any provision of the Declaration, including butnot limited to any use
+restrictions.Landlord agrees to enforce the terms and conditions of the Declaration.
+8.The covenants contained herein shall be restrictive covenants runningwith any of
+the Center for which a fee estate or leasehold estateis held by Landlord and burdening any
+leasehold estate or possessory estate held by Landlord in any of the Center, and shall inure to the
+benefit of and be binding upon, the parties hereto and their respective heirs, successors and
+assigns, including, butwithout limitation, all subsequent owners of the Center or any portions or
+parcels thereof or any lessees or sublessees of the Center or any portions or parcels thereof, and
+all persons claiming under them.
+IV.TERM
+The obligation to pay rent and other expenses under this Lease shall commence on the
+Certificate of Occupancy date for the Premises or the Temporary Certificate of Occupancy date if
+Tenant's retail operation is allowed, whichever occurs first (the Commencement Date) and the
+term shall continue thereafter for twenty(20) years (the Original Term).After the
+Commencement Date Tenant's obligations for rent, Common Area maintenance and taxes shall
+be determined as provided for herein.A lease amendment reciting the Commencement Date, the
+exact termination date of the Original Term of this Lease, and the exact square footage of the
+Buildingas-buit, shall be executed byboth parties within thirty(30) days of the Commencement
+Date.Notwithstanding that there is a later Commencement Date for certain Lease obligations,
+3
+```
+
+### Page 18 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+this Lease shall be a binding agreement between the parties from the date it is executed by the
+parties.
+V.OPTION TO RENEW
+1.The Landlord hereby grants and gives to Tenant, at Tenant's option, the right to
+renew this Leasefor seven(7) additional five (5)year periods (singularly an Option Period or
+thenin default under any material provision of this Lease which is not curedprior to
+commencement of the Option Period.All of the terms and conditions of this Lease are
+applicable during any Option Period.
+2.
+Tenant may provide Landlord with awritten notice of its exercise of an Option
+Term at least one hundred eighty (180) days prior to the expiration of the then current term (the
+"First Exercise Deadline") provided however that Tenant's right to exercise the Option Term
+shall not terminate unti thirty (30) days after (the"Final Exercise Deadline") Landlord provides
+Tenant with a written notice (the"Exercise Notice") that Tenant's First Exercise Deadline passed
+and no notice exercising the Option Term was received by Landlord.If Tenant provides written
+notice of its exercise ofits Option Term prior to the Final Exercise Deadline, the term of this
+Lease shall be extended.
+If Tenant does not provide written notice of its exercise of its Option Term then
+the Lease shall terminate on thelater of the scheduled termination date or thirty (30) days after
+the Final Exercise Deadline.
+VI._RENT
+1."Store Base Rent"for the Premises shall commence on the Commencement Date
+(as defined in ArticleIV above)at a cost for each ground floor squarefoot in the Premises
+excluding the831 squarefoot equipment room(as determined by anas-built survey or architect's
+certificate)per annum of
+per square foot.Store Base Rent
+is payable on thefirst day of eachmonth in equal monthly install im ents.
+VII.CONSTRUCTION OF IMPROVEMENTS
+1.Landiordhas delivered to Tenant a Phase I environmental audit of the Center
+prepared by Rust Environmental and Infrastructure dated January —_, 1998. Landlord has
+delivered to Tenant a geotechnical report forthe Center prepared by Kumar&Associates, dated
+March 8,200o.Landlord represents and warrants that to thebest of Landlord's knowledge the
+Phase 1 audit and the geotechnical report are true and correct.
+2. Tenant or a party approved and selected by Tenant shall act as architect and
+engineer for the design, construction and inspection of construction of the Building that is to be
+4
+```
+
+### Page 19 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+erected by Landlord.Landlord shall reimburse Tenant for the architectural, engineering and
+construction inspection fees incurred by it on a time and materials basis up to a maximum
+amountof
+.Said fees are the Building
+architectural fees, Building civil engineering fees, and other architectural or engineering fees
+relating to the construction of the Building, including construction inspection fees and
+architectural inspection fees. Tenant shall submit to Landlord draw requests for payment every
+thirty(30) dayswhich shallbepaid by the Landlord onorbefore the fifteenth day of the
+succeeding month, except that no payments need be made on any draw requests prior to
+Landlord'sfirst draw on Landlord's construction financing.
+3.Landlord, or its agent, at Landlord's expense, hereby agrees to erect upon the
+Premises the Building in accordance with the plans and specifications delivered to Landlord by
+Tenant (hereinafter referred to as"Building Working Plans")and to complete thesite
+improvements and ancillary retail buildings attached to the Building on the Premises in
+accordance with the Site Plan and in an architecturally harmonious manner. The parking and
+lighting in the Primary Parking/Access Area shall be constructed to the following
+specifications:(1)PARKING LOT LAYOUT: The prime field (roughly defined as the area 180'
+either side of the main entry) shall be 70 degree angled parking.Stalls shali be 9'0" wide
+(measured perpendicular to the stall).Parking bays shall be 58'-0" wide, consisting of 17'-0"
+parking, 24'-0" aisle, 17'-0" parking.Painted arrows and stalls within the parking lot shall
+above)shall be designed toprovide:
+a)
+Minimum foot-candle=1.25
+b)
+Average maintained foot-candle = 4.5
+c
+Average to minimum ratio=<4:1 or
+maximumto minimum ratio=<10:1
+4.It is agreed that no further substantial changes maybe made in the Building
+Working Plans unless approved in writing by Tenant and Landlord.Neither party shall
+unreasonably withhold its approval.Notwithstanding the if h mediate ly preceding sentence,
+Tenant may make minor changes in the approved Building Working Plans which do not
+substantially affect the exterior appearance or quality of materials.Failure by Landlord to
+provide written disapproval for any proposed changes within ten (10) days of submission to
+Landlord, will constitute approval.
+5.Landlord delivered to Tenant possession of the Premises prior to the execution of
+the Lease.Landlord's workwas completedto the extent reasonably necessary for the
+commencement of the fixturing work to be done by Tenant, excepting those portions of
+Landlord's work which will not unreasonably interfere with Tenant's interior work. This
+progress or completion of Tenant's work, provided, however, Tenant shall be entitled to
+exclusive possession of the Premises (subject to the force majeure provisions of Article XLII
+5
+```
+
+### Page 20 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+below) on or before November 26, 2000 for the purpose of stocking its store with merchandise.
+Landlord is to complete the Building with an interior decor package which includes a hung
+ceiling, lighting, painted walls, and vinyl composition floor covering, all in accordance with the
+approved Building Working Plans.Tenant willbe responsible for placement ofits customary
+store fixtures, furnishings and equipment generally described in Paragraph 8below.
+6.Landlord agrees, to the extent that such are assignable, to assign to Tenant, any
+and all guarantees or warranties of workmanship and materials which Landlord mayreceive from
+third parties for work performed on the Building.
+7.Mitchell Plus Associates or another mutually agreed upon licensed architect
+(Tenant shall not unreasonably withhold its agreement to any architect), will be the Landlord's
+architect to design the Center site improvements, and the ancillary retail buildings. Landlord
+agrees to have the ancillary retail spaces designated "Retail Store A and Retain Store B", on the
+Site Plan completed as evidenced by a shell certificate of occupancy and all site improvements in
+the Center (excluding internal Common Area for Lots 2, 3 and 7 but including exterior curb,
+gutter and landscaping) no later than the Commencement Date.After the Commencement Date,
+Landlord agrees to keep all construction trailers, storage areas and staging areas in a location that
+will minimize the impact on access to the Premises and parking for the Premises.Any areas of
+Lots 1, 2,3 and 7 not improved shall be either (a) fenced and screened or (b) capped to avoid
+blowing dirt and dust until construction is commenced.
+8.
+Except as otherwise provided for herein, the Building constructed by Landlord
+hereunder and any additions, improvements, and alterations thereto, other than Tenant's
+equipment and trade fixtures, shallbe theproperty of Landlord upon expiration or termination of
+this Lease, or upon Tenant's abandonment of the Premises, whichever shall first occur. Tenant‘'s
+trade fixtures and equipment are generally listed as follows: Shelving, racking, counters,
+checkstands, computer equipment and wiring, telephone equipment and wiring, security
+equipment and wiring, safes, intercom systems, coolers and mechanical equipment supplying
+coolers, refrigerated cases, prep sinks, three compartment sinks, dock levelers, compressors,
+disposals, lighting fixtures, signs, icemakers, emergency generators, and anymovable personal
+propertynot specifically listed above.
+Landlord agrees to maintain or cause Landlord's contractor to maintain builder's
+risk insurance at all times during the construction of the Building, the site improvements and the
+ancillary retail buildings with companies licensed to do business in the State of Wyoming.
+10.The obligations contained in this Article VII shall be in full force and effect upon
+execution here of irrespective of thefact that thelease term commences at alater date.
+6
+```
+
+### Page 21 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+VIII.LANDLORD NOT A PARTNER
+It is understood and agreed between the parties hereto that their relationship at all times
+shall remain that of Landlord and Tenant, and that nothing here in contained shall be deemed,
+held, or construed as the creation of a partnership orjoint venture as between the parties hereto in
+the conduct of either party's business; nor shall either party be liable for any debts, liabilities or
+obligations incurred by the other party in the conduct ofits business.
+IX.USE OF PREMISES
+1. During the term of this Lease or any Option Term, Tenant may use the Premises
+for any lawful retail use or purpose that does not violate the Declaration.Tenant shall keep the
+and ordinances relating to health and police regulations applicable to said use. Tenant shall keep
+in force at all times licenses, consents, and permits necessary orrequired by allfederal, state and
+local agencies for the purposes herein provided and Tenant shall pay all personal property taxes,
+income taxes, license fees, and other taxes which are or maybe assessed, levied, orimposed
+upon Tenant in connection with Tenant's operation of its business upon the Premises.
+2.The Premises may be used and occupied by Tenant during such hours as Tenant
+deems appropriate (without an obligation for such use) in accordance with relevant laws and
+regulations for general store, convenience store, pharmacy, grocery store and supermarket
+purposes, for retail sale orrental of all items now or hereafter sold or rented in or from Tenant's
+combination stores orgrocery stores, bakery departments, meat departments, general
+merchandise, seafood departments, pharmacy departments, perishable items departments and
+supermarkets and for such uses as are, or may become part of its grocery store, combination store
+and supermarket operations. This Lease does not require Tenant to continuously operate.
+3.Tenant may use the sidewalks owned by Landlord immediately in front of the
+Premises (and is hereby granted an easement for such use) for purposes of shopping cart storage
+and the storage and sale of merchandise.It is hereby understood and agreed that the perimeter
+sidewalks adjacent to the Building are part of the Common Area.In addition Tenant may store
+shopping carts or corrals in the Common Area parking.
+X.WARRANTY OFUSE
+Landlord warrants that to thebest of its knowledge and belief, at the time of execution
+and delivery of this Lease, there are no agreements, leases, ordinances, regulations orprivate
+restrictive covenants prohibiting the use of the Premises for the operation of a business involving
+the sale of general merchandise, perishables, pharmaceuticals, groceries, bakery products, meat,
+fish and related items of merchandise at retail. Landlord shall not permit any exclusive use or
+restrictive use agreement, lease or covenant toburden the Premises, except as specifically set
+forth in the Declaration.
+```
+
+### Page 22 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+XI.MAINTENANCE
+1.
+Tenant shall maintain and repair all of the Premises, including, but not limited to,
+theinterior, the exterior, thenon-structural and the structural portions of the Premises, the roof
+and the HVAC system unless the damage or repair is the result of Landlord's employee's or
+agent's negligent or willful act in which event Landlord shall be obligated to make the repair.
+Landlord shall assign to Tenant all warranties and guarantees relating to the roof and structural
+portions of the Premises.Tenant will keep the Premises in good order and condition, except for
+ordinary wear and tear, and shall promptly, and at Tenant's own cost andexpense, make all
+necessary repairs, whether exterior orinterior, to all non-structural parts of the same.Tenant
+shall also be responsible for its trash removal, snow and ice removal from the sidewalk
+immediately adjacent to its Premises, debris removal from the sidewalk immediately adjacent to
+its Premises and debris removal generated by its trash compactor in the Common Area behind
+the Premises.It is agreed that even though Tenant has agreed to assume said responsibilities (i.e.
+trash removal, snow and iceremoval, anddebris removal)incertain areas whichare outside the
+Premises, Landlord shall be responsible for maintaining general liability insurance concerning
+those areas as outlined in Article XIV.
+2.When used in this Lease, the term"repairs" shall include replacements or
+removal, when necessary, and all suchrepairs shall be equal or better in quality andclass to the
+original work.This shall not be construed to require Tenant toreplace or reconstruct any
+improvement or fixture (including the heating, ventilating and air conditioning components)
+prior to termination of the Lease according to its terms so long as same have been suitable for
+Tenant's use prior to termination and are operable.
+Landlord agrees to insure, service, maintain and repair, throughout the term of this
+Lease and any Option Periods all parking and "Common Areas"within the Center.Landlord
+shall cause successor owners of pads in the Center toservice, maintain and repair all access
+areas, drive areas and other Common Areas on each owners parcel throughout the term of this
+Lease. The insuring, servicing, maintenance and repair shall include by enumeration, and
+without limitation, lighting, cleaning, sweeping, landscaping, snow and ice removal, painting,
+parking striping, parking area repair and maintenance, directional signals, policing and carrying
+of sufficient property damage and public liability insurance.Landlord's insurance requirements
+for the Center are as provided for in Article XIV below. Landlord's obligations for maintenance
+of the Center as anownerof Lot 6 are containedin that certain Agreement for Operation and
+Maintenance for Common Areas for Dell Range Marketplace dated October17, 2000 (the
+"CAMA").Tenant shall bear its share of those expenses for the Center as if it were the owner of
+Lot 6with the exception that Tenant shall not pay any Maintenance Director service fee under
+Section 6.07 of the CAMA, a copy of which is attached as Exhibit "D"and incorporated herein
+by reference.Landlord and Tenant agree that themonthly Store Base Rent setforth above
+includes the amount of
+for management fees, which amount
+shall be Tenant's only obligation to Landlord for Landlord's or Maintenance Director's costs
+associated with the management of the Common Areas for the Center or the Center.
+8
+```
+
+### Page 23 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+4.Tenant shall not be liable for any portion or share of costs or expenses attributable
+to painting, repairs, or maintenance to any other building in the Center orforthe trash removal
+from any other building, tenant or user in the Center.Landlord is required to cause the other
+buildings and improvements in the Center to be maintained in good order andrepair and to
+provide for trash storage in enclosed bins or containers for other buildings, tenants and users and
+trash removal on a reasonable basis toavoid the overflow of trashfrom thebins or containers.
+5.Should Landlord be required to make any repairs occasioned by Tenant's
+negligence or negligence on thepart of Tenant's officers, agents oremployees, or should Tenant
+neglect or refuse to make repairs in accordance with Paragraph1 abovewithin a'reasonable
+period of time, Landlord may make such repairs and upon completion of such repairs, Tenant
+shall pay Landlord's cost for the making of such repairs, upon presentation of bills and
+documentation evidencing payment of the costs and expenses, as additional rent.The receipted
+bills of independent and unrelated mechanics or contractors employed by Landlord, showing the
+payment by Landlord for the making of such repairs shall be prima facie evidence of the
+reasonableness of such charges and that the same has been paid by Landlord.
+6.Landlord shall at all times use reasonable efforts to maintain or cause to be
+maintained the Common Areas of the Center, including access areas, truck dock areas, ramp
+areas, parking lots and sidewalks, free and clear of snow, ice and other dangerous conditions,
+provided, however, if there exists a condition that in Tenant's reasonable opinion requires
+immediate attention to provide customer or delivery access to the Common Areas or the
+Premises and Tenant has either given telephonic orfacsimile notice to Landlord of the condition
+and Landlord does not commence the necessary repair or correction without delay, then in that
+event, Tenant shallhave the right to cause the defect tobe corrected or snow andice removed, as
+the case may be.Landlord shall reimburse Tenant for the reasonable cost of such work, less
+Tenant's share of the cost tobe paid under Paragraph 3 above of this ArticleXI, or Tenant shall
+be entitled to offset itsrent by such an amount.Such undertaking by the Tenant shall not release
+the Landlord of any liability of the Landlord incurred because of Landlord's default.
+7.Tenant may require Landlord to make the following Common Area improvements
+of a capital nature on the Center: replacement of utility lines; repaving of the parking areas; and
+replacement of parking area lights.Tenant pays to Landlord as part of its Store Base Rental
+for each ground floor square foot of area in the Premises
+as a reserve for capital improvements in the Center, including, but not limited to utility line
+replacement, parkinglot repaving and parking lot lighting replacement.Tenant shall have no
+further obligation for the cost of Common Area capital improvements.
+8.It is understood by the Landlord that it is of the utmost importance to the Tenant
+that Landlord use reasonable efforts tomaintain or cause tobe maintained the Common Area of
+the Center in a first class condition and that all repairs and maintenance required hereunder be
+done with due diligence and reasonable speed so that the business of the Tenant will not be
+interrupted by failure of prompt and necessary maintenance.Tenant shall have a continuing right
+6
+```
+
+### Page 24 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+in the event that the repair and maintenance as above provided is not of the standard set forth to
+be maintained by the Landlord, after notice under Article XXIX below and expiration of
+Landlord’s cure period, to seck such legal remedy as is available and/or Tenant may cause the
+maintenance to be performed and bill Landlord for same. If Landlord fails to pay such bill
+within fifteen(15) days after presentment of the bill by Tenant, Tenant may offset any reasonable
+expenditures made to take such action against therent due or tobecome due, or the maintenance
+charges due or to become due.
+9.Landlord or its agent shall have the right to enter into the Premises at all
+reasonable hours for the purpose of inspecting the same, and any additions, repairs or alterations
+thereto.The exercise of this right to enter the Premises shall not be deemed an eviction or
+disturbance of Tenant'suse of possession.
+10.Tenant will pay its share of Common Area expenses pursuant to Paragraph 3
+above of this Article XI, consistent with Section 7.01 of the CAMA and the approved budget.
+Any overpayment made by Tenant shall be reimbursed to Tenant when received by Landlord
+under the CAMA.Landlord shall cause the Maintenance Director under the CAMA to provide
+Tenant with back-up documentation for actual expenses as Tenant may reasonably require.
+Tenant will pay its costs to maintain and operate signs pursuant to Article XXl, Paragraphs 1 and
+2 below within thirty (30) days of receipt of an invoice from Landlord.
+XII.TAXES
+1.Tenant covenants and agrees to pay to Landlord as additional rent, before any
+fine, penalty, interest, or cost be added thereto for the nonpayment thereof (so long as Landlord
+has provided Tenant with at least thirty (30) days prior written notice of same and a copy of the
+tax statement)its"Proportionate Share"(as defined below)of all real estate taxes, real estate
+assessments, and other similar governmental charges, which at any time during the Original
+Term of this Lease or any Option Period may be levied, assessed, or charged upon or with
+respect to Lots 4, 5 and 6 in the Center.Tenant's Proportionate Share shall initially be 70.57%
+based upon the buildable square footage of buildings on Lots 4, 5 and 6 of the Center calculated
+by taking the Building's total ground floor square footage (estimated at 61,887 sq.fit) and
+dividing that figure by the total buildable square footage for Lots 4,5 and 6 of the Center
+pursuant to the Finai Development Plan approved by the City of Cheyenne, Wyoming (87,700
+sq.ft.).If the buildings depicted on the Site Plan as ultimately constructed have square footages,
+inclusive ofexterior walls, greater than or less than as shown on the Site Plan, then the Tenant's
+Proportionate Share shall be recalculated using the as-built square footages of the buildings in
+lieu of approved buildable square footage.The re calculation would also include any building
+area for those lots within the Center on which no building areas were shown on the Final
+Development Plan.
+2.Landlord warrants that, to the best of Landlord's knowledge, it has disclosed to
+Tenant any and all taxes or assessments now levied or assessed upon the Premises or the Center
+10
+```
+
+### Page 25 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+and any and all taxes or assessments which are proposed and which may result in a levy or
+assessment against the Premises or the Center. Landlord covenants and agrees not to have the
+Premises or the Center included voluntarily or at the request of Landlord in any special
+improvement district, special assessment district or special tax district without Tenant's prior
+written consent.
+3.Landlord shall deliver to Tenant, when requested, duplicated receipts or
+photostatic copies showing payment of all said taxes, assessments, and other impositions, within
+thirty (30) days after the respective final payment dates.
+4.Landlord shall within twenty (20) days of receipt deliver to Tenant copies of all
+valuation notices, notices of possible inclusion in assessment or taxing districts or other notices
+that affect the taxes or assessments for the Center. If Landlord elects not to do so, Tenant may
+contest in good faith, by appropriate proceeding, at Tenant's expense, including any interest or
+penalty and attorney's fees, if any, and in Tenant's or Landlord's name, any tax, assessment, r
+valuation of the Center or improvements or anyportion thereof, provided that byposting bond or
+other similar mechanism Tenant'schallenge does not subject Landlord or other tenants torisk of
+loss through eviction, foreclosure or tax sale. In such event, Landlord will reasonably cooperate
+with Tenant and will execute any document which may be necessary or proper for any such
+proceeding. If Tenant shall in good faith, proceed to contest any such tax or assessment or other
+charge against the Center or any portion of the Center or improvements thereon or the validity
+thereof by proper legal proceedings and in accordance with this paragraph, which shall operate to
+prevent the collection thereof or the sale of said premises orany part thereof to satisfy the same
+or toprevent the appointment of a receiver because of the nonpayment of any such tax,
+assessment, orother charge, Landlord shall not, pending the termination of such legal
+proceedings, have theright to pay, remove ordischarge anytax assessment, and Tenant shall ot
+be required topay, discharge, orremove any such tax, assessment, or other charge.If Tenant
+contests any tax, assessment or charge, on parts of the Center in addition to the Premises, then
+Landlord shall reimburse Tenant for a portion of its costs and expenses incurred if the protest or
+contest is successful. The portion to be reimbursed shall be calculated by deducting from said
+costs and expenses the amount that would have been Tenant's Proportionate Share and the
+balance is tobe paid by Landlord.In no event shall the Landlord be required toreimburse
+Tenant an amount in excess of the tax savings that will be realized by Landlord.
+5.Landlord or Tenant may petition the local taxing authority and obtain a separate
+realestate tax bill for the Premises(the Building)together with theland area of Lot 6 Dell Range
+Marketplace (collectively the“Kings Tax Lot").If such petition is granted, in lieu of paying a
+Proportionate Share of reaf estate taxes for the Premises and Lots 4,5 and 6 of the Center as
+above provided, Tenant shall pay all real estate taxes and assessments levied against the Kings
+Tax Lot. Tenant shall pay the same on or before the due date thereof, failing which Landlord
+may pay such real estate taxes and assessments and Tenant shall reimburse Landlord within ten
+(10) days after delivery of written notice from Landlord.If Tenant desires to contest real estate
+11
+```
+
+### Page 26 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+for in Paragraph 4 above.
+6.It is expressly agreed that Tenant shall not be obligated to pay any capital levy or
+corporate franchise tax levied orimposed upon Landlord, or any estate, inheritance, successor, or
+transfer tax upon any passing of Landlord's interest in the Premises, or any income tax, profits
+tax, excisetax, rent tax, orother taxorcharge that maybe payable or chargeable to Landlord
+under any present orfuture law of the United States or the state where the Premises are located,
+or imposed by any political or taxing subdivision thereof, or any governmental agency, upon or
+with respect to the rent received by Landlord under this Lease, unless such other taxes are inlieu
+or substitution ofexisting advalorem taxes.
+XII.UTILITIES
+Tenant shall timely pay all charges made against the Premises, for gas, water, sewer, heat,
+electricity, and all other utilities during the term of this Lease and any Option Term.
+XIV.INSURANCE
+1.Tenant shall place and maintain for the Premises commencing with Tenant's
+occupancy of the Premises or Commencement Date of the term of this Lease and thereafter
+during the term of this Lease and any Option Term, at Tenant's sole cost and expense, fire and
+extended coverage insurance and insurance against such other hazards as may be reasonably
+required by Landlord on the building and all improvements located on said Premises in an
+amount equal tothefull replacement value of the Building and other improvements comprising
+the Premises with loss payable to the Landlord as an additional insured. Upon written request
+from Landlord Tenant shall add Landlord's mortgagee as an insured as the mortgagee's interest
+may appear.
+2.Tenant shall place and keep in effect during said period, at the sole cost and
+expense of Tenant, comprehensive general liability coverage with minimum limits of liability for
+bodily injury to one person in the amount of·
+and for bodily
+injury to any group of persons as a result of one accident, in the amount of
+Tenant agrees that it will place and keep in effect during said period a liability
+).All of the policies of liability insurance shall name Landlord as an
+additional insured and upon written request of Tenant, Tenant's mortgagee shall be an endorsed
+additional insured.All of such policies may carry a deductible clause of up to
+with the understanding and agreement by Tenant that Tenant shall
+and hereby does indemnify and save harmless the Landlord for damage to property and persons
+in the amount of such deductible figure from losses that would otherwise have been covered by
+policies without such deductible clause. Tenant shall provide Landlord certificates evidencing
+such coverage.Landlord may include as part of Landlord's insurance coverage business
+12
+```
+
+### Page 27 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+interruption insurance or loss ofrent insurance providing coverage for theloss of income or rents
+from the Center due tofire or other casualty.If requested todo so by Landlord inwriting,
+Tenant agrees to increase the coverage limits stated above consistent with reasonable industry
+standards provided the amounts arein accord with Tenant's own corporate guidelines for leased
+spacewitha comparable use.
+3.Landlord agrees to maintain liability insurance against claims for bodily injury,
+death, or property damage occurring on, inorabout thecommon area of the Property, with lmits
+of not less than
+as to claims of any one person, and an
+aggregate limit of not less than
+for claims inany one
+occurrence and not less than
+property damage.All
+of the policies of liability insurance shall name Tenant as an additional insured.Landlord shall
+provide Tenant certificates evidencing such i coverage.
+4. Tenant's and Landlord's policies of insurance shall contain a provision providing
+for thirty (30) days'prior written notice to Landlord or Tenant prior to any cancellation.
+Certificates evidencing the insurance required to be maintained hereunder shall be deposited with
+the other party by the insuring party promptly upon request and the insuring party agrees to
+provide certificates ofinsurance to any mortgagee of anyparty upon written request.
+5.If Landlord or Tenant shall fail, refuse, or neglect to obtain any insurance required
+to be maintained by it under this Article, or to furnish the other partywith satisfactory evidence
+of payment of the premium of any policy, the other party shall have the right, at its option, to
+purchase such insurance and to pay the premiums thereon or to pay the premium on insurance
+which the other party should have paid for.All such payments made by Tenant shallbe
+recoverable by Tenant by offset to any rental due hereunder, any such payments made by
+Landlord shall be recoverable as additional rent, and shall be payable within fifteen(15) days of
+receiptof a billing for same accompanied by a supporting in voice.
+XV.FIRE OR OTHER CASUALTY
+Tenant covenants and agrees, except as hereinafter provided, that in the event of
+damage to the Premises or improvements thereon, or destruction of the whole or any part thereof,
+by any cause whatsoever, Tenant will, subject to Paragraph4 hereof, proceed immediately and
+diligently to restore them to the same or equivalent condition or status that they were in, or
+required to be kept in, before such destruction or damage. In the event any net proceeds from
+insurance shall remain after completion of such restoration of the Premises, the excess shall
+belong to Tenant.The rent payable here in shall abate during the period of any restoration or
+reconstruction from date of casualty until the earlier of (a)three hundred sixty-five (365) days
+after the date of the casualty, or (b) the date Tenant reopens forbusiness, except that if Tenant
+opens for business during any restoration or reconstruction period then Tenant's rent shall be
+reduced in the same percentage as the un tenant able portion during the reconstruction or
+restoration of the Premises bears to the total Premises.
+13
+```
+
+### Page 28 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+2.Before any repair or restoration work is undertaken, Landlord shall have the right
+to receive and approve a copy of the plans and specifications and a certificate as to the probable
+cost of the work, to be furnished by an architect employed by Tenant, or an estimate or estimates
+from the general contractor or other contractors who will do thework.The approval of Landlord
+under this paragraph shall not be unreasonably withheld and shall be deemed given unless
+Landlord provides written notice that it is not approved within ten (10) days of receipt of such
+confirmation,
+3.Should the repair and restoration required as the result of any fire or other casualty
+loss exceed the insurance funds, then the Tenant shall pay such funds necessary to complete the
+repair or restoration of the Premises.
+4.In the event the Building on the Premises is damaged or destroyed by perils
+insured against to the extent of thirty percent (30%) or more of the then monetary value of said
+improvements, during the last two (2) years of the Originai Term or during any Option Term,
+Tenant may, at its option, cancel this Lease.Any insurance proceeds shall be paid to Landlord if
+Tenant electsto terminate and Tenant shallhaveno obligation torebuild asprovided for in
+Paragraph 1 above, but Tenant shall have the obligation to fund any deficiency under Paragraph
+3 above.Such cancellation and termination shall be effected bywritten notice from Tenant
+within sixty(60)days of the occurrence of such casualty.If such notice be given to Landlord,
+the term of this Lease shall end upon the date of such notice.If such notice is not given by
+Tenant within such time, this Lease shall remain in full force and effect.
+5.In the event of damage or destruction of other buildings or improvements in the
+Center, Landlord shall either (i) proceed diligently to restore them to the same or equivalent
+condition or status that theywere in before such damage or destruction; or (i) demolish any
+structures, rade the area, put an asphalt capon the area, make the area available for parking and
+make such cosmetic changes to the Premises or other remaining structures so as to maintain the
+architectural theme of the Center and thegeneral appearance of the Center asexisted prior tothe
+casualty.If Landlord elects the second alternative Landlord shall maintain said area until such
+time as Landlord rebuilds.Any rebuilding shall not expand or alter the gross building floor area
+for the Center without Tenant's prior written consent.All rebuilt improvements shall maintain
+the architectural theme of the Center existing prior to the damage or destruction.
+XVI.EMINENT DOMAIN
+1.In the event that any portion of the Premises is taken by condemnation, then, for a
+period of one hundred twenty (120) days after the later of (i) Tenant's actual written notice of
+such taking, or(i) the actual date of such taking, Tenant shall be entitled to terminate the Lease
+and thereupon the parties shall be relieved from all liability under the Lease. In the event that
+more than ten percent (10%) of the Primary Parking/Access Area designated on the Site Plan is
+taken by condemnation and Tenant reasonably determines in good faith that the Premises are not
+suitable forits continued use, by reason of such condemnation, Tenant shall be entitled to
+14
+```
+
+### Page 29 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+terminate the Lease if written notice of such termination is given by Tenant to Landlord within
+one hundred twenty (120) days after such condemnation and upon such termination the parties
+shall be relieved from all further liability under the Lease.If Tenant fails or is unable to
+terminate the Leasein accordance with this Paragraph, Store Base Rent shall be reduced by the
+proportionate amount of Building area, in the case of the Premises, or in a fair and equitable
+manner if the taking is within the Primary Parking/Access Area.Landlord, in such an event,
+shall restore forthwith, to the extent permitted by applicable zoning ordinances, building codes
+and other laws the Premises taken or affected by the condemnation toprovide thesame
+approximate location, size and configuration of Building area as well as all light standards,
+parking spaces, sidewalks, driveways and vehicular access points to adjacent roadways existing
+prior to the condemnation.During the time period of such restoration, Store Base Rent,
+Common Area charges, tax payments and insurance payments shall abate if the Premises are not
+tenantable or shall be reduced in afair and equitable manner if Tenant's occupancyis merely
+disrupted. The term"condemnation"as used in the Lease shall include all conveyances in
+anticipation or inlieu of an actual taking.
+2.All damages awarded for any taking of the fee title to the Center or any portion
+thereoforto the leasehold created hereby shall be distributed and applied as follows: First, any
+bonafide, third party, first mortgagee or beneficiary under a first deed oftrust shall receive the
+outstanding balance of its mortgage or deed of trust related to the Center, second, Tenant shall
+receive amounts equal to the damage to the leasehold estate created hereby inthe event ofa total
+taking ora termination under the provisions hereof, and, then, the Landlord shall receive the
+balance.Tenant shall have the right to obtain (if awards are then made for such) any award or
+damage (i) for any loss of Tenant's business;(ii) for the cost of removal of Tenant's stock in
+trade, trade fixtures and equipment; and (i) loss to or damages for Tenant's stock in trade, trade
+fixtures and equipment.
+3.Landlord shall promptly advise Tenant of any condemnation notice or action.
+Tenant shall have the right to intervene in any such action as an interested party.Landlord shall
+not enter into any settlement or agreement for any condemnation award without the prior written
+consent of Tenant.In the event an agreement cannot be reached between the parties concerning
+the amount and distribution of proceeds under the provisions of the preceding paragraph, andif
+the condemnation proceeding has not established the amounts and distribution of such, then
+Landlord and Tenant agree that a valuation shall be made by subsequent proceeding before the
+same condemnation commission, jury or court as the case may be, or if the matter cannot be
+heard by such commission, jury or court the matter shall be determined in the District Court for
+the County of Laramie, State of Wyoming.
+XVII.ALTERATIONS
+1.Tenant, at its own expense, may after notice to Landlord and the provision of
+plans and specifications to Landlord, have the right, during the term hereof or any renewal term,
+tomake such alterations, additions, installations, changes and improvements in and to the
+15
+```
+
+### Page 30 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+Premises as may be necessary for Tenant's purposes, provided that such alterations, additions,
+installations, changes and improvements shall not lessen the value of the Premises, increase the
+square footage of the Premises orimpair the structural strength of the Building and if any
+alteration or change is to the exterior of the Premises oris structural in nature, Tenant shall
+receive Landlord’s prior approval, which approval shall not be unreasonably conditioned,
+withheld or delayed.Landlord shall be deemed tohave approved any proposed alteration or
+change if it does not provide written notice of disapproval withing twenty (20) days of receipt of
+Tenant's notice.During the period in which such alterations are under way Landlord shall have
+the right to post the Premises with a notice of non liability as provided for under the then-existing
+laws of the State of Wyoming for mechanics'lien protection.
+2.Should any alterations, additions, installations, changes, and improvements in or
+to the Premises or any part thereof be required during the term hereof, by any governmental
+regulations arising from Tenant's specific use ofthe Premises, the same shall be made by and at
+the cost of Tenant.
+3.Fee title to all alterations, additions, installations, changes and improvements
+madeby Tenant upon the Premises, except fixtures and equipment as provided in Article XIX
+hereof, shall become the property of Landlord upon being permanently affixed to the property.
+Tenant shallhave thirty(30)days after termination or expiration of thelease to remove fixtures
+or equipment not permanently affixed, except that Tenant shall pay to Landlord an amount equal
+toper diem rent for each day after termination, up to thirty(30) days, that Tenant uses for such
+removal.Any such removal shall be at Tenant's peril and shall cause no damage to the structural
+strength of the Building, interior mechanical, electrical, orother systems or exterior of the
+improvements.In the event the Tenant has not removed its trade fixtures and equipment within
+said thirty (30) day period, the Landlord may, at its option, have the same removed from the
+Premises at the sole expense of the Tenant.
+XVIII.MECHANICS'LIENS
+Tenant will not at any time permit any mechanics', laborers', or materialmen's liens to
+stand against the Premises for anylabor or material furnished to Tenant or claimed tohavebeen
+furnished to Tenant or to Tenant's agents, contractors, or sublessees, in connection with work of
+any character performed, or claimed to have been performed on the Premises by, or at the
+direction or sufferance of Tenant, and Tenant shall indemnify and hold Landlord harmless from
+and against any such liens.If any such lien shall at anytime be filed against the Premises,
+Tenant, within sixty(60)days after notice of thefiling thereof will cause it to be discharged of
+record by payment, deposit, bond, order of a court of competent jurisdiction, or otherwise.
+Tenant shall have the right to contest thevalidity or amount of any such lien or claimed lien.On
+final determination of the lien or claim for lien, the Tenant will immediately pay all final
+judgments rendered with all proper costs and charges, and shall have the lien released or
+judgments satisfied at Tenant's own expense.If Tenant fails to cause such lien to be discharged
+as aforesaid, then in addition to any otherright orremedy, Landlord may, but shall not be
+16
+```
+
+### Page 31 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+obligated to, discharge said lien eitherby paying the amount claiming tobe due orby procuring
+the discharge of such lien by deposit or by bonding proceedings, and in any such event, Landlord
+shallbe entitled, if Landlord so elects, to compel Tenant to defend any action on the foreclosure
+of such lien, or to pay the amount of any judgment in favor of the lienor with interest, costs,
+attorneys' fees and allowances. Any amount so paid by Landlord and all costs and expenses
+incurred by Landlord in connection therewith, together with interest thereon at the rate equal to
+the lesser of (a) the maximum lawful rate or (b) two percent (2%) over prime, as quoted by US
+Bank, from the respective date of Landlord's making the payments and incurring of the costs and
+expenses shall constitute additional rent payable by Tenant under this Lease and shall be paid by
+Tenant to Landlord within ten(10)days ofwritten demand therefor.Nothingin this Lease
+contained shall be deemed or construed in anyway as constituting the consent orrequest of
+Landlord, express orimplied, by inference or otherwise, to any contractor, subcontractor, laborer
+or materialman for the performance of any labor or the furnishing of any materials for any
+specific alteration, addition, mprovement orrepairto the Premises, or anypart thereof, noras
+services or furnishing of any materials that would give rise to the filing of any lien against the
+Premises or any part thereof.
+XIX.FIXTURES AND EQUIPMENT
+It is specifically understood and agreed that Tenant shall own any and all removable trade
+fixtures, equipment, ormachinery, orany other personal property installed by Tenant butt
+permanently affixed to the Building, during the Original Term of this Lease orany Option Term,
+and Tenant may, at any time, remove the same from the Premises, except anything constituting a
+permanent installment or a part of thebuilding.Tenant shall make any structural or other repairs
+necessary as a result of the removal of said non- permanently installed fixtures and equipment.
+XX.INVESTMENT CREDIT
+INTENTIONALLY DELETED.
+XXI.SIGNS
+1.Landlord agrees.to construct upon the Center two (2) Center monument sign(s).
+One will be north of Lot 1 at the Center entry and one will be east of Lot 3 at the Center entry.
+The Landlord agrees to construct one Center pylon sign tobe located on Lot 8 at the Center
+entry.Tenant shall have the identification name and logo of Tenant's business occupying sixty-
+two and one-half percent (62.5%) (the "Sign Ratio") of the pylon sign's area in the most
+predominant location(as selected by Tenant)in a configuration accommodating Tenant's
+tradename logo.Tenant agrees to payfor all costs tofabricate and install its fascia portion of the
+sign displays.Landlord shall pay for all costs tofabricate and install the signs with electrical
+service.Tenant shall pay all costs to maintain and operate the two monument signs.Tenant
+shall payits share of costs to maintain and operate the pylon sign based on the Sign Ratio.
+17
+```
+
+### Page 32 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+2.Except for signs which are located wholly within the Building and which are not
+visible from the exterior of such Building, no sign shall beplaced, erected, maintained, or
+painted at anyplace upon the Premises without the prior written consent of Landlord as tothe
+size, design, color, location, content, illumination, and mobility thereof.Landlord shall not
+unreasonably withhold its consent to any sign.Landlord hereby consents to the installation of
+ATM identification signs, Tenant's identification signs and identification signs forits sublessees
+on the exterior wallsof the Store Building provided said signsare consistent with applicable laws
+and regulations.Provided Tenant obtains Landlord's prior written consent as aforesaid, Tenant
+may, to the extent allowed bylaw orpublic regulation, place, erect, maintain, or paint signs upon
+the Premises, provided they are maintained by Tenant in good condition during the term hereof.
+Tenant shall remove all signs at the termination of this Lease, repairing any damage caused by
+the installation and/or removal thereof.
+3.During the last one hundred twenty (120) days of the Original Term or the last
+one hundred twenty (120) days of the final Option Term hereof, Landlord shall have the right to
+place "For Rent" or "For Sale" sign, upon any portion of the exterior of the Premises, other than
+the windows thereof; provided, however, that such signs shall not obstruct Tenant's name.
+XXII.ASSIGNMENT AND SUBLETTING
+Tenant may sublet or assign the Premises, or anyportion thereof or assign its rights
+under this Lease.In the event of any assignment Tenant shall remain liable to Landlordfor the
+performance of Tenant's obligations under the Lease, unless Landlord approves the financial
+provided, however, that Landlord shall have no obligation to release Tenant and any release shall
+be in Landlord's sole discretion.If this Lease is assigned or the Premises or any portion sublet
+under this paragraph, the terms of this paragraph shall survive and be effective for any
+subsequent assignment or subletting.
+XXIII.INDEMNIFICATION
+1.Tenant shall not be responsible nor liable for, and Landlord agrees to indemnify,
+defend and hold Tenant harmless from all claims, damages, expenses (including attorney fees),
+liabilities, and judgments for injuries to persons, loss of life or damage to property occurring in
+the Center (not including the Premises) and on the streets and sidewalks adjacent to the Center or
+growing out of or connected with the use or non-use, condition, or occupation of the Center or of
+such streets and sidewalks (except such injury, loss of life or damage occurring in or on the
+occasioned by the negligence of Landlord, its designated agents, servants, contractors, licensees,
+or employees.In the event any action or proceeding is brought against Tenant by reason of any
+claim as hereinabove described, Landlord, upon notice from Tenant, covenants at Landlord's cost
+and expense toresist or defend such action or proceeding or to cause it to be resisted ordefended
+by an insurer.
+18
+```
+
+### Page 33 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+2.Landlord shall not be responsible nor liable for, and Tenant agrees to indemnify,
+defend and hold Landlord harmless from all claims, damages, expenses (including attorney fees),
+liabilities, and judgments for injuries to persons, loss oflife or damage to property occurring in
+the Premises, unless and to the extent such is caused by the actions of Landlord or results from
+faulty construction of the Building. The indemnity includes damage or injury occasioned by the
+negligence of Tenant, its designated agents, servants, contractors, licensees, or employees.In the
+event any action or proceeding is brought against Landlord by reason of any claim as
+hereinabove described, Tenant, upon notice from Landlord, covenants at Tenant's cost and
+expense to resist or defend such action or proceeding or to causeit tobe resisted or defended by
+aninsurer.
+XXIV.TITLE AND POSSESSION
+Landlord covenants and warrants that at the time of signing and delivery of this Lease,
+Landlord has full power andlawful authority to let, demise, andlease the Premises in the manner
+and form as aforesaid. Provided Tenant pays all rent and other charges herein provided and
+observes all covenants of this Lease, the Landlord shall and will warrant and forever defend the
+Premisesin the quiet and peaceable possession of the Tenant against all and everyperson or
+persons lawfully claiming the whole or any part thereof, subject, however, to any provisions in
+this Lease providing for the termination hereof, either at Landlord's or Tenant's option or
+otherwise and Landlord agrees to defend the Tenant's possession thereof and to reimburse and
+hold the Tenant harmless from all damages and expenses which the Tenant may suffer by reason
+of any eviction by a holder of paramount title.Landlord further warrants that it holds title to the
+Center as thefee title holder.
+Landlord has delivered to Tenant prior to the execution of this Lease an ALTA Leasehold
+Title Commitment for the Premises in the amount ol
+from Chicago Title Insurance
+Cormpany (Title Company), Commitment No.LCA-01224-00 with an effective date of
+August 30, 2000.Tenant has approved in writing those title exceptions listed on Exhibit "E"
+attached hereto and incorporated herein by reference (Permitted Exceptions).Landlord agrees to
+pay for and deliver to Tenant within twenty (20)days after the recording of the Memorandum of
+Lease provided for in Article XXXIII a leasehold title policy containing only the Permitted
+Exceptions.
+XXV.CONDITION OF PREMISES UPON SURRENDER
+At the expiration of the Original Term or any Option Term, Tenant will quit and
+surrender the premises hereby leased broom-swept and in as good a state and condition as when
+received, reasonable wear and tear excepted.In the event Tenant alters, remodels, or improves
+the Premises in accordance with its right here in before granted, it shall not, at the expiration of
+said term or expiration of anyrenewal term, berequired torestore thesame to the condition the
+Premises were when Tenant took possession, but Tenant may surrender the same in their altered,
+remodeled, and improved condition without any further liability.
+19
+```
+
+### Page 34 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+XXVI.HOLDING OVER THE PREMISES
+In the event Tenant continues to occupy the Premises after the last renewal period hereof,
+or, having given notice that it does not intend to exercise any renewal option but nevertheless
+continues to occupy thepremises after the expiration ofitsthen current term, then such
+occupancy shall create a tenancy at will only and shall, in no event, be deemed a renewal of this
+Lease, and either party may terminate said tenancy at willupon notice to the other party in
+accordance with the laws of the State of Wyoming.During such tenancy at will, Tenant shall be
+bound by all the terms and conditions contained herein except that Store Base Rent shall be
+of the thencurrent Store Base Rent.
+XXVII.NON DISTURBANCE, AT TORN MENT AND MORTGAGING
+1.So long as the Tenant is not in default in the payment of rent or additional rent or
+in the performance of any of the terms of this Lease, the Tenant's possession of the Premises and
+the Tenant's rights and privileges under the Lease or any renewal thereof shall not be diminished
+or interfered with byany mortgagee.
+2.In the event any mortgage covering the Premises is foreclosed for any reason or
+the mortgagee succeeds to the interest of the Landlord under the Lease, the Tenant shall be bound
+to the mortgagee under all of the terms of the Leasefor the balance of the term thereof remaining
+with the same force and effect as if the mortgagee were the Landlord under the Lease, and the
+Tenant hereby attorns to the mortgagee, as its Landlord, such attornment tobe effective and
+self-operative without the execution of anyfurther instrument on thepart of either of theparties
+hereto, immediately upon the mortgagee succeeding to the interest of the Landlord under the
+Lease. Notwithstanding anything herein to the contrary, the Tenant shall be under no obligation
+to pay rent to the mortgagee until the Tenant receives written notice from the mortgagee with
+supporting legal documentation that it has succeeded to the interest of the Landlord under the
+Lease.
+3.In the event that the mortgage is foreclosed for any reason and the mortgagee
+succeeds to the interest ofthe Landlord under the Lease, the mortgagee shall be bound to the
+Tenant under all of the terms of the Lease, and the Tenant shall, from and after such event, have
+the same remedies against the mortgagee for the breach of an agreement contained in the Lease
+that the Tenant might have had under the Lease against the prior Landlord thereunder.
+4.Tenant may mortgage its leasehold interest herein without the consent of
+Landlord, provided that Tenant shall remain liable to Landlord under the Lease in theevent of
+foreclosure.Landlord shall accept the mortgagee as lessee under this Lease in the event of a
+foreclosure or execution on the leasehold estate.
+5.Landlord and Tenant each agree to upon request execute and deliver to the other
+party a subordination, non-disturbance and attornment agreement in the form attached hereto as
+20
+```
+
+### Page 35 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+Exhibit"F" and incorporated herein by reference.Tenant agrees to provide Landlord with an
+estoppel certificate in the form attached hereto as Exhibit "G" and incorporated herein by
+XXVIII.DEFAULT BY TENANT
+In the event Tenant shall at any time be in defaultin the payment of rent herein
+reserved, or of any other sums required to be paid by Tenant under this Lease, or in the
+performance of or compliance withany ofthe terms, conditions, covenants, or provisions of this
+Lease, then andin addition to any otherrights or remedies Landlord may have under this Lease
+and at law and at equity, Landlord shall have the right to terminate the Lease and to enter upon
+and re-enter the Premises and may dispossess Tenant and remove Tenant and all other persons
+and property from the Premises and may have, hold, and enjoy the Premises and the right to
+receive rental income of and from the same.All such actions shall be brought under the forcible
+entry and detainer lawsof the State of Wyoming.
+2.Notwithstanding anything hereinabove stated, Landlord agrees that Landlord will
+not exercise any right or remedy provided for in this Lease or allowed by lawbecause of any
+default of Tenant, unless Landlord shall first have given written notice thereof to Tenant, and
+Tenant, within a period of ten(10)days thereafter shall have failed to pay the sum or sums due,
+if the default consists of the failure to paymoney, or, if the default consists of something other
+than the failure to pay money, Tenant shallhave failed within thirty (30) days thereafter to begin
+the correction of the default or thereafter fails to actively and diligently in good faith proceed
+with and continue the correction ofthe default until it shall befully corrected.If the default is
+the failure to pay sums or sums due as Rent or Additional Rent and it is not cured in the ten (10)
+day notice period then interest shall be paid by Tenant from the original due date until paid at the
+rate equal to the lesser of(a) the maximum lawful rate or (b) two percent(2%)over prime per
+annum, as quoted by US Bank, N.A.
+3.Nowaiver by Landlord of any breach by Tenant of any of Tenant's obligations,
+agreements or covenants herein shall be a waiver of any subsequent breach or of any obligation,
+agreement, or covenants, nor shall any forbearance by Landlord to seek a remedyfor any breach
+by Tenant be a waiver by Landlord of any rights and remedies with respect to such or any
+subsequent breach.
+XXIX.DEFAULT BY LANDLORD
+1.
+Tenant shall give Landlord written notice of anydefault by Landlord in the
+performance of any covenant or obligation to be kept or performed hereunder.In the event such
+default continues for a period of thirty (30) days after receipt of written notice thereof by
+Landlord, and provided such default by Landlord can be cured by the payment of money, Tenant,
+at its election and not as a waiver of other commonlaw actions or remedies, may spend such
+money as is reasonably necessary to cure such default and therefore deduct the amount so spent
+21
+```
+
+### Page 36 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+from rent due or to become due hereunder.If Landlord's default is of such a nature that it cannot
+be cured within thirty (30) days, then Landlord’s cure period shall be extended for a reasonable
+period of time provided Landlord commences the cure within thirty(30)days and thereafter
+actively and diligently in good faith proceeds with and continues the correction of thedefault
+until it shall be fully corrected.
+2.If the Premises or any part thereof become subject to a first mortgage or a first
+deed of trust and Tenant is given written notice thereof, Tenant agrees that it will concurrently
+with the giving of any notice of default to Landlord, mail a duplicate of such notice to the
+original first mortgagee or to the original beneficiary of thefirst deed of trust.Tenant further
+agrees that it will give the original mortgagee or trust deed beneficiary the same rights to cure
+any default of Landlord as may be given Landlord under the terms of this Lease.
+3.Anything contained in this Lease to the contrary notwithstanding, Tenant agrees
+that Tenant shall looksolely to the estate of Landlord in the Center or the rents paid orpayable to
+Landlord after Tenant's receipt of a judgment against Landlord (except for rent or expense offset
+rights under this Lease which have become effective prior to the same)for the collection of any
+judgment (or other judicial process) requiring the payment of money by Landlord in the event of
+any default or breach by Landlord with respect to any of the terms and provisions of this Lease to
+be observed orperformed by Landlord, subject, however, to the rights of theholder of any
+Mortgagee covering the Center and no other assets of Landlord, its members, partners, agents,
+employees, officers, orthe employees or officers ofanyof itsmembers orpartners shallbe
+subject tolevy, execution or other judicial process for the satisfaction of Tenant's claim and
+Landlords hall not beliablefor any such default or breach except to the extent of Landlord's
+estate in the Center.The term"Landlord" as used in this Lease, so far as covenants or
+obligations on the part of Landlord are concerned, shall be limited to mean and include only the
+owner or owners of the Shopping Center at the time in question and, in the event of any transfer
+or transfers of the title thereto, Landlord hereinnamed (and in the case of any subsequent
+transfers or conveyances, the then grantor) shall be automatically released, from and after the
+date of such transfer or conveyance, of all liability asrespects the performance of any covenants
+or obligations on the part of Landlord contained in this Lease thereafter to be performed.
+XXX.REMEDIES CUMULATIVE
+No remedy herein conferred upon or reserved to Landlord or Tenant shall exclude any
+other remedy herein orby lawprovided, but each shall be cumulative and in addition to every
+remedy given here under or now or hereafter existing at law orin equity orby statute.
+XXXI.NOTICES
+Anyand all notices here in shall be hand delivered(which includes delivery by overnight
+courier)or, in the alternative, sent one copy by certified mail, return receipt requested, and one
+copy by regular mail, direct to Landlord at c/o Regency Realty Corporation, Suite 600,1873S.
+22
+```
+
+### Page 37 of 76 (scanned page: machine OCR, may contain errors)
+
+```text
+Bellaire Street, Denver, Colorado80222, Attn: Bill Woodward, with a copy to Regency Realty
+Corporation, Suite 400,8141Walnut Hill Lane, Dallas, Texas 75231, Attn: James G.Buis, and
+to Tenant at Dillon Companies, P.0.Box 5567, Denver, Colorado 80217, or 65 Tejon, Denver,
+Colorado 80217, Attention: Real Estate Director, with a copy to James J. Soran, II,
+Montgomery Little &Mc Grew, P.C.,5445 DTC Parkway, Suite 800, Englewood, Colorado
+80111 or to such other address as may, from time to time, be directed in writing by the party who
+willreceive said notice, and anynotice sentby mail shall be deemed tohave been received
+seventy-two(72) hours after the date and time deposited in the United States Post Office or upon
+receipt, whichever first occurs.
+XXXII.MEMORANDUM OF LEASE
+The parties hereto, shall execute and deliver a short form Jease which shall carry the
+description of the Premises, thelegal description of the Center, thelengthof theterm and
+options, any expansion options, and the provisions of Article I above, and which shall
+incorporate by reference only the other provisions of this Lease.It is agreed by and between the
+parties that the short form lease as called for herein shall be recorded in the office of the Clerk
+and Recorder of the County of Laramie, State of Wyoming.
+XXXIII.HAZARDOUS SUBSTANCES
+1.Neither Tenant (for purposes of this Paragraph, Tenant shall include the
+employees and agents of Tenant)nor anyassignee, sublessee, licensee or other person or entity
+acting at the direction or with the consent of Tenant shall (i) manufacture, treat, use improperly,
+store or dispose of any“Hazardous Substance"(as hereinafter defined) on the Premises, the
+Center or any part thereof, or (ii) permit the release ofa Hazardous Substance on or from the
+Premises, the Center or any part thereof or (i) permit the use of materials containing Hazardous
+Substances in connection with the construction of the expansion in violation of applicable
+Environmental Laws (as such term is defined herein). The term "Hazardous Substance" shall
+mean any waste, substance or material (a) identified in Section 101(14) of the Comprehensive
+Environmental Response, Compensation and Liability Act of 1980, as the same maybe amended
+from time to tune (herein called "CERCLA"), or (b) determined to be hazardous, toxic, a
+pollutant or contaminant, underany applicable federal, state orlocal statute, law, ordinance, rule,
+regulation orjudicial or administrative order or decision, as same may be amended from time to
+time ("Environmental Laws"). Notwithstanding anything contained herein to the contrary,
+Tenant shall be entitled touse, store, sellorplace in appropriate containers for pickup for
+disposal off-site(off the Center)of those items which otherwise would fall within the definition
+of Hazardous Substances set forth herein provided that such use, storage, disposition or sale is in
+accordance with all Environmental Laws and are those items which typically areused, stored or
+sold within retail stores.TENANTS HALL AND DOES HEREBY INDEMNIFY
+LANDLORDFOR, DEFEND LANDLORD AGAINST AND SAVE LANDLORD
+HARMLESS FROM, ANY LIABILITY, LOSS, COST INCLUDING, WITHOUT
+LIMITATION, REASONABLE ATTORNEYS'FEES AND EXPENSES ACTUALLY
+23
+```
+
+### Page 38 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 39 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 40 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 41 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 42 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 43 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 44 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 45 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 46 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 47 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 48 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 49 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 50 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 51 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 52 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 53 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 54 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 55 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 56 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 57 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 58 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 59 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 60 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 61 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 62 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 63 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 64 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 65 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 66 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 67 of 76
+
+```text
+OFFICERS OF APPLICANT (SECTION 14)
+
+SEE ATTACHED
+```
+
+### Page 68 of 76
+
+```text
+True and Correct Name
+
+Date of
+Birth
+
+Residence Address No. & Street City,
+State & Zip
+DO NOT LIST
+PO BOXES
+Residence Phone
+Number
+
+No. of Years in
+Corp or
+LLC
+date elected to
+office
+% of Corporate
+Stock or
+Membership
+Held
+
+Have you been
+Convicted of
+a Felony
+Violation?
+
+Have you been
+Convicted of a Violation
+Relating
+to Alcoholic Liquor or
+Malt Beverages?
+Steve Dreher
+01/14/1969
+1009 Bramble Bush Dr.
+Hutchinson, KS 67502
+620-728-0548
+02/02/2020
+0
+Yes  □
+No X□
+Yes  □
+No X□
+Christine S.
+Wheatley
+02/27/1971
+225 Lafayette Circle
+Cincinnati, OH 45220
+513-475-0861
+05/23/2014
+0
+Yes  □
+No X□
+Yes  □
+No X□
+Carin L. Fike
+05/02/1968
+7500 Brill Rd
+Cincinnati, OH 45243
+513-271-0483
+04/26/2017
+0
+Yes  □
+No X□
+Yes  □
+No X□
+Jacqueleen L.
+Cossey
+09/15/1984
+2207 Faulkner Springs Dr.
+Murfreesboro, TN 37128
+706-593-5470
+06/25/2020
+0
+Yes  □
+No X□
+Yes  □
+No X□
+Joseph M. Kelley
+12/20/1965
+65 Tejon St.
+Denver, CO 80223
+617-874-0068
+11/06/2021
+0
+Yes  □
+No X□
+Yes  □
+No X□
+Rick J. Landrum
+08/11/1964
+5110 Muirwoods Ct.
+Cincinnati, OH 45242
+513-923-3822
+04/28/2016
+0
+Yes  □
+No X□
+Yes  □
+No X□
+William A. Lewton
+02/11/1973
+908 East 32nd Ave.
+Hutchinson, KS 67502
+620-899-2787
+09/30/2013
+0
+Yes  □
+No X□
+Yes  □
+No X□
+Philip B. Nelson
+09/23/1964
+157 Stonewater Dr.
+Hermitage, TN 37076
+540-977-6357
+06/25/2020
+0
+Yes  □
+No X□
+Yes  □
+No X□
+Joseph W. Bradley
+11/01/1961
+1165 Abbott Rd.
+Batavia, OH 45103
+513-943-4750
+10/18/2012
+0
+Yes  □
+No X□
+Yes  □
+No X□
+Dorothy D. Roberts
+06/21/1964
+4640 Whispering Oak Trail
+Cincinnati, OH 45247
+513-658-9597
+07/11/2005
+0
+Yes  □
+No X□
+Yes  □
+No X□
+```
+
+### Page 69 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 70 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 71 of 76
+
+```text
+2
+WYOMING SECRETARY OF STATE GOOD STANDING
+```
+
+### Page 72 of 76
+
+```text
+STATE OF WYOMING
+Office of the Secretary of State
+I, EDWARD A. BUCHANAN, SECRETARY OF STATE of the STATE OF WYOMING, do
+hereby certify that according to the records of this office,
+Dillon Companies, LLC
+is a
+Limited Liability Company
+formed or qualified under the laws of Kansas did on April 20, 1998, comply with all applicable
+requirements of this office.  This entity has been assigned entity identification number 1998-
+000333413.
+This entity is in existence and in good standing in this office and has filed all annual reports
+and paid all annual license taxes to date, or is not yet required to file such annual reports; and has
+not filed an Application for Certificate of Withdrawal.
+I have affixed hereto the Great Seal of the State of Wyoming and duly generated, executed,
+authenticated, issued, delivered and communicated this official certificate at Cheyenne, Wyoming
+on this 7th day of February, 2022 at 12:22 PM.  This certificate is assigned ID Number 049744438.
+Secretary of State
+Notice:  A certificate issued electronically from the Wyoming Secretary of State's web site is immediately valid and
+effective.  The validity of a certificate may be established by viewing the Certificate Confirmation screen of the
+Secretary of State's website https://wyobiz.wyo.gov and following the instructions displayed under Validate Certificate.
+```
+
+### Page 73 of 76
+
+```text
+FLOOR PLAN OF PREMISES TO BE LICENSED
+```
+
+### Page 74 of 76
+
+```text
+GROCERY PICKUP
+OPERATIONS AREA, NOT
+USED FOR LIQUOR
+SERVICES
+EXISTING KING SOOPERS GROCERY
+STORE
+RETAIL LIQUOR
+SALES AND
+STORAGE ARE
+INDICATED IN
+YELLOW HIGHLIGHT
+```
+
+### Page 75 of 76 (scanned page: no text layer yet; see the original PDF)
+
+### Page 76 of 76
+
+```text
+Proposed Alcohol Training Program
+pursuant to City Code Chapter 5.12 requirements
+
+The Cheyenne City Code imposes the following criteria, which must be met in order for a
+licensee to meet required review criteria.  The applicant proposes to complete all of the following
+requirements, which are set forth in City Code 5.12.090.  The applicant provides “TIPS”
+(Training for Intervention ProcedureS) type training at its locations that sell alcoholic beverages,
+and so applicant is familiar with providing training and in meeting compliance requirements in
+relation to liquor sales.
+
+Applicant shall:
+
+• Provide initial orientation training on alcohol and malt beverage related sales and service
+for new employees and all volunteers who will be selling or furnishing alcohol or malt
+beverages, and on-site managers and persons who may provide on-site security services
+on behalf of the licensee or permittee upon the premises.
+
+• Provide training prior to any duties being performed that relate to alcohol and malt
+beverage sales and service. Orientation training materials must be approved by the chief
+of police.
+
+• Ensure that persons who physically sell, serve or deliver alcoholic liquor or malt
+beverages at retail on or off the premises of a licensee or permittee, and on-site managers
+and any persons providing on-site security services successfully complete an alcohol
+training program as approved by the Wyoming Liquor Division pursuant to state law and
+the division's rules and regulations. Program participants must successfully complete the
+program within ninety (90) days of employment or initial date of providing services.
+
+• Maintain, upon the business premises, a current list of bona fide employees, volunteers,
+on-site managers and any persons providing on-site security services; date of hire/service;
+dates of orientation training and successful completion of the approved training program,
+including any required continuing training. The list shall be available for inspection by
+law enforcement personnel.
+
+• Prohibit sales to and consumption by persons under the legal drinking age within the
+licensed or permitted building or authorized areas of service.
+
+• Report to local law enforcement by the licensee, permittee, employee, volunteer, on-site
+manager, agents or any persons providing on-site security services, any incidents upon
+the premises requiring law enforcement response services. Immediate notification to the
+police department shall be provided when any criminal or illegal activity occurs or is
+observed in or upon the licensee's or permittee's property involving the licensed building
+and adjoining property affiliated with the sale or consumption of alcoholic liquor and
+malt beverages, including the reporting of any assault, aggravated assault, or assault and
+battery.
+18223854_v1
+```
