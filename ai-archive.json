@@ -1,0 +1,12 @@
+{
+  "schema": "public-ai-archive-publication-v1",
+  "export_revision": "b65aec0e1f1628ed86e2732af85840ba47fbdf05",
+  "export_version": "ab38814aa3172e2efc23",
+  "base_url": "https://raw.githubusercontent.com/bartimoussmith-oss/civic-newsroom-data-001/b65aec0e1f1628ed86e2732af85840ba47fbdf05/ai-archives/ab38814aa3172e2efc23/",
+  "index_url": "https://raw.githubusercontent.com/bartimoussmith-oss/civic-newsroom-data-001/b65aec0e1f1628ed86e2732af85840ba47fbdf05/ai-archives/ab38814aa3172e2efc23/index.md",
+  "collection_url": "https://raw.githubusercontent.com/bartimoussmith-oss/civic-newsroom-data-001/b65aec0e1f1628ed86e2732af85840ba47fbdf05/ai-archives/ab38814aa3172e2efc23/collection.json",
+  "collection_sha256": "71ce4e691b3dada1c3d5ecb207253fa958f80a34da76cf54d42b4a10f201d012",
+  "records": 6065,
+  "source_dataset_revision": "2465245db04551c42f748a85fc151b869d246649",
+  "full_historical_coverage": false
+}
