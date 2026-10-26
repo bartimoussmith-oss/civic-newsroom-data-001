@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "6b61281904ae6d7da5cbb04c448a6012d8fdb33e4666d64ec5f89d2093b5fb91",
+  "title": "Minutes for Special Meeting 1-28-2013",
+  "text_path": "records/6b61281904ae6d7da5cbb04c448a6012d8fdb33e4666d64ec5f89d2093b5fb91.md",
+  "representation_sha256": "a75aa4483be362e0702e9ebfad122f9372158456387722bb480461f949f5bc2e",
+  "bytes": 6160,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-02-11/minutes-for-special-meeting-1-28-2013.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

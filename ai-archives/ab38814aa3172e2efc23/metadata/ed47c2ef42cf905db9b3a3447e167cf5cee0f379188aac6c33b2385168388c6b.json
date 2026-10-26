@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "ed47c2ef42cf905db9b3a3447e167cf5cee0f379188aac6c33b2385168388c6b",
+  "title": "Proposed Revised Maps",
+  "text_path": "records/ed47c2ef42cf905db9b3a3447e167cf5cee0f379188aac6c33b2385168388c6b.md",
+  "representation_sha256": "15c79b34d3dd477dcd5895d3fdebff1221e0cf6d263dde471f3957bc1be4ea4e",
+  "bytes": 9308,
+  "year_path_label": "2017",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2017/city-council-2017-10-09/proposed-revised-maps.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

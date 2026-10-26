@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "f6f561ab41dfac80d9c86df0492c6eb5124b72212488bf8de9eed0d9f84089d2",
+  "title": "Laramie County Community Partnership - Centralized - Laramie County Community Partnership - Centralized Pharmacy",
+  "text_path": "records/f6f561ab41dfac80d9c86df0492c6eb5124b72212488bf8de9eed0d9f84089d2.md",
+  "representation_sha256": "d8fb1e705be7e4e4128a10cd0578f8166bff181f24b89bf1f2d057a23180781c",
+  "bytes": 3609,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-05-24/laramie-county-community-partnership-centralized-laramie-county-commun.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

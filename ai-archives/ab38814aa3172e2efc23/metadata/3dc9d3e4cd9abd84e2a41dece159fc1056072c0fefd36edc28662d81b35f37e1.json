@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "3dc9d3e4cd9abd84e2a41dece159fc1056072c0fefd36edc28662d81b35f37e1",
+  "title": "Caption transcript: Finance Committee — Tuesday, January 17, 2023",
+  "text_path": "records/3dc9d3e4cd9abd84e2a41dece159fc1056072c0fefd36edc28662d81b35f37e1.md",
+  "representation_sha256": "22468648d7c170e89bfa5e1f4073a11d4ab8f8e6f4cb416fa44074243016354d",
+  "bytes": 40439,
+  "year_path_label": "2023",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2023/finance-committee-2023-01-17/captions.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

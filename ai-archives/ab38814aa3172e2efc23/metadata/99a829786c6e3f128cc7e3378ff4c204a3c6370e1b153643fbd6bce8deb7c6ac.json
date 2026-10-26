@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "99a829786c6e3f128cc7e3378ff4c204a3c6370e1b153643fbd6bce8deb7c6ac",
+  "title": "Licensee Actions for 2010-2011 Term",
+  "text_path": "records/99a829786c6e3f128cc7e3378ff4c204a3c6370e1b153643fbd6bce8deb7c6ac.md",
+  "representation_sha256": "ff38296f6bdde229bd4b272b4b6adf1802317f78a30626f0effbe0900e18dcac",
+  "bytes": 3729,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-02-28/licensee-actions-for-2010-2011-term.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "25be33b77badae2d15a879166ac58e44ca33d0d331d007bac29d820d2e7139a0",
+  "title": "Proposed Substitute",
+  "text_path": "records/25be33b77badae2d15a879166ac58e44ca33d0d331d007bac29d820d2e7139a0.md",
+  "representation_sha256": "9e232fc0572c452431316158e88ecf27aa71a563258e999aa21333617e4dc1e3",
+  "bytes": 7430,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-01-25/proposed-substitute.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

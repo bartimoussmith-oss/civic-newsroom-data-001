@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "635524375ef512292c19a07200835bcf793661fd749bc86334b5987a6172c745",
+  "title": "Memorandum of Agreement",
+  "text_path": "records/635524375ef512292c19a07200835bcf793661fd749bc86334b5987a6172c745.md",
+  "representation_sha256": "f2481caf1c85718996e6e43e301d695ae5b673dddccffd81beb4e78b47cfa7b7",
+  "bytes": 4373,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-11-14/memorandum-of-agreement.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

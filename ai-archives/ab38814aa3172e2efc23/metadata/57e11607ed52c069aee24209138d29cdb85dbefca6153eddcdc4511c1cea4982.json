@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "57e11607ed52c069aee24209138d29cdb85dbefca6153eddcdc4511c1cea4982",
+  "title": "Warranty Deed",
+  "text_path": "records/57e11607ed52c069aee24209138d29cdb85dbefca6153eddcdc4511c1cea4982.md",
+  "representation_sha256": "db6f2f616fd20d76ab17966dd1a93152e0cd33c27f8c5a04bd48472df5e7ef70",
+  "bytes": 4217,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-10-28/warranty-deed.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

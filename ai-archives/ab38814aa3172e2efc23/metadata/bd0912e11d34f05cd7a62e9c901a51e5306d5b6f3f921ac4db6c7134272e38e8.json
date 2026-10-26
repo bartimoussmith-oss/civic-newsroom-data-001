@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "bd0912e11d34f05cd7a62e9c901a51e5306d5b6f3f921ac4db6c7134272e38e8",
+  "title": "Freedom’s Edge Brewing Co., LLC Supporting Documen - Freedom’s Edge Brewing Co., LLC Supporting Documents",
+  "text_path": "records/bd0912e11d34f05cd7a62e9c901a51e5306d5b6f3f921ac4db6c7134272e38e8.md",
+  "representation_sha256": "54469beafb53f40808eb4cab446abe38dbb92865d3ed49168d3b12dc42eeb4ec",
+  "bytes": 40595,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-04-14/freedom-s-edge-brewing-co-llc-supporting-documen-freedom-s-edge-brewin.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

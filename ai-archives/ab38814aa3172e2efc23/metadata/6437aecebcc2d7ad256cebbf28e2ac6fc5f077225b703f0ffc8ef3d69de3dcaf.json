@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "6437aecebcc2d7ad256cebbf28e2ac6fc5f077225b703f0ffc8ef3d69de3dcaf",
+  "title": "Ordinance",
+  "text_path": "records/6437aecebcc2d7ad256cebbf28e2ac6fc5f077225b703f0ffc8ef3d69de3dcaf.md",
+  "representation_sha256": "a6ed7e2d8151a98338a6d516835f4f32886b98138750b6c59e01118a6f589258",
+  "bytes": 20977,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-05-13/ordinance.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

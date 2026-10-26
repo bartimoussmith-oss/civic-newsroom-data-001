@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "aed0b50349e4aff0658e66fdd0ea16cac4d5292de6bbdfd1a804d0c3825d9c01",
+  "title": "Agreement to Sell and Purchase Real Property",
+  "text_path": "records/aed0b50349e4aff0658e66fdd0ea16cac4d5292de6bbdfd1a804d0c3825d9c01.md",
+  "representation_sha256": "a0b7d5027173b657398d614863c2b0a596a8096f2e9e8945ba59735af880512e",
+  "bytes": 24992,
+  "year_path_label": "2016",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2016/city-council-2016-08-22/agreement-to-sell-and-purchase-real-property.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

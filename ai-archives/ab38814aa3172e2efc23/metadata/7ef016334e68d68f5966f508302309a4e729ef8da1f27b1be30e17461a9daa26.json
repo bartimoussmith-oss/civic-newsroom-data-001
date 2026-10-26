@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "7ef016334e68d68f5966f508302309a4e729ef8da1f27b1be30e17461a9daa26",
+  "title": "Proposed Revised Map and Staff Cond. 10-18-16",
+  "text_path": "records/7ef016334e68d68f5966f508302309a4e729ef8da1f27b1be30e17461a9daa26.md",
+  "representation_sha256": "2832036bd382134d3ce9d45fad9a386240d76a5c5395c854731bab9cc9310739",
+  "bytes": 11531,
+  "year_path_label": "2016",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2016/city-council-2016-10-24/proposed-revised-map-and-staff-cond-10-18-16.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

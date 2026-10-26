@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "2e637b5a1e6bd7ede823e3679b9f9fa2106cde46e90e3519ece2f00b8e64d569",
+  "title": "Amended Document",
+  "text_path": "records/2e637b5a1e6bd7ede823e3679b9f9fa2106cde46e90e3519ece2f00b8e64d569.md",
+  "representation_sha256": "a75f4e9ad44fc7dd3c0ad431bc0a592a9446aad62c564f3e23adc8c04265182e",
+  "bytes": 4106,
+  "year_path_label": "2017",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2017/city-council-2017-06-12/amended-document.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "2d2caeef049807a3818b49b2784aba0d4bf3323ced733a6625301180bd917fa9",
+  "title": "May 14, 2012 941 Payment",
+  "text_path": "records/2d2caeef049807a3818b49b2784aba0d4bf3323ced733a6625301180bd917fa9.md",
+  "representation_sha256": "ca9f289d9f7ca87b4db263f8c9a3fcfc2f6ceaca0666f6d8c942f961e6b5a61a",
+  "bytes": 2554,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-05-14/may-14-2012-941-payment.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

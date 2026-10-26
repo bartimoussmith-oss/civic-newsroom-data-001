@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "b45d2bda502c8527bdbb7b151d86d6fedd2a6ec77fb3af202c58938c10843d98",
+  "title": "Public Services Committee — Wednesday, June 22, 2022",
+  "text_path": "records/b45d2bda502c8527bdbb7b151d86d6fedd2a6ec77fb3af202c58938c10843d98.md",
+  "representation_sha256": "7627fc65300de5f5977c6c7c869f15ccf97cf52db05295f20a2dc85fd05be6b4",
+  "bytes": 1714,
+  "year_path_label": "2022",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "meetings/2022/public-services-committee-2022-06-22.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

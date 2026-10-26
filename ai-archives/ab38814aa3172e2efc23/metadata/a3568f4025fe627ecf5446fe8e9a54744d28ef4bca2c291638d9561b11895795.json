@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "a3568f4025fe627ecf5446fe8e9a54744d28ef4bca2c291638d9561b11895795",
+  "title": "Proposed amended Specifications",
+  "text_path": "records/a3568f4025fe627ecf5446fe8e9a54744d28ef4bca2c291638d9561b11895795.md",
+  "representation_sha256": "99da61953850c674ad344beab6e4ae18b36d39adb1951288b26343dee7963035",
+  "bytes": 4898,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-03-10/proposed-amended-specifications.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

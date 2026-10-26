@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d09b6a5092e59b45e4221bf507e7a58b4e738372eb62913d0b01479151ac4069",
+  "title": "Map of Survey",
+  "text_path": "records/d09b6a5092e59b45e4221bf507e7a58b4e738372eb62913d0b01479151ac4069.md",
+  "representation_sha256": "bc1f5e281eab9b3da1ab369ed0c00fb8b956882b4877f1acdf0fa544cb7a74a9",
+  "bytes": 4178,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-04-11/map-of-survey.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

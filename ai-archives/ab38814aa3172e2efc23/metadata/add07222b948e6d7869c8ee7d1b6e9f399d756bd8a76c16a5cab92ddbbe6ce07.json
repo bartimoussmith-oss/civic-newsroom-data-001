@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "add07222b948e6d7869c8ee7d1b6e9f399d756bd8a76c16a5cab92ddbbe6ce07",
+  "title": "June 11, 2012 Def. Comp and 941 Dep.",
+  "text_path": "records/add07222b948e6d7869c8ee7d1b6e9f399d756bd8a76c16a5cab92ddbbe6ce07.md",
+  "representation_sha256": "560ae7327444b27cd2d74ae59e24600db220bf7e18422eb349cf862216055296",
+  "bytes": 2572,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-06-11/june-11-2012-def-comp-and-941-dep.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

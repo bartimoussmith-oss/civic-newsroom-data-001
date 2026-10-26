@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "9b932c5b5c5809f525220519fc065a4002205e9c463876dff34c150631c9276e",
+  "title": "Dec. 12, 2011 Cheyenne Stampede Payment forTicket - Dec. 12, 2011 Cheyenne Stampede Payment forTicket Sales",
+  "text_path": "records/9b932c5b5c5809f525220519fc065a4002205e9c463876dff34c150631c9276e.md",
+  "representation_sha256": "2da241e0f9c37c2a3ef466486fc1a69a33a8b21f6bee8f25eafeff17f7c90ba7",
+  "bytes": 2396,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-12-12/dec-12-2011-cheyenne-stampede-payment-forticket-dec-12-2011-cheyenne-s.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

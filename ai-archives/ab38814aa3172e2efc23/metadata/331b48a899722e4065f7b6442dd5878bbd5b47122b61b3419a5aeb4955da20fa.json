@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "331b48a899722e4065f7b6442dd5878bbd5b47122b61b3419a5aeb4955da20fa",
+  "title": "Exhibit A-2 MOL",
+  "text_path": "records/331b48a899722e4065f7b6442dd5878bbd5b47122b61b3419a5aeb4955da20fa.md",
+  "representation_sha256": "00ee99dd2190e2fb04861d1193eed889f798099804cb317115f76e86f7b85d65",
+  "bytes": 2461,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-07-11/exhibit-a-2-mol.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

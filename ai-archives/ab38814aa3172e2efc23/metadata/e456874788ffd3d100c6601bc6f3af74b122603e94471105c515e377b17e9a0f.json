@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "e456874788ffd3d100c6601bc6f3af74b122603e94471105c515e377b17e9a0f",
+  "title": "Wyoming Senior Citizens, Inc.",
+  "text_path": "records/e456874788ffd3d100c6601bc6f3af74b122603e94471105c515e377b17e9a0f.md",
+  "representation_sha256": "15ef34831864358a28cbbce8d97efcc857b54540ca6f6367b41ad4c34f2b91f1",
+  "bytes": 13453,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-10-10/wyoming-senior-citizens-inc.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "3e9ac94b0aaf9af630782ee3c62327c3aa32738b61b75769aec1af0ad13db6aa",
+  "title": "Supporting Document - DDA Plan - Supporting Document - DDA Plan",
+  "text_path": "records/3e9ac94b0aaf9af630782ee3c62327c3aa32738b61b75769aec1af0ad13db6aa.md",
+  "representation_sha256": "42dda11905796695bca2ac1dfccb0b0e27a53596d00d9c1819d937b7d1fc51c1",
+  "bytes": 1893,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-04-11/supporting-document-dda-plan-supporting-document-dda-plan.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

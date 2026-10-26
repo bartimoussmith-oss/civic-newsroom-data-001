@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "526063caf0a6f5a5d9176007a425eea7459d3158d22c12ed7a71e9541b3596c9",
+  "title": "Agenda",
+  "text_path": "records/526063caf0a6f5a5d9176007a425eea7459d3158d22c12ed7a71e9541b3596c9.md",
+  "representation_sha256": "6bb5d7b5ef7ce144e2e76f100f4e42cd9eea2d9f0cee0aefddd3fe7918694faf",
+  "bytes": 2970,
+  "year_path_label": "2025",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2025/planning-commission-2025-01-23/agenda.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

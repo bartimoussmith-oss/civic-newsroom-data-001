@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "6a7e66890ad057452326e0b7c31be9ad2f2247782eed7904c3783691298a88a3",
+  "title": "Cheyenne Health and Wellness Center - Healthcare S - Cheyenne Health and Wellness Center - Healthcare Service",
+  "text_path": "records/6a7e66890ad057452326e0b7c31be9ad2f2247782eed7904c3783691298a88a3.md",
+  "representation_sha256": "bbf2f2010587a76d31879498ac92a51432cc47e174fea81f7f47b593e183027d",
+  "bytes": 13327,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-10-10/cheyenne-health-and-wellness-center-healthcare-s-cheyenne-health-and-w.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

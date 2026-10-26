@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "cd0b7e7d5f11e5aec9a87143f33636fa6a905855598cbbd4e8d17bb20d9775f5",
+  "title": "Summary of Changes",
+  "text_path": "records/cd0b7e7d5f11e5aec9a87143f33636fa6a905855598cbbd4e8d17bb20d9775f5.md",
+  "representation_sha256": "9634e2b0c2825c25bd2ad781cf5d5d8c88e0433843d5f89468bf5eb835df744b",
+  "bytes": 9996,
+  "year_path_label": "2016",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2016/city-council-2016-02-08/summary-of-changes.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

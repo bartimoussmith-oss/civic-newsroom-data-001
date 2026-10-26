@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "68aefaa3583d332cd407311faed5d36fa13b5549864ac2c956cd188a7ba4ba13",
+  "title": "May 13, 2013 Minutes",
+  "text_path": "records/68aefaa3583d332cd407311faed5d36fa13b5549864ac2c956cd188a7ba4ba13.md",
+  "representation_sha256": "90acb6da9b34498c7fba1202abea797dbbf4a1bbeafba14b3d0a206f7182ad2e",
+  "bytes": 14149,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-05-28/may-13-2013-minutes.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

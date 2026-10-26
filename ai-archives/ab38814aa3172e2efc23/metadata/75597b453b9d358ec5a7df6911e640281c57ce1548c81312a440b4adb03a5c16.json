@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "75597b453b9d358ec5a7df6911e640281c57ce1548c81312a440b4adb03a5c16",
+  "title": "Meals on Wheels of Cheyenne, Inc.",
+  "text_path": "records/75597b453b9d358ec5a7df6911e640281c57ce1548c81312a440b4adb03a5c16.md",
+  "representation_sha256": "1159db42248f0fb93b2652abbf25f8cfd821b22c789d95a32230f9dbb6db5423",
+  "bytes": 3402,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-05-24/meals-on-wheels-of-cheyenne-inc.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

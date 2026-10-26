@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "3994d354d811fdf2da2111aa71f9c3cfbb599a31b94a83462ba14effae862136",
+  "title": "Cheyenne Health and Wellness-Human Service Eligibi - Cheyenne Health and Wellness-Human Service Eligibility",
+  "text_path": "records/3994d354d811fdf2da2111aa71f9c3cfbb599a31b94a83462ba14effae862136.md",
+  "representation_sha256": "8eaf008ab62d6110095b4521b3e01f2d561252125d435b859cc65c0ce1bb4ba0",
+  "bytes": 3577,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-05-24/cheyenne-health-and-wellness-human-service-eligibi-cheyenne-health-and.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

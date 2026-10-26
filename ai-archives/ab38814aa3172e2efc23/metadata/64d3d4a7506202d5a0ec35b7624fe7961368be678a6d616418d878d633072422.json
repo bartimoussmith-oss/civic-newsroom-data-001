@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "64d3d4a7506202d5a0ec35b7624fe7961368be678a6d616418d878d633072422",
+  "title": "Parsley Blvd Corridor Study (large file), part 1 of 3",
+  "text_path": "records/64d3d4a7506202d5a0ec35b7624fe7961368be678a6d616418d878d633072422.md",
+  "representation_sha256": "b2c16c6152861c6945048cc281dab6516cf657b536fdcd960cb83088b1861277",
+  "bytes": 149069,
+  "year_path_label": "2019",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2019/city-council-2019-08-12/parsley-blvd-corridor-study-large-file.part1.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

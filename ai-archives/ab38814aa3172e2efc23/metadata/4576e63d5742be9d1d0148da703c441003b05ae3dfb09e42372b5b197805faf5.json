@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "4576e63d5742be9d1d0148da703c441003b05ae3dfb09e42372b5b197805faf5",
+  "title": "Final Plat for Thomas Hills preplat Map",
+  "text_path": "records/4576e63d5742be9d1d0148da703c441003b05ae3dfb09e42372b5b197805faf5.md",
+  "representation_sha256": "33d828637a45d3851af8476d0199cd8eb26c7f83d14fc6b19f3906eb2f4240cc",
+  "bytes": 2219,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-09-14/final-plat-for-thomas-hills-preplat-map.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

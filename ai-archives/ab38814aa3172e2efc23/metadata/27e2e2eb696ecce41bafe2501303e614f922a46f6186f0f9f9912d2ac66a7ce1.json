@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "27e2e2eb696ecce41bafe2501303e614f922a46f6186f0f9f9912d2ac66a7ce1",
+  "title": "Sept. 26 Manual Check 1",
+  "text_path": "records/27e2e2eb696ecce41bafe2501303e614f922a46f6186f0f9f9912d2ac66a7ce1.md",
+  "representation_sha256": "c5cbef816c424da41b894a6fb3703fb2cbda0faaaed6ad7e8d6ab410496b23bb",
+  "bytes": 2450,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-09-26/sept-26-manual-check-1.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

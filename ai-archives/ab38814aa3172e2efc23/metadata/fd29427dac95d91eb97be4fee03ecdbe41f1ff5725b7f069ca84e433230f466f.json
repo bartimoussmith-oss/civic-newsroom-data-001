@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "fd29427dac95d91eb97be4fee03ecdbe41f1ff5725b7f069ca84e433230f466f",
+  "title": "Supplemental Document - Resolution - Supplemental Document - Resolution",
+  "text_path": "records/fd29427dac95d91eb97be4fee03ecdbe41f1ff5725b7f069ca84e433230f466f.md",
+  "representation_sha256": "1eefb8f3ac5387b1396fbfadabe871ec3d270434773b242c15732584beb95df7",
+  "bytes": 3773,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-05-28/supplemental-document-resolution-supplemental-document-resolution.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "a68ef74e4bb8d9959e2fcc59c067e0975a1b27fa25ca26cc504a03bbc83711c1",
+  "title": "Ordinance Information",
+  "text_path": "records/a68ef74e4bb8d9959e2fcc59c067e0975a1b27fa25ca26cc504a03bbc83711c1.md",
+  "representation_sha256": "560ed7573ba6e05a766df98971cdbb4116caee91ad522880de686b51d7e64a67",
+  "bytes": 22958,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-08-26/ordinance-information.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

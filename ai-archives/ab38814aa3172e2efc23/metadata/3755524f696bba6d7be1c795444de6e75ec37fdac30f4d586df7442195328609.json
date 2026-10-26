@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "3755524f696bba6d7be1c795444de6e75ec37fdac30f4d586df7442195328609",
+  "title": "Payable May 26, 2015",
+  "text_path": "records/3755524f696bba6d7be1c795444de6e75ec37fdac30f4d586df7442195328609.md",
+  "representation_sha256": "bffc486f733e0306f3c53091bc595e7aa9a132c810397220b102b5f14dd77518",
+  "bytes": 1630,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-05-26/payable-may-26-2015.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

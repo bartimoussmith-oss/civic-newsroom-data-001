@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "04eaf6b5ddad867bba5cd0d2cfdf2dc38dac41dc2fa92a85fc86d0034eb9b3c0",
+  "title": "Agreement",
+  "text_path": "records/04eaf6b5ddad867bba5cd0d2cfdf2dc38dac41dc2fa92a85fc86d0034eb9b3c0.md",
+  "representation_sha256": "91ea509ca229f8dc7bc9a42521e5f96c1dd52958bff77e61a239160f56517b6d",
+  "bytes": 12591,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-08-26/agreement.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

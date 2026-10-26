@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "91093c076054f1c7cec8b0311e58b9720d6caff77dad6daf278b07acadc1bb60",
+  "title": "Revised Map",
+  "text_path": "records/91093c076054f1c7cec8b0311e58b9720d6caff77dad6daf278b07acadc1bb60.md",
+  "representation_sha256": "f646fa3b295876548597128f818f72684fb0e124ba051e123b23fa3244013cf8",
+  "bytes": 2305,
+  "year_path_label": "2019",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2019/city-council-2019-01-28/revised-map.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

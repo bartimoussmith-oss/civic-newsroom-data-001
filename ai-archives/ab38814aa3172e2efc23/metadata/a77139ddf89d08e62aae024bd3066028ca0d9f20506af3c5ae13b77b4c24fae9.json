@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "a77139ddf89d08e62aae024bd3066028ca0d9f20506af3c5ae13b77b4c24fae9",
+  "title": "Transcript: Cheyenne City Council Work Session — June 6, 2026 (Cheyenne Data Center Panel) (date not published)",
+  "text_path": "records/a77139ddf89d08e62aae024bd3066028ca0d9f20506af3c5ae13b77b4c24fae9.md",
+  "representation_sha256": "40bebf5c855fa31cad4c996a1d2eaa6de4e9b9e51356f7405cc67ebd44bee1db",
+  "bytes": 1192,
+  "year_path_label": "2026",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2026/undated/2026-06-06-data-center-panel.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

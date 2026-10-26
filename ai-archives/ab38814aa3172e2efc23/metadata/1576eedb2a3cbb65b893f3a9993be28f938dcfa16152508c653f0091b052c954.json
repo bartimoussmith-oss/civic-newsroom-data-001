@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "1576eedb2a3cbb65b893f3a9993be28f938dcfa16152508c653f0091b052c954",
+  "title": "Caption transcript: City Council — Monday, February 11, 2019",
+  "text_path": "records/1576eedb2a3cbb65b893f3a9993be28f938dcfa16152508c653f0091b052c954.md",
+  "representation_sha256": "5b2e1de3f95fdb3456b4a444c917cfdfae82a40db088d2db774dbdf0612d1692",
+  "bytes": 72753,
+  "year_path_label": "2019",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2019/city-council-2019-02-11/captions.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

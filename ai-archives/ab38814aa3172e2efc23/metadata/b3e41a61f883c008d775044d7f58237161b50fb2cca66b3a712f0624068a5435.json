@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "b3e41a61f883c008d775044d7f58237161b50fb2cca66b3a712f0624068a5435",
+  "title": "Supporting Document Quick Fixes Report",
+  "text_path": "records/b3e41a61f883c008d775044d7f58237161b50fb2cca66b3a712f0624068a5435.md",
+  "representation_sha256": "33557a6996b8be396a34a061bc081dbeb9f547ab7ad9979be1b2a564d79883d3",
+  "bytes": 15598,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/supporting-document-quick-fixes-report.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

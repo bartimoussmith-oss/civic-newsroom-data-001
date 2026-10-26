@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "fbb469bbb0eaa1360dd0c1ae4b6cb9e0a0fce6864d1981374496f682b40d6f4e",
+  "title": "Oct. 8 Payroll Payable 6",
+  "text_path": "records/fbb469bbb0eaa1360dd0c1ae4b6cb9e0a0fce6864d1981374496f682b40d6f4e.md",
+  "representation_sha256": "9f29329abc76d0991ee8a8aa0dec2dfb5ba2aad1bb9f7c2caedbea4e12d51327",
+  "bytes": 1994,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-10-08/oct-8-payroll-payable-6.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

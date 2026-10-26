@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "272589a02e053fc0fb90bd535f23f65b4c3dd874e7916997187046f90759ed25",
+  "title": "Dec. 20, 2012 Minutes",
+  "text_path": "records/272589a02e053fc0fb90bd535f23f65b4c3dd874e7916997187046f90759ed25.md",
+  "representation_sha256": "5028b6a46156b0c0ca49c452dd32246bab6a835a17ad08f1bdab6d11ed6ab87a",
+  "bytes": 34180,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-01-14/dec-20-2012-minutes.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

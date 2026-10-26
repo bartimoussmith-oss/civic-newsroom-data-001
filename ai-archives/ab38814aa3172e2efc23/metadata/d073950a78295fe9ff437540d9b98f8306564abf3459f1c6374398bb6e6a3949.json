@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d073950a78295fe9ff437540d9b98f8306564abf3459f1c6374398bb6e6a3949",
+  "title": "Aug. 8, 2011 Manual Payable",
+  "text_path": "records/d073950a78295fe9ff437540d9b98f8306564abf3459f1c6374398bb6e6a3949.md",
+  "representation_sha256": "554b64e64e93760bf022d3c5a35f6e1ff92afcbe1af36bba9805bc71ddbeca72",
+  "bytes": 2113,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-08-08/aug-8-2011-manual-payable.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

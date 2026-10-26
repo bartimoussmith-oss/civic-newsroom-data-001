@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "5d771010e9f7e08e6f8b8ef1053148bfb321400562ce94efcd6722f80be7e55e",
+  "title": "Payable Listing April 8, 2013",
+  "text_path": "records/5d771010e9f7e08e6f8b8ef1053148bfb321400562ce94efcd6722f80be7e55e.md",
+  "representation_sha256": "24aba7b96553ce2065b918e55aafa8a29cc1f2fdee6db22fa27e49c7291b8e72",
+  "bytes": 60939,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-04-08/payable-listing-april-8-2013.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

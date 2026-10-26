@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "64bf78b806663a8a4881a0558428705e057be5fa3393c398f87e3314e0b390a3",
+  "title": "Plan with Appendixes, part 1 of 5",
+  "text_path": "records/64bf78b806663a8a4881a0558428705e057be5fa3393c398f87e3314e0b390a3.md",
+  "representation_sha256": "59694a7ff2f391db72efece8c407e9c78fd7f3797ad1a6d41077ffa3e4b55487",
+  "bytes": 149340,
+  "year_path_label": "2025",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2025/city-council-2025-03-11/plan-with-appendixes.part1.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

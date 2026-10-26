@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "8e1ba393850ddc219be086e6bc39e6dca49da8482a3a832e433dda60c636470d",
+  "title": "Proposed Substitute Ordinance",
+  "text_path": "records/8e1ba393850ddc219be086e6bc39e6dca49da8482a3a832e433dda60c636470d.md",
+  "representation_sha256": "b849fb139e5895ff788a417873e4c578d65f2b1c407e8b3852325bed74b50a8d",
+  "bytes": 45964,
+  "year_path_label": "2017",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2017/city-council-2017-06-26/proposed-substitute-ordinance.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

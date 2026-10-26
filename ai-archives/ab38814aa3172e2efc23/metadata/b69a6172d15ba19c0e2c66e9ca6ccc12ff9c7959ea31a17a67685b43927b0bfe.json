@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "b69a6172d15ba19c0e2c66e9ca6ccc12ff9c7959ea31a17a67685b43927b0bfe",
+  "title": "Needs, Inc.",
+  "text_path": "records/b69a6172d15ba19c0e2c66e9ca6ccc12ff9c7959ea31a17a67685b43927b0bfe.md",
+  "representation_sha256": "4207e01ddd24d6e0b247105a2ea729df5685d17d9e9d922fc80d8ef31c1b3126",
+  "bytes": 13019,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-10-10/needs-inc.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

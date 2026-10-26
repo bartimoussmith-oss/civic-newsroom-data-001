@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "1ea05a26933593301ae0885fcd5d8fded17352e61e49cbe56189c6312fe59063",
+  "title": "Reappropriation Backup FY2014",
+  "text_path": "records/1ea05a26933593301ae0885fcd5d8fded17352e61e49cbe56189c6312fe59063.md",
+  "representation_sha256": "7411e94dcc188c5701622a6237a9778999639c3b40cb3f805675528059afcc56",
+  "bytes": 1856,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/reappropriation-backup-fy2014.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

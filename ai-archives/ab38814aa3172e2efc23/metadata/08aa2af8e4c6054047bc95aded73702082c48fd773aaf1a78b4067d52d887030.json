@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "08aa2af8e4c6054047bc95aded73702082c48fd773aaf1a78b4067d52d887030",
+  "title": "OC Cheyenne, LLC Backup Documents",
+  "text_path": "records/08aa2af8e4c6054047bc95aded73702082c48fd773aaf1a78b4067d52d887030.md",
+  "representation_sha256": "405a1fe8054f292d8f42dac67ca748f129e38f4bbc061de15f80cfd999c3d35c",
+  "bytes": 31929,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-11-25/oc-cheyenne-llc-backup-documents.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

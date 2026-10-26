@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "e350499b29be99a0100a9cd055c9625588abfc6e6ec6337cc09d1d363d565ece",
+  "title": "Additional Documents, Staff Report",
+  "text_path": "records/e350499b29be99a0100a9cd055c9625588abfc6e6ec6337cc09d1d363d565ece.md",
+  "representation_sha256": "09aca0b8c78d601b71ba130b42e30f53f681b4e89c761e16c425d61ae9e595c2",
+  "bytes": 22922,
+  "year_path_label": "2023",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2023/city-council-2023-01-09/additional-documents-staff-report.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

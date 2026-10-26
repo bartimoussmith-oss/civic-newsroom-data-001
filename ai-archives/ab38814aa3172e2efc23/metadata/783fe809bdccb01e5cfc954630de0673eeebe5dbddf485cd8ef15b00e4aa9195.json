@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "783fe809bdccb01e5cfc954630de0673eeebe5dbddf485cd8ef15b00e4aa9195",
+  "title": "Substitute Consent to Lien to Railroad Track Const - Substitute Consent to Lien to Railroad Track Construction",
+  "text_path": "records/783fe809bdccb01e5cfc954630de0673eeebe5dbddf485cd8ef15b00e4aa9195.md",
+  "representation_sha256": "17c7292a698da9bdba72c6f1961e787d5b83200cb658e6831f6ef7a862deb8d9",
+  "bytes": 7666,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-05-27/substitute-consent-to-lien-to-railroad-track-const-substitute-consent.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

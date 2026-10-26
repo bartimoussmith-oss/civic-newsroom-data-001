@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "8aa5af08ba99b5f3a07e62a65458efed290dde82a36aecf7609bcc48442ccea7",
+  "title": "Finance Committee — Tuesday, June 3, 2025",
+  "text_path": "records/8aa5af08ba99b5f3a07e62a65458efed290dde82a36aecf7609bcc48442ccea7.md",
+  "representation_sha256": "981403f5a39ecb59ceaeb2c50430357e4fcd838c55c44b8b14c56806f6518388",
+  "bytes": 2620,
+  "year_path_label": "2025",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "meetings/2025/finance-committee-2025-06-03.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

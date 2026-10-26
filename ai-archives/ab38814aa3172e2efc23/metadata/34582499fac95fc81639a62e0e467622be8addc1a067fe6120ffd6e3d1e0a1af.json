@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "34582499fac95fc81639a62e0e467622be8addc1a067fe6120ffd6e3d1e0a1af",
+  "title": "Resolution Settlement Agmt",
+  "text_path": "records/34582499fac95fc81639a62e0e467622be8addc1a067fe6120ffd6e3d1e0a1af.md",
+  "representation_sha256": "cc11ba794d56045ff5b53c6e6d807d103087f1ca61be6a45bdb1f9633efa40a1",
+  "bytes": 36193,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/resolution-settlement-agmt.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

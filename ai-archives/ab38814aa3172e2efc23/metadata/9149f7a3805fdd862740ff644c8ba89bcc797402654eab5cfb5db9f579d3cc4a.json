@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "9149f7a3805fdd862740ff644c8ba89bcc797402654eab5cfb5db9f579d3cc4a",
+  "title": "Agreement with Recco, Inc.",
+  "text_path": "records/9149f7a3805fdd862740ff644c8ba89bcc797402654eab5cfb5db9f579d3cc4a.md",
+  "representation_sha256": "5ad153114457f406f3f59439b62220236c8e9b235c238766776ba86c960cef56",
+  "bytes": 151490,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-07-28/agreement-with-recco-inc.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "0847f20c0f4d613b09c4162746490cae9581f1600593b084823c0cc7a77be38f",
+  "title": "Minutes July 22, 2013",
+  "text_path": "records/0847f20c0f4d613b09c4162746490cae9581f1600593b084823c0cc7a77be38f.md",
+  "representation_sha256": "48e0ea58073f1d0d8ac67307a8e93295ec2ef169995e020faaa7942c566a426e",
+  "bytes": 36841,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-08-12/minutes-july-22-2013.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

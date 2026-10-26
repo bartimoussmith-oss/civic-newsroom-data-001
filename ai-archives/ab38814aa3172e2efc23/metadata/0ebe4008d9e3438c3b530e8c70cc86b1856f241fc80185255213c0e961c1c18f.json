@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "0ebe4008d9e3438c3b530e8c70cc86b1856f241fc80185255213c0e961c1c18f",
+  "title": "Exhibit B - Schedule - Exhibit B - Schedule",
+  "text_path": "records/0ebe4008d9e3438c3b530e8c70cc86b1856f241fc80185255213c0e961c1c18f.md",
+  "representation_sha256": "18909b83f7fc8081322d83a39219025c80bb5eb28fa443385abaf4d243055c71",
+  "bytes": 2818,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-11-14/exhibit-b-schedule-exhibit-b-schedule.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

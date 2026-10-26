@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "5a04ca3e7cf302af4fbdc412484efe2256ea53afd3a02941cd6b4f9199ab44d0",
+  "title": "Backup PlanCheyenne Community Plan for City of Che - Backup PlanCheyenne Community Plan for City of Cheyenne (Large Document), part 3 of 3",
+  "text_path": "records/5a04ca3e7cf302af4fbdc412484efe2256ea53afd3a02941cd6b4f9199ab44d0.md",
+  "representation_sha256": "f13a2c250cab46475a17af3cad441cffabac2e3d77c6f111b34f9b546260ba3a",
+  "bytes": 133324,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-02-24/backup-plancheyenne-community-plan-for-city-of-che-backup-plancheyenne.part3.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

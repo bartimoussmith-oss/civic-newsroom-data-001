@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "43b8cc931d7b85dab893400bf59dbc73e3ee5e54ee2d32110c95e72fbff6ecf3",
+  "title": "Proposed Substitute Guidelines",
+  "text_path": "records/43b8cc931d7b85dab893400bf59dbc73e3ee5e54ee2d32110c95e72fbff6ecf3.md",
+  "representation_sha256": "29d0d7e3dd81d607e396a3fd924e9dc38af3f3a965e2d82e03843d4f9ef68f58",
+  "bytes": 4690,
+  "year_path_label": "2021",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2021/city-council-2021-10-11/proposed-substitute-guidelines.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

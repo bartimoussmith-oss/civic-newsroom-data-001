@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "7d983844146c84939663df0d640f775f1558533f02b1f105e02825a8f10f7910",
+  "title": "September 12, 2011 Workers Comp Payable",
+  "text_path": "records/7d983844146c84939663df0d640f775f1558533f02b1f105e02825a8f10f7910.md",
+  "representation_sha256": "7b88fa58882ff0cf5f36d5565882f7e608c1b5239e72901da1700ece6d03971f",
+  "bytes": 2187,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-09-12/september-12-2011-workers-comp-payable.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

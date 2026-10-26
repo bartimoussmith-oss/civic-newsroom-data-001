@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "38d92bff58154ee08962ce20e54571a13b64785a4adf6e4a76a9b153e31ac3a5",
+  "title": "Contract with Cheyenne Stampede Junior A Hockey - Contract with Cheyenne Stampede Junior A Hockey",
+  "text_path": "records/38d92bff58154ee08962ce20e54571a13b64785a4adf6e4a76a9b153e31ac3a5.md",
+  "representation_sha256": "ecf68b70ab440db6b895986a51dc6ace31d481a6c5a469e878d36c4c8ea6024f",
+  "bytes": 29047,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/contract-with-cheyenne-stampede-junior-a-hockey-contract-with-cheyenne.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "f3be63af9cd1c39de23023b4ddb7314606612d34bd22bf8bb0dd96dacd7b40e5",
+  "title": "May 9, 2011 Payable for Kennison’s Catering",
+  "text_path": "records/f3be63af9cd1c39de23023b4ddb7314606612d34bd22bf8bb0dd96dacd7b40e5.md",
+  "representation_sha256": "57939f51a2ba8def42dd65a8111bb2bb00b0e5d4bc2f808b5281624175665fab",
+  "bytes": 2408,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-05-09/may-9-2011-payable-for-kennison-s-catering.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

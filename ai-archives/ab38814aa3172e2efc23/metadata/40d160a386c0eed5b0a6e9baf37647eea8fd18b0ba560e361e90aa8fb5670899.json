@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "40d160a386c0eed5b0a6e9baf37647eea8fd18b0ba560e361e90aa8fb5670899",
+  "title": "city-council-work-session 12122025",
+  "text_path": "records/40d160a386c0eed5b0a6e9baf37647eea8fd18b0ba560e361e90aa8fb5670899.md",
+  "representation_sha256": "b8ce75ac39ddff5c4ae48b286a025e2d81ba237ea600e2a661c1e0e73031df3f",
+  "bytes": 28205,
+  "year_path_label": "2025",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2025/work-sessions-2025-12-12/city-council-work-session-12122025.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

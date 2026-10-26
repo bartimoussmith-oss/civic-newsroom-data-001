@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "da297988156b2bafa757949700f2986558aa5c5c744cf991cbcf1b19a6396b0d",
+  "title": "Plan (large file)",
+  "text_path": "records/da297988156b2bafa757949700f2986558aa5c5c744cf991cbcf1b19a6396b0d.md",
+  "representation_sha256": "4f496adce0153e99206aa7a34860798b5c43aa06b9cde4fa8f4c8844955dc3f6",
+  "bytes": 1677,
+  "year_path_label": "2016",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2016/city-council-2016-06-13/plan-large-file.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

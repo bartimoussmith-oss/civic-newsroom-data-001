@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "bfcf8ecfc864ee4cbe3a11f7eb52be0fb25fc9836512d3d8b6a1b8b94f0a60b1",
+  "title": "Substitute Loan and Security Agreement",
+  "text_path": "records/bfcf8ecfc864ee4cbe3a11f7eb52be0fb25fc9836512d3d8b6a1b8b94f0a60b1.md",
+  "representation_sha256": "23770152e31b68213eb1d42da04bf7c0a6cb1b6160339a6abf55a34fae6e20ff",
+  "bytes": 41438,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-05-27/substitute-loan-and-security-agreement.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

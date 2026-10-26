@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "9ddde8e4f25786f9e5aba39ce421d2eeba74685b83c615f3a1450c049a4e5480",
+  "title": "Proposed Revised Memo & Map",
+  "text_path": "records/9ddde8e4f25786f9e5aba39ce421d2eeba74685b83c615f3a1450c049a4e5480.md",
+  "representation_sha256": "8f56cd9d284d1695e5354eca1a25f53cff6b47905b3e3223e510b7a099b3da9b",
+  "bytes": 27632,
+  "year_path_label": "2016",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2016/city-council-2016-10-10/proposed-revised-memo-map.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "21f74b99ca277c5a68f5522980283367418f7de4304cb0ad468a175967683309",
+  "title": "Southeast Wyoming Foster Grandparent Program - Hel - Southeast Wyoming Foster Grandparent Program - Helping Youth",
+  "text_path": "records/21f74b99ca277c5a68f5522980283367418f7de4304cb0ad468a175967683309.md",
+  "representation_sha256": "7b9f110207b5869d89f9b06c391a08aa01be279d22660d2f9b23168f36059c1d",
+  "bytes": 13890,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-10-10/southeast-wyoming-foster-grandparent-program-hel-southeast-wyoming-fos-2.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

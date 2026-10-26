@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "e2e3bf586029ad9998fc3392089330904f4c327017db29ae23b7f98411e5bcbf",
+  "title": "RFP Backup Information",
+  "text_path": "records/e2e3bf586029ad9998fc3392089330904f4c327017db29ae23b7f98411e5bcbf.md",
+  "representation_sha256": "26b30f4565ddb605cd45b7b8d00ae33ca586c55963b153f7cd151def68c2c094",
+  "bytes": 68641,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-12-13/rfp-backup-information.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

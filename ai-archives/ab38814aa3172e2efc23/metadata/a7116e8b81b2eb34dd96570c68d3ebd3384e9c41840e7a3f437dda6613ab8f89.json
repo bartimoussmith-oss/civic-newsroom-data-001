@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "a7116e8b81b2eb34dd96570c68d3ebd3384e9c41840e7a3f437dda6613ab8f89",
+  "title": "City Council Meeting March 12, 2012 AGENDA",
+  "text_path": "records/a7116e8b81b2eb34dd96570c68d3ebd3384e9c41840e7a3f437dda6613ab8f89.md",
+  "representation_sha256": "8306b61936f70d96b0331828dc7477899423684e4a9922acc03deaf87c2d792e",
+  "bytes": 16688,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-03-12/city-council-meeting-march-12-2012-agenda.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

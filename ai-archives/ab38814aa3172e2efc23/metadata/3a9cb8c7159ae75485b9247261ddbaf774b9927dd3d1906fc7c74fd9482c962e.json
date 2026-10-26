@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "3a9cb8c7159ae75485b9247261ddbaf774b9927dd3d1906fc7c74fd9482c962e",
+  "title": "Appendice to Staff Report Attachment B",
+  "text_path": "records/3a9cb8c7159ae75485b9247261ddbaf774b9927dd3d1906fc7c74fd9482c962e.md",
+  "representation_sha256": "86643c9ef6f831a1d36373c41856dd006a063d819ac77e5d48a81c5edd58360e",
+  "bytes": 16279,
+  "year_path_label": "2016",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2016/city-council-2016-05-09/appendice-to-staff-report-attachment-b.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

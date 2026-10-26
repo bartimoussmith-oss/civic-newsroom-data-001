@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "53acdd056b02843b50760c2efcdd791f971fc40ad353167b455e4dc5610098d0",
+  "title": "Staff Report Terre Pont",
+  "text_path": "records/53acdd056b02843b50760c2efcdd791f971fc40ad353167b455e4dc5610098d0.md",
+  "representation_sha256": "b269c951beb3179a9b2c7bf7eb9d19dd01533d4b161f710ee631e98e24ae5995",
+  "bytes": 9998,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-08-26/staff-report-terre-pont.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

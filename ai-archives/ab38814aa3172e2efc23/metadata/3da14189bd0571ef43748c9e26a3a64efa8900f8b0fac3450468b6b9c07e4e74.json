@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "3da14189bd0571ef43748c9e26a3a64efa8900f8b0fac3450468b6b9c07e4e74",
+  "title": "psc-01-21-25-minutes",
+  "text_path": "records/3da14189bd0571ef43748c9e26a3a64efa8900f8b0fac3450468b6b9c07e4e74.md",
+  "representation_sha256": "9bde32b77ef8fb46c167331b4e4c9e3abc490c6c56208815c5aee125859787c1",
+  "bytes": 2239,
+  "year_path_label": "2025",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2025/public-services-committee-2025-01-21/psc-01-21-25-minutes.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

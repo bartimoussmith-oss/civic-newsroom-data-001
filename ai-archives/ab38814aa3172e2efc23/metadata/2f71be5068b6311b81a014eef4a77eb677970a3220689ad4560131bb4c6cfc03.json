@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "2f71be5068b6311b81a014eef4a77eb677970a3220689ad4560131bb4c6cfc03",
+  "title": "Proposed Substitute Drawing",
+  "text_path": "records/2f71be5068b6311b81a014eef4a77eb677970a3220689ad4560131bb4c6cfc03.md",
+  "representation_sha256": "ab3b58ecfce5089b7c8339827aa14896e6550a89a5d74a40c8d9c97f59145441",
+  "bytes": 2875,
+  "year_path_label": "2022",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2022/city-council-2022-04-25/proposed-substitute-drawing.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

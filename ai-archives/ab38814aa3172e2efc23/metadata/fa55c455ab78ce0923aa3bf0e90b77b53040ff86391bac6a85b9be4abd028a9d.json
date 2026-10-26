@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "fa55c455ab78ce0923aa3bf0e90b77b53040ff86391bac6a85b9be4abd028a9d",
+  "title": "Caption transcript: City Council — Monday, January 13, 2025",
+  "text_path": "records/fa55c455ab78ce0923aa3bf0e90b77b53040ff86391bac6a85b9be4abd028a9d.md",
+  "representation_sha256": "e6e25bbc2317a7f2ce1695fb62a082b0e050750154d5f0077ffe872e0c4c0e7a",
+  "bytes": 47456,
+  "year_path_label": "2025",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2025/city-council-2025-01-13/captions.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

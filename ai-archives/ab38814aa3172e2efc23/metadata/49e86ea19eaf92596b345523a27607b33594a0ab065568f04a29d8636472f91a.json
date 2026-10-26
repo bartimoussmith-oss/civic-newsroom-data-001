@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "49e86ea19eaf92596b345523a27607b33594a0ab065568f04a29d8636472f91a",
+  "title": "Title VI Program",
+  "text_path": "records/49e86ea19eaf92596b345523a27607b33594a0ab065568f04a29d8636472f91a.md",
+  "representation_sha256": "4ac7da06e387e8b3bdb46073f67ec272579e9e1fef62af217bf65b94a051d6e9",
+  "bytes": 104881,
+  "year_path_label": "2016",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2016/city-council-2016-05-09/title-vi-program.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

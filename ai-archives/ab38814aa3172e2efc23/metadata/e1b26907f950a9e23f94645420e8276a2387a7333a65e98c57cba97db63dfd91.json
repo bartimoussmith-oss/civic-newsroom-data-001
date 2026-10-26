@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "e1b26907f950a9e23f94645420e8276a2387a7333a65e98c57cba97db63dfd91",
+  "title": "Ordinance - Body Artist Special Event Business Lic - Ordinance - Body Artist Special Event Business License",
+  "text_path": "records/e1b26907f950a9e23f94645420e8276a2387a7333a65e98c57cba97db63dfd91.md",
+  "representation_sha256": "5c67603b79a9e11d283be8432e1a8b32143901c083e71b16acd5803bceed8ab2",
+  "bytes": 8637,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/ordinance-body-artist-special-event-business-lic-ordinance-body-artist.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

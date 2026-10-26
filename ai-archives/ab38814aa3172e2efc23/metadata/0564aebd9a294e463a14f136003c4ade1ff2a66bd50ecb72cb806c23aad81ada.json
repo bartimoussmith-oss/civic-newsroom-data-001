@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "0564aebd9a294e463a14f136003c4ade1ff2a66bd50ecb72cb806c23aad81ada",
+  "title": "Supporting Document Reappropriation Backup Info.",
+  "text_path": "records/0564aebd9a294e463a14f136003c4ade1ff2a66bd50ecb72cb806c23aad81ada.md",
+  "representation_sha256": "6f031061bf764a8d43563d1dc20001ba99641aa5bc661d95c6071b548a7d7655",
+  "bytes": 5834,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-04-09/supporting-document-reappropriation-backup-info.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

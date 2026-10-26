@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "ad08fcbfc4f438bafa700d519ed9a5a2d8ffdf034c71f138bff55a86d2cd3aea",
+  "title": "Development Agreement Memo",
+  "text_path": "records/ad08fcbfc4f438bafa700d519ed9a5a2d8ffdf034c71f138bff55a86d2cd3aea.md",
+  "representation_sha256": "552c4a275bcc80d91fedd4680fefe33dbf7131767e714ebf4b80a808258a724b",
+  "bytes": 7728,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-08-26/development-agreement-memo.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

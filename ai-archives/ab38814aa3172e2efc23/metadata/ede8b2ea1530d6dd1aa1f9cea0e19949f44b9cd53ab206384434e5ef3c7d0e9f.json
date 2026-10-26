@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "ede8b2ea1530d6dd1aa1f9cea0e19949f44b9cd53ab206384434e5ef3c7d0e9f",
+  "title": "Appendices (large file), part 1 of 3",
+  "text_path": "records/ede8b2ea1530d6dd1aa1f9cea0e19949f44b9cd53ab206384434e5ef3c7d0e9f.md",
+  "representation_sha256": "ee4b8fdf930162c26141baddab09251c8936862aa63d22bb42be9fec79a91f91",
+  "bytes": 151048,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-12-28/appendices-large-file.part1.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

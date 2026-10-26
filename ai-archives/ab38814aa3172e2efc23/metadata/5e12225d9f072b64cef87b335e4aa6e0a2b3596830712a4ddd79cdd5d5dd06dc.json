@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "5e12225d9f072b64cef87b335e4aa6e0a2b3596830712a4ddd79cdd5d5dd06dc",
+  "title": "Contract with CSO for Youth Education Concerts",
+  "text_path": "records/5e12225d9f072b64cef87b335e4aa6e0a2b3596830712a4ddd79cdd5d5dd06dc.md",
+  "representation_sha256": "231a63a549fb96a85c123714f1e4c733fc60b361da8e95131832e353c6e44b4b",
+  "bytes": 11688,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/contract-with-cso-for-youth-education-concerts.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

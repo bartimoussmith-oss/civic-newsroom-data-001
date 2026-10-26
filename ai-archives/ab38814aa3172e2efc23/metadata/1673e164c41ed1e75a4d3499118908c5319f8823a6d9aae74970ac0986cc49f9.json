@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "1673e164c41ed1e75a4d3499118908c5319f8823a6d9aae74970ac0986cc49f9",
+  "title": "FullCourt Enterprise Software Agreement",
+  "text_path": "records/1673e164c41ed1e75a4d3499118908c5319f8823a6d9aae74970ac0986cc49f9.md",
+  "representation_sha256": "b868cf8fd231ee588f63c32192b5af9efdac44a7ab23a8080cec222dce417972",
+  "bytes": 77958,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-07-14/fullcourt-enterprise-software-agreement.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

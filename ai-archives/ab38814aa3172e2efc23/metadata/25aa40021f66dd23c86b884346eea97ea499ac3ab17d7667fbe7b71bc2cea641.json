@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "25aa40021f66dd23c86b884346eea97ea499ac3ab17d7667fbe7b71bc2cea641",
+  "title": "Voucher Listing",
+  "text_path": "records/25aa40021f66dd23c86b884346eea97ea499ac3ab17d7667fbe7b71bc2cea641.md",
+  "representation_sha256": "0bed53cc6b012e0ab8f58023e29be2218604b50ed46f15300a7fc16dc7f30397",
+  "bytes": 79096,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-01-11/voucher-listing.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

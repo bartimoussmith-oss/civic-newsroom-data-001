@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "0139ac472da822060c895900c4640a8b8abb0d93f5361187c50c2c56912c0e42",
+  "title": "Supporting Documentation for Zone Change for Coole - Supporting Documentation for Zone Change for Cooley Subdivision",
+  "text_path": "records/0139ac472da822060c895900c4640a8b8abb0d93f5361187c50c2c56912c0e42.md",
+  "representation_sha256": "7108c0c6d4a046a3e5da42e6548a0739b9015db058cb11f5d087fa308898754e",
+  "bytes": 15206,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/supporting-documentation-for-zone-change-for-coole-supporting-document.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

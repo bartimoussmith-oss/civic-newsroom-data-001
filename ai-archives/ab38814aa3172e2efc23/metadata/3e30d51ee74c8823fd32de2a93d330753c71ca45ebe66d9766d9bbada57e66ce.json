@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "3e30d51ee74c8823fd32de2a93d330753c71ca45ebe66d9766d9bbada57e66ce",
+  "title": "Manual 3",
+  "text_path": "records/3e30d51ee74c8823fd32de2a93d330753c71ca45ebe66d9766d9bbada57e66ce.md",
+  "representation_sha256": "027dc7694b736497a0ac980d24f331e8584df464bc12a73297d3ea5511898690",
+  "bytes": 2352,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-02-27/manual-3.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

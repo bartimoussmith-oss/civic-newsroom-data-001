@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "6a43a00a79b4155cb0f0a9edc32fdf4e3e67576fb591a22e3149ffecb3338144",
+  "title": "Minutes June 19, 2012",
+  "text_path": "records/6a43a00a79b4155cb0f0a9edc32fdf4e3e67576fb591a22e3149ffecb3338144.md",
+  "representation_sha256": "d1e11c3dfc315f305bb7d0dbc87c9f76f3be841b39916a8f54aa7b410639498f",
+  "bytes": 4553,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-06-28/minutes-june-19-2012.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

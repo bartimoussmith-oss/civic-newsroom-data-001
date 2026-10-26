@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "6a8625c4e2353264523f6a21961bb7f912f2e0ee6110bc45767fa3818928d9bf",
+  "title": "11-16-09 Vouchers",
+  "text_path": "records/6a8625c4e2353264523f6a21961bb7f912f2e0ee6110bc45767fa3818928d9bf.md",
+  "representation_sha256": "b45f4dfe2e825468f593fe6a496dfa77a4b466ee2b20392f0d3df9b52e4dfc56",
+  "bytes": 75004,
+  "year_path_label": "2009",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2009/city-council-2009-11-23/11-16-09-vouchers.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

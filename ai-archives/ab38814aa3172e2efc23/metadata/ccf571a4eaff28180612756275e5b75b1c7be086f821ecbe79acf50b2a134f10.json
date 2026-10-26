@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "ccf571a4eaff28180612756275e5b75b1c7be086f821ecbe79acf50b2a134f10",
+  "title": "Ordinance Body Artist Special Event Licensing Fees",
+  "text_path": "records/ccf571a4eaff28180612756275e5b75b1c7be086f821ecbe79acf50b2a134f10.md",
+  "representation_sha256": "0cb65e4cb0869b97cd1dc2580a3c9b51826cffa981f7bf42034542352039148f",
+  "bytes": 3156,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/ordinance-body-artist-special-event-licensing-fees.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

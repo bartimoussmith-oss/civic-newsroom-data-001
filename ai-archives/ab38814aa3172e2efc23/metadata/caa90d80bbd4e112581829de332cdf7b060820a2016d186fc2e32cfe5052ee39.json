@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "caa90d80bbd4e112581829de332cdf7b060820a2016d186fc2e32cfe5052ee39",
+  "title": "cow-12-27-22-postponed-agenda 1",
+  "text_path": "records/caa90d80bbd4e112581829de332cdf7b060820a2016d186fc2e32cfe5052ee39.md",
+  "representation_sha256": "d9e56fd1bf2a1bf1a0f9468df775500dd2df0ac9481ff6b92f376f384424857e",
+  "bytes": 2900,
+  "year_path_label": "2022",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2022/work-sessions-2022-12-27/cow-12-27-22-postponed-agenda-1.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

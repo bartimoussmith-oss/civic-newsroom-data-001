@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "77c6e7766eda7cb55a5970f1d62b8f91998f322be8e2936632139da2543441f9",
+  "title": "Contract",
+  "text_path": "records/77c6e7766eda7cb55a5970f1d62b8f91998f322be8e2936632139da2543441f9.md",
+  "representation_sha256": "02c02f3000d78f41a80f38d42e3368353ee0b7531ef36e5f6dd8165d78d97f68",
+  "bytes": 9996,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-08-26/contract.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

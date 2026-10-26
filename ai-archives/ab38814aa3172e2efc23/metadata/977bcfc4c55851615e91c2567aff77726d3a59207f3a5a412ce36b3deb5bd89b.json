@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "977bcfc4c55851615e91c2567aff77726d3a59207f3a5a412ce36b3deb5bd89b",
+  "title": "Wyoming Family Home Ownership",
+  "text_path": "records/977bcfc4c55851615e91c2567aff77726d3a59207f3a5a412ce36b3deb5bd89b.md",
+  "representation_sha256": "b93d5e1a49ba4488c9123194acc3c7c244c449a22ad58fe7c48dc5a5c3dcb112",
+  "bytes": 13060,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-10-10/wyoming-family-home-ownership.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

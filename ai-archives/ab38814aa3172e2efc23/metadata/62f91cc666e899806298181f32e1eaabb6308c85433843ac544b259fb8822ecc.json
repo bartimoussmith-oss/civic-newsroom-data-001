@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "62f91cc666e899806298181f32e1eaabb6308c85433843ac544b259fb8822ecc",
+  "title": "Preliminary Plat Info. Terre Pont",
+  "text_path": "records/62f91cc666e899806298181f32e1eaabb6308c85433843ac544b259fb8822ecc.md",
+  "representation_sha256": "2e75139d9b7b15e28f5622972fe103fa4c4cd90e84962b429154d3b63bac27b4",
+  "bytes": 21917,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-08-26/preliminary-plat-info-terre-pont.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

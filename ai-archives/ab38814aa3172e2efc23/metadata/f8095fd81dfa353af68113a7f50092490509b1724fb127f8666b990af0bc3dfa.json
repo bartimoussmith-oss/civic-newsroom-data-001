@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "f8095fd81dfa353af68113a7f50092490509b1724fb127f8666b990af0bc3dfa",
+  "title": "Swan Ranch II Ordinance Staff Report",
+  "text_path": "records/f8095fd81dfa353af68113a7f50092490509b1724fb127f8666b990af0bc3dfa.md",
+  "representation_sha256": "16757fa419a779e86ab057a04020d38d2c3a18124b88af9a02ea4021f4f3c509",
+  "bytes": 44520,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/swan-ranch-ii-ordinance-staff-report.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "3e68431a1604a8179a223702cff44fdd201c7c46d2c89b281fbf1437934a0832",
+  "title": "Cheyenne Transportation Safety Management Plan",
+  "text_path": "records/3e68431a1604a8179a223702cff44fdd201c7c46d2c89b281fbf1437934a0832.md",
+  "representation_sha256": "037757ced43356a09712089daec438f92287c79ba62f5d795476296e8e54b5d3",
+  "bytes": 100649,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-07-27/cheyenne-transportation-safety-management-plan.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

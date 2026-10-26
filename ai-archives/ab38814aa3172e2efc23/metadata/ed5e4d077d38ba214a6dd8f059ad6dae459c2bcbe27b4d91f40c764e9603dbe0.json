@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "ed5e4d077d38ba214a6dd8f059ad6dae459c2bcbe27b4d91f40c764e9603dbe0",
+  "title": "Memo",
+  "text_path": "records/ed5e4d077d38ba214a6dd8f059ad6dae459c2bcbe27b4d91f40c764e9603dbe0.md",
+  "representation_sha256": "8003c61f1ac2cf733291d11014654f4c49ecf55881ee85ca1b79bf00f725ec40",
+  "bytes": 8946,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-01-14/memo.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "4d5069c26e396263c63f1f9a6c9a64e81233b79917a068ebff294f153d4df0ad",
+  "title": "Payable for April 11, 2016",
+  "text_path": "records/4d5069c26e396263c63f1f9a6c9a64e81233b79917a068ebff294f153d4df0ad.md",
+  "representation_sha256": "e89a628bf4d43dfabb35a54bf1b8a9c879326fed4a0cc87abbc47d591b5bb524",
+  "bytes": 1629,
+  "year_path_label": "2016",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2016/city-council-2016-04-11/payable-for-april-11-2016.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

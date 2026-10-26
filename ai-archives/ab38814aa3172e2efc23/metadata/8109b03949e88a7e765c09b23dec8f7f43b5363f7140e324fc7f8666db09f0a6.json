@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "8109b03949e88a7e765c09b23dec8f7f43b5363f7140e324fc7f8666db09f0a6",
+  "title": "June 25, 2012 Manual 4",
+  "text_path": "records/8109b03949e88a7e765c09b23dec8f7f43b5363f7140e324fc7f8666db09f0a6.md",
+  "representation_sha256": "29b00c029f996199ec0a6f36d12bf120bce6da01a057779ff1650077041f23da",
+  "bytes": 3620,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-06-28/june-25-2012-manual-4.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

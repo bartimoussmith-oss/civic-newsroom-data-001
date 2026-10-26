@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "a34d2710b7660ed293fcd01a17560bdcb6ff4b2c2c121c75b8635b003e82f1b0",
+  "title": "Liquor Licensee Actions 2012-2013",
+  "text_path": "records/a34d2710b7660ed293fcd01a17560bdcb6ff4b2c2c121c75b8635b003e82f1b0.md",
+  "representation_sha256": "88448d39795863897de2fc75cbd0368523e60fdacc150b6827ad06ac8eb311d8",
+  "bytes": 3793,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-02-25/liquor-licensee-actions-2012-2013.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

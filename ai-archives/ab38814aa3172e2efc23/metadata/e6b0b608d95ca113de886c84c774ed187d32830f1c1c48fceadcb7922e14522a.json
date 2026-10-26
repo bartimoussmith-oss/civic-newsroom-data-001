@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "e6b0b608d95ca113de886c84c774ed187d32830f1c1c48fceadcb7922e14522a",
+  "title": "Consumer Credit Counseling Services",
+  "text_path": "records/e6b0b608d95ca113de886c84c774ed187d32830f1c1c48fceadcb7922e14522a.md",
+  "representation_sha256": "5b9f67bdb66afb833da5930566f77f84e89da3aae3ededc6b1a44a5c85b00cdb",
+  "bytes": 3385,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-05-24/consumer-credit-counseling-services.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

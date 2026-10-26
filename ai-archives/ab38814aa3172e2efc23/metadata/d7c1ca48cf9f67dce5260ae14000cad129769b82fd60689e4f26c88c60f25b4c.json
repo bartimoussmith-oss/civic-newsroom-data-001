@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d7c1ca48cf9f67dce5260ae14000cad129769b82fd60689e4f26c88c60f25b4c",
+  "title": "October 24 Payables",
+  "text_path": "records/d7c1ca48cf9f67dce5260ae14000cad129769b82fd60689e4f26c88c60f25b4c.md",
+  "representation_sha256": "f0e44673f11a314df5457cbedca61da0a91d52749e14ee3fdd9a143ed929294c",
+  "bytes": 1604,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-10-24/october-24-payables.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

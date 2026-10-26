@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "5576ec4ebe8454e207bddbaa540d73dbff2c3a96fc4a090f934a23693355a399",
+  "title": "Backup Info for Eagles",
+  "text_path": "records/5576ec4ebe8454e207bddbaa540d73dbff2c3a96fc4a090f934a23693355a399.md",
+  "representation_sha256": "fc227cd869f5a4f01179873c356838d55000df1b4aea2f63d6ab359f4993ebc0",
+  "bytes": 3135,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-06-22/backup-info-for-eagles.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

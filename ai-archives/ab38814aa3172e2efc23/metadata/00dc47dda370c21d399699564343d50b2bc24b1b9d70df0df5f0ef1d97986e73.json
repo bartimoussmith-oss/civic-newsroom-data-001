@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "00dc47dda370c21d399699564343d50b2bc24b1b9d70df0df5f0ef1d97986e73",
+  "title": "Minutes August 2, 2010",
+  "text_path": "records/00dc47dda370c21d399699564343d50b2bc24b1b9d70df0df5f0ef1d97986e73.md",
+  "representation_sha256": "0a664d3692ff649de965fe0b58a13e04645d25e5096cb82558475a6acd343f35",
+  "bytes": 2962,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-08-09/minutes-august-2-2010.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

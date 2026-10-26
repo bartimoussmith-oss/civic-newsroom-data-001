@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "6b0f40bb70e3a028b40998eefcd3164eb4912c0bf0dab7c805b3dcd988a09993",
+  "title": "Chet Halvorson Properties LLC Application",
+  "text_path": "records/6b0f40bb70e3a028b40998eefcd3164eb4912c0bf0dab7c805b3dcd988a09993.md",
+  "representation_sha256": "e95d01a9a626edea9ee1c32dfaaf926eda6417717bb167c3f6dc4dba6c3758fe",
+  "bytes": 40613,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-11-09/chet-halvorson-properties-llc-application.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

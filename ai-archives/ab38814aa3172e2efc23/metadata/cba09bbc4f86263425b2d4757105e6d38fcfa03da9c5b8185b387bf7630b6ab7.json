@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "cba09bbc4f86263425b2d4757105e6d38fcfa03da9c5b8185b387bf7630b6ab7",
+  "title": "Boys and Girls Club",
+  "text_path": "records/cba09bbc4f86263425b2d4757105e6d38fcfa03da9c5b8185b387bf7630b6ab7.md",
+  "representation_sha256": "e5e06fcaab187cd4dd89df7bdc16fdfc17fbd2954dba573adedbfed8855c9089",
+  "bytes": 3321,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-05-24/boys-and-girls-club.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

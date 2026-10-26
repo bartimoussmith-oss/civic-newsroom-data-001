@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "bbfa8938660bd4ef78e410981744edf0877af4acaefa615dd7ce7ff69ce5b1d4",
+  "title": "Proposed Amended Exhibit B",
+  "text_path": "records/bbfa8938660bd4ef78e410981744edf0877af4acaefa615dd7ce7ff69ce5b1d4.md",
+  "representation_sha256": "5f28ab5e3c7a8b3ac7a719be17a6757718a9017ed8c4099e5f3f29e2db2d23d2",
+  "bytes": 2634,
+  "year_path_label": "2022",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2022/city-council-2022-01-10/proposed-amended-exhibit-b.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

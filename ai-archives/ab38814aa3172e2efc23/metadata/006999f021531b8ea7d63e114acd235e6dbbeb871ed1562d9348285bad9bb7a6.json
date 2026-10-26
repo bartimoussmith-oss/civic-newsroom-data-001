@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "006999f021531b8ea7d63e114acd235e6dbbeb871ed1562d9348285bad9bb7a6",
+  "title": "Petitions for Vacating a portion of the alley",
+  "text_path": "records/006999f021531b8ea7d63e114acd235e6dbbeb871ed1562d9348285bad9bb7a6.md",
+  "representation_sha256": "df63fb16eee8e9715356425c9d415dc340203eb01d1027ef8f618bc4fec82cce",
+  "bytes": 6604,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-11-09/petitions-for-vacating-a-portion-of-the-alley.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

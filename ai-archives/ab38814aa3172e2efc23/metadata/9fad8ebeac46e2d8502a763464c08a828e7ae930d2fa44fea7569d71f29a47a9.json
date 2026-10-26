@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "9fad8ebeac46e2d8502a763464c08a828e7ae930d2fa44fea7569d71f29a47a9",
+  "title": "fc-08-21-23-agenda",
+  "text_path": "records/9fad8ebeac46e2d8502a763464c08a828e7ae930d2fa44fea7569d71f29a47a9.md",
+  "representation_sha256": "207200f8f90f1a3075f9dd08fe5c9c0da55c8b08d3d1d2017f700110bad6c8ea",
+  "bytes": 4706,
+  "year_path_label": "2023",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2023/finance-committee-2023-08-21/fc-08-21-23-agenda.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

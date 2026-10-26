@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "22a54494926e02f3943b1cebb4dfe04e3d9ded76329871bc84f83adbaeb64cea",
+  "title": "Place making Strategic Plan",
+  "text_path": "records/22a54494926e02f3943b1cebb4dfe04e3d9ded76329871bc84f83adbaeb64cea.md",
+  "representation_sha256": "6a33c95ed8ab1ae57dbb3bc11d81fc0100c36a6b7577aab627d9ac0ed732f155",
+  "bytes": 1735,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/place-making-strategic-plan.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

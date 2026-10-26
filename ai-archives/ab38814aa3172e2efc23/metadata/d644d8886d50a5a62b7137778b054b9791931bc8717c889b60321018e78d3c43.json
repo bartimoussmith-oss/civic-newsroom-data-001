@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d644d8886d50a5a62b7137778b054b9791931bc8717c889b60321018e78d3c43",
+  "title": "Map of Area",
+  "text_path": "records/d644d8886d50a5a62b7137778b054b9791931bc8717c889b60321018e78d3c43.md",
+  "representation_sha256": "eb24d6f510e4a487f60e76ca9d42044c6a152d8fe5f07fb897731a6c96a63600",
+  "bytes": 6935,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-08-25/map-of-area.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

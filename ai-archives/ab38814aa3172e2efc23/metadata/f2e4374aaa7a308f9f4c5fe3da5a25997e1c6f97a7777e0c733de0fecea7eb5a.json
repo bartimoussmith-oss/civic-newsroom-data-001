@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "f2e4374aaa7a308f9f4c5fe3da5a25997e1c6f97a7777e0c733de0fecea7eb5a",
+  "title": "Feb. 28 Manual Payable Civic Center",
+  "text_path": "records/f2e4374aaa7a308f9f4c5fe3da5a25997e1c6f97a7777e0c733de0fecea7eb5a.md",
+  "representation_sha256": "28d6b0d6911ebeb57a4084049249a76bfa5c1f3ab9f358a6498e0340f0ac6a6a",
+  "bytes": 2148,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-02-28/feb-28-manual-payable-civic-center.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

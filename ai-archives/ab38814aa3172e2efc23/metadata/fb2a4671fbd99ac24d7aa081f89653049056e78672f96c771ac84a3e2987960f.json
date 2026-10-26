@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "fb2a4671fbd99ac24d7aa081f89653049056e78672f96c771ac84a3e2987960f",
+  "title": "Agenda Only - Amendment from September 22, 2020 Public Services - Amendment from September 22, 2020 Public Services Committee",
+  "text_path": "records/fb2a4671fbd99ac24d7aa081f89653049056e78672f96c771ac84a3e2987960f.md",
+  "representation_sha256": "4cddb35c90babb2945b4bc40fada88361299980cdf1e58e1014c80b393679e1b",
+  "bytes": 2347,
+  "year_path_label": "2020",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2020/city-council-2020-09-28/agenda-only-amendment-from-september-22-2020-public-services-amendment.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

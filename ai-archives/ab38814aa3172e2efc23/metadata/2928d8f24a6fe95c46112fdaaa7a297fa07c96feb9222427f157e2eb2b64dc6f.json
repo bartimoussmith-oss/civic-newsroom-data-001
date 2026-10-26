@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "2928d8f24a6fe95c46112fdaaa7a297fa07c96feb9222427f157e2eb2b64dc6f",
+  "title": "Agenda Only - Whitney Road Corridor Plan, part 2 of 2",
+  "text_path": "records/2928d8f24a6fe95c46112fdaaa7a297fa07c96feb9222427f157e2eb2b64dc6f.md",
+  "representation_sha256": "2427e23092cd05b0d8c0399eed54a6200defb7428664557dc402db1eacc29afc",
+  "bytes": 95924,
+  "year_path_label": "2020",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2020/city-council-2020-09-28/agenda-only-whitney-road-corridor-plan.part2.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

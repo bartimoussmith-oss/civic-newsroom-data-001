@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "73d45c9ac0c4c6c86643beaa931a622d835e62f670014adfaa6adb27d949f9ae",
+  "title": "2019 Annual Action Plan",
+  "text_path": "records/73d45c9ac0c4c6c86643beaa931a622d835e62f670014adfaa6adb27d949f9ae.md",
+  "representation_sha256": "e6c6b9104b92f950851f5a9550ad6461d73733dfa651a9ffa706b6ec0beb7f3f",
+  "bytes": 92219,
+  "year_path_label": "2019",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2019/city-council-2019-04-22/2019-annual-action-plan.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

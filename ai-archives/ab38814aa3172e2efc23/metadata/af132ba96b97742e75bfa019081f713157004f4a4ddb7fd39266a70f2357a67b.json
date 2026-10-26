@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "af132ba96b97742e75bfa019081f713157004f4a4ddb7fd39266a70f2357a67b",
+  "title": "Ordinance Zone Change Polk Addition",
+  "text_path": "records/af132ba96b97742e75bfa019081f713157004f4a4ddb7fd39266a70f2357a67b.md",
+  "representation_sha256": "db5b506a98ebce70814ff15baba85a891a1c17765d8d63a76349e5b658d6c2b1",
+  "bytes": 31232,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/ordinance-zone-change-polk-addition.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

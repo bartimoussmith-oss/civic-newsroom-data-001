@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "002a45441e628d6e41428ce071cce34b2e0e26313e588afb17b5fc6233c710aa",
+  "title": "Agenda",
+  "text_path": "records/002a45441e628d6e41428ce071cce34b2e0e26313e588afb17b5fc6233c710aa.md",
+  "representation_sha256": "bba065b49bc07b92b9ede6ba3a729da83588d1d86e2481e77629388105eb94fb",
+  "bytes": 2342,
+  "year_path_label": "2024",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2024/planning-commission-2024-04-11/agenda.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d0f289a27efe29ba33c570172b8b0752aa250ae19cc6384db10c3357a348e31b",
+  "title": "Backup PlanCheyenne Comprehensive Plan (Large Docu - Backup PlanCheyenne Comprehensive Plan (Large Document), part 2 of 3",
+  "text_path": "records/d0f289a27efe29ba33c570172b8b0752aa250ae19cc6384db10c3357a348e31b.md",
+  "representation_sha256": "e5dd1cf69ce84887c8e700b4b59dd29b3b98e289bf7ca1696e6afe117120d341",
+  "bytes": 152218,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-02-24/backup-plancheyenne-comprehensive-plan-large-docu-backup-plancheyenne.part2.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

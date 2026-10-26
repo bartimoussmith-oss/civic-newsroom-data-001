@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "4734929af8e772c68d2c3d1767be0d27fc92200013d5311df8f71d42ba267035",
+  "title": "Minutes",
+  "text_path": "records/4734929af8e772c68d2c3d1767be0d27fc92200013d5311df8f71d42ba267035.md",
+  "representation_sha256": "3817a3be3ca59d8b1db563c293a246e4644bca2956705dd09197f67eef78ca32",
+  "bytes": 12330,
+  "year_path_label": "2024",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2024/board-of-county-commissioners-2024-01-02/minutes.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

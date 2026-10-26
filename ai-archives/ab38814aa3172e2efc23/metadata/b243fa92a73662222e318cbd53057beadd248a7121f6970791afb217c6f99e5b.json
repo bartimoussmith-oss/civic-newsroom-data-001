@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "b243fa92a73662222e318cbd53057beadd248a7121f6970791afb217c6f99e5b",
+  "title": "Proposed Amended Resolution",
+  "text_path": "records/b243fa92a73662222e318cbd53057beadd248a7121f6970791afb217c6f99e5b.md",
+  "representation_sha256": "87951ec3b72ea0ce17bdcad08ebe4d9f9ff162816d12e723391346f63ac81a31",
+  "bytes": 6529,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-10-10/proposed-amended-resolution.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

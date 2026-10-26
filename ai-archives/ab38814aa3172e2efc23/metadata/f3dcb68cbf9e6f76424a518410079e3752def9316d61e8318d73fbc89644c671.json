@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "f3dcb68cbf9e6f76424a518410079e3752def9316d61e8318d73fbc89644c671",
+  "title": "Juvenile Housing Agreement",
+  "text_path": "records/f3dcb68cbf9e6f76424a518410079e3752def9316d61e8318d73fbc89644c671.md",
+  "representation_sha256": "3b4c6c2f53b2054407af02ae65160229a14bc1fce104dd9694c6e417e89120b2",
+  "bytes": 16308,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/juvenile-housing-agreement.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

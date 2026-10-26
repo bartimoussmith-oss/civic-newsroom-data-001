@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "664c34e0a5698638b0f48fae6c2aa698a81a606fed5d388f86ed88e5a3cc23b7",
+  "title": "Ordinance",
+  "text_path": "records/664c34e0a5698638b0f48fae6c2aa698a81a606fed5d388f86ed88e5a3cc23b7.md",
+  "representation_sha256": "85e6ac5709ee53d949ff71a1b3405ee227ae91c476e3f23e35434d2b6530b203",
+  "bytes": 5682,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-06-19-special/ordinance.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

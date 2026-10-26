@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "938731f6b44873324c18970f0ea5991a05bf813ce5bfee87a30343e6b020d81e",
+  "title": "Resolution Employee Investment Study Team",
+  "text_path": "records/938731f6b44873324c18970f0ea5991a05bf813ce5bfee87a30343e6b020d81e.md",
+  "representation_sha256": "bdfce79838e0d3964b81aadd2cf493b47802ec50de8f487b28809b33dec13599",
+  "bytes": 3498,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/resolution-employee-investment-study-team.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "9d02a8e442d012e7680275d67355aab6f12a094290abb042bf2441859b329599",
+  "title": "Cheyenne Health and Welness-Dental Access",
+  "text_path": "records/9d02a8e442d012e7680275d67355aab6f12a094290abb042bf2441859b329599.md",
+  "representation_sha256": "c68c105822f97f92bca33c9491bb61d9eb15098faae2668921fa08823748d390",
+  "bytes": 3442,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-05-24/cheyenne-health-and-welness-dental-access.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "05a2c7036fd5425131a96b0327f171659a1e0914df05c7d367b70ba1154f185d",
+  "title": "Caption transcript: City Council — Monday, August 8, 2022",
+  "text_path": "records/05a2c7036fd5425131a96b0327f171659a1e0914df05c7d367b70ba1154f185d.md",
+  "representation_sha256": "d085c1acf20e7299069c4c21f937a826cd57deb1e2bf162377d13adac5061157",
+  "bytes": 52609,
+  "year_path_label": "2022",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2022/city-council-2022-08-08/captions.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

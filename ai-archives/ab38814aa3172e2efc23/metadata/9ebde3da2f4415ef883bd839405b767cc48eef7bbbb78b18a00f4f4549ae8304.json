@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "9ebde3da2f4415ef883bd839405b767cc48eef7bbbb78b18a00f4f4549ae8304",
+  "title": "Calcutta Letter",
+  "text_path": "records/9ebde3da2f4415ef883bd839405b767cc48eef7bbbb78b18a00f4f4549ae8304.md",
+  "representation_sha256": "6ba48f3489a8718b0ae34a6c058f93c73c5f3bb804c8c82addb0d569bd05d2f2",
+  "bytes": 3227,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-05-26/calcutta-letter.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

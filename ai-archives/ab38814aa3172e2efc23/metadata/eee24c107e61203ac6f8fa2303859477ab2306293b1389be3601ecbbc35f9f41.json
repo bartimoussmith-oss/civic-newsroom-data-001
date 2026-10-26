@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "eee24c107e61203ac6f8fa2303859477ab2306293b1389be3601ecbbc35f9f41",
+  "title": "Nov 14 and Oct 26 Deferred Comp. payable",
+  "text_path": "records/eee24c107e61203ac6f8fa2303859477ab2306293b1389be3601ecbbc35f9f41.md",
+  "representation_sha256": "61b2e7b472244179d58467a0db2c3847d70808792231ae393ee66f006480060c",
+  "bytes": 2507,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-11-14/nov-14-and-oct-26-deferred-comp-payable.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

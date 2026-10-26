@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "c522af2fcdc96b5d08572278a94957d482bc35f30951b1d3cdbab8a58af255f4",
+  "title": "AgendaLink - Doc",
+  "text_path": "records/c522af2fcdc96b5d08572278a94957d482bc35f30951b1d3cdbab8a58af255f4.md",
+  "representation_sha256": "12023459fc923a8969fc2bd8b271c435332da6a5004a700d5eefc05582c0e402",
+  "bytes": 3001,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-03-12/agendalink-doc.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

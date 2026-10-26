@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "4004c206ca5521efe2c3b1f8f63586f7677cdd9ff6b7252b3638ebfd1433481d",
+  "title": "Payable Voucher Listing for July 26, 2010, part 1 of 2",
+  "text_path": "records/4004c206ca5521efe2c3b1f8f63586f7677cdd9ff6b7252b3638ebfd1433481d.md",
+  "representation_sha256": "869b774566cbcd462ef3f3e1f8e4b798a4eca56c37fc7cc1c142f3b3298f99b5",
+  "bytes": 149548,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-07-26/payable-voucher-listing-for-july-26-2010.part1.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

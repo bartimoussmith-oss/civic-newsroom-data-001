@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "028ae5d4cc445359f227e3ea62be080b414b2a6049e26eb78bdf09bfe691750e",
+  "title": "Cheyenne Health and Wellness Center - Centralized - Cheyenne Health and Wellness Center - Centralized Pharmacy",
+  "text_path": "records/028ae5d4cc445359f227e3ea62be080b414b2a6049e26eb78bdf09bfe691750e.md",
+  "representation_sha256": "a98d338d50a07e8a819172058a1369ab0d24d4712fe3ff7552357262cbecf800",
+  "bytes": 13601,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-10-10/cheyenne-health-and-wellness-center-centralized-cheyenne-health-and-we.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

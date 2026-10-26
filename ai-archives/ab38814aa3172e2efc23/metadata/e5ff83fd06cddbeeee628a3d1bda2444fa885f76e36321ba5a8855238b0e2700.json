@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "e5ff83fd06cddbeeee628a3d1bda2444fa885f76e36321ba5a8855238b0e2700",
+  "title": "Manual Check \\#1 for Ticket Sales for Cheyenne Stam - Manual Check \\#1 for Ticket Sales for Cheyenne Stampede",
+  "text_path": "records/e5ff83fd06cddbeeee628a3d1bda2444fa885f76e36321ba5a8855238b0e2700.md",
+  "representation_sha256": "f448ace21b773a5bd518a912e52b5154302f082ae4aa693d40bd3c2f0cc1ec23",
+  "bytes": 2369,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-12-27/manual-check-1-for-ticket-sales-for-cheyenne-stam-manual-check-1-for-t.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

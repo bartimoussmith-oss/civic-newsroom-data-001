@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "c0e77fc813ec2bb582f17619b9c13107826551b8470e49c5fda72dc71a43d0d3",
+  "title": "Agenda Only - Supporting Document",
+  "text_path": "records/c0e77fc813ec2bb582f17619b9c13107826551b8470e49c5fda72dc71a43d0d3.md",
+  "representation_sha256": "6d8859d3c719dfb0c900d2163d57c5ecae136a3267d1a6b0d544ce62e29664a1",
+  "bytes": 21962,
+  "year_path_label": "2021",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2021/city-council-2021-03-08/agenda-only-supporting-document.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

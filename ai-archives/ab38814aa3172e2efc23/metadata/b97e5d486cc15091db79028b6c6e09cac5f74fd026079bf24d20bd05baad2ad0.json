@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "b97e5d486cc15091db79028b6c6e09cac5f74fd026079bf24d20bd05baad2ad0",
+  "title": "Caption transcript: City Council — Monday, April 22, 2024",
+  "text_path": "records/b97e5d486cc15091db79028b6c6e09cac5f74fd026079bf24d20bd05baad2ad0.md",
+  "representation_sha256": "7522b960f1af9ddbf5304c89a0f60b9b2dcffed8919917e295e3db5827160d15",
+  "bytes": 76192,
+  "year_path_label": "2024",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2024/city-council-2024-04-22/captions.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

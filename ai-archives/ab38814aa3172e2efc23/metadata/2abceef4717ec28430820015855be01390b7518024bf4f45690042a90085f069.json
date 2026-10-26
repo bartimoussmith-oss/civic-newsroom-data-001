@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "2abceef4717ec28430820015855be01390b7518024bf4f45690042a90085f069",
+  "title": "Historic Preservation Board — Tuesday, January 13, 2026",
+  "text_path": "records/2abceef4717ec28430820015855be01390b7518024bf4f45690042a90085f069.md",
+  "representation_sha256": "a2fe87a6c54a3c5d4332cc6bbbdbc5f44905976e7c8955cc5adb28717fa7901e",
+  "bytes": 1673,
+  "year_path_label": "2026",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "meetings/2026/historic-preservation-board-2026-01-13.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

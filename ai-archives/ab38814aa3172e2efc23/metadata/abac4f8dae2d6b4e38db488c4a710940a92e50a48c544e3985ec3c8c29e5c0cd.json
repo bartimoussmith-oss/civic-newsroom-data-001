@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "abac4f8dae2d6b4e38db488c4a710940a92e50a48c544e3985ec3c8c29e5c0cd",
+  "title": "Use Agreement",
+  "text_path": "records/abac4f8dae2d6b4e38db488c4a710940a92e50a48c544e3985ec3c8c29e5c0cd.md",
+  "representation_sha256": "4765a8667412d2def45753fff2c8570be6817a84eee7e85a0f7cffdb41fa5beb",
+  "bytes": 20546,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-04-08/use-agreement.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "cd1a43b01e97b08294838e6e2c467a5ce8789700ad016de858c04f183d6ed945",
+  "title": "Postponement Request",
+  "text_path": "records/cd1a43b01e97b08294838e6e2c467a5ce8789700ad016de858c04f183d6ed945.md",
+  "representation_sha256": "961096aedc7426a1dc55344ec8c0d82e3fdaa14aeb9bab4efbaa28db69da08a8",
+  "bytes": 2922,
+  "year_path_label": "2017",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2017/city-council-2017-12-11/postponement-request.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

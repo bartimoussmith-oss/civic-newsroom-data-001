@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "1e6b36b40fe49d1c23f0328e2d1c9c98f047a008ea47ea4e0064fd836ea233f1",
+  "title": "Proposed Substitute Resolution",
+  "text_path": "records/1e6b36b40fe49d1c23f0328e2d1c9c98f047a008ea47ea4e0064fd836ea233f1.md",
+  "representation_sha256": "fc767e77b84d0f35d145237de5372f43b746dcc3870fec4481dfe28b1820846e",
+  "bytes": 5477,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-10-28/proposed-substitute-resolution.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

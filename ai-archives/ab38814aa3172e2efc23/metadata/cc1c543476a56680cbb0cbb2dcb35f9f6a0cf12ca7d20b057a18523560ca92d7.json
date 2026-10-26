@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "cc1c543476a56680cbb0cbb2dcb35f9f6a0cf12ca7d20b057a18523560ca92d7",
+  "title": "cow-11-20-24-minutes",
+  "text_path": "records/cc1c543476a56680cbb0cbb2dcb35f9f6a0cf12ca7d20b057a18523560ca92d7.md",
+  "representation_sha256": "d55f11c4fa5306238fb43558e19a520b8908e46eb16ef077e75b63fb843e52ca",
+  "bytes": 5874,
+  "year_path_label": "2024",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2024/work-sessions-2024-11-20/cow-11-20-24-minutes.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

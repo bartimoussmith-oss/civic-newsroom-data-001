@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "b090c20ac098df654331c9b7ed4d7506f1324cd9a2d4a53156d7d4ed62f00435",
+  "title": "August 26, 2013 Payable",
+  "text_path": "records/b090c20ac098df654331c9b7ed4d7506f1324cd9a2d4a53156d7d4ed62f00435.md",
+  "representation_sha256": "8dc8d6bff4f273da38bf3f6331def9236f355dd7c427d3c1e658abadc0b366a1",
+  "bytes": 1597,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-08-26/august-26-2013-payable.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

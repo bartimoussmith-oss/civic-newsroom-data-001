@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "2631fd802104fcfa6cb2e35ade7326d4a64d382411cbd8eb8e18ef23d59055e2",
+  "title": "Reasons not Met",
+  "text_path": "records/2631fd802104fcfa6cb2e35ade7326d4a64d382411cbd8eb8e18ef23d59055e2.md",
+  "representation_sha256": "aeb10c3891cf88214afc79332e0d92c6b73efdd81bb1d7e718943edb0a0abb50",
+  "bytes": 2324,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-02-27/reasons-not-met.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,3 @@
+# Cheyenne public record export
+
+Read index.md and collection.json. Full per-record text is in records/*.md with metadata/*.json. Full-text JSONL batches are in jsonl/. metadata.jsonl.gz and metadata.csv provide catalogs. objects.jsonl.gz and identifier-mentions.jsonl.gz contain explicitly limited graph exports. Do not treat machine OCR, caption attribution, path dates or literal matches as independently verified facts. No JavaScript, authentication, or reassembly is required for the Markdown records.

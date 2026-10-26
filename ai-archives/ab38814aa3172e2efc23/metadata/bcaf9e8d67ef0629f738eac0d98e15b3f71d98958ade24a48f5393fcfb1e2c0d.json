@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "bcaf9e8d67ef0629f738eac0d98e15b3f71d98958ade24a48f5393fcfb1e2c0d",
+  "title": "Master Plan",
+  "text_path": "records/bcaf9e8d67ef0629f738eac0d98e15b3f71d98958ade24a48f5393fcfb1e2c0d.md",
+  "representation_sha256": "0153f2ed078095f2eccf38a4eb2015d9f6b63e3c5c66453f2fbd972f91627f0c",
+  "bytes": 149378,
+  "year_path_label": "2018",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2018/city-council-2018-03-26/master-plan.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

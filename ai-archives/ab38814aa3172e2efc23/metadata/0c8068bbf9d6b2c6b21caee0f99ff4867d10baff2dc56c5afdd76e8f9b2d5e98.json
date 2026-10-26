@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "0c8068bbf9d6b2c6b21caee0f99ff4867d10baff2dc56c5afdd76e8f9b2d5e98",
+  "title": "June 13, 2011 941 Payable",
+  "text_path": "records/0c8068bbf9d6b2c6b21caee0f99ff4867d10baff2dc56c5afdd76e8f9b2d5e98.md",
+  "representation_sha256": "ca483de17374749535073e748ec4000219c7663a960794611620429d56244875",
+  "bytes": 2091,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-06-13/june-13-2011-941-payable.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

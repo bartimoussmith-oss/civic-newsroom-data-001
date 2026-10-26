@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "2f5ad65e008b5d7c7cfd24af0f9a506bec3483c9559368e065da874776e943f7",
+  "title": "Contract with LEADS",
+  "text_path": "records/2f5ad65e008b5d7c7cfd24af0f9a506bec3483c9559368e065da874776e943f7.md",
+  "representation_sha256": "946b0abe13b13646bbf2fb431fd35bd7eafcd78b883b5f8e03a3614a0857c97e",
+  "bytes": 8236,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/contract-with-leads.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

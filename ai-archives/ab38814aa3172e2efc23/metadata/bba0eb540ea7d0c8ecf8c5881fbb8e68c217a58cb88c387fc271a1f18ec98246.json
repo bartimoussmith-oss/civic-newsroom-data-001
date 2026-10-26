@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "bba0eb540ea7d0c8ecf8c5881fbb8e68c217a58cb88c387fc271a1f18ec98246",
+  "title": "Agenda Only - Amendment from August 4, 2020 Public Service Commi - Amendment from August 4, 2020 Public Service Committee",
+  "text_path": "records/bba0eb540ea7d0c8ecf8c5881fbb8e68c217a58cb88c387fc271a1f18ec98246.md",
+  "representation_sha256": "fc1eb55cfa08e456bae9642844517c1010501fe0610870a30d33c1607f6117a1",
+  "bytes": 2333,
+  "year_path_label": "2020",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2020/city-council-2020-08-10/agenda-only-amendment-from-august-4-2020-public-service-commi-amendmen.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

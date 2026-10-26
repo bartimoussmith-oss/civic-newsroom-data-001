@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "3baca64266219a44c684306b966497f236b5dd6c85c762b6598fa5c97c88d84e",
+  "title": "Liquor Renewal Backup Information",
+  "text_path": "records/3baca64266219a44c684306b966497f236b5dd6c85c762b6598fa5c97c88d84e.md",
+  "representation_sha256": "dc1ae32a55ef623a17fb5be51e6202b0147324d9c385a56cfb7e14ef9980cf49",
+  "bytes": 22283,
+  "year_path_label": "2016",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2016/city-council-2016-02-22/liquor-renewal-backup-information.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

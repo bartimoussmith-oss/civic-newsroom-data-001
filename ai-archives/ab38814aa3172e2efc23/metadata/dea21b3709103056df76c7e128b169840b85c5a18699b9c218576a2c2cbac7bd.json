@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "dea21b3709103056df76c7e128b169840b85c5a18699b9c218576a2c2cbac7bd",
+  "title": "Contract for animal shelter services",
+  "text_path": "records/dea21b3709103056df76c7e128b169840b85c5a18699b9c218576a2c2cbac7bd.md",
+  "representation_sha256": "007c0960cee19d0dc78d07f2e5bfb800f9ad95201fb42d10bd1938921e24f2ed",
+  "bytes": 11763,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/contract-for-animal-shelter-services.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

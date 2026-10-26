@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "0adbfe0dca858639bfe1c86e3db19bd8aa8360026e885d139fe50147f967fc92",
+  "title": "Contract Cheyenne Housing Authority services",
+  "text_path": "records/0adbfe0dca858639bfe1c86e3db19bd8aa8360026e885d139fe50147f967fc92.md",
+  "representation_sha256": "160c8f3d7f8dc18d3192c7b8d73eb9bb730e61f7c061c9c28c80c4f955e3d2c6",
+  "bytes": 18336,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-07-28/contract-cheyenne-housing-authority-services.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

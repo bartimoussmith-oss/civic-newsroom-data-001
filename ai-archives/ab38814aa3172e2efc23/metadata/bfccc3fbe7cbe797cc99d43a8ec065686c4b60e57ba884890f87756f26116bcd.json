@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "bfccc3fbe7cbe797cc99d43a8ec065686c4b60e57ba884890f87756f26116bcd",
+  "title": "Agenda",
+  "text_path": "records/bfccc3fbe7cbe797cc99d43a8ec065686c4b60e57ba884890f87756f26116bcd.md",
+  "representation_sha256": "3dba1c75f3b67f0028312734a1a9a3570392f98caf4c884bea24fcacf4217f1f",
+  "bytes": 5103,
+  "year_path_label": "2026",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2026/board-of-county-commissioners-2026-02-17/agenda.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

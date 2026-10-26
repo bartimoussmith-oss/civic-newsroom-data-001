@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "2e47acf7d6eb464b3eefb66fc5bc708517aecdb17d5937af2f8055b31580ca86",
+  "title": "Ordinance",
+  "text_path": "records/2e47acf7d6eb464b3eefb66fc5bc708517aecdb17d5937af2f8055b31580ca86.md",
+  "representation_sha256": "efc3d9511a3e3dbfcebde958a7f6c9469b63305ba57fe6ad333811b1cd19ff82",
+  "bytes": 4800,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-07-28/ordinance.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

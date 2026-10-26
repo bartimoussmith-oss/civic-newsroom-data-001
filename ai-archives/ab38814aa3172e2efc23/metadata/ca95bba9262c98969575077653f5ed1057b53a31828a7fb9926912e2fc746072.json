@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "ca95bba9262c98969575077653f5ed1057b53a31828a7fb9926912e2fc746072",
+  "title": "Ord. amending Ord. 4065",
+  "text_path": "records/ca95bba9262c98969575077653f5ed1057b53a31828a7fb9926912e2fc746072.md",
+  "representation_sha256": "efe3c4dcf1f54137b276ca194525250c1c09262c77c1959d4bb342fbe1709e25",
+  "bytes": 6690,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-06-08/ord-amending-ord-4065.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

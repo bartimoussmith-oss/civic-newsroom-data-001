@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "61dea412a9d30f2fd48971a91d2d6901f25050bdde1811cf921fe97f7ded8050",
+  "title": "Staff Report with Exhibits",
+  "text_path": "records/61dea412a9d30f2fd48971a91d2d6901f25050bdde1811cf921fe97f7ded8050.md",
+  "representation_sha256": "0156f9aea8d17736d2784c44a43bb4bd301be46148cc09b81858ccc708247b4f",
+  "bytes": 6520,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-08-25/staff-report-with-exhibits.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

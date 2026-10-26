@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d3b7e307c137ccf601926087a7ca9eb7e12cdd22f34a271ab0273b23da424eec",
+  "title": "Zoning Map Terre Pont",
+  "text_path": "records/d3b7e307c137ccf601926087a7ca9eb7e12cdd22f34a271ab0273b23da424eec.md",
+  "representation_sha256": "554c6c3d0cc6162fcc32e856302e171dc8324ec325e7f5a8871de40d7b6c7b2b",
+  "bytes": 6621,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-08-26/zoning-map-terre-pont.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

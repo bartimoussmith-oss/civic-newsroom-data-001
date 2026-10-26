@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "5eab8967b848267f0180e7d9bf404c1c5c606b1c7782792f2a2d4569d50f2025",
+  "title": "March 6, 2015 Special Meeting Minutes",
+  "text_path": "records/5eab8967b848267f0180e7d9bf404c1c5c606b1c7782792f2a2d4569d50f2025.md",
+  "representation_sha256": "fa8eaf8a017b4e56975e04e62695c17d6b05d0779a5b390a9fc17702380aaded",
+  "bytes": 9070,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-03-23/march-6-2015-special-meeting-minutes.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "4936a3eb77cd8c02709206c3e2f6961253623d984b6590772bd10bb49716caa7",
+  "title": "fc-09-03-24-agenda",
+  "text_path": "records/4936a3eb77cd8c02709206c3e2f6961253623d984b6590772bd10bb49716caa7.md",
+  "representation_sha256": "52f6b172156ae7ca4c52ab2c0dc9527f49faf1f9ebd4a0967ef2f29eaa1c3949",
+  "bytes": 3380,
+  "year_path_label": "2024",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2024/finance-committee-2024-09-03/fc-09-03-24-agenda.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

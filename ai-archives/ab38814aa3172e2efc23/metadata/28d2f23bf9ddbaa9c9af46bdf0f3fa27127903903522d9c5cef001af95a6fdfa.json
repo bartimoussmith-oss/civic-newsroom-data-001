@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "28d2f23bf9ddbaa9c9af46bdf0f3fa27127903903522d9c5cef001af95a6fdfa",
+  "title": "Central Enterprises Application",
+  "text_path": "records/28d2f23bf9ddbaa9c9af46bdf0f3fa27127903903522d9c5cef001af95a6fdfa.md",
+  "representation_sha256": "c383dc5cc6f5064cd775b2bfdda124e223d5b8e735015c62af5098cc9083b448",
+  "bytes": 35633,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-11-09/central-enterprises-application.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

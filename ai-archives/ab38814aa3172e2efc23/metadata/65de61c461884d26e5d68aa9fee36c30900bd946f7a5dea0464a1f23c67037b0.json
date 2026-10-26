@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "65de61c461884d26e5d68aa9fee36c30900bd946f7a5dea0464a1f23c67037b0",
+  "title": "Wyoming 2-1-1, Inc.",
+  "text_path": "records/65de61c461884d26e5d68aa9fee36c30900bd946f7a5dea0464a1f23c67037b0.md",
+  "representation_sha256": "16a819f7c277e33a82b96dde52852400c7979712ec70b15946461befb149c3b0",
+  "bytes": 12813,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-10-10/wyoming-2-1-1-inc.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

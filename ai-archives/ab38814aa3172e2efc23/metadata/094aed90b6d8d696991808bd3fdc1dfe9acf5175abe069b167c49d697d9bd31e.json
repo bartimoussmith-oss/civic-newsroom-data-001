@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "094aed90b6d8d696991808bd3fdc1dfe9acf5175abe069b167c49d697d9bd31e",
+  "title": "Final Plat Map Saddle Ridge, 8th Filing",
+  "text_path": "records/094aed90b6d8d696991808bd3fdc1dfe9acf5175abe069b167c49d697d9bd31e.md",
+  "representation_sha256": "af9499a82400521d3ac724feb9382aa352f1114164a633acc6af4601974c9d6a",
+  "bytes": 14851,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-09-14/final-plat-map-saddle-ridge-8th-filing.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

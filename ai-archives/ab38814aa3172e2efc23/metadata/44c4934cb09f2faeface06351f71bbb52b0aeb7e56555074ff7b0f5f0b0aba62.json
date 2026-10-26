@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "44c4934cb09f2faeface06351f71bbb52b0aeb7e56555074ff7b0f5f0b0aba62",
+  "title": "Supporting Document - Purchase Agreement - Supporting Document - Purchase Agreement",
+  "text_path": "records/44c4934cb09f2faeface06351f71bbb52b0aeb7e56555074ff7b0f5f0b0aba62.md",
+  "representation_sha256": "6ca0ebd23714ececab1f16238f12d906f3efa8f0b861804d5075ea2dfb199b4a",
+  "bytes": 32559,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-11-12/supporting-document-purchase-agreement-supporting-document-purchase-ag.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

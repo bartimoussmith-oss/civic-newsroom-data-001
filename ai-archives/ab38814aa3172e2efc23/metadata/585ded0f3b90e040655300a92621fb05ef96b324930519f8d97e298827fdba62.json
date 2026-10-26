@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "585ded0f3b90e040655300a92621fb05ef96b324930519f8d97e298827fdba62",
+  "title": "Resolution Johnson Outside user Agreement",
+  "text_path": "records/585ded0f3b90e040655300a92621fb05ef96b324930519f8d97e298827fdba62.md",
+  "representation_sha256": "43a1a5b040a58419ac39295bb917a03da5baa2e5170784266669f1a3d52ad467",
+  "bytes": 2989,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-09-09/resolution-johnson-outside-user-agreement.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

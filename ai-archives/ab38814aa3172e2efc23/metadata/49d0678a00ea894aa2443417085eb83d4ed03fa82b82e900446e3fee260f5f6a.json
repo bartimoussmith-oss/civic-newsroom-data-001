@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "49d0678a00ea894aa2443417085eb83d4ed03fa82b82e900446e3fee260f5f6a",
+  "title": "June 11, 2012 Payroll Payable JK",
+  "text_path": "records/49d0678a00ea894aa2443417085eb83d4ed03fa82b82e900446e3fee260f5f6a.md",
+  "representation_sha256": "5b3484bdd335bf8b8c0d6de864d6027d30b95fbd49900bcf101a527faff856e8",
+  "bytes": 2092,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-06-11/june-11-2012-payroll-payable-jk.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

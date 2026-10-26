@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "f1f41c22a7174f973b100f2820cde70115bec5736de6ef2469aaf3898898d04a",
+  "title": "Specification Overview",
+  "text_path": "records/f1f41c22a7174f973b100f2820cde70115bec5736de6ef2469aaf3898898d04a.md",
+  "representation_sha256": "b120342915318c2746be3fcf6776ed9b68efc3eadcd38cff1de3b93027d58ec6",
+  "bytes": 9035,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-02-24/specification-overview.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

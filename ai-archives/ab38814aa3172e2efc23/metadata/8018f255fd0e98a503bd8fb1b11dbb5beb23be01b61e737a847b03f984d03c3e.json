@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "8018f255fd0e98a503bd8fb1b11dbb5beb23be01b61e737a847b03f984d03c3e",
+  "title": "November 14 Payable, part 1 of 3",
+  "text_path": "records/8018f255fd0e98a503bd8fb1b11dbb5beb23be01b61e737a847b03f984d03c3e.md",
+  "representation_sha256": "cbfcfbfdf31840f0fbf5e1b6afd188022b7f820683de2d334c9aeb1383499df0",
+  "bytes": 150146,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-11-14/november-14-payable.part1.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

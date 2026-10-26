@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "925189105bf5b8472ae120ddf77a9ddd1f5c925d81c04e6fc2da99e46eeb3722",
+  "title": "Swan Ranch Annexation Map",
+  "text_path": "records/925189105bf5b8472ae120ddf77a9ddd1f5c925d81c04e6fc2da99e46eeb3722.md",
+  "representation_sha256": "b72c3d17b38bfaa645f79f340d14276ac4d09b10aec3f80dc987f7bfce6a764a",
+  "bytes": 1801,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/swan-ranch-annexation-map.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

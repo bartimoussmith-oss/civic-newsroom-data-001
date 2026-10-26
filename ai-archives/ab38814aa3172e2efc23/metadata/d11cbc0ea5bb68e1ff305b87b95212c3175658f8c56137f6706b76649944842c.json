@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d11cbc0ea5bb68e1ff305b87b95212c3175658f8c56137f6706b76649944842c",
+  "title": "Sept. 26 Voucher Payables, part 3 of 3",
+  "text_path": "records/d11cbc0ea5bb68e1ff305b87b95212c3175658f8c56137f6706b76649944842c.md",
+  "representation_sha256": "113591efaa164fec182a605e97def202cdfb26127369da6a5ff5daaf689ab27c",
+  "bytes": 76371,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-09-26/sept-26-voucher-payables.part3.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

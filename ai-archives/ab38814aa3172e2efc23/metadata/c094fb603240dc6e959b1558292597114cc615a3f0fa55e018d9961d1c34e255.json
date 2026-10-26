@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "c094fb603240dc6e959b1558292597114cc615a3f0fa55e018d9961d1c34e255",
+  "title": "High Plains Entertainment, Inc. Backup Documents",
+  "text_path": "records/c094fb603240dc6e959b1558292597114cc615a3f0fa55e018d9961d1c34e255.md",
+  "representation_sha256": "d0daa5ace001f3f3a50a7230186292e8d2f6c59fbbbe6a471a1103cb7d887953",
+  "bytes": 18297,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-11-25/high-plains-entertainment-inc-backup-documents.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

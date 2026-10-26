@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "5bebbbeb44ee7dc0f6db75e463b76ebf3208962fcf43c2c83a3a0c2540eaa015",
+  "title": "Minutes",
+  "text_path": "records/5bebbbeb44ee7dc0f6db75e463b76ebf3208962fcf43c2c83a3a0c2540eaa015.md",
+  "representation_sha256": "ca32d7869fe590956c8c67881f8768eb3f767028204c0a2207c865bf3ec17f45",
+  "bytes": 8224,
+  "year_path_label": "2025",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2025/planning-commission-2025-04-10/minutes.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

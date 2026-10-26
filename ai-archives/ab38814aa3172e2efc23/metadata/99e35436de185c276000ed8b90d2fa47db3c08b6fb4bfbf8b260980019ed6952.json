@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "99e35436de185c276000ed8b90d2fa47db3c08b6fb4bfbf8b260980019ed6952",
+  "title": "Jan 7, 2013 First Regular Meeting Minutes",
+  "text_path": "records/99e35436de185c276000ed8b90d2fa47db3c08b6fb4bfbf8b260980019ed6952.md",
+  "representation_sha256": "44833f2a7929ba7790c471488d6deacc94bae4c25f3083b9d50c81e67f9215f0",
+  "bytes": 6640,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-01-14/jan-7-2013-first-regular-meeting-minutes.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

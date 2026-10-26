@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "03e20f74263a16168f5eea238a9b88a648e80a061aaeb37013564e69022d9629",
+  "title": "Early Childhood Education Resolution Letter",
+  "text_path": "records/03e20f74263a16168f5eea238a9b88a648e80a061aaeb37013564e69022d9629.md",
+  "representation_sha256": "5341425ecb49681d0e387c2f9240b5edf43f559ae65f42ef4360e07d9d85bb15",
+  "bytes": 3113,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/early-childhood-education-resolution-letter.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

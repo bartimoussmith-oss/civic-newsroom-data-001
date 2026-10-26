@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "3a7497ba0d53e086fc32989c28cd934b507fb60b33049806478cf81629eadefb",
+  "title": "Professional Services Agreement",
+  "text_path": "records/3a7497ba0d53e086fc32989c28cd934b507fb60b33049806478cf81629eadefb.md",
+  "representation_sha256": "72ba9fd1d24956c958ec2e048420080bca2a42f10bbd8e0d63353e9344ce2869",
+  "bytes": 22283,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-11-14/professional-services-agreement.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

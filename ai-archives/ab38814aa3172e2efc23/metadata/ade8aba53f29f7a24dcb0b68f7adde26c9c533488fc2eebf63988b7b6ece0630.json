@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "ade8aba53f29f7a24dcb0b68f7adde26c9c533488fc2eebf63988b7b6ece0630",
+  "title": "City Council — Monday, November 9, 2015",
+  "text_path": "records/ade8aba53f29f7a24dcb0b68f7adde26c9c533488fc2eebf63988b7b6ece0630.md",
+  "representation_sha256": "ae66719651b9b86aa243b85fc39abfb4df56b54f0a4435af94850f57387ec2c0",
+  "bytes": 31627,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "meetings/2015/city-council-2015-11-09.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

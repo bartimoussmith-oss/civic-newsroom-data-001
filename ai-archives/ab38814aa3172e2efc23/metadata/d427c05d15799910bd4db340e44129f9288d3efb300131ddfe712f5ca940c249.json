@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d427c05d15799910bd4db340e44129f9288d3efb300131ddfe712f5ca940c249",
+  "title": "June 13, 2011 Payable",
+  "text_path": "records/d427c05d15799910bd4db340e44129f9288d3efb300131ddfe712f5ca940c249.md",
+  "representation_sha256": "6913a9a66aa0c86fe517b55c3472d0e4e4d7cc7415489f84fe89d0029c652ccd",
+  "bytes": 1617,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-06-13/june-13-2011-payable.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

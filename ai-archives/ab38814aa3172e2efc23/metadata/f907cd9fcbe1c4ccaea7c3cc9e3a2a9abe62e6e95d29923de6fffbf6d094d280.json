@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "f907cd9fcbe1c4ccaea7c3cc9e3a2a9abe62e6e95d29923de6fffbf6d094d280",
+  "title": "Swan Ranch Annexation Ordinance",
+  "text_path": "records/f907cd9fcbe1c4ccaea7c3cc9e3a2a9abe62e6e95d29923de6fffbf6d094d280.md",
+  "representation_sha256": "fc1fa8858cfefdc51da0f80258bbed578dec02b78f6ee153b691a20f4131209f",
+  "bytes": 5082,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/swan-ranch-annexation-ordinance.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

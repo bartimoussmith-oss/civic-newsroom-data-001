@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "745608fe3aad3045edd3a05f5dbdaa7c8c1f887e9298955145c80e0cba24beda",
+  "title": "Bill of Sale",
+  "text_path": "records/745608fe3aad3045edd3a05f5dbdaa7c8c1f887e9298955145c80e0cba24beda.md",
+  "representation_sha256": "2c5f09c25124105d5030fc0bcb1a1e5d60e074a802d4263215fe554b0f24d7d7",
+  "bytes": 3225,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-10-28/bill-of-sale.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

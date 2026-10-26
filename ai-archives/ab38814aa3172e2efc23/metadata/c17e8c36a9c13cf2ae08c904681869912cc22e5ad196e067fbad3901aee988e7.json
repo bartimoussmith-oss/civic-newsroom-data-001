@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "c17e8c36a9c13cf2ae08c904681869912cc22e5ad196e067fbad3901aee988e7",
+  "title": "Agenda Only - Summary of Amendments from Committee of the Whole - Summary of Amendments from Committee of the Whole Meeting",
+  "text_path": "records/c17e8c36a9c13cf2ae08c904681869912cc22e5ad196e067fbad3901aee988e7.md",
+  "representation_sha256": "856575a04d93dac55fbdbdbfd8e4725ae7d46d12e9c7ab2095e139e8f22693e2",
+  "bytes": 8220,
+  "year_path_label": "2020",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2020/city-council-2020-06-16-special/agenda-only-summary-of-amendments-from-committee-of-the-whole-summary.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

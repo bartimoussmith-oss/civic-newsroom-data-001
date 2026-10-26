@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "fd2f9a405b4c1cac08f79a305ec8d39b2807d25a11cce6669b19dfe830dd8cf8",
+  "title": "12-18-17 Updated Staff Memo",
+  "text_path": "records/fd2f9a405b4c1cac08f79a305ec8d39b2807d25a11cce6669b19dfe830dd8cf8.md",
+  "representation_sha256": "54d19b9c3980d0b0f1b332c0c5dac95cc4a5822321169bf129cf5c2787a3b777",
+  "bytes": 5072,
+  "year_path_label": "2017",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2017/city-council-2017-12-20/12-18-17-updated-staff-memo.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

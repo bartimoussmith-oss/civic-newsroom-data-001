@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "58b8579da2ffffd18760c4b2de3a08f0ea0e9bc3acbdb805bf30a5da7d270c09",
+  "title": "Notice of Meeting",
+  "text_path": "records/58b8579da2ffffd18760c4b2de3a08f0ea0e9bc3acbdb805bf30a5da7d270c09.md",
+  "representation_sha256": "e3eeedd4edec7b5d6914c8ce79484f7f4e0b04daece32ee9f361e1f7638a1919",
+  "bytes": 4445,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-08-26/notice-of-meeting.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "ee7e8935af90acbb243efd3b235e4289476f1f8906e2de51612b539ebf12157e",
+  "title": "Exhibit A-2 Land Lease Agreement",
+  "text_path": "records/ee7e8935af90acbb243efd3b235e4289476f1f8906e2de51612b539ebf12157e.md",
+  "representation_sha256": "0aea340335c9d2bd5115bd8b3c10f231bdbf617df76c53a90029898ccac4c539",
+  "bytes": 2618,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-07-11/exhibit-a-2-land-lease-agreement.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

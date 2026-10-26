@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "675c484cfd679ba08d4f9879c001e64137ad0f8fdd379885f49e93130d88cd69",
+  "title": "Agenda Only - Summary of Amemdments from Finance Committee",
+  "text_path": "records/675c484cfd679ba08d4f9879c001e64137ad0f8fdd379885f49e93130d88cd69.md",
+  "representation_sha256": "de293a4806752dcb313b449a528d4533d022fa58105e836241af0c10b6d371d6",
+  "bytes": 3610,
+  "year_path_label": "2020",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2020/city-council-2020-05-26/agenda-only-summary-of-amemdments-from-finance-committee.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

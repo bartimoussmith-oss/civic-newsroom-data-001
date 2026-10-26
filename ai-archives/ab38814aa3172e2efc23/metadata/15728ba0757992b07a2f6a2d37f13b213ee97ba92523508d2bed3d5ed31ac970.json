@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "15728ba0757992b07a2f6a2d37f13b213ee97ba92523508d2bed3d5ed31ac970",
+  "title": "Sam’s West Retail Liquor License Backup",
+  "text_path": "records/15728ba0757992b07a2f6a2d37f13b213ee97ba92523508d2bed3d5ed31ac970.md",
+  "representation_sha256": "60768e4bbbc68b575df137353abbe551b6ee655d648a945bc6823c405f7f53a6",
+  "bytes": 38295,
+  "year_path_label": "2016",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2016/city-council-2016-05-09/sam-s-west-retail-liquor-license-backup.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

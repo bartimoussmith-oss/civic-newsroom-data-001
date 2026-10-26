@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "2e49e945f1fb320fb728f2653950f37eaeebf1fb70ee31c608a953c224349f4a",
+  "title": "Grant Agreement accepting Federal Aviation Grant A - Grant Agreement accepting Federal Aviation Grant AIP \\#54 for the purchase of snow removal equipment by the Cheyenne Regional Airport Board",
+  "text_path": "records/2e49e945f1fb320fb728f2653950f37eaeebf1fb70ee31c608a953c224349f4a.md",
+  "representation_sha256": "88d70e6ce748c78dabcdc770dd6af925c52f195b8ff3e0de13d9489112912e54",
+  "bytes": 32641,
+  "year_path_label": "2017",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2017/city-council-2017-07-24/grant-agreement-accepting-federal-aviation-grant-a-grant-agreement-acc.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

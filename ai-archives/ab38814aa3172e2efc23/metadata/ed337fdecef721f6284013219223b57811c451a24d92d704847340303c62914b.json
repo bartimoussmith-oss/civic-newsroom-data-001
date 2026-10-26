@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "ed337fdecef721f6284013219223b57811c451a24d92d704847340303c62914b",
+  "title": "American Red Cross",
+  "text_path": "records/ed337fdecef721f6284013219223b57811c451a24d92d704847340303c62914b.md",
+  "representation_sha256": "df03a37ef32fa6f685bf4385b42a5ee6384ab0037cbe90579fa404771cac9b4d",
+  "bytes": 3214,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-05-24/american-red-cross.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

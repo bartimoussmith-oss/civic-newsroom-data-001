@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "2a0384b91aa471c787f9240e0f9528b2f571f43b047d5384e2e251a9fa0c518a",
+  "title": "Contract for animal control services",
+  "text_path": "records/2a0384b91aa471c787f9240e0f9528b2f571f43b047d5384e2e251a9fa0c518a.md",
+  "representation_sha256": "1aecdbf0a3d304e3cd5a94acdf2a0b835dbc13244b329ace1b373dffb34b1e02",
+  "bytes": 13291,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/contract-for-animal-control-services.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

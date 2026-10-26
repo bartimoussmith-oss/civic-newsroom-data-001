@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "ed02d0a24e2a026362ef197e842f3918c42d12f942b62f6a8f61ac6260199ef6",
+  "title": "Comprehensive Consolidated Plan",
+  "text_path": "records/ed02d0a24e2a026362ef197e842f3918c42d12f942b62f6a8f61ac6260199ef6.md",
+  "representation_sha256": "1a498b2f294fa2956272aff3ef6168f3e5f8126b3b47fe3a9bc5967a2c5b89be",
+  "bytes": 1655,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-04-27/comprehensive-consolidated-plan.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

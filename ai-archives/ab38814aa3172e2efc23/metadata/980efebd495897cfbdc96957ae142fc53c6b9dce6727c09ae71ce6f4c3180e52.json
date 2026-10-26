@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "980efebd495897cfbdc96957ae142fc53c6b9dce6727c09ae71ce6f4c3180e52",
+  "title": "Resolution Final Plat Cooley Subdivision",
+  "text_path": "records/980efebd495897cfbdc96957ae142fc53c6b9dce6727c09ae71ce6f4c3180e52.md",
+  "representation_sha256": "fad85752c6d3c386c1121221207f0d69840566b7c43855a95295f3e58f663687",
+  "bytes": 21922,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/resolution-final-plat-cooley-subdivision.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

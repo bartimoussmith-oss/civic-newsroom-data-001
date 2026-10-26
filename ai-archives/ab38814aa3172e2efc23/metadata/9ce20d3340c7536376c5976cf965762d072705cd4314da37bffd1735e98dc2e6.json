@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "9ce20d3340c7536376c5976cf965762d072705cd4314da37bffd1735e98dc2e6",
+  "title": "Terre Pont Annexation Ordinance",
+  "text_path": "records/9ce20d3340c7536376c5976cf965762d072705cd4314da37bffd1735e98dc2e6.md",
+  "representation_sha256": "e5742c0faae0e310c155170f90387c8c32e39633a5e060ab96e9c1246ae82ab2",
+  "bytes": 4836,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-09-09/terre-pont-annexation-ordinance.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

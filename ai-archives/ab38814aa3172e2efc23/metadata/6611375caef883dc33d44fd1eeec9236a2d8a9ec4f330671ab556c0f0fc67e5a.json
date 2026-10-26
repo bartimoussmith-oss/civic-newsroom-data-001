@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "6611375caef883dc33d44fd1eeec9236a2d8a9ec4f330671ab556c0f0fc67e5a",
+  "title": "Agenda CHEY-2024-07-02",
+  "text_path": "records/6611375caef883dc33d44fd1eeec9236a2d8a9ec4f330671ab556c0f0fc67e5a.md",
+  "representation_sha256": "d35d6210ee829e959037fe34ceec47e0ed9a9aed76dbc2006a549fa41046e118",
+  "bytes": 9619,
+  "year_path_label": "2024",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2024/city-council-2024-07-02/agenda-chey-2024-07-02.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

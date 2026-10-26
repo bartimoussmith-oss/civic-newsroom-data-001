@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "b11dc826d9c11455e504c26793c6d28bd70aeeae8f2113721e32c5e3a96c559a",
+  "title": "Proposed Substitute for October 8, 2012 - Not Appr - Proposed Substitute for October 8, 2012 - Not Approved",
+  "text_path": "records/b11dc826d9c11455e504c26793c6d28bd70aeeae8f2113721e32c5e3a96c559a.md",
+  "representation_sha256": "8daf4ab2c64de9a7f2647252615e6fb20d7df4d474acd4e0ceda02548112c008",
+  "bytes": 4281,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-10-08/proposed-substitute-for-october-8-2012-not-appr-proposed-substitute-fo.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

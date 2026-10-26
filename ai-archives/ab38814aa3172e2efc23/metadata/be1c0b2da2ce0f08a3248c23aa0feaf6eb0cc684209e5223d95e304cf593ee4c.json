@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "be1c0b2da2ce0f08a3248c23aa0feaf6eb0cc684209e5223d95e304cf593ee4c",
+  "title": "Southeast WY Foster Grandparent Program-Helping Yo - Southeast WY Foster Grandparent Program-Helping Youth",
+  "text_path": "records/be1c0b2da2ce0f08a3248c23aa0feaf6eb0cc684209e5223d95e304cf593ee4c.md",
+  "representation_sha256": "8a752c337c9f5a7ed5daa4cdb6fac9773a7369c710f95d0fb6de61d4d0762d6a",
+  "bytes": 3615,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-05-24/southeast-wy-foster-grandparent-program-helping-yo-southeast-wy-foster.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

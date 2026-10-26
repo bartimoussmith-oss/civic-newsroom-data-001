@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "adeb25d14c3e5ce3602c2ab4146400834cc33dbc1e32a098d3e68889145e8aac",
+  "title": "CLFP Franchise Agmt as amended 12.20.12",
+  "text_path": "records/adeb25d14c3e5ce3602c2ab4146400834cc33dbc1e32a098d3e68889145e8aac.md",
+  "representation_sha256": "6883892be448519ddbeed1da41a66375d382ce6e46da5004656c4f51e4d53f32",
+  "bytes": 51972,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-12-20/clfp-franchise-agmt-as-amended-12-20-12.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

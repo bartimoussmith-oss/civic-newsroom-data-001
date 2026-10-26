@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "9f58926f3da7e042bedf63831f939c951dc384fa5c35d92bf0348352f5508ea2",
+  "title": "Laramie County Board of County Commissioners — Thursday, June 26, 2025",
+  "text_path": "records/9f58926f3da7e042bedf63831f939c951dc384fa5c35d92bf0348352f5508ea2.md",
+  "representation_sha256": "e4a197042d3a8a352af3413c2a605af2061ee0b51fe69f86b6228a33ea002463",
+  "bytes": 2105,
+  "year_path_label": "2025",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "meetings/2025/board-of-county-commissioners-2025-06-26.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

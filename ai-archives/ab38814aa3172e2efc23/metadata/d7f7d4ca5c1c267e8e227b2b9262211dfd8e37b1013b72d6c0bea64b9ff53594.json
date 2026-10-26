@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d7f7d4ca5c1c267e8e227b2b9262211dfd8e37b1013b72d6c0bea64b9ff53594",
+  "title": "Supporting Document - Backup Information - Supporting Document - Backup Information",
+  "text_path": "records/d7f7d4ca5c1c267e8e227b2b9262211dfd8e37b1013b72d6c0bea64b9ff53594.md",
+  "representation_sha256": "481c2aa9b8169d890409b78c8512f6f1d7b98a30f902aaf87b9a6e7b6498a166",
+  "bytes": 4492,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-06-28/supporting-document-backup-information-supporting-document-backup-info.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

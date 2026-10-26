@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "527d85164846dea8733601c16a1411620ff0c324f886d60503557ed98a661df3",
+  "title": "Corrected Staff Report",
+  "text_path": "records/527d85164846dea8733601c16a1411620ff0c324f886d60503557ed98a661df3.md",
+  "representation_sha256": "62f77c20f0a066074499b2d1878890aa78f305b524c09b5e964dfb239995a1c6",
+  "bytes": 5825,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-12-28/corrected-staff-report.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

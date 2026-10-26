@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d295fb7202d4d4a45ed29a52c19f2e5a0fcb03bfd7e796f5f714fc1ef942a864",
+  "title": "Accomplice Beer Co. Microbrewery Application Backu - Accomplice Beer Co. Microbrewery Application Backup",
+  "text_path": "records/d295fb7202d4d4a45ed29a52c19f2e5a0fcb03bfd7e796f5f714fc1ef942a864.md",
+  "representation_sha256": "13f28045c53188bc236c8a72ea7056cb5d180c7e5484634e83fff4d104809dce",
+  "bytes": 22848,
+  "year_path_label": "2016",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2016/city-council-2016-05-09/accomplice-beer-co-microbrewery-application-backu-accomplice-beer-co-m.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

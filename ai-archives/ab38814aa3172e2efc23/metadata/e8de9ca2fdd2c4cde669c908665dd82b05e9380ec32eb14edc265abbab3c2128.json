@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "e8de9ca2fdd2c4cde669c908665dd82b05e9380ec32eb14edc265abbab3c2128",
+  "title": "Hazard Mitigation and Strategy Plan (Large File), part 2 of 5",
+  "text_path": "records/e8de9ca2fdd2c4cde669c908665dd82b05e9380ec32eb14edc265abbab3c2128.md",
+  "representation_sha256": "b470ae7de48006754441104ac4334b8275b07500038df78d5819a25305b9187d",
+  "bytes": 150116,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-01-14/hazard-mitigation-and-strategy-plan-large-file.part2.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

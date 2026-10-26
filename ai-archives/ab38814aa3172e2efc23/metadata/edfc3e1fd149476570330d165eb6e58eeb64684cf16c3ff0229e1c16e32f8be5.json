@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "edfc3e1fd149476570330d165eb6e58eeb64684cf16c3ff0229e1c16e32f8be5",
+  "title": "Converse Avenue Reconstruction Plan, part 2 of 3",
+  "text_path": "records/edfc3e1fd149476570330d165eb6e58eeb64684cf16c3ff0229e1c16e32f8be5.md",
+  "representation_sha256": "fb1d4bde5c8008dbbcb24be9b7e63d22624c66398644d9b854692d4c43e844b0",
+  "bytes": 150600,
+  "year_path_label": "2021",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2021/city-council-2021-11-08/converse-avenue-reconstruction-plan.part2.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

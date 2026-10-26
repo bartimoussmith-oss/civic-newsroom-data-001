@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "32ce68e574c55da71c3f4c9810e050a405f3116050ca0bb490fc65891ac11186",
+  "title": "Safehouse Services, Inc.",
+  "text_path": "records/32ce68e574c55da71c3f4c9810e050a405f3116050ca0bb490fc65891ac11186.md",
+  "representation_sha256": "97cd3d80887cf45ffb3bec392ab4d050507a17c2c131c40c9827480251555c08",
+  "bytes": 13094,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-10-10/safehouse-services-inc.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

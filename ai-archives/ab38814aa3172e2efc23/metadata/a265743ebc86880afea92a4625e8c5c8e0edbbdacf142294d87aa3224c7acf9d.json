@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "a265743ebc86880afea92a4625e8c5c8e0edbbdacf142294d87aa3224c7acf9d",
+  "title": "July 9, 2012 941 & Def Comp",
+  "text_path": "records/a265743ebc86880afea92a4625e8c5c8e0edbbdacf142294d87aa3224c7acf9d.md",
+  "representation_sha256": "1c2cb63f9f9babbdc357f41cd73e856a1598ea377ba740164c3f867520726d19",
+  "bytes": 2567,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-07-09/july-9-2012-941-def-comp.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

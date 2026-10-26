@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "75be7b678bec036a76c0d958e820433504eb3ac57877bbc75f52d73b5c6263ca",
+  "title": "BOPU Resolution",
+  "text_path": "records/75be7b678bec036a76c0d958e820433504eb3ac57877bbc75f52d73b5c6263ca.md",
+  "representation_sha256": "8906a7bd0aca0b8fe3d92753129604c23b61e48b545e6e05379dfade40dfb6f4",
+  "bytes": 6215,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-08-26/bopu-resolution.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

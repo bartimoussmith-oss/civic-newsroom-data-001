@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "e643a3980ad1720896385db317bbfc2e96cafc359511b25c23554a18ffc76e73",
+  "title": "Aug. 8, 2011 Auto Payable and Deferred Comp",
+  "text_path": "records/e643a3980ad1720896385db317bbfc2e96cafc359511b25c23554a18ffc76e73.md",
+  "representation_sha256": "2e2045eef494986abef5148af0c184acbba20f401cb72e37417ea5d8685acdee",
+  "bytes": 2533,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-08-08/aug-8-2011-auto-payable-and-deferred-comp.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "961ba34c378c3abe8fc0a6c728dad5e50ee7fd246f5ef417ba509ec64a665110",
+  "title": "Boys and Girls Club of Cheyenne",
+  "text_path": "records/961ba34c378c3abe8fc0a6c728dad5e50ee7fd246f5ef417ba509ec64a665110.md",
+  "representation_sha256": "18bbf512ec3bb2b1654998f73d6774fe53be390ce7bffd84fb05db0fb80579a9",
+  "bytes": 13115,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-10-10/boys-and-girls-club-of-cheyenne.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

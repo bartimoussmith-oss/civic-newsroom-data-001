@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "ad3e0e944c8e4f2add7b55d70e7046ce51814d747dcfcaecdcfcbb6a9119a889",
+  "title": "Feb. 13, 2012 Clerk of District Court Pymt.",
+  "text_path": "records/ad3e0e944c8e4f2add7b55d70e7046ce51814d747dcfcaecdcfcbb6a9119a889.md",
+  "representation_sha256": "a851aefa6ca364e6c92b429290f98c3888dd5ff4e49da61f00909049e0911a08",
+  "bytes": 2262,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-02-13/feb-13-2012-clerk-of-district-court-pymt.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

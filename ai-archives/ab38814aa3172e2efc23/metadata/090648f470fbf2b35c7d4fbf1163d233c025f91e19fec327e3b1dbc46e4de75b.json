@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "090648f470fbf2b35c7d4fbf1163d233c025f91e19fec327e3b1dbc46e4de75b",
+  "title": "April 11, 2011 Delta Payable",
+  "text_path": "records/090648f470fbf2b35c7d4fbf1163d233c025f91e19fec327e3b1dbc46e4de75b.md",
+  "representation_sha256": "cd1da8823aec54230af3421488d05a1746ea3231e2cfa9cf012d6e4bfa6c3898",
+  "bytes": 3229,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-04-11/april-11-2011-delta-payable.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

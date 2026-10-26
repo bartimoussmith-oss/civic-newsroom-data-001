@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "173d56e8276e25c15286fed2199eb5ecf6f157d0fe6a2b503f26439e877801c9",
+  "title": "Proposal",
+  "text_path": "records/173d56e8276e25c15286fed2199eb5ecf6f157d0fe6a2b503f26439e877801c9.md",
+  "representation_sha256": "65a455a59625096a435c54562927f1340305608d40820b79bf6de28416d03446",
+  "bytes": 83754,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-03-09/proposal.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

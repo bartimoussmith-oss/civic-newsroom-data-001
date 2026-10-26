@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "93c4c6f32321fea4089ca0d050b2ce24f7ffcfaf55aa72ac1eb02ffc3ec8ca61",
+  "title": "Feb. 8, 2016 City Council Minutes",
+  "text_path": "records/93c4c6f32321fea4089ca0d050b2ce24f7ffcfaf55aa72ac1eb02ffc3ec8ca61.md",
+  "representation_sha256": "285ebe1605eb9dcac43f13754eaa752dfe43217410dd060330dcc00beae659d1",
+  "bytes": 21772,
+  "year_path_label": "2016",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2016/city-council-2016-02-22/feb-8-2016-city-council-minutes.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

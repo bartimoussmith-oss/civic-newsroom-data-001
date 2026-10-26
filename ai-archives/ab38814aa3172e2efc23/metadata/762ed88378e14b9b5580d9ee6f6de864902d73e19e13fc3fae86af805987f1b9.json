@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "762ed88378e14b9b5580d9ee6f6de864902d73e19e13fc3fae86af805987f1b9",
+  "title": "Supporting Document Amended Exhibit A",
+  "text_path": "records/762ed88378e14b9b5580d9ee6f6de864902d73e19e13fc3fae86af805987f1b9.md",
+  "representation_sha256": "6bcfc1861617c9a3080de14e1b60fb7f3ec2a63d43dfb63791367bfc9a272300",
+  "bytes": 3772,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-06-27/supporting-document-amended-exhibit-a.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

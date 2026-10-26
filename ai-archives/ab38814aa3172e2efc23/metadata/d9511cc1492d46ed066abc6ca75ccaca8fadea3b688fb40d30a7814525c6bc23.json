@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d9511cc1492d46ed066abc6ca75ccaca8fadea3b688fb40d30a7814525c6bc23",
+  "title": "fc-11-04-25-minutes",
+  "text_path": "records/d9511cc1492d46ed066abc6ca75ccaca8fadea3b688fb40d30a7814525c6bc23.md",
+  "representation_sha256": "184cad2a5372fc98526b7aee78fd3854a59589b64cdb020a75c2a425f766d3a5",
+  "bytes": 4804,
+  "year_path_label": "2025",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2025/finance-committee-2025-11-04/fc-11-04-25-minutes.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

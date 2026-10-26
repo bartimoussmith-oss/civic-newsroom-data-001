@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "f25e550a17fb4db18f86de0c02975e057d94d63caaba99aef970c9860609eb71",
+  "title": "Res. SLIB Town of Albin",
+  "text_path": "records/f25e550a17fb4db18f86de0c02975e057d94d63caaba99aef970c9860609eb71.md",
+  "representation_sha256": "0a2f13861c81a8b644622adf381184dc17605ce3d4db6abae2399c3c871e1227",
+  "bytes": 3199,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-04-27/res-slib-town-of-albin.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

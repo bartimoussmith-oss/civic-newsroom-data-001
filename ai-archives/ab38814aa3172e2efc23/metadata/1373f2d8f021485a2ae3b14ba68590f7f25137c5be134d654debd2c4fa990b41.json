@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "1373f2d8f021485a2ae3b14ba68590f7f25137c5be134d654debd2c4fa990b41",
+  "title": "Cheyenne Health and Wellness Center - Dental Acess - Cheyenne Health and Wellness Center - Dental Acess",
+  "text_path": "records/1373f2d8f021485a2ae3b14ba68590f7f25137c5be134d654debd2c4fa990b41.md",
+  "representation_sha256": "2e3b3716112c6588d3d6ecacc347cee23daa68008b8b21083b1b196e55eea061",
+  "bytes": 13234,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-10-10/cheyenne-health-and-wellness-center-dental-acess-cheyenne-health-and-w.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

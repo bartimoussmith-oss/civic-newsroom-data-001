@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "7e2461aeafb375218fb79a61a76ad917b8c3bb392b6f8d8ec6064abf8c114d42",
+  "title": "Supporting Document Prof. Services Agreement",
+  "text_path": "records/7e2461aeafb375218fb79a61a76ad917b8c3bb392b6f8d8ec6064abf8c114d42.md",
+  "representation_sha256": "12d5296525d8b06a83cc988e564fc2eb3aff99c0e9f06e4bafcf6f487134cc7a",
+  "bytes": 32963,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-03-26/supporting-document-prof-services-agreement.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

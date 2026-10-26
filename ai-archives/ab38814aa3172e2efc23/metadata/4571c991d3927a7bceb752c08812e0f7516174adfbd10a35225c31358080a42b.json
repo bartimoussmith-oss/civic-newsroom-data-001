@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "4571c991d3927a7bceb752c08812e0f7516174adfbd10a35225c31358080a42b",
+  "title": "Minutes for June 24, 2013",
+  "text_path": "records/4571c991d3927a7bceb752c08812e0f7516174adfbd10a35225c31358080a42b.md",
+  "representation_sha256": "74541c308c5441f51fda7f7c5a9d487cbc10268aef8b83d300f94e97cc1dd4d6",
+  "bytes": 32357,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/minutes-for-june-24-2013.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

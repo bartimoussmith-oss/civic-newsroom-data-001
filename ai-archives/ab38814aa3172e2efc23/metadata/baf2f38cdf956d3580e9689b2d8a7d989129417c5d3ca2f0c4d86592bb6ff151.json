@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "baf2f38cdf956d3580e9689b2d8a7d989129417c5d3ca2f0c4d86592bb6ff151",
+  "title": "Cheyenne Little Theatre Players Backup Info",
+  "text_path": "records/baf2f38cdf956d3580e9689b2d8a7d989129417c5d3ca2f0c4d86592bb6ff151.md",
+  "representation_sha256": "544e0ca0b4f9a2ac98b1066b1c814f07d0fd6b761e4dcbfd9bbe1d375cf2f920",
+  "bytes": 46632,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-05-26/cheyenne-little-theatre-players-backup-info.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

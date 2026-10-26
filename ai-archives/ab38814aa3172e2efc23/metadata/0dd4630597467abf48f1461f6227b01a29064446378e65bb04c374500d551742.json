@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "0dd4630597467abf48f1461f6227b01a29064446378e65bb04c374500d551742",
+  "title": "Dec. 12 941 and Deferred Comp. Payment",
+  "text_path": "records/0dd4630597467abf48f1461f6227b01a29064446378e65bb04c374500d551742.md",
+  "representation_sha256": "ff848dcab0c65da59484a32e5ba28062c56d76886c37e8d5ec0f1e34d98abcad",
+  "bytes": 2498,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-12-12/dec-12-941-and-deferred-comp-payment.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

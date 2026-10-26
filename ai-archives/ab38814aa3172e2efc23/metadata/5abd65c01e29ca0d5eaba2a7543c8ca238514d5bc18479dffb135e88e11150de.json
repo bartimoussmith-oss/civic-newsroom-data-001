@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "5abd65c01e29ca0d5eaba2a7543c8ca238514d5bc18479dffb135e88e11150de",
+  "title": "July 22, 2013 Manual Check 3",
+  "text_path": "records/5abd65c01e29ca0d5eaba2a7543c8ca238514d5bc18479dffb135e88e11150de.md",
+  "representation_sha256": "d3ea30fcb90f13c601e53323584162a8ed810d0ee7ceb48f31829e45b0dc7ce9",
+  "bytes": 2088,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-22/july-22-2013-manual-check-3.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

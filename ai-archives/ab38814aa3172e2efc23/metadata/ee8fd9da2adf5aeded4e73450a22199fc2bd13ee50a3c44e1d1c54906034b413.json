@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "ee8fd9da2adf5aeded4e73450a22199fc2bd13ee50a3c44e1d1c54906034b413",
+  "title": "Annexation Map",
+  "text_path": "records/ee8fd9da2adf5aeded4e73450a22199fc2bd13ee50a3c44e1d1c54906034b413.md",
+  "representation_sha256": "fe7ed47b55e9ff466e304a66f2e1708f3ceb8d1df3aaf8328052e80c351ed743",
+  "bytes": 1465,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-07-14/annexation-map.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

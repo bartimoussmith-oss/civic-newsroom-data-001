@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d2110e3bf9c17bf349c9f9d127f7fe60ae7de6804cd0131c5dd9c77346b8c9b2",
+  "title": "Agenda",
+  "text_path": "records/d2110e3bf9c17bf349c9f9d127f7fe60ae7de6804cd0131c5dd9c77346b8c9b2.md",
+  "representation_sha256": "a85d9ae42898a70c7cfa4b355e5853ec80aa0c7a6a9f18ae5a0f54aea7719318",
+  "bytes": 6746,
+  "year_path_label": "2025",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2025/board-of-county-commissioners-2025-01-21/agenda.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

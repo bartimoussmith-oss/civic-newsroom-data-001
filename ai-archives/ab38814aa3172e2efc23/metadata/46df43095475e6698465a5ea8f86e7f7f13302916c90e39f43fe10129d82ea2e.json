@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "46df43095475e6698465a5ea8f86e7f7f13302916c90e39f43fe10129d82ea2e",
+  "title": "Vouchers for June 14, 2010",
+  "text_path": "records/46df43095475e6698465a5ea8f86e7f7f13302916c90e39f43fe10129d82ea2e.md",
+  "representation_sha256": "fcd20f5d33cc4f8692cbc54f68d0409fe67c49886ac08bdb76a00a1c093256d5",
+  "bytes": 133988,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-06-14/vouchers-for-june-14-2010.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

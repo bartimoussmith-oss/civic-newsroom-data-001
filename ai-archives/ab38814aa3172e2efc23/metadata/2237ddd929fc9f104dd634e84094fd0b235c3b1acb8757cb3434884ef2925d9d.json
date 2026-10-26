@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "2237ddd929fc9f104dd634e84094fd0b235c3b1acb8757cb3434884ef2925d9d",
+  "title": "Manual Check for CHOP Program Payment",
+  "text_path": "records/2237ddd929fc9f104dd634e84094fd0b235c3b1acb8757cb3434884ef2925d9d.md",
+  "representation_sha256": "59161e964524204220468359264fd95c69a9b1b975a523341422465b83d8d13a",
+  "bytes": 2197,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-12-27/manual-check-for-chop-program-payment.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

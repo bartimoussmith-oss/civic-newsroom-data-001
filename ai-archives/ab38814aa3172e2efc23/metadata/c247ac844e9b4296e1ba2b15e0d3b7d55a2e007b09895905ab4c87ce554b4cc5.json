@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "c247ac844e9b4296e1ba2b15e0d3b7d55a2e007b09895905ab4c87ce554b4cc5",
+  "title": "Finance Committee — Monday, May 2, 2022",
+  "text_path": "records/c247ac844e9b4296e1ba2b15e0d3b7d55a2e007b09895905ab4c87ce554b4cc5.md",
+  "representation_sha256": "9bb7c86f7f1245fcda09bf78772f1a616c1ee9f09b9caa7feb35a23db360d50e",
+  "bytes": 1572,
+  "year_path_label": "2022",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "meetings/2022/finance-committee-2022-05-02.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

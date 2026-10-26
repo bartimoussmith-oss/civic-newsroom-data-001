@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "bdb273e97e1fb5f9812f904b5cbcfb90d45a21f0ce9c2902caaea97ed74ee9fb",
+  "title": "Cont. with LCSD \\#1 for resource officer for summer - Cont. with LCSD \\#1 for resource officer for summer school",
+  "text_path": "records/bdb273e97e1fb5f9812f904b5cbcfb90d45a21f0ce9c2902caaea97ed74ee9fb.md",
+  "representation_sha256": "745feaef9d19354f2c54ecf0b118c48e0ef9e9a16c63f6809f4445eaa99f803f",
+  "bytes": 9538,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-04-27/cont-with-lcsd-1-for-resource-officer-for-summer-cont-with-lcsd-1-for.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

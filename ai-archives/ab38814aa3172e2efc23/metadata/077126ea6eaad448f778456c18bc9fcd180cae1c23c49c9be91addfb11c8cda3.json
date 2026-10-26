@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "077126ea6eaad448f778456c18bc9fcd180cae1c23c49c9be91addfb11c8cda3",
+  "title": "Proposed Substitute Easement Agreement",
+  "text_path": "records/077126ea6eaad448f778456c18bc9fcd180cae1c23c49c9be91addfb11c8cda3.md",
+  "representation_sha256": "dabde09b30aa7c5defb72521e7c41deff26d5d3fa03ab34e9299217dbcded9a3",
+  "bytes": 14485,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-11-09/proposed-substitute-easement-agreement.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

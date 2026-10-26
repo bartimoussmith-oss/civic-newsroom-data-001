@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "b4decbd770a0b0a73320a910fd8d025210389ea732be7bfefa6e052f682f0598",
+  "title": "Lease with Option to Purchase",
+  "text_path": "records/b4decbd770a0b0a73320a910fd8d025210389ea732be7bfefa6e052f682f0598.md",
+  "representation_sha256": "aef3f4b5f41ac1a2aa81bd02f63b816566dffd164a5b041585f1ac0458efb191",
+  "bytes": 106415,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-10-28/lease-with-option-to-purchase.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

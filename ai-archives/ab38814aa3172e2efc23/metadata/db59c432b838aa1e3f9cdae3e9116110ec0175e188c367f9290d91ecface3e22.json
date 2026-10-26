@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "db59c432b838aa1e3f9cdae3e9116110ec0175e188c367f9290d91ecface3e22",
+  "title": "Nov. 12, 2013 Minutes",
+  "text_path": "records/db59c432b838aa1e3f9cdae3e9116110ec0175e188c367f9290d91ecface3e22.md",
+  "representation_sha256": "3921bdca40b15bc6a69d93269e990c77e3ca3fd8a18f45957ae3efae66a720e3",
+  "bytes": 34980,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-11-25/nov-12-2013-minutes.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

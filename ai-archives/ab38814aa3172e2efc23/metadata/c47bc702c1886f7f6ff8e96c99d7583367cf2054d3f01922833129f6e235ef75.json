@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "c47bc702c1886f7f6ff8e96c99d7583367cf2054d3f01922833129f6e235ef75",
+  "title": "Transcript: Planning Commission — Monday, March 2, 2026, part 1 of 2",
+  "text_path": "records/c47bc702c1886f7f6ff8e96c99d7583367cf2054d3f01922833129f6e235ef75.md",
+  "representation_sha256": "59bdc5382cca9661ce178f3c65365d9e9e31533f82a2908d1ceb38a5a7f9885e",
+  "bytes": 150235,
+  "year_path_label": "2026",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2026/planning-commission-2026-03-02/transcript.part1.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

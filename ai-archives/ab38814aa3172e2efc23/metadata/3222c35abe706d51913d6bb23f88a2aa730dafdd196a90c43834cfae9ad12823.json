@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "3222c35abe706d51913d6bb23f88a2aa730dafdd196a90c43834cfae9ad12823",
+  "title": "Caption transcript: Finance Committee — Tuesday, July 22, 2025",
+  "text_path": "records/3222c35abe706d51913d6bb23f88a2aa730dafdd196a90c43834cfae9ad12823.md",
+  "representation_sha256": "86cb7c7c20ab08d966b05ebe3752e43e593a20c7af71928a7198e0d312b55a93",
+  "bytes": 12306,
+  "year_path_label": "2025",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2025/finance-committee-2025-07-22/captions.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

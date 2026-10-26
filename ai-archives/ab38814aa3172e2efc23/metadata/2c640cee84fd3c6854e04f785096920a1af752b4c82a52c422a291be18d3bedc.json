@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "2c640cee84fd3c6854e04f785096920a1af752b4c82a52c422a291be18d3bedc",
+  "title": "City Council — Monday, April 12, 2021",
+  "text_path": "records/2c640cee84fd3c6854e04f785096920a1af752b4c82a52c422a291be18d3bedc.md",
+  "representation_sha256": "b12c0aa0867ebf6819d3c077e4c6665b515f48fbed7f037aecd88a00b85b9639",
+  "bytes": 40739,
+  "year_path_label": "2021",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "meetings/2021/city-council-2021-04-12.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

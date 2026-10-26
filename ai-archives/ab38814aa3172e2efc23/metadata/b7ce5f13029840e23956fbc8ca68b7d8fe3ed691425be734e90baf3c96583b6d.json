@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "b7ce5f13029840e23956fbc8ca68b7d8fe3ed691425be734e90baf3c96583b6d",
+  "title": "Substitute Collateral Assignment of Note, Mortgage - Substitute Collateral Assignment of Note, Mortgage and Granite Loan Documents",
+  "text_path": "records/b7ce5f13029840e23956fbc8ca68b7d8fe3ed691425be734e90baf3c96583b6d.md",
+  "representation_sha256": "32bd14906c27c19a4c836ea79ed7b2d0bbf559a6d51748c4e864673646c6e2ae",
+  "bytes": 11876,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-05-27/substitute-collateral-assignment-of-note-mortgage-substitute-collatera.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

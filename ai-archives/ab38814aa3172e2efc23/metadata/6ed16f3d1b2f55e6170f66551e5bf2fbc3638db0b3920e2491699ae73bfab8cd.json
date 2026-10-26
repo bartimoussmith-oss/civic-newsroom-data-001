@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "6ed16f3d1b2f55e6170f66551e5bf2fbc3638db0b3920e2491699ae73bfab8cd",
+  "title": "fc-04-04-22-agenda",
+  "text_path": "records/6ed16f3d1b2f55e6170f66551e5bf2fbc3638db0b3920e2491699ae73bfab8cd.md",
+  "representation_sha256": "677b57888b5acb2450144617cd3514244003e9465d620d1cb725fccfb9bfd2e2",
+  "bytes": 5158,
+  "year_path_label": "2022",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2022/finance-committee-2022-04-04/fc-04-04-22-agenda.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

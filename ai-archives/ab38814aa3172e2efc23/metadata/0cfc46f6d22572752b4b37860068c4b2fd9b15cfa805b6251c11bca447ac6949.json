@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "0cfc46f6d22572752b4b37860068c4b2fd9b15cfa805b6251c11bca447ac6949",
+  "title": "Proposed Substitute Approved at 9-18-12 PSC Meetin - Proposed Substitute Approved at 9-18-12 PSC Meeting",
+  "text_path": "records/0cfc46f6d22572752b4b37860068c4b2fd9b15cfa805b6251c11bca447ac6949.md",
+  "representation_sha256": "32bfedb209ea47f8a610b0042b0fc2bee5ada254dd0d5e7a005239bba2d4e6c3",
+  "bytes": 10696,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-09-24/proposed-substitute-approved-at-9-18-12-psc-meetin-proposed-substitute.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

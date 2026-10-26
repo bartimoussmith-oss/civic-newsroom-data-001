@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "acafe5b925002bcf1e9e8bfe902cae1e1e6e732dc2470864ff5fe025e225929a",
+  "title": "ws-05-14-25-agenda 1",
+  "text_path": "records/acafe5b925002bcf1e9e8bfe902cae1e1e6e732dc2470864ff5fe025e225929a.md",
+  "representation_sha256": "d6aef011ade0a3be014de82d14332a9fd1c64b49c2f8716abf8502bab48f97e3",
+  "bytes": 1634,
+  "year_path_label": "2025",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2025/work-sessions-2025-05-14/ws-05-14-25-agenda-1.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

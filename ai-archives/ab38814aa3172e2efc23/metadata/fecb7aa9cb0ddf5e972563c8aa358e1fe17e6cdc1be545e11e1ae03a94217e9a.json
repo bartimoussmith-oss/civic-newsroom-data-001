@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "fecb7aa9cb0ddf5e972563c8aa358e1fe17e6cdc1be545e11e1ae03a94217e9a",
+  "title": "Appendix C",
+  "text_path": "records/fecb7aa9cb0ddf5e972563c8aa358e1fe17e6cdc1be545e11e1ae03a94217e9a.md",
+  "representation_sha256": "00253a46e2fb4582a332b454ea5cd9fe373025f6ea43317c51371df94e91d177",
+  "bytes": 58721,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-11-25/appendix-c.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "6f109491e69fe0d436a300db4e1d543ab5062ab994a3065142728057a76e0ca8",
+  "title": "Admin. Guidelines",
+  "text_path": "records/6f109491e69fe0d436a300db4e1d543ab5062ab994a3065142728057a76e0ca8.md",
+  "representation_sha256": "c4bc01bfe9c100c1b9d048cddcf5b3a5a6e78903e8aed01be8153e1eddb6c776",
+  "bytes": 5981,
+  "year_path_label": "2009",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2009/city-council-2009-12-14/admin-guidelines.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

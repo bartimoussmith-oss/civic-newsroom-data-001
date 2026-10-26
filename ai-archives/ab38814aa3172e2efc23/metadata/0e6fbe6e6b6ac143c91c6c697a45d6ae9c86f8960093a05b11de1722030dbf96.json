@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "0e6fbe6e6b6ac143c91c6c697a45d6ae9c86f8960093a05b11de1722030dbf96",
+  "title": "WRCH-Cheyenne, Inc. Supporting Documents",
+  "text_path": "records/0e6fbe6e6b6ac143c91c6c697a45d6ae9c86f8960093a05b11de1722030dbf96.md",
+  "representation_sha256": "ff23af4b50d123b48352fa0782223704c026241043313c89f9a6bba60dcef951",
+  "bytes": 73771,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-04-14/wrch-cheyenne-inc-supporting-documents.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

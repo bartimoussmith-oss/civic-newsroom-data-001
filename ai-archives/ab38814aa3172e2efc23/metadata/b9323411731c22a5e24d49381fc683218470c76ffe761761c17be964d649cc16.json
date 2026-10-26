@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "b9323411731c22a5e24d49381fc683218470c76ffe761761c17be964d649cc16",
+  "title": "Rules for Contested Case Practice and Procedure be - Rules for Contested Case Practice and Procedure before the Office of Administrative Hearings (OAH Rules)",
+  "text_path": "records/b9323411731c22a5e24d49381fc683218470c76ffe761761c17be964d649cc16.md",
+  "representation_sha256": "799f2d4832a11c12acbdc1ec59d05a7f851b9685e3f877cb2076d5e0d5d002d3",
+  "bytes": 63591,
+  "year_path_label": "2021",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2021/city-council-2021-05-10/rules-for-contested-case-practice-and-procedure-be-rules-for-contested.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

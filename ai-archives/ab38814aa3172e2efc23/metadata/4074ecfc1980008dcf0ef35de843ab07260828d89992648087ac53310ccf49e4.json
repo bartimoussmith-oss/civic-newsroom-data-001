@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "4074ecfc1980008dcf0ef35de843ab07260828d89992648087ac53310ccf49e4",
+  "title": "Bid R-24-13",
+  "text_path": "records/4074ecfc1980008dcf0ef35de843ab07260828d89992648087ac53310ccf49e4.md",
+  "representation_sha256": "fcd694ea1179cf6b5deaafb4bf3878da8554506e92ef2e9e40a733145cf25040",
+  "bytes": 2366,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-03-25/bid-r-24-13.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

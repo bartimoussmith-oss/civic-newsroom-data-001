@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "a825b6a96c20bd4ad0a727b2bd1385fac98cde5e14946d815a0609e23d219fd9",
+  "title": "Cont. with Waste Management Disposal Svc. of CO",
+  "text_path": "records/a825b6a96c20bd4ad0a727b2bd1385fac98cde5e14946d815a0609e23d219fd9.md",
+  "representation_sha256": "f1d2a801232f0739458149fc2e9ea710e1919bef71ecbb6fc6ea1831a6149f00",
+  "bytes": 13966,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-06-08/cont-with-waste-management-disposal-svc-of-co.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

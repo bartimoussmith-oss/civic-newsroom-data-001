@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d13f77eb3be718e16a924bd4934c279d523b9512a90635e2382d1fc3c0fb7bad",
+  "title": "Substitute Memo",
+  "text_path": "records/d13f77eb3be718e16a924bd4934c279d523b9512a90635e2382d1fc3c0fb7bad.md",
+  "representation_sha256": "0098d1389ee10447398b35872b98c4e0800781cabae87ec69c11d057e915aaa8",
+  "bytes": 3147,
+  "year_path_label": "2024",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2024/city-council-2024-11-12/substitute-memo.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

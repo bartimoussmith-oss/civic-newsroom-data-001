@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "906e3b56cde36477608a87629e712e6f15653f95503a6bc6c0503680f0df5d64",
+  "title": "Caption transcript: City Council — Monday, September 10, 2018",
+  "text_path": "records/906e3b56cde36477608a87629e712e6f15653f95503a6bc6c0503680f0df5d64.md",
+  "representation_sha256": "3c9c7bd66fec6cdaa25ecedc5477cf20493d15e187266c2b2b57858755c67d47",
+  "bytes": 109548,
+  "year_path_label": "2018",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2018/city-council-2018-09-10/captions.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d7f6427f78c51ed43b74242a725c065158e237b17f3c320aec0dad67db61200d",
+  "title": "Annual Report Page 4",
+  "text_path": "records/d7f6427f78c51ed43b74242a725c065158e237b17f3c320aec0dad67db61200d.md",
+  "representation_sha256": "61c3a6b58f34eba02b76a252ddbff9b5de352a50e24371310a85bfeb86f80ddb",
+  "bytes": 1529,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-07-25/annual-report-page-4.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

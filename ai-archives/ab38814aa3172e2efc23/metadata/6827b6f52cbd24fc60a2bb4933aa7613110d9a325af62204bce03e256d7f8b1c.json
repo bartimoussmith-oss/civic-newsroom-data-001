@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "6827b6f52cbd24fc60a2bb4933aa7613110d9a325af62204bce03e256d7f8b1c",
+  "title": "Red Lobster Liquor Application Transfer Backup Inf - Red Lobster Liquor Application Transfer Backup Information",
+  "text_path": "records/6827b6f52cbd24fc60a2bb4933aa7613110d9a325af62204bce03e256d7f8b1c.md",
+  "representation_sha256": "58659a629eb3c09f910d8de83119f449a3dab97c4c9497f08157c417a4406d05",
+  "bytes": 47541,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-07-28/red-lobster-liquor-application-transfer-backup-inf-red-lobster-liquor.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

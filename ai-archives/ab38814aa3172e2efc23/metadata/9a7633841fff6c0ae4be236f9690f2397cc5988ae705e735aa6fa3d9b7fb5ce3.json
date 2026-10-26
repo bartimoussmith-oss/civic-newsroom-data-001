@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "9a7633841fff6c0ae4be236f9690f2397cc5988ae705e735aa6fa3d9b7fb5ce3",
+  "title": "Master Plan (large file)",
+  "text_path": "records/9a7633841fff6c0ae4be236f9690f2397cc5988ae705e735aa6fa3d9b7fb5ce3.md",
+  "representation_sha256": "452c61ec59103208b3614c5e76bf3fc5e694a1a93cd0a95969fac809622e7925",
+  "bytes": 102974,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-11-24/master-plan-large-file.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

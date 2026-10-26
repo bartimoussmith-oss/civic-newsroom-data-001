@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "3285741050eef69b8891143f19330bf40bd8e3afad36d18b1f0bcb0821a3cb2e",
+  "title": "City Council — Monday, January 6, 2025",
+  "text_path": "records/3285741050eef69b8891143f19330bf40bd8e3afad36d18b1f0bcb0821a3cb2e.md",
+  "representation_sha256": "1e75e0e6e8faf1b149e8f7b7c082005ddbd1a17599e03c2ced8042c15c9f0588",
+  "bytes": 7379,
+  "year_path_label": "2025",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "meetings/2025/city-council-2025-01-06-sine-die.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

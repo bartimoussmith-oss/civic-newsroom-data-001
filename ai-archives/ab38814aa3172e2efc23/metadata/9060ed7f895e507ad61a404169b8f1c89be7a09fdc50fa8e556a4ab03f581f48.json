@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "9060ed7f895e507ad61a404169b8f1c89be7a09fdc50fa8e556a4ab03f581f48",
+  "title": "Resolution",
+  "text_path": "records/9060ed7f895e507ad61a404169b8f1c89be7a09fdc50fa8e556a4ab03f581f48.md",
+  "representation_sha256": "bc6a97de4564614abff696d130ff864e7e1838cf57310dc38d376cf130237c69",
+  "bytes": 2940,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-04-27/resolution.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

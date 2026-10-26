@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "7988b46b213fa84ffffddf7623a153198d27e3da0c9d9363b68073aff822d1be",
+  "title": "Dec. 12, 2011 Payment to Laramie County Clerk for - Dec. 12, 2011 Payment to Laramie County Clerk for Quitclaim Deed",
+  "text_path": "records/7988b46b213fa84ffffddf7623a153198d27e3da0c9d9363b68073aff822d1be.md",
+  "representation_sha256": "2050e2f3846927f8dfb92a6bd157997b52c616781ebdbc6050798098ed6fffc5",
+  "bytes": 2430,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-12-12/dec-12-2011-payment-to-laramie-county-clerk-for-dec-12-2011-payment-to.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "4565c0a5b27a3d00065d029b436ae6fca634362207bda0634c19a1f09e1d9915",
+  "title": "Planning Commission — Thursday, March 26, 2026",
+  "text_path": "records/4565c0a5b27a3d00065d029b436ae6fca634362207bda0634c19a1f09e1d9915.md",
+  "representation_sha256": "bb68cf40d0a67bee9df720e5e79b573286ac6e1ea7bc83776797a44a0e60d368",
+  "bytes": 1337,
+  "year_path_label": "2026",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "meetings/2026/planning-commission-2026-03-26.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

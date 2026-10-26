@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d2721a5a9ee6b0399ba44e3dcd120bf86c81b8d64e11f8b88a50cc2960f0b681",
+  "title": "Supporting Document Resolution & Backup",
+  "text_path": "records/d2721a5a9ee6b0399ba44e3dcd120bf86c81b8d64e11f8b88a50cc2960f0b681.md",
+  "representation_sha256": "f00c0b1d2a3f443a82af21affd8b585cc3115d4629efe5237cc25336d03e285e",
+  "bytes": 10626,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-04-23/supporting-document-resolution-backup.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

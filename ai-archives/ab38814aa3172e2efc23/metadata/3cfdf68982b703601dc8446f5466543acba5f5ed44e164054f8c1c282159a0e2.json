@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "3cfdf68982b703601dc8446f5466543acba5f5ed44e164054f8c1c282159a0e2",
+  "title": "Ordinance as Amended",
+  "text_path": "records/3cfdf68982b703601dc8446f5466543acba5f5ed44e164054f8c1c282159a0e2.md",
+  "representation_sha256": "4390c7a3d43d4e79a129e5430ae372cf1dd978b0ab2d99fe57cace8430bac210",
+  "bytes": 2619,
+  "year_path_label": "2016",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2016/city-council-2016-07-11/ordinance-as-amended.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

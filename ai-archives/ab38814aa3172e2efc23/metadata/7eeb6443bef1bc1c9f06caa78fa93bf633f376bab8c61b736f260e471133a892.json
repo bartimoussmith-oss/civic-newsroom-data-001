@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "7eeb6443bef1bc1c9f06caa78fa93bf633f376bab8c61b736f260e471133a892",
+  "title": "Ordinance and Staff Report, Map for Korengay Homes - Ordinance and Staff Report, Map for Korengay Homesites",
+  "text_path": "records/7eeb6443bef1bc1c9f06caa78fa93bf633f376bab8c61b736f260e471133a892.md",
+  "representation_sha256": "299cc83e8c42ab6fcccbb4c14e4a4a7830ea1ae03910b293a63ceb295611420d",
+  "bytes": 16420,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/ordinance-and-staff-report-map-for-korengay-homes-ordinance-and-staff.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

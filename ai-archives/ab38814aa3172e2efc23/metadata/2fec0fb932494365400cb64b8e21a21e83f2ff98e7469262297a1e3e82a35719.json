@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "2fec0fb932494365400cb64b8e21a21e83f2ff98e7469262297a1e3e82a35719",
+  "title": "Resolution",
+  "text_path": "records/2fec0fb932494365400cb64b8e21a21e83f2ff98e7469262297a1e3e82a35719.md",
+  "representation_sha256": "51d6bbd3ef858d871cf6e46785c1f0bd76710ed92ea49a02d94003bd4d8cb233",
+  "bytes": 14113,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-11-14/resolution.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

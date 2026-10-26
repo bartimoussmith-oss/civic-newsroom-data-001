@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "747eae3c71eda7ae67200c3b769533b3be43188ea17f09e1bc419feda68612ea",
+  "title": "Strategic Parking Management Plan, part 1 of 2",
+  "text_path": "records/747eae3c71eda7ae67200c3b769533b3be43188ea17f09e1bc419feda68612ea.md",
+  "representation_sha256": "e87e7853941ef2d8e6866a6c6668def945bb5906dbd7ffec726cddc107b12f1b",
+  "bytes": 151102,
+  "year_path_label": "2017",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2017/city-council-2017-05-08/strategic-parking-management-plan.part1.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

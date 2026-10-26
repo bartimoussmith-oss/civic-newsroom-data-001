@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "cd7dd3e4a00944975c8c4dc6a1c69bfbf2d24ad507d714a6036bb12ab3bed8fe",
+  "title": "Management Agreement",
+  "text_path": "records/cd7dd3e4a00944975c8c4dc6a1c69bfbf2d24ad507d714a6036bb12ab3bed8fe.md",
+  "representation_sha256": "b71a9f35cfb89dd9d15115e1064b8b8ac5960af5c33a6a811aa122ed635053ea",
+  "bytes": 6628,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-03-25/management-agreement.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

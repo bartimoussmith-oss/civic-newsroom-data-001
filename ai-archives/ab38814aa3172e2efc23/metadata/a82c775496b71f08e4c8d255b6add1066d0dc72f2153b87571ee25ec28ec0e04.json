@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "a82c775496b71f08e4c8d255b6add1066d0dc72f2153b87571ee25ec28ec0e04",
+  "title": "HWE Franchise Agmt as amended 12.20.12",
+  "text_path": "records/a82c775496b71f08e4c8d255b6add1066d0dc72f2153b87571ee25ec28ec0e04.md",
+  "representation_sha256": "8f7f5861d6e67de83d5be5357c2166d37c41548253eb61b39d6599d11d49ef72",
+  "bytes": 51475,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-12-20/hwe-franchise-agmt-as-amended-12-20-12.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "9e2465afb5df67bd5fba2a56ba635ab2b59ea277c020cb11c233e80db6066f0e",
+  "title": "Flippers, LLC Application and Backup Info",
+  "text_path": "records/9e2465afb5df67bd5fba2a56ba635ab2b59ea277c020cb11c233e80db6066f0e.md",
+  "representation_sha256": "4d69aa6593dd6689bacfabcd19c268cfa265045ae337a9c6f1d17e1f960ca477",
+  "bytes": 22487,
+  "year_path_label": "2016",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2016/city-council-2016-05-23/flippers-llc-application-and-backup-info.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

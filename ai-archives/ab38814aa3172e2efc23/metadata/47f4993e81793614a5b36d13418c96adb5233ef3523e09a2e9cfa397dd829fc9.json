@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "47f4993e81793614a5b36d13418c96adb5233ef3523e09a2e9cfa397dd829fc9",
+  "title": "Resolution Historic Cheyenne Film Contest Project",
+  "text_path": "records/47f4993e81793614a5b36d13418c96adb5233ef3523e09a2e9cfa397dd829fc9.md",
+  "representation_sha256": "0b2423570f85bd6cc4cf3144352929a03c161d80c13ddb5d69f06561f6874b78",
+  "bytes": 5711,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-04-08/resolution-historic-cheyenne-film-contest-project.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

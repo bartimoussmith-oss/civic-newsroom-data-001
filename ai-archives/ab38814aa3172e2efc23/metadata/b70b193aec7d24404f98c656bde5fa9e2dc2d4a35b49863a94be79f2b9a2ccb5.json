@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "b70b193aec7d24404f98c656bde5fa9e2dc2d4a35b49863a94be79f2b9a2ccb5",
+  "title": "Supporting Document - Proposed Substitute Contract - Supporting Document - Proposed Substitute Contract",
+  "text_path": "records/b70b193aec7d24404f98c656bde5fa9e2dc2d4a35b49863a94be79f2b9a2ccb5.md",
+  "representation_sha256": "98cca9700e7d80f8c08a9be977d06ae2f995398d4ac1bbb047bfe75ec616e4cb",
+  "bytes": 14112,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-06-13/supporting-document-proposed-substitute-contract-supporting-document-p.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

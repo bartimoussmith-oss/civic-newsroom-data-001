@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "662f8161fc8976b4a2e587f24090bdeb1e1adf71fd75fce062ee2e70e9501349",
+  "title": "Distributor Settlement, part 2 of 7",
+  "text_path": "records/662f8161fc8976b4a2e587f24090bdeb1e1adf71fd75fce062ee2e70e9501349.md",
+  "representation_sha256": "be1cb8a524f8d0e0a154754af041061964947a2f48d055299c0d825def11ed9f",
+  "bytes": 148157,
+  "year_path_label": "2021",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2021/city-council-2021-12-28/distributor-settlement.part2.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

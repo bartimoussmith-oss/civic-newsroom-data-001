@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "55f8fc5b62956bf87084970e24e49baf677b5de60321c74e8bd8eaadd251f773",
+  "title": "MOU with Casper for Law Enforcement Assistance",
+  "text_path": "records/55f8fc5b62956bf87084970e24e49baf677b5de60321c74e8bd8eaadd251f773.md",
+  "representation_sha256": "6d4df1a2e93cbda7839c0d3c6c43ecb4ea0529479b9793e40313a3b0c72d86c9",
+  "bytes": 10301,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/mou-with-casper-for-law-enforcement-assistance.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "43ae1cf48fe451d8f1de94de37c4071d87c25768c51665ecaaf69da1b1bc55ff",
+  "title": "Comea, Inc. - Transitional Living - Comea, Inc. - Transitional Living",
+  "text_path": "records/43ae1cf48fe451d8f1de94de37c4071d87c25768c51665ecaaf69da1b1bc55ff.md",
+  "representation_sha256": "0a3addcedc08c118e63248037e416d3ed6cb8cdf59c0b6a681137b5107100009",
+  "bytes": 3377,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-05-24/comea-inc-transitional-living-comea-inc-transitional-living.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

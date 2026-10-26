@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "a5f084d6fd07005ebc9bfa82ea64c013fa3875b326de70fe88670daaee72d3e7",
+  "title": "Exhibit 4 Map",
+  "text_path": "records/a5f084d6fd07005ebc9bfa82ea64c013fa3875b326de70fe88670daaee72d3e7.md",
+  "representation_sha256": "6ec8339673e40ff61bccd757250ae83d7c0004be4c2f958e0e41960bad622d01",
+  "bytes": 1977,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-11-09/exhibit-4-map.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

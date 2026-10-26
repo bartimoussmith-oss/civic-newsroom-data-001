@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "b22bce5e10925bf8f6844a9675757678d92e71125cd1ef07f87847b0829c7952",
+  "title": "WRCH Accomplice Restaurant Liquor License Applicat - WRCH Accomplice Restaurant Liquor License Application Backup",
+  "text_path": "records/b22bce5e10925bf8f6844a9675757678d92e71125cd1ef07f87847b0829c7952.md",
+  "representation_sha256": "caaaa64e3856fba1d1e67451837b415403e2b49e332051c7a2fbad5aa0655d18",
+  "bytes": 21917,
+  "year_path_label": "2016",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2016/city-council-2016-05-09/wrch-accomplice-restaurant-liquor-license-applicat-wrch-accomplice-res.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

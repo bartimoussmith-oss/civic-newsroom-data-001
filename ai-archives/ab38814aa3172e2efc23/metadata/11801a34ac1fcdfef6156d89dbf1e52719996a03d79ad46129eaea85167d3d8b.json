@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "11801a34ac1fcdfef6156d89dbf1e52719996a03d79ad46129eaea85167d3d8b",
+  "title": "Feb. 13, 2012 4th Qtr. Tax Colorado Payment",
+  "text_path": "records/11801a34ac1fcdfef6156d89dbf1e52719996a03d79ad46129eaea85167d3d8b.md",
+  "representation_sha256": "8967c2040420e41a025359135e469a20657677ee730fa723dc5dba03bb771d30",
+  "bytes": 2187,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-02-13/feb-13-2012-4th-qtr-tax-colorado-payment.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

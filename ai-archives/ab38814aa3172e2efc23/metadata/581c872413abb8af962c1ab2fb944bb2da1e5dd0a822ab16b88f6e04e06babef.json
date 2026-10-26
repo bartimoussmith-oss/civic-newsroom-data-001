@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "581c872413abb8af962c1ab2fb944bb2da1e5dd0a822ab16b88f6e04e06babef",
+  "title": "Ordinance Amendment Criteria",
+  "text_path": "records/581c872413abb8af962c1ab2fb944bb2da1e5dd0a822ab16b88f6e04e06babef.md",
+  "representation_sha256": "33411d13099856ab79bc1bdb9d8522dea615220efe53cdda16ac23fc1714b78e",
+  "bytes": 2914,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-04-08/ordinance-amendment-criteria.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

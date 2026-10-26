@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "bc5c8e42851726fabb646cc61ed70a9399b01ed40d610f7a24b30137e3d33ad3",
+  "title": "Ordinance UDC amendments",
+  "text_path": "records/bc5c8e42851726fabb646cc61ed70a9399b01ed40d610f7a24b30137e3d33ad3.md",
+  "representation_sha256": "97cb00820b6df63f3b234540a8e7291856af5998743ec6031273ffe84c4eadd7",
+  "bytes": 22110,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/ordinance-udc-amendments.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

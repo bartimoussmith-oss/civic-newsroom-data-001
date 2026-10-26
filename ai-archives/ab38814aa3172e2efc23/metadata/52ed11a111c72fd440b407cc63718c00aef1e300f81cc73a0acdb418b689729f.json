@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "52ed11a111c72fd440b407cc63718c00aef1e300f81cc73a0acdb418b689729f",
+  "title": "Red Lobster Lease Agreement",
+  "text_path": "records/52ed11a111c72fd440b407cc63718c00aef1e300f81cc73a0acdb418b689729f.md",
+  "representation_sha256": "b1fb6f44f4e5efa1286b743cad9232b1aecd9cf488b447569a1dda12fa0fd568",
+  "bytes": 130740,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-07-28/red-lobster-lease-agreement.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

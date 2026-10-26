@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "ad80a7aa216f0c0048fba4f56ff98c7c2c941cce9b926862d4051f500f9820a1",
+  "title": "Revised Final Plat Map 3rd Filing",
+  "text_path": "records/ad80a7aa216f0c0048fba4f56ff98c7c2c941cce9b926862d4051f500f9820a1.md",
+  "representation_sha256": "49bbcf19ad9baf8c31e1217ee4b2702708e0acad4eacc28ee87fa15682db11d9",
+  "bytes": 6048,
+  "year_path_label": "2017",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2017/city-council-2017-04-24/revised-final-plat-map-3rd-filing.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

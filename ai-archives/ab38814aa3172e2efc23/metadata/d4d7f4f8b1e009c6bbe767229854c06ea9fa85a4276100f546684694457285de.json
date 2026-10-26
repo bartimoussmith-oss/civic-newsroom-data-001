@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d4d7f4f8b1e009c6bbe767229854c06ea9fa85a4276100f546684694457285de",
+  "title": "Contract for professional legal counsel assistance",
+  "text_path": "records/d4d7f4f8b1e009c6bbe767229854c06ea9fa85a4276100f546684694457285de.md",
+  "representation_sha256": "79a88ea621ada1578b6598d400ce3a05459b7ee75582b383dab3b7eac6a5db03",
+  "bytes": 4929,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/contract-for-professional-legal-counsel-assistance.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "fb9ddde36828df8f91a851af8e407b314bf5ed939d95b3d5b535bb27226a2ff0",
+  "title": "City’s Resolution",
+  "text_path": "records/fb9ddde36828df8f91a851af8e407b314bf5ed939d95b3d5b535bb27226a2ff0.md",
+  "representation_sha256": "82594e4a47c874244b63a7172e9008653dd673385bf9495d79dc20c0da2eb9df",
+  "bytes": 11402,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-03-26/city-s-resolution.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "e9f08865ce6c30328b872026698142799ae268d373d3f348e61723c8010e0e2e",
+  "title": "fc-11-18-25-agenda",
+  "text_path": "records/e9f08865ce6c30328b872026698142799ae268d373d3f348e61723c8010e0e2e.md",
+  "representation_sha256": "50f5bc5e0c7903ca45cc11322db603201cd6e8720d800ff87513f6defe34a27e",
+  "bytes": 3994,
+  "year_path_label": "2025",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2025/finance-committee-2025-11-18/fc-11-18-25-agenda.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

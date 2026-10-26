@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "1461912ac54e3f7073a38f5eae279b01067aa14acc259a4e299a51a8f681b2fb",
+  "title": "Substitute Promissory Note",
+  "text_path": "records/1461912ac54e3f7073a38f5eae279b01067aa14acc259a4e299a51a8f681b2fb.md",
+  "representation_sha256": "b5f2d977da777b43d5ee82d3a356689b4d689e78e94f5b3c57932044eedce12f",
+  "bytes": 15113,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-05-27/substitute-promissory-note.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

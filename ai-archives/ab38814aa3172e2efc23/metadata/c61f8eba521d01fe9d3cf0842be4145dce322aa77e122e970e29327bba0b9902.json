@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "c61f8eba521d01fe9d3cf0842be4145dce322aa77e122e970e29327bba0b9902",
+  "title": "Family Promise",
+  "text_path": "records/c61f8eba521d01fe9d3cf0842be4145dce322aa77e122e970e29327bba0b9902.md",
+  "representation_sha256": "2e0b5223a904030da5753e3662de5768e7dfefa34c0144cae2691f909ed21d59",
+  "bytes": 12964,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-10-10/family-promise.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

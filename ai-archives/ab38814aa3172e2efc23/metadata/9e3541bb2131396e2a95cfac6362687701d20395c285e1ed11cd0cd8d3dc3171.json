@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "9e3541bb2131396e2a95cfac6362687701d20395c285e1ed11cd0cd8d3dc3171",
+  "title": "Anong’s Thai Cuisine Backup Info.",
+  "text_path": "records/9e3541bb2131396e2a95cfac6362687701d20395c285e1ed11cd0cd8d3dc3171.md",
+  "representation_sha256": "85d24fc59deba27e99f3c30e72a45948a53b3c88308ada87254a44ee9d96437a",
+  "bytes": 14719,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-12-14/anong-s-thai-cuisine-backup-info.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

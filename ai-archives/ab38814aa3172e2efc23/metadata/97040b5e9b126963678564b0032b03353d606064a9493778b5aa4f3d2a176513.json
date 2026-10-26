@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "97040b5e9b126963678564b0032b03353d606064a9493778b5aa4f3d2a176513",
+  "title": "Climb Wyoming",
+  "text_path": "records/97040b5e9b126963678564b0032b03353d606064a9493778b5aa4f3d2a176513.md",
+  "representation_sha256": "288399c89a10d31fccca4d5aaba597d1384cb735de9537578ea3009ae04d2322",
+  "bytes": 3161,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-05-24/climb-wyoming.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

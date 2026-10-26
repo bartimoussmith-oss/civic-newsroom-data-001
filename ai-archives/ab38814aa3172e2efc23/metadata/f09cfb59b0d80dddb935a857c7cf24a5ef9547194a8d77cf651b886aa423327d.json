@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "f09cfb59b0d80dddb935a857c7cf24a5ef9547194a8d77cf651b886aa423327d",
+  "title": "Special Friends of Cheyenne",
+  "text_path": "records/f09cfb59b0d80dddb935a857c7cf24a5ef9547194a8d77cf651b886aa423327d.md",
+  "representation_sha256": "7b0b52aa9750a8d19283ec47d918a697c809ca825428e0a3f1cc5daefdfb21bb",
+  "bytes": 13060,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-10-10/special-friends-of-cheyenne.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

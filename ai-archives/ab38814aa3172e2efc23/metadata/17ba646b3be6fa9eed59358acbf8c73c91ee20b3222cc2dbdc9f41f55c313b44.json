@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "17ba646b3be6fa9eed59358acbf8c73c91ee20b3222cc2dbdc9f41f55c313b44",
+  "title": "Ordinance - Approved on 2nd Reading - Ordinance - Approved on 2nd Reading",
+  "text_path": "records/17ba646b3be6fa9eed59358acbf8c73c91ee20b3222cc2dbdc9f41f55c313b44.md",
+  "representation_sha256": "18b8325845f2b9cd381f32a7478a7c40e9855e20bf11158c839b4255411bd48f",
+  "bytes": 4014,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-10-08/ordinance-approved-on-2nd-reading-ordinance-approved-on-2nd-reading.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

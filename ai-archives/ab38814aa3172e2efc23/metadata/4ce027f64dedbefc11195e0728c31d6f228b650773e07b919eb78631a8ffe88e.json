@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "4ce027f64dedbefc11195e0728c31d6f228b650773e07b919eb78631a8ffe88e",
+  "title": "Jan. 23, 2012 Workers Comp (Cheyenne Housing)",
+  "text_path": "records/4ce027f64dedbefc11195e0728c31d6f228b650773e07b919eb78631a8ffe88e.md",
+  "representation_sha256": "d3d49380851c3bb5f1950bcba87a6bf1ade8c1daf5641f94815a2287494c0612",
+  "bytes": 2185,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-01-23/jan-23-2012-workers-comp-cheyenne-housing.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "6dac9f5552decce9226198eeffcaaad9547be2051aafaa1be89c563ce170b241",
+  "title": "Resolution - Final Plat Polk Addition - Resolution - Final Plat Polk Addition",
+  "text_path": "records/6dac9f5552decce9226198eeffcaaad9547be2051aafaa1be89c563ce170b241.md",
+  "representation_sha256": "1e44d616c05c6f4f9f78daf0ac5d9f5143d0b9f9fba6a33264478b80253fae46",
+  "bytes": 29993,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/resolution-final-plat-polk-addition-resolution-final-plat-polk-additio.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

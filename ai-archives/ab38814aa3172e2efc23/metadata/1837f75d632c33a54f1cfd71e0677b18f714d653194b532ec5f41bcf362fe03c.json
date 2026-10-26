@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "1837f75d632c33a54f1cfd71e0677b18f714d653194b532ec5f41bcf362fe03c",
+  "title": "Contract with IMS Infrastructure Management Servic - Contract with IMS Infrastructure Management Services",
+  "text_path": "records/1837f75d632c33a54f1cfd71e0677b18f714d653194b532ec5f41bcf362fe03c.md",
+  "representation_sha256": "ff032e415979f7362b4c5547e7db2918c9f9cba971c46bc161b21ba9b6f74b8b",
+  "bytes": 52750,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/contract-with-ims-infrastructure-management-servic-contract-with-ims-i.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

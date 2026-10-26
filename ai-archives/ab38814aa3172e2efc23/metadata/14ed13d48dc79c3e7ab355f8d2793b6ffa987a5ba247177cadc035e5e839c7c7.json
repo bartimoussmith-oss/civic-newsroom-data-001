@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "14ed13d48dc79c3e7ab355f8d2793b6ffa987a5ba247177cadc035e5e839c7c7",
+  "title": "Minutes 10-24-2011",
+  "text_path": "records/14ed13d48dc79c3e7ab355f8d2793b6ffa987a5ba247177cadc035e5e839c7c7.md",
+  "representation_sha256": "2d9a1333098b4d23b583c4538e0e8b9b578241452a0f6e8227fec3bfec502b56",
+  "bytes": 25727,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-11-14/minutes-10-24-2011.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

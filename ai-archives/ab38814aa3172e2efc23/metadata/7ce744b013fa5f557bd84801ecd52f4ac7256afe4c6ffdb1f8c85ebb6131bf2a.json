@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "7ce744b013fa5f557bd84801ecd52f4ac7256afe4c6ffdb1f8c85ebb6131bf2a",
+  "title": "Caption transcript: City Council — Monday, September 14, 2026, part 1 of 2",
+  "text_path": "records/7ce744b013fa5f557bd84801ecd52f4ac7256afe4c6ffdb1f8c85ebb6131bf2a.md",
+  "representation_sha256": "f7594361fe6e84b856d03b0cd30747b38749d01b1e35fe93610238777a73d7dd",
+  "bytes": 149600,
+  "year_path_label": "2026",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2026/city-council-2026-09-14/captions.part1.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "29fb136072386e4c139f8c977ecc2c26a517456763bb349223edad226087c36d",
+  "title": "Feb. 28 Manual Payable Siefkes",
+  "text_path": "records/29fb136072386e4c139f8c977ecc2c26a517456763bb349223edad226087c36d.md",
+  "representation_sha256": "85ec7f21eb3fec270a7eb75d85d33a43d8b1efa46c42b6a2b506f9273f42e318",
+  "bytes": 2232,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-02-28/feb-28-manual-payable-siefkes.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

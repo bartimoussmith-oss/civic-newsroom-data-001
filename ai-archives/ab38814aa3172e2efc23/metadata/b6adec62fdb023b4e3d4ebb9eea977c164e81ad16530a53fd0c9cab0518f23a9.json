@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "b6adec62fdb023b4e3d4ebb9eea977c164e81ad16530a53fd0c9cab0518f23a9",
+  "title": "Contract Mod No. 1 with AVI, PC",
+  "text_path": "records/b6adec62fdb023b4e3d4ebb9eea977c164e81ad16530a53fd0c9cab0518f23a9.md",
+  "representation_sha256": "5825cc98bb04df39274e9404ad0f1ce940e1da37e5c6a08432d28fc724ceb493",
+  "bytes": 20694,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-07-28/contract-mod-no-1-with-avi-pc.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

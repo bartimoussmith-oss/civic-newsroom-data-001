@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "2fdc4e6ca7dc57849007b5a312fc3be456ad671909e5b353cf4d87829993d252",
+  "title": "CHEY-2023-04-04 packet-2",
+  "text_path": "records/2fdc4e6ca7dc57849007b5a312fc3be456ad671909e5b353cf4d87829993d252.md",
+  "representation_sha256": "c8d88e4634dbe0770065a740e912baade54aa5ca9683a1f2551217165d8eaef8",
+  "bytes": 26721,
+  "year_path_label": "2023",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2023/city-council-2023-04-04/chey-2023-04-04-packet-2.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

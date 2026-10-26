@@ -1,0 +1,15 @@
+{
+  "schema": "public-ai-archive-v1",
+  "records": 6065,
+  "full_text_jsonl_batches": 48,
+  "identifier_reference_edges": 9322,
+  "source_dataset_revision": "2465245db04551c42f748a85fc151b869d246649",
+  "source_manifest_sha256": "94b5c51a634350e0e2dec90bde46c59bc1f7bda37c6c8e831354a1aee38077ee",
+  "text_format": "UTF-8 Markdown, exact representation bytes",
+  "jsonl_format": "gzip-compressed JSON Lines; full text plus metadata",
+  "graph_status": "document objects and unreviewed literal identifier mentions only",
+  "original_binary_copies_present": false,
+  "full_historical_coverage": false,
+  "internal_research_imported": false,
+  "source_policy": "Only already published documents/ and meetings/ generated representations. No repository-root research, advocacy drafts, casework, private folders or media commentary is imported. Public testimony inside official records is retained."
+}

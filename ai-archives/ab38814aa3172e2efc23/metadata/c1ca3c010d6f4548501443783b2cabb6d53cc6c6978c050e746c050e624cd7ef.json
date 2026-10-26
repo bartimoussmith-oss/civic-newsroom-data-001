@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "c1ca3c010d6f4548501443783b2cabb6d53cc6c6978c050e746c050e624cd7ef",
+  "title": "Backup for Prel. Plat for Scenic Subdivision",
+  "text_path": "records/c1ca3c010d6f4548501443783b2cabb6d53cc6c6978c050e746c050e624cd7ef.md",
+  "representation_sha256": "a2eb00518c1faddbd8fd9b64426b18827f99b9266355e4efa3d572cf40f1bc6d",
+  "bytes": 73078,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-02-11/backup-for-prel-plat-for-scenic-subdivision.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

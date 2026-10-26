@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "a39cac80b53115bed85c8efec6f7be097ff754af637d24c848038a473d589936",
+  "title": "Sept 10 Def Comp and 941",
+  "text_path": "records/a39cac80b53115bed85c8efec6f7be097ff754af637d24c848038a473d589936.md",
+  "representation_sha256": "cb0754da10e52d76e2df62ef86cfa8f78ccd7ee48473938ebe65251ab8786bc0",
+  "bytes": 2416,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-09-10/sept-10-def-comp-and-941.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

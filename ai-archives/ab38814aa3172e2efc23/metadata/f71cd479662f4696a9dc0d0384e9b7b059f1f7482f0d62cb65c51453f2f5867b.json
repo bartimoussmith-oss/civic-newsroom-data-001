@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "f71cd479662f4696a9dc0d0384e9b7b059f1f7482f0d62cb65c51453f2f5867b",
+  "title": "Agenda Only - Map",
+  "text_path": "records/f71cd479662f4696a9dc0d0384e9b7b059f1f7482f0d62cb65c51453f2f5867b.md",
+  "representation_sha256": "b53c1f9634b12857acbf42e1f78dcd6df71c75af6be972cfebab291558877f5c",
+  "bytes": 2108,
+  "year_path_label": "2020",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2020/city-council-2020-08-24/agenda-only-map.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

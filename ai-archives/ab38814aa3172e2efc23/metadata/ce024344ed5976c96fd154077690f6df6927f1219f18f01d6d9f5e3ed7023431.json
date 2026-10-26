@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "ce024344ed5976c96fd154077690f6df6927f1219f18f01d6d9f5e3ed7023431",
+  "title": "Final Plat Map for Thomas Hills",
+  "text_path": "records/ce024344ed5976c96fd154077690f6df6927f1219f18f01d6d9f5e3ed7023431.md",
+  "representation_sha256": "adb4c3fc977f5cb9545296dc723d04fd87b70b497aaa1eb71e7a1c3df430d06e",
+  "bytes": 1703,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-09-14/final-plat-map-for-thomas-hills.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

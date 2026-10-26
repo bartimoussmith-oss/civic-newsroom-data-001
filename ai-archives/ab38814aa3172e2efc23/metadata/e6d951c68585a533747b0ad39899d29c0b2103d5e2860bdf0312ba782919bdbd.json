@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "e6d951c68585a533747b0ad39899d29c0b2103d5e2860bdf0312ba782919bdbd",
+  "title": "Staff Report",
+  "text_path": "records/e6d951c68585a533747b0ad39899d29c0b2103d5e2860bdf0312ba782919bdbd.md",
+  "representation_sha256": "1dca72dd820d38d7780a781995221f7e60dcdd0d40398d40453144f41ada2431",
+  "bytes": 11015,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-05-13/staff-report.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

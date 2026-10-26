@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "21fb22011eb8e26213db09973b387692e4edd40a60e76d31889b488401ab29b7",
+  "title": "Caption transcript: Work Session / Committee of the Whole — Wednesday, June 7, 2023",
+  "text_path": "records/21fb22011eb8e26213db09973b387692e4edd40a60e76d31889b488401ab29b7.md",
+  "representation_sha256": "93b2771f2066fdb8d32ef68c6dcfc075f40f16f7735046f77c380aba283cc765",
+  "bytes": 15142,
+  "year_path_label": "2023",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2023/work-sessions-2023-06-07/captions.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

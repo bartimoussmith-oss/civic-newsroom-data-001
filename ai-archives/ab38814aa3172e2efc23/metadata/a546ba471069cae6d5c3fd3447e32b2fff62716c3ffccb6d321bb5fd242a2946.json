@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "a546ba471069cae6d5c3fd3447e32b2fff62716c3ffccb6d321bb5fd242a2946",
+  "title": "psc-03-07-23-agenda",
+  "text_path": "records/a546ba471069cae6d5c3fd3447e32b2fff62716c3ffccb6d321bb5fd242a2946.md",
+  "representation_sha256": "7e0cf3133afb9263c02994f5be3ce747b4e998283eb47c55eedf6005804b376d",
+  "bytes": 4647,
+  "year_path_label": "2023",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2023/public-services-committee-2023-03-07/psc-03-07-23-agenda.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

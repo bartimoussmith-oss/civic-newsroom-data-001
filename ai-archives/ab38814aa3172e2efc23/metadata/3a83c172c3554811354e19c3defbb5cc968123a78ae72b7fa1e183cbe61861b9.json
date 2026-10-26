@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "3a83c172c3554811354e19c3defbb5cc968123a78ae72b7fa1e183cbe61861b9",
+  "title": "June 13, 2011 May Insurance Payable",
+  "text_path": "records/3a83c172c3554811354e19c3defbb5cc968123a78ae72b7fa1e183cbe61861b9.md",
+  "representation_sha256": "e69b1bc3691cbb81f1c5fc787d6033bce0d1ab93edaaecdaa768ca0631faa4e9",
+  "bytes": 3296,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-06-13/june-13-2011-may-insurance-payable.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

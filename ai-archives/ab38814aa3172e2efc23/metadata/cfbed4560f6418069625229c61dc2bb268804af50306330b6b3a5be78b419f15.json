@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "cfbed4560f6418069625229c61dc2bb268804af50306330b6b3a5be78b419f15",
+  "title": "Dough Dog LLC Application",
+  "text_path": "records/cfbed4560f6418069625229c61dc2bb268804af50306330b6b3a5be78b419f15.md",
+  "representation_sha256": "12dd838ecf4c2ca545d0c0d9e6e9f8fef7564dcafc240133e6847142f525c7a1",
+  "bytes": 20113,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-11-09/dough-dog-llc-application.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

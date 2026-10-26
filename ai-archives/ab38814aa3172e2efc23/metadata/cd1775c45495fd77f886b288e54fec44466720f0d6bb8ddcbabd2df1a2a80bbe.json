@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "cd1775c45495fd77f886b288e54fec44466720f0d6bb8ddcbabd2df1a2a80bbe",
+  "title": "April 9, 2012 1st Qtr CO Taxes",
+  "text_path": "records/cd1775c45495fd77f886b288e54fec44466720f0d6bb8ddcbabd2df1a2a80bbe.md",
+  "representation_sha256": "3e2108a815bb4903c7343a9bf0dbf4471c9c25f04a7e8e2656eb9b49bc6c9973",
+  "bytes": 2080,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-04-09/april-9-2012-1st-qtr-co-taxes.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

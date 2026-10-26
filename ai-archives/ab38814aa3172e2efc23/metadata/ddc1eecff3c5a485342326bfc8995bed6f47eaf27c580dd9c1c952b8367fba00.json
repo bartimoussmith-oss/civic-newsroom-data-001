@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "ddc1eecff3c5a485342326bfc8995bed6f47eaf27c580dd9c1c952b8367fba00",
+  "title": "MOU with the Town of Hulett",
+  "text_path": "records/ddc1eecff3c5a485342326bfc8995bed6f47eaf27c580dd9c1c952b8367fba00.md",
+  "representation_sha256": "21c7da36824c37301fd6f664d39be03055af702dd4b37ca8a0137b2d84a6d3fe",
+  "bytes": 9985,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/mou-with-the-town-of-hulett.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

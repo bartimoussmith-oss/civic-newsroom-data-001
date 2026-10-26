@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "c0faa349f8ba37b76dbb42b00a07b4dfaff119d39065ffaa9ac6dfb528ea3f86",
+  "title": "Caption transcript: Historic Preservation Board — Tuesday, April 14, 2026",
+  "text_path": "records/c0faa349f8ba37b76dbb42b00a07b4dfaff119d39065ffaa9ac6dfb528ea3f86.md",
+  "representation_sha256": "afa12fbe83c6d9dfe8b9b5ad803a08b828c64cb38cfe9e835a122e4f092a7eff",
+  "bytes": 56535,
+  "year_path_label": "2026",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2026/historic-preservation-board-2026-04-14/captions.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d24f51a2b22c5accf4812d914b7b026b82114939be191b0e98cec64ba71c1f39",
+  "title": "Request to Withdraw",
+  "text_path": "records/d24f51a2b22c5accf4812d914b7b026b82114939be191b0e98cec64ba71c1f39.md",
+  "representation_sha256": "853f025b79710fe82822ff9bee906d9092f45ada2cb9216c1e0b233f3e140d49",
+  "bytes": 3012,
+  "year_path_label": "2019",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2019/city-council-2019-08-26/request-to-withdraw.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

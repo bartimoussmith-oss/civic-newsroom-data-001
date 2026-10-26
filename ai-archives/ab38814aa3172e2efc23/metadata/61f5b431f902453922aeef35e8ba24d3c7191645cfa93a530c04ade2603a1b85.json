@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "61f5b431f902453922aeef35e8ba24d3c7191645cfa93a530c04ade2603a1b85",
+  "title": "Exhibit C - Fee Schedule - Exhibit C - Fee Schedule",
+  "text_path": "records/61f5b431f902453922aeef35e8ba24d3c7191645cfa93a530c04ade2603a1b85.md",
+  "representation_sha256": "c4f459524cd9a9e257c8e2f3f8930b6e7d7632fc4dbc1c8a864bc09a5835ece3",
+  "bytes": 5538,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-11-14/exhibit-c-fee-schedule-exhibit-c-fee-schedule.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

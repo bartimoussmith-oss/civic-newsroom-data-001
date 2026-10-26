@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "21aa7243c7a96e091ca6683c50ea03422e75cc8cf8ad247aa0e08d592aaf9609",
+  "title": "Purchase Agreement",
+  "text_path": "records/21aa7243c7a96e091ca6683c50ea03422e75cc8cf8ad247aa0e08d592aaf9609.md",
+  "representation_sha256": "a1d07b09569a6e795546a53ea185b2568dd852eb5208f93849dd408e7761193f",
+  "bytes": 136071,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-10-28/purchase-agreement.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

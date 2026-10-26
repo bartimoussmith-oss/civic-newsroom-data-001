@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "63d92cc8ed77118c559a0ecd90f687c1a3af0ee07fd273dc48301b42ac85da5f",
+  "title": "Proposed Revised Staff Conditions",
+  "text_path": "records/63d92cc8ed77118c559a0ecd90f687c1a3af0ee07fd273dc48301b42ac85da5f.md",
+  "representation_sha256": "c56b60b8ae0a1c18436143e40d07bd8b0c74e743e6357296dc48fd956101cc8a",
+  "bytes": 3838,
+  "year_path_label": "2016",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2016/city-council-2016-10-10/proposed-revised-staff-conditions.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

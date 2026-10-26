@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "abd4ea8ec45e4f91c12f1c1f3f61dfbae8fb171a497e1414907edb3bc152f5c4",
+  "title": "Vouchers 10-11-10 Re-issued Check",
+  "text_path": "records/abd4ea8ec45e4f91c12f1c1f3f61dfbae8fb171a497e1414907edb3bc152f5c4.md",
+  "representation_sha256": "b125a5ab6b4b2a8470483011b403684fe3cd54b6ddf89c5f7fcead5e1ebe590b",
+  "bytes": 2257,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-10-11/vouchers-10-11-10-re-issued-check.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

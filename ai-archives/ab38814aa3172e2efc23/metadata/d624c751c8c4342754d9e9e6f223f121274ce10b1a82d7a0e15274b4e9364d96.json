@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d624c751c8c4342754d9e9e6f223f121274ce10b1a82d7a0e15274b4e9364d96",
+  "title": "Approved Substitute as Amended on 9-24-2012 - FINA - Approved Substitute as Amended on 9-24-2012 - FINAL",
+  "text_path": "records/d624c751c8c4342754d9e9e6f223f121274ce10b1a82d7a0e15274b4e9364d96.md",
+  "representation_sha256": "191b683c009e2b3b0bb65e77cac5b84cd2c8bdbd35253f872525aacf7e374935",
+  "bytes": 10316,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-09-24/approved-substitute-as-amended-on-9-24-2012-fina-approved-substitute-a.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

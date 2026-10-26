@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "6672f1d0968daaff0b17ea7e8ea8e4ce85626294f20c07d0364f3365646cec56",
+  "title": "May 9, 2011 Payable Voucher Listing, part 2 of 2",
+  "text_path": "records/6672f1d0968daaff0b17ea7e8ea8e4ce85626294f20c07d0364f3365646cec56.md",
+  "representation_sha256": "703070be134a1c4610c8cc0e48fb86711d8460e25576ca745ff493ecf5fd6c24",
+  "bytes": 110934,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-05-09/may-9-2011-payable-voucher-listing.part2.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

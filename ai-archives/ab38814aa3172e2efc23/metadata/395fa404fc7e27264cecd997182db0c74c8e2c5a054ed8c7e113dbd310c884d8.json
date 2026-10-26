@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "395fa404fc7e27264cecd997182db0c74c8e2c5a054ed8c7e113dbd310c884d8",
+  "title": "City Code Information",
+  "text_path": "records/395fa404fc7e27264cecd997182db0c74c8e2c5a054ed8c7e113dbd310c884d8.md",
+  "representation_sha256": "ce874ae782e6cc5355b608f404efb2caddff0552c28888619a5e49995777c9ad",
+  "bytes": 8869,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-08-25/city-code-information.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

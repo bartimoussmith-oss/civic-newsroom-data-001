@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "cc24bf607785faf0f79dc77028de8e5e87eec15ea03525635e6f3a5b0b024cce",
+  "title": "Capital Improvement Plan",
+  "text_path": "records/cc24bf607785faf0f79dc77028de8e5e87eec15ea03525635e6f3a5b0b024cce.md",
+  "representation_sha256": "75fe91504391d7a57bf2658d71fdafc8bfa57c7923ba088665b587f302e9a612",
+  "bytes": 1638,
+  "year_path_label": "2016",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2016/city-council-2016-04-11/capital-improvement-plan.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

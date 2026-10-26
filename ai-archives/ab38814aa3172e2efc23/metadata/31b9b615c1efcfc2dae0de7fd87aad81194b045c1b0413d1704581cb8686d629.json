@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "31b9b615c1efcfc2dae0de7fd87aad81194b045c1b0413d1704581cb8686d629",
+  "title": "MOU with CFD, LCSD for buses for CFD celebration",
+  "text_path": "records/31b9b615c1efcfc2dae0de7fd87aad81194b045c1b0413d1704581cb8686d629.md",
+  "representation_sha256": "afeb799172cf13f7e7bbe7a42eab832e7e02fa24241bc6bb7cb59774cf3f2e1c",
+  "bytes": 10410,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/mou-with-cfd-lcsd-for-buses-for-cfd-celebration.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

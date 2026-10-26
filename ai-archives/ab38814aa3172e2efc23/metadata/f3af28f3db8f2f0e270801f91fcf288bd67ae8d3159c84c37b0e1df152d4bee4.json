@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "f3af28f3db8f2f0e270801f91fcf288bd67ae8d3159c84c37b0e1df152d4bee4",
+  "title": "Bid \\#M-27-14 Contract",
+  "text_path": "records/f3af28f3db8f2f0e270801f91fcf288bd67ae8d3159c84c37b0e1df152d4bee4.md",
+  "representation_sha256": "71438f4ab0601a7475bfaf593fbf361e30caba6ffe2a480f115c3564bd5df56e",
+  "bytes": 7127,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-07-28/bid-m-27-14-contract.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "24b90d4c2af0465b0bc31e4d20f149f54c473204d05e0625273264632cdcd8c1",
+  "title": "Cheyenne Housing Authority",
+  "text_path": "records/24b90d4c2af0465b0bc31e4d20f149f54c473204d05e0625273264632cdcd8c1.md",
+  "representation_sha256": "ca01a14a668f40fd0dd9f925366c0a0368130b54a6f3eca19e5ccf5efb13d257",
+  "bytes": 14127,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-06-14/cheyenne-housing-authority.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

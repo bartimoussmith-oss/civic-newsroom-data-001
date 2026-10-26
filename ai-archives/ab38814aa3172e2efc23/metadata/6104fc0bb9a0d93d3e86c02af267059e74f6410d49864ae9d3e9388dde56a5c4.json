@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "6104fc0bb9a0d93d3e86c02af267059e74f6410d49864ae9d3e9388dde56a5c4",
+  "title": "Revised Staff Report and Final Plat Map",
+  "text_path": "records/6104fc0bb9a0d93d3e86c02af267059e74f6410d49864ae9d3e9388dde56a5c4.md",
+  "representation_sha256": "4bf7904cdd72f9cbf21cb9f7f198955ddc94fa9dfbeda49b6e65f548aa638bee",
+  "bytes": 9104,
+  "year_path_label": "2017",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2017/city-council-2017-04-24/revised-staff-report-and-final-plat-map.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

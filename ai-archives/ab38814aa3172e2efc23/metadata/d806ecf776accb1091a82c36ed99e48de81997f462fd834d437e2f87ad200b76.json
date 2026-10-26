@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d806ecf776accb1091a82c36ed99e48de81997f462fd834d437e2f87ad200b76",
+  "title": "Payables Feb. 10, 2014",
+  "text_path": "records/d806ecf776accb1091a82c36ed99e48de81997f462fd834d437e2f87ad200b76.md",
+  "representation_sha256": "cec93d481f91947605231c180fcd8a60080c63ab92a2046fd0037a209113df6c",
+  "bytes": 58586,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-02-10/payables-feb-10-2014.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

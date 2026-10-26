@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "9b9143b63dc8ca095e12d4087cc25ada64f7db281bff7af957e0a45c88902afb",
+  "title": "Resolution for Application for TAP Wayfinding Plan",
+  "text_path": "records/9b9143b63dc8ca095e12d4087cc25ada64f7db281bff7af957e0a45c88902afb.md",
+  "representation_sha256": "b1923b44fe304d6f9827ca6135e624a7055258922d6ce8b8450ec5483800849b",
+  "bytes": 5720,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/resolution-for-application-for-tap-wayfinding-plan.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

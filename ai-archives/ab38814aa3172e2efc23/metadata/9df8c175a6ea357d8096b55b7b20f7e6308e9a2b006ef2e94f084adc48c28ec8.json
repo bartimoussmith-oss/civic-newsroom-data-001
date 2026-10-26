@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "9df8c175a6ea357d8096b55b7b20f7e6308e9a2b006ef2e94f084adc48c28ec8",
+  "title": "City Council — Monday, June 9, 2025",
+  "text_path": "records/9df8c175a6ea357d8096b55b7b20f7e6308e9a2b006ef2e94f084adc48c28ec8.md",
+  "representation_sha256": "d1fea94fb16d5107d0187663b355a4ecf2e58d106eeac18830c0e38609a50c54",
+  "bytes": 22243,
+  "year_path_label": "2025",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "meetings/2025/city-council-2025-06-09.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

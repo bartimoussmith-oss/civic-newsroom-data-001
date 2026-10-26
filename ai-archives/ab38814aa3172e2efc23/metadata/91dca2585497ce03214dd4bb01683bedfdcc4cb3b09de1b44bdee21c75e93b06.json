@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "91dca2585497ce03214dd4bb01683bedfdcc4cb3b09de1b44bdee21c75e93b06",
+  "title": "Easement Agreement",
+  "text_path": "records/91dca2585497ce03214dd4bb01683bedfdcc4cb3b09de1b44bdee21c75e93b06.md",
+  "representation_sha256": "49287d395090f20960af81e02f29aa23986ec8ec5ef4c41df6a447662fe2fd0b",
+  "bytes": 21940,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-04-25/easement-agreement.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

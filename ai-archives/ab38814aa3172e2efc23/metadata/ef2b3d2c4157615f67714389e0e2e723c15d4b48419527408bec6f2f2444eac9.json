@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "ef2b3d2c4157615f67714389e0e2e723c15d4b48419527408bec6f2f2444eac9",
+  "title": "Amended Ordinance",
+  "text_path": "records/ef2b3d2c4157615f67714389e0e2e723c15d4b48419527408bec6f2f2444eac9.md",
+  "representation_sha256": "475d7ffb7b766f49c73a3106d7e03395bd40506837d6dbd158dbd2341b9d0223",
+  "bytes": 9539,
+  "year_path_label": "2019",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2019/city-council-2019-08-12/amended-ordinance.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

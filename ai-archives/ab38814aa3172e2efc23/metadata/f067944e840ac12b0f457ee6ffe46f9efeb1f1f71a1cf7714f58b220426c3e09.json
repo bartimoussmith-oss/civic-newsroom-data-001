@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "f067944e840ac12b0f457ee6ffe46f9efeb1f1f71a1cf7714f58b220426c3e09",
+  "title": "Safe Harbor, A Children’s Justice Center",
+  "text_path": "records/f067944e840ac12b0f457ee6ffe46f9efeb1f1f71a1cf7714f58b220426c3e09.md",
+  "representation_sha256": "2cc8d3701cbb9f728a555a9e44df9abd28426dc3f013bf28363e5e74ac634c1c",
+  "bytes": 3510,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-05-24/safe-harbor-a-children-s-justice-center.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

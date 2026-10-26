@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "ad3f6e6405b206957eadabd0864c8d510f87923c2aad16acfdf27adf364a8872",
+  "title": "Annex Map",
+  "text_path": "records/ad3f6e6405b206957eadabd0864c8d510f87923c2aad16acfdf27adf364a8872.md",
+  "representation_sha256": "4e5f1a3cf878b046065c394bbaa12b88d229baf8f1f656d7f1b8fb7e555f2676",
+  "bytes": 2354,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-07-28/annex-map.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

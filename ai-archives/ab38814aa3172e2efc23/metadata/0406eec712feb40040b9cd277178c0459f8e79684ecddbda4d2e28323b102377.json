@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "0406eec712feb40040b9cd277178c0459f8e79684ecddbda4d2e28323b102377",
+  "title": "City Council — Monday, October 14, 2024",
+  "text_path": "records/0406eec712feb40040b9cd277178c0459f8e79684ecddbda4d2e28323b102377.md",
+  "representation_sha256": "57cbc3f47058a26b183741a7fc4cfe7bbd7aa14d081265bc0534c8807fed0a2a",
+  "bytes": 13906,
+  "year_path_label": "2024",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "meetings/2024/city-council-2024-10-14.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

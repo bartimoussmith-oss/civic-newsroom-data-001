@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "04cc959a7ea2afb1b729a739a75940fc5300e4d5131d3fbe86926873fa76b9d3",
+  "title": "Cheyenne Interfaith Hospitality Network",
+  "text_path": "records/04cc959a7ea2afb1b729a739a75940fc5300e4d5131d3fbe86926873fa76b9d3.md",
+  "representation_sha256": "dd0599a2d86845edf4b6e8db2e7bc7086411dc4caabf8e33829783f39e190c33",
+  "bytes": 3464,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-05-24/cheyenne-interfaith-hospitality-network.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

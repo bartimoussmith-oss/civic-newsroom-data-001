@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "234845e262fcdcb41a6b950c6fa7e0d0e0799ccbc06444d89e4a705f7d7074e3",
+  "title": "Ordinance Swan Ranch Rail Park",
+  "text_path": "records/234845e262fcdcb41a6b950c6fa7e0d0e0799ccbc06444d89e4a705f7d7074e3.md",
+  "representation_sha256": "212bc16ecffe51b07576e26577e266952a50b9ce63eca63834c62006b8566b5e",
+  "bytes": 8910,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/ordinance-swan-ranch-rail-park.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "e31ea49f4d9a85026789f46e6f26662aaa566f4ffa514c7e6a7b63f32336b41a",
+  "title": "Snyder Plaza Info.",
+  "text_path": "records/e31ea49f4d9a85026789f46e6f26662aaa566f4ffa514c7e6a7b63f32336b41a.md",
+  "representation_sha256": "b1650eae8e01601b388d709b1a4fac7e497312b9ae36e49c113ee7124bb2dbe9",
+  "bytes": 21730,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-08-26/snyder-plaza-info.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

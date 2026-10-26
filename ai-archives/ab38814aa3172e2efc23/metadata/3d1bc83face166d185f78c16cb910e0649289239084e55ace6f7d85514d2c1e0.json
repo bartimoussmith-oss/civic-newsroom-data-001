@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "3d1bc83face166d185f78c16cb910e0649289239084e55ace6f7d85514d2c1e0",
+  "title": "Res. SLIB Town of Pine Bluffs Main St. Lighting Pr - Res. SLIB Town of Pine Bluffs Main St. Lighting Proj",
+  "text_path": "records/3d1bc83face166d185f78c16cb910e0649289239084e55ace6f7d85514d2c1e0.md",
+  "representation_sha256": "904f2afa60df32120a4189ee9775756eb610064163da2d95eeb9487b872e514b",
+  "bytes": 3251,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-04-27/res-slib-town-of-pine-bluffs-main-st-lighting-pr-res-slib-town-of-pine.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

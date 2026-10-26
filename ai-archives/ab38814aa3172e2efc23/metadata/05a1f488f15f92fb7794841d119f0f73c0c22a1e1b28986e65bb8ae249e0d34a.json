@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "05a1f488f15f92fb7794841d119f0f73c0c22a1e1b28986e65bb8ae249e0d34a",
+  "title": "Petition",
+  "text_path": "records/05a1f488f15f92fb7794841d119f0f73c0c22a1e1b28986e65bb8ae249e0d34a.md",
+  "representation_sha256": "b0f66d9eee11edd98d9716dee768d464424e235e6c67dec1a9e4ec9d64b97ecc",
+  "bytes": 4902,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-01-27/petition.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

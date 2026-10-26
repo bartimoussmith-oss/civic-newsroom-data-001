@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "dc3ff191203b8efcaff14eaba525701d4ea60a859396df65fb43bd24411c2ce4",
+  "title": "fc-05-06-24-minutes",
+  "text_path": "records/dc3ff191203b8efcaff14eaba525701d4ea60a859396df65fb43bd24411c2ce4.md",
+  "representation_sha256": "e752b3a6259243cf0d190653936625719b6d662f0132d4a6a517380fa45f2b93",
+  "bytes": 6369,
+  "year_path_label": "2024",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2024/finance-committee-2024-05-06/fc-05-06-24-minutes.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

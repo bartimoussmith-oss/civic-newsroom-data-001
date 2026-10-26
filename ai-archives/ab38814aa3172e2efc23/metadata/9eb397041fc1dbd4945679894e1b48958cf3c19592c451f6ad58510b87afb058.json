@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "9eb397041fc1dbd4945679894e1b48958cf3c19592c451f6ad58510b87afb058",
+  "title": "Substitute Ordinance",
+  "text_path": "records/9eb397041fc1dbd4945679894e1b48958cf3c19592c451f6ad58510b87afb058.md",
+  "representation_sha256": "b05e308b2c414bda591356ef5fedbe5437018ecbf93752ca3321e04cbd0340bb",
+  "bytes": 5148,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-12-23/substitute-ordinance.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

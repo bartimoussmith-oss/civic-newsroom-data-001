@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "f3af13fa5b183fa0a457b9c7bd14589542ab1e9b88b5476af5f5e9cf495fbfd3",
+  "title": "Ord. as Amended at 10-25-11 Council Mtg.",
+  "text_path": "records/f3af13fa5b183fa0a457b9c7bd14589542ab1e9b88b5476af5f5e9cf495fbfd3.md",
+  "representation_sha256": "0a4fac02f4ec89e8120fa1bf931199d8729b447e2d96a95ad2fd19e844d55e3d",
+  "bytes": 5565,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-11-14/ord-as-amended-at-10-25-11-council-mtg.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

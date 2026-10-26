@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "1c8ea59f42f0facd8c80d3719be7651436a5b9a77e6e2b56db7db61b8d5912e9",
+  "title": "Annual Action Plan 2021",
+  "text_path": "records/1c8ea59f42f0facd8c80d3719be7651436a5b9a77e6e2b56db7db61b8d5912e9.md",
+  "representation_sha256": "d54f27f0f82dc901c0c6d1a9c6fee25d25fcaaae48841a44a59a1364133e4f72",
+  "bytes": 78699,
+  "year_path_label": "2021",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2021/city-council-2021-05-10/annual-action-plan-2021.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "fd07c47b73e823a719b14d2387732f194b78fea8ec8a2667bcb3543f8de6bc7c",
+  "title": "Pershing & Converse Map",
+  "text_path": "records/fd07c47b73e823a719b14d2387732f194b78fea8ec8a2667bcb3543f8de6bc7c.md",
+  "representation_sha256": "dbfd46c36de5030124116f3b96e8b20a704a6f4cd3aa6aafd89c55d2a057299f",
+  "bytes": 2193,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-01-14/pershing-converse-map.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

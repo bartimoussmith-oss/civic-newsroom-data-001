@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "abdf3e835a256d79f2e2b8c3167b71f3114ca327d93d4c8c82a681456f1d6857",
+  "title": "Proposed Substitute Map",
+  "text_path": "records/abdf3e835a256d79f2e2b8c3167b71f3114ca327d93d4c8c82a681456f1d6857.md",
+  "representation_sha256": "9abf70ae23e94c0359a039afde85444c616b2756f8b75f90b4938a4c94761438",
+  "bytes": 7247,
+  "year_path_label": "2021",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2021/city-council-2021-08-09/proposed-substitute-map.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

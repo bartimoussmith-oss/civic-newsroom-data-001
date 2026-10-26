@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "38e620f5a1f5d9d38de51845c7f19c2196bceea0cf7df220ad5a8d9e2dd1cb08",
+  "title": "June 23, 2014 Vouchers Payable",
+  "text_path": "records/38e620f5a1f5d9d38de51845c7f19c2196bceea0cf7df220ad5a8d9e2dd1cb08.md",
+  "representation_sha256": "3c241f1573341d53f568e806063ecbd45ff51eb835b5d6be54a656bca4a671d3",
+  "bytes": 70923,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-06-23/june-23-2014-vouchers-payable.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

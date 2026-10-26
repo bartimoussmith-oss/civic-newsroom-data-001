@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "c8827662f714446ad9c9fd18a47474b3406ea2bd6f207359babc603a457acfe7",
+  "title": "Jan. 9 Payables, part 1 of 2",
+  "text_path": "records/c8827662f714446ad9c9fd18a47474b3406ea2bd6f207359babc603a457acfe7.md",
+  "representation_sha256": "bbcf7c7099d404e23f7113cd117418f373be37909d0e91dc0cdc69080640c442",
+  "bytes": 149395,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-01-09/jan-9-payables.part1.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

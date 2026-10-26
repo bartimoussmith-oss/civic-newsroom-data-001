@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "8dd31eb4ce58e06042b3dd0d1f8ebfcd7441ca912175623f98d8f2c6e215b042",
+  "title": "Agreement Animal Control Services",
+  "text_path": "records/8dd31eb4ce58e06042b3dd0d1f8ebfcd7441ca912175623f98d8f2c6e215b042.md",
+  "representation_sha256": "b254614585eed41551cb999b249e22012747752c84c323ef51ff876141a50425",
+  "bytes": 13246,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-07-28/agreement-animal-control-services.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

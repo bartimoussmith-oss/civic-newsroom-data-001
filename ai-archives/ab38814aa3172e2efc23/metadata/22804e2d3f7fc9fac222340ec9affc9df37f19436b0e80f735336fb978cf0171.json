@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "22804e2d3f7fc9fac222340ec9affc9df37f19436b0e80f735336fb978cf0171",
+  "title": "Contract Modification with Reiman",
+  "text_path": "records/22804e2d3f7fc9fac222340ec9affc9df37f19436b0e80f735336fb978cf0171.md",
+  "representation_sha256": "63b25976172847787d59baaff2696d74f4b142c0fe7330efde82bb8f0c5ec005",
+  "bytes": 5273,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/contract-modification-with-reiman.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

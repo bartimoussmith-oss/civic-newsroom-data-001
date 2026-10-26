@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "e09161f78131b49c6d688a67f5a6f327872331acaa668b6c7064f405a356febc",
+  "title": "Aug. 27, 2012 City Council Minutes",
+  "text_path": "records/e09161f78131b49c6d688a67f5a6f327872331acaa668b6c7064f405a356febc.md",
+  "representation_sha256": "7828eba77ede0a8cd93459fb9aea0f8e3d405f876a75e6f16e1c29edac6a6a43",
+  "bytes": 20942,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-09-10/aug-27-2012-city-council-minutes.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "e092fa4a2e4f74a41fc873e2e6cdd4d6ed44deac1c93712a66922e8886abc8f6",
+  "title": "Terre Pont Resolution Staff Report",
+  "text_path": "records/e092fa4a2e4f74a41fc873e2e6cdd4d6ed44deac1c93712a66922e8886abc8f6.md",
+  "representation_sha256": "adb624001171d5105ef93aa68058a3d164ce020ac81051c41d73e363deed82c2",
+  "bytes": 15488,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-09-09/terre-pont-resolution-staff-report.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

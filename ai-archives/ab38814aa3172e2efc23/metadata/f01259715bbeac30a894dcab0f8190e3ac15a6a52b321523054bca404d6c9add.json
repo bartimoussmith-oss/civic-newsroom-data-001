@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "f01259715bbeac30a894dcab0f8190e3ac15a6a52b321523054bca404d6c9add",
+  "title": "City Council — Monday, February 28, 2022",
+  "text_path": "records/f01259715bbeac30a894dcab0f8190e3ac15a6a52b321523054bca404d6c9add.md",
+  "representation_sha256": "443a5b7c7af0c6bab04c795f984894627f514004cac11cbb22d33de9caa26829",
+  "bytes": 48975,
+  "year_path_label": "2022",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "meetings/2022/city-council-2022-02-28.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "e49e697959ae0422a9875dfcd5101d70f0b5381222136b2382755981d339d12a",
+  "title": "Sept. 10 Payable, part 1 of 2",
+  "text_path": "records/e49e697959ae0422a9875dfcd5101d70f0b5381222136b2382755981d339d12a.md",
+  "representation_sha256": "7a3118831b10b8fc7aaf482d1897c5d911ec547b30c6988d1bb48e7a77ee6a41",
+  "bytes": 148633,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-09-10/sept-10-payable.part1.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

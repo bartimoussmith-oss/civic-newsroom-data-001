@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "b6f406b4393e226cdde7506b4b773ab53b491151391537e5889a6c750023b66e",
+  "title": "Ordinance Zone Change for Campstool Addition",
+  "text_path": "records/b6f406b4393e226cdde7506b4b773ab53b491151391537e5889a6c750023b66e.md",
+  "representation_sha256": "89cb23ed5b4bc0b543bc0286a8a3bb8351565895dc3e3b75b866092d56d801d9",
+  "bytes": 26679,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/ordinance-zone-change-for-campstool-addition.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d12110f4963a3fe60537fed40b0033205a8bc04eded68a84a82ea90d54eae70a",
+  "title": "Reappropriation Resolution",
+  "text_path": "records/d12110f4963a3fe60537fed40b0033205a8bc04eded68a84a82ea90d54eae70a.md",
+  "representation_sha256": "272cf454e383be136f175bb590a3b2c740d6e8f2c47279d935f9388d619a15ea",
+  "bytes": 6354,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-04-08/reappropriation-resolution.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

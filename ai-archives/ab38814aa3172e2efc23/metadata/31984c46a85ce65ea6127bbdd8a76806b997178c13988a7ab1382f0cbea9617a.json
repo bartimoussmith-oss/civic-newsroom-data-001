@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "31984c46a85ce65ea6127bbdd8a76806b997178c13988a7ab1382f0cbea9617a",
+  "title": "UDC Amending Landscaping requirements info.",
+  "text_path": "records/31984c46a85ce65ea6127bbdd8a76806b997178c13988a7ab1382f0cbea9617a.md",
+  "representation_sha256": "7f07ab16d23ca167009ccf95916e6320a0dde40ca0067f20d9cd1bbb7c4522ba",
+  "bytes": 47445,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-08-26/udc-amending-landscaping-requirements-info.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

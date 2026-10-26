@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "36af2d0ad133c6441db546cfbb588d64abcf2cf07fee009f276a389f7614467e",
+  "title": "Bid Document Memo",
+  "text_path": "records/36af2d0ad133c6441db546cfbb588d64abcf2cf07fee009f276a389f7614467e.md",
+  "representation_sha256": "0d7f5fc740e0fe6627177db5f327e228571252d8ce4b4644d1e5a11574c26d12",
+  "bytes": 2527,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-04-08/bid-document-memo.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

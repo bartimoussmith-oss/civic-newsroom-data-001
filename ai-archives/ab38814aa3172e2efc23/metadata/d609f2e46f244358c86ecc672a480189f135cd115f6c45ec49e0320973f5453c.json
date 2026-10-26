@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d609f2e46f244358c86ecc672a480189f135cd115f6c45ec49e0320973f5453c",
+  "title": "Impact Fee Study Report",
+  "text_path": "records/d609f2e46f244358c86ecc672a480189f135cd115f6c45ec49e0320973f5453c.md",
+  "representation_sha256": "9befc819acfd347f295a6b6ec897a1944e7f0f36acf8917270f99248e02ef5cb",
+  "bytes": 123522,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-03-09/impact-fee-study-report.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

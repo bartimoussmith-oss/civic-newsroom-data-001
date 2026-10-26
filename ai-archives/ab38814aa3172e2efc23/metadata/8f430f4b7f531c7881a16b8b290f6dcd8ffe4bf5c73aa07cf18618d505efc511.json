@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "8f430f4b7f531c7881a16b8b290f6dcd8ffe4bf5c73aa07cf18618d505efc511",
+  "title": "Contract Mod \\#2 with FCI Constructors of Wyo.",
+  "text_path": "records/8f430f4b7f531c7881a16b8b290f6dcd8ffe4bf5c73aa07cf18618d505efc511.md",
+  "representation_sha256": "970323d7fbe8894a23fe3d06fd0a1d4c05b86ecf3b37bb11d3b113ea2338b2f2",
+  "bytes": 15695,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-07-28/contract-mod-2-with-fci-constructors-of-wyo.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "ab8600089a791007be7e86995e96c28fe9942e0e813fa9a82d08310beea7dec3",
+  "title": "ws-06-23-23-agenda",
+  "text_path": "records/ab8600089a791007be7e86995e96c28fe9942e0e813fa9a82d08310beea7dec3.md",
+  "representation_sha256": "d00a1da4d758824d2b483716ec767632d9cbf79fb8d54b4757b573e692926158",
+  "bytes": 1508,
+  "year_path_label": "2023",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2023/work-sessions-2023-06-23/ws-06-23-23-agenda.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "87a20f799ae6f6645d814ba03d6c22f4c30736c8f91de7346143a282832d7070",
+  "title": "Ordinance Title 15, Buildings and Construction",
+  "text_path": "records/87a20f799ae6f6645d814ba03d6c22f4c30736c8f91de7346143a282832d7070.md",
+  "representation_sha256": "2b38a59308a2ff9d55fa307c0db70599452762f543664f48cba0bc001a557813",
+  "bytes": 50047,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-09-09/ordinance-title-15-buildings-and-construction.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

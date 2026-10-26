@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "f55b0671f8b497d4a0e1bd60893c75986890ef9cc63ae8eea6c69c87b3d8c31b",
+  "title": "Agenda Only - Revised Final Plat Map",
+  "text_path": "records/f55b0671f8b497d4a0e1bd60893c75986890ef9cc63ae8eea6c69c87b3d8c31b.md",
+  "representation_sha256": "dd92a050555f3d116098b87830f8c1609cedf76369f1fdd3fcbd30c1727d9c75",
+  "bytes": 2255,
+  "year_path_label": "2020",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2020/city-council-2020-05-11/agenda-only-revised-final-plat-map.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

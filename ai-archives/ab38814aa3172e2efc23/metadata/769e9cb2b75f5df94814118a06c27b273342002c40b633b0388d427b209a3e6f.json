@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "769e9cb2b75f5df94814118a06c27b273342002c40b633b0388d427b209a3e6f",
+  "title": "Fox Farm Corridor Resolution",
+  "text_path": "records/769e9cb2b75f5df94814118a06c27b273342002c40b633b0388d427b209a3e6f.md",
+  "representation_sha256": "164c5ed0e6a56ce0c6ae8aa6b60a4f0a262e968b26c44c2ae7c7a7a96a35a510",
+  "bytes": 5702,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-11-12/fox-farm-corridor-resolution.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

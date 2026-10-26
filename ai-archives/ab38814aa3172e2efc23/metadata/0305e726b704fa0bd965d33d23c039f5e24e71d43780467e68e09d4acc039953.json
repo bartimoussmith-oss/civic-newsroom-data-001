@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "0305e726b704fa0bd965d33d23c039f5e24e71d43780467e68e09d4acc039953",
+  "title": "Safe Harbor",
+  "text_path": "records/0305e726b704fa0bd965d33d23c039f5e24e71d43780467e68e09d4acc039953.md",
+  "representation_sha256": "56fd40f02cae9c85efb3248202e40e50bf8e095dd9de61036439e9d53edb1ff1",
+  "bytes": 13090,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-10-10/safe-harbor.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "2fb6c3adc4723f3e4daa01174f327f8f7d2729408f663dce9dc4d5d43178d92e",
+  "title": "Agreement Animal Shelter Services",
+  "text_path": "records/2fb6c3adc4723f3e4daa01174f327f8f7d2729408f663dce9dc4d5d43178d92e.md",
+  "representation_sha256": "b4528f5ededc56b42863c32374e15c41b4963b5954f8916b839de96170de1504",
+  "bytes": 13246,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-07-28/agreement-animal-shelter-services.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

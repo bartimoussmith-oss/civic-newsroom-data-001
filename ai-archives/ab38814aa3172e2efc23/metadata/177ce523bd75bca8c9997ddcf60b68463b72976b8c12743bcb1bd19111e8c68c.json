@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "177ce523bd75bca8c9997ddcf60b68463b72976b8c12743bcb1bd19111e8c68c",
+  "title": "Agenda Only - Amendments from May 4, 2020 Finance Committee Meet - Amendments from May 4, 2020 Finance Committee Meeting",
+  "text_path": "records/177ce523bd75bca8c9997ddcf60b68463b72976b8c12743bcb1bd19111e8c68c.md",
+  "representation_sha256": "ad6379a8f7634ab6c0777a4a0944d04bc78dc02e4815e1d3355278355cb03734",
+  "bytes": 3262,
+  "year_path_label": "2020",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2020/city-council-2020-05-11/agenda-only-amendments-from-may-4-2020-finance-committee-meet-amendmen.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

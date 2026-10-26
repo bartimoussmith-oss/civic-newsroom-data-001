@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "e48dc33130aa1b7455b11a9baa667be6a310f9359428fa22f9086b6adbff7f7c",
+  "title": "Ordinance Zone Change Cheyenne Business Parkway",
+  "text_path": "records/e48dc33130aa1b7455b11a9baa667be6a310f9359428fa22f9086b6adbff7f7c.md",
+  "representation_sha256": "1d679559b72d171bcb3c989a0a186cc73d026d04822ba8aa1ee776218cfc97f0",
+  "bytes": 21828,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/ordinance-zone-change-cheyenne-business-parkway.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

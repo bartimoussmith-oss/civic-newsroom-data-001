@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "012dfb5441d4982345653092713a59b2785740b0c9a604bded68a75e4b000eaf",
+  "title": "Aerial Map",
+  "text_path": "records/012dfb5441d4982345653092713a59b2785740b0c9a604bded68a75e4b000eaf.md",
+  "representation_sha256": "9799f84acd4ea81f8b94c9dd16bfca6b6402f42b2f029efc81a20004c90abbd4",
+  "bytes": 1433,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-06-24/aerial-map.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

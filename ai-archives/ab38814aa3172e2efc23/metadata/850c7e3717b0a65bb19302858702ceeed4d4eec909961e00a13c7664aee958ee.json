@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "850c7e3717b0a65bb19302858702ceeed4d4eec909961e00a13c7664aee958ee",
+  "title": "E. Cheyenne Community Park Master Plan Report",
+  "text_path": "records/850c7e3717b0a65bb19302858702ceeed4d4eec909961e00a13c7664aee958ee.md",
+  "representation_sha256": "5cbb7b8e5e8c0e9ad05cec788c171dbfe05aa29562a80f8735ca677cc6dd43b6",
+  "bytes": 74757,
+  "year_path_label": "2022",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2022/city-council-2022-07-11/e-cheyenne-community-park-master-plan-report.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

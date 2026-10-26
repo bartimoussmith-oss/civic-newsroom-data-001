@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "f36dd81d7a4ba70158a054856e1f400921562893138b35089b7d1c1941f590cb",
+  "title": "Retired and Senior Volunteer Program",
+  "text_path": "records/f36dd81d7a4ba70158a054856e1f400921562893138b35089b7d1c1941f590cb.md",
+  "representation_sha256": "3839f7bcad422226e9511f013857f82267c4449ba934eff671933936b4102f43",
+  "bytes": 3419,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-05-24/retired-and-senior-volunteer-program.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

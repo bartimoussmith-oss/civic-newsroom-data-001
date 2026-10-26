@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "98a17d21ca917662f1759b32511e7835c935f0dfc1dac83dd4c4588c28c91a8d",
+  "title": "Calcutta Letter from CFD",
+  "text_path": "records/98a17d21ca917662f1759b32511e7835c935f0dfc1dac83dd4c4588c28c91a8d.md",
+  "representation_sha256": "d167b13ebad9e4545261b89b1534e694fbca29392acc51417885ce1c00c1f014",
+  "bytes": 3369,
+  "year_path_label": "2016",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2016/city-council-2016-05-23/calcutta-letter-from-cfd.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

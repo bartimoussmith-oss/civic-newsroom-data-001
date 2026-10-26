@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "dce4596deb211e6facf7b2d26d0732f7e8e793e93f902f9d8cf8ee8777ecaf2f",
+  "title": "Agenda",
+  "text_path": "records/dce4596deb211e6facf7b2d26d0732f7e8e793e93f902f9d8cf8ee8777ecaf2f.md",
+  "representation_sha256": "0ac8cc094cd93eb6e216b0336b13205893956e951a3b2eb531409887f82aac27",
+  "bytes": 11068,
+  "year_path_label": "2025",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2025/city-council-2025-11-10/agenda.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

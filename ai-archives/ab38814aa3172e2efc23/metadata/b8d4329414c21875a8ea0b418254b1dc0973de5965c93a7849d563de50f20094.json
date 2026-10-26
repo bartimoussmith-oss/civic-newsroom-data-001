@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "b8d4329414c21875a8ea0b418254b1dc0973de5965c93a7849d563de50f20094",
+  "title": "Liquor Licensee Listing",
+  "text_path": "records/b8d4329414c21875a8ea0b418254b1dc0973de5965c93a7849d563de50f20094.md",
+  "representation_sha256": "af0f2bae0a685c0d138842c1cd97318eb1b44eb20b5da8ec78e203d6b3378d7a",
+  "bytes": 14087,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-02-28/liquor-licensee-listing.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

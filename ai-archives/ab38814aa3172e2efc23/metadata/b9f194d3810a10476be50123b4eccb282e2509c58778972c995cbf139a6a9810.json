@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "b9f194d3810a10476be50123b4eccb282e2509c58778972c995cbf139a6a9810",
+  "title": "Southern Wyoming Retired and Senior Volunteer Prog - Southern Wyoming Retired and Senior Volunteer Program",
+  "text_path": "records/b9f194d3810a10476be50123b4eccb282e2509c58778972c995cbf139a6a9810.md",
+  "representation_sha256": "b14389998f4d7a151eac162e0f08781213e2bb70b358a55e673be0bd8c58d0d2",
+  "bytes": 13511,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-10-10/southern-wyoming-retired-and-senior-volunteer-prog-southern-wyoming-re.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

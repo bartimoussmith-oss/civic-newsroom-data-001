@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "fc409c9bfc6a918539d9f6e29be9c5445990a238b3e1aa54593681afd69b2c63",
+  "title": "Manual Check for Referee Services",
+  "text_path": "records/fc409c9bfc6a918539d9f6e29be9c5445990a238b3e1aa54593681afd69b2c63.md",
+  "representation_sha256": "49a20710eedc8d31670a99fffd24310a31130964e2463e3840aebba6ffe4e760",
+  "bytes": 2180,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-12-27/manual-check-for-referee-services.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

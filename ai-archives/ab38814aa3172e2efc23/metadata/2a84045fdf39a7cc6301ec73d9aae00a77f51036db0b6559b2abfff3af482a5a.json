@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "2a84045fdf39a7cc6301ec73d9aae00a77f51036db0b6559b2abfff3af482a5a",
+  "title": "Amendment Memo",
+  "text_path": "records/2a84045fdf39a7cc6301ec73d9aae00a77f51036db0b6559b2abfff3af482a5a.md",
+  "representation_sha256": "326f89f726fdc32ac39b1ce5d7466b394f3a4d3b925d0508a298da0ca8b896f7",
+  "bytes": 4929,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-11-09/amendment-memo.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

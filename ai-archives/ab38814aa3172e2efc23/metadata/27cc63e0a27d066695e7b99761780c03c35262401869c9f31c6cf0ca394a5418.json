@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "27cc63e0a27d066695e7b99761780c03c35262401869c9f31c6cf0ca394a5418",
+  "title": "Ordinance Terre Pont",
+  "text_path": "records/27cc63e0a27d066695e7b99761780c03c35262401869c9f31c6cf0ca394a5418.md",
+  "representation_sha256": "f838718709f11d2598e1ab0c58e8bf1611e8fbc4ed9803ca564dc767bf14cb39",
+  "bytes": 39691,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-08-26/ordinance-terre-pont.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "11a694bf401dea44237b971a06d844e337b4acc49b77cfe8f56ce293796de4f3",
+  "title": "Contract with CFD for buses",
+  "text_path": "records/11a694bf401dea44237b971a06d844e337b4acc49b77cfe8f56ce293796de4f3.md",
+  "representation_sha256": "130188265f0b1be2e703eff3563808c60464c85c97cc7724bc57709ee1fa3d34",
+  "bytes": 11119,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/contract-with-cfd-for-buses.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

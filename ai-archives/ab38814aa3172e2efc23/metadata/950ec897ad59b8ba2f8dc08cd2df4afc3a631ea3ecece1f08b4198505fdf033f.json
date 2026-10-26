@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "950ec897ad59b8ba2f8dc08cd2df4afc3a631ea3ecece1f08b4198505fdf033f",
+  "title": "East Pershing Limits Map",
+  "text_path": "records/950ec897ad59b8ba2f8dc08cd2df4afc3a631ea3ecece1f08b4198505fdf033f.md",
+  "representation_sha256": "77980c90f3b38daee12f33de0bfab4120b2fe0fa9f42263a22dfc762cfe6b2c4",
+  "bytes": 3217,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-01-14/east-pershing-limits-map.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

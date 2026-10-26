@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "70386a2c249afdf2fe14ae3ece6d54d040ed8af495cbd7dcb7a446c21ed72d9c",
+  "title": "12-13-2010 Payable",
+  "text_path": "records/70386a2c249afdf2fe14ae3ece6d54d040ed8af495cbd7dcb7a446c21ed72d9c.md",
+  "representation_sha256": "75bf1df2c2c50d52d9afecc4cc2af36d9ff944a267f4fc6c7023b9ac9f3aafef",
+  "bytes": 1410,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-12-13/12-13-2010-payable.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

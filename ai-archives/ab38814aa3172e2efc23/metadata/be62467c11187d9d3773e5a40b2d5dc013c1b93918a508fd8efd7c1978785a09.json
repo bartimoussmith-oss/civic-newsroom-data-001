@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "be62467c11187d9d3773e5a40b2d5dc013c1b93918a508fd8efd7c1978785a09",
+  "title": "Payables for August 8, 2016",
+  "text_path": "records/be62467c11187d9d3773e5a40b2d5dc013c1b93918a508fd8efd7c1978785a09.md",
+  "representation_sha256": "23a15891e4ed10aafc6baf85b647ef00df52da94ae9d8daa68910a975e41db10",
+  "bytes": 1647,
+  "year_path_label": "2016",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2016/city-council-2016-08-08/payables-for-august-8-2016.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

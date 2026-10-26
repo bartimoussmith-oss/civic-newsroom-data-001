@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "1bd1f5f494938ee202edbd045f997a8ffab9b27ebe2f17d3698ef3733c9871de",
+  "title": "2014 Specs (large file), part 3 of 3",
+  "text_path": "records/1bd1f5f494938ee202edbd045f997a8ffab9b27ebe2f17d3698ef3733c9871de.md",
+  "representation_sha256": "131e017b9bade7c5f59b231ce1a358e49fed145e29c2711baf4faa4f2a1901a1",
+  "bytes": 141610,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-02-24/2014-specs-large-file.part3.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

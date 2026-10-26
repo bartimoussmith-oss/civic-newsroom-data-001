@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "839d6b544cc80ab7592c0823190e158b589e02e3e5447760d6030a96c2cf240e",
+  "title": "Ord. amending 12.04 Streets, Sidewalks, Driveways",
+  "text_path": "records/839d6b544cc80ab7592c0823190e158b589e02e3e5447760d6030a96c2cf240e.md",
+  "representation_sha256": "f7e5dfdf381970a1c5b74b9138900529684326051bb1fe14a20e264dbeaf2827",
+  "bytes": 8431,
+  "year_path_label": "2009",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2009/city-council-2009-10-26/ord-amending-12-04-streets-sidewalks-driveways.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

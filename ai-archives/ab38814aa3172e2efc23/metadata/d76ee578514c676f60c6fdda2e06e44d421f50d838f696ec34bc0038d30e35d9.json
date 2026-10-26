@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d76ee578514c676f60c6fdda2e06e44d421f50d838f696ec34bc0038d30e35d9",
+  "title": "Jan. 31, 2012 Payments",
+  "text_path": "records/d76ee578514c676f60c6fdda2e06e44d421f50d838f696ec34bc0038d30e35d9.md",
+  "representation_sha256": "20b258777323eddf3c7fd1898d20ec6042a78b73e4217ed4184fe143471fbd32",
+  "bytes": 10343,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-02-13/jan-31-2012-payments.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

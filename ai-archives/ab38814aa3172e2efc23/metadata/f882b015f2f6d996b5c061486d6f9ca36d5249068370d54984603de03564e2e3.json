@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "f882b015f2f6d996b5c061486d6f9ca36d5249068370d54984603de03564e2e3",
+  "title": "Safehouse",
+  "text_path": "records/f882b015f2f6d996b5c061486d6f9ca36d5249068370d54984603de03564e2e3.md",
+  "representation_sha256": "68491edd3e4ea11e11b33c74fb918847a944446db3d1c7399b4b537af4dec136",
+  "bytes": 3200,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-06-14/safehouse.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

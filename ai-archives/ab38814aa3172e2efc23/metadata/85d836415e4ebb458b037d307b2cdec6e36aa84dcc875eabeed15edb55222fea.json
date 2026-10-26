@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "85d836415e4ebb458b037d307b2cdec6e36aa84dcc875eabeed15edb55222fea",
+  "title": "Resolution - Final Plat Teton Business Park - Resolution - Final Plat Teton Business Park",
+  "text_path": "records/85d836415e4ebb458b037d307b2cdec6e36aa84dcc875eabeed15edb55222fea.md",
+  "representation_sha256": "e9d6648768d20895e1159f7b5f65906e35ed1806851255f5d2bd218c71b27f03",
+  "bytes": 19376,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/resolution-final-plat-teton-business-park-resolution-final-plat-teton.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

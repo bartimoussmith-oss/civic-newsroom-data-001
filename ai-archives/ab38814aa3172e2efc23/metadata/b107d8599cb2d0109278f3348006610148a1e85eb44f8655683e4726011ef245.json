@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "b107d8599cb2d0109278f3348006610148a1e85eb44f8655683e4726011ef245",
+  "title": "Peak Wellness Center, Inc.",
+  "text_path": "records/b107d8599cb2d0109278f3348006610148a1e85eb44f8655683e4726011ef245.md",
+  "representation_sha256": "d34491516b7299899352141fe159d5e7d9f6fd45c164db87b4ee0f386592a235",
+  "bytes": 13134,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-10-10/peak-wellness-center-inc.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

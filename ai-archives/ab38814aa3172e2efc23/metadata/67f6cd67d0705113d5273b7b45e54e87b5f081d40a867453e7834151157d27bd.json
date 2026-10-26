@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "67f6cd67d0705113d5273b7b45e54e87b5f081d40a867453e7834151157d27bd",
+  "title": "Nov. 26, 2012 Manual Check",
+  "text_path": "records/67f6cd67d0705113d5273b7b45e54e87b5f081d40a867453e7834151157d27bd.md",
+  "representation_sha256": "c677762cab9f27bc4a546888c59ee8bf069a9c22f161528e348abcd834e4fb3e",
+  "bytes": 2170,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-11-26/nov-26-2012-manual-check.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

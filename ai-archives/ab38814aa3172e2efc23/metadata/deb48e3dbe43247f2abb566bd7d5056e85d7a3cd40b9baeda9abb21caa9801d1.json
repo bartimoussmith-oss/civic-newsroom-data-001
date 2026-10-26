@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "deb48e3dbe43247f2abb566bd7d5056e85d7a3cd40b9baeda9abb21caa9801d1",
+  "title": "2025.10.10 reed-ave-corridor-6th-pennypresentation",
+  "text_path": "records/deb48e3dbe43247f2abb566bd7d5056e85d7a3cd40b9baeda9abb21caa9801d1.md",
+  "representation_sha256": "0a83fcf08286174c7121a713d46364e5b86514a1fafbe182346bf38c8f401c80",
+  "bytes": 17191,
+  "year_path_label": "2025",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2025/work-sessions-2025-10-10/2025-10-10-reed-ave-corridor-6th-pennypresentation.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "913adc2f54ae78697eb0ffe6bf2ea59dec595435bccff215676a341fecff695c",
+  "title": "Manual Checks Miscellaneous Payments",
+  "text_path": "records/913adc2f54ae78697eb0ffe6bf2ea59dec595435bccff215676a341fecff695c.md",
+  "representation_sha256": "1ba84dd9587c811569d20914d00a9fdd78b516070e814ad37064229bd213c465",
+  "bytes": 3769,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-12-27/manual-checks-miscellaneous-payments.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

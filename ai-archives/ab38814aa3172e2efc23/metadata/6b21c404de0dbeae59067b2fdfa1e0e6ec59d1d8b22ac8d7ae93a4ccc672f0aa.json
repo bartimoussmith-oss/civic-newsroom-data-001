@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "6b21c404de0dbeae59067b2fdfa1e0e6ec59d1d8b22ac8d7ae93a4ccc672f0aa",
+  "title": "psc-07-21-25-agenda",
+  "text_path": "records/6b21c404de0dbeae59067b2fdfa1e0e6ec59d1d8b22ac8d7ae93a4ccc672f0aa.md",
+  "representation_sha256": "5d8b86d7234d2903a4afb38a6226a98e414482368517c162e4c904b1502e2592",
+  "bytes": 4255,
+  "year_path_label": "2025",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2025/public-services-committee-2025-07-21/psc-07-21-25-agenda.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "27c68ef71e16ea893fff62e9db669288994f0bd5378e096fa138b84e4137e0b2",
+  "title": "Annual Action Plan 2022",
+  "text_path": "records/27c68ef71e16ea893fff62e9db669288994f0bd5378e096fa138b84e4137e0b2.md",
+  "representation_sha256": "504fc15b9a1ef2b560e6f32f85ba65aba74370f779a29d185a5306cba5b2e493",
+  "bytes": 80604,
+  "year_path_label": "2022",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2022/city-council-2022-04-25/annual-action-plan-2022.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

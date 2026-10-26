@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "23e75ff1f2af539d7a145f4c3f6ed1fcdc1fb51386e65a16d233c2aeb0ea951b",
+  "title": "Contract with CSO",
+  "text_path": "records/23e75ff1f2af539d7a145f4c3f6ed1fcdc1fb51386e65a16d233c2aeb0ea951b.md",
+  "representation_sha256": "6e535fbbfc181299bf75531ccec706659630b46a3322a9584d838d7cf4f59e67",
+  "bytes": 13299,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/contract-with-cso.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

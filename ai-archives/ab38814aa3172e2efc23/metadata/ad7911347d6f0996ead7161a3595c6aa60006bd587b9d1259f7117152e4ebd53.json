@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "ad7911347d6f0996ead7161a3595c6aa60006bd587b9d1259f7117152e4ebd53",
+  "title": "Proposed Amendment",
+  "text_path": "records/ad7911347d6f0996ead7161a3595c6aa60006bd587b9d1259f7117152e4ebd53.md",
+  "representation_sha256": "fd38b7159e469459cf2b377cb9798a7c8f93422a6bb9428addea1918bb17b330",
+  "bytes": 2905,
+  "year_path_label": "2018",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2018/city-council-2018-10-08/proposed-amendment.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

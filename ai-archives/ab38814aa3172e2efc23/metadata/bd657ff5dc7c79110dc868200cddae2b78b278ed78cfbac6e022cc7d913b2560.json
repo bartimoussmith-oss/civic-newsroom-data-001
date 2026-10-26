@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "bd657ff5dc7c79110dc868200cddae2b78b278ed78cfbac6e022cc7d913b2560",
+  "title": "Peak Wellness Center Alcohol Receiving Center",
+  "text_path": "records/bd657ff5dc7c79110dc868200cddae2b78b278ed78cfbac6e022cc7d913b2560.md",
+  "representation_sha256": "a4d46577575a0f7cbaea2e5ae4deb13cd2f36498921c05d42b5c27426417b8b3",
+  "bytes": 13265,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-10-10/peak-wellness-center-alcohol-receiving-center.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

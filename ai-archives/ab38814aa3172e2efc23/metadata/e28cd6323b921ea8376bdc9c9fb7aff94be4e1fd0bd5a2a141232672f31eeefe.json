@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "e28cd6323b921ea8376bdc9c9fb7aff94be4e1fd0bd5a2a141232672f31eeefe",
+  "title": "Stride Learning Center",
+  "text_path": "records/e28cd6323b921ea8376bdc9c9fb7aff94be4e1fd0bd5a2a141232672f31eeefe.md",
+  "representation_sha256": "06abbcd2e8adf82fc2ae1020100a67f510affb16188918caf0de00ee8295de3b",
+  "bytes": 3254,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-05-24/stride-learning-center.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

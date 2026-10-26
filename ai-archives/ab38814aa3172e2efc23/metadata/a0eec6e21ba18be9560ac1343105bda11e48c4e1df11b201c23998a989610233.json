@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "a0eec6e21ba18be9560ac1343105bda11e48c4e1df11b201c23998a989610233",
+  "title": "Substitute Ordinance Approved 9-10-12 Council Meet - Substitute Ordinance Approved 9-10-12 Council Meeting",
+  "text_path": "records/a0eec6e21ba18be9560ac1343105bda11e48c4e1df11b201c23998a989610233.md",
+  "representation_sha256": "57741736b85bce82fc82024e93f0d058d958e2544fb049f7bc67c06fb7e84786",
+  "bytes": 11815,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-09-10/substitute-ordinance-approved-9-10-12-council-meet-substitute-ordinanc.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

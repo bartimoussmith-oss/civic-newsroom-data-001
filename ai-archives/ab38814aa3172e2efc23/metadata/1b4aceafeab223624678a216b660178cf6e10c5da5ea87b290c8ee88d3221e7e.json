@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "1b4aceafeab223624678a216b660178cf6e10c5da5ea87b290c8ee88d3221e7e",
+  "title": "Jan. 9 Child Support Payment",
+  "text_path": "records/1b4aceafeab223624678a216b660178cf6e10c5da5ea87b290c8ee88d3221e7e.md",
+  "representation_sha256": "2d037a2590cf7da811f8f025a6dce7b85ce096a1e0df77cd2b0d64c046118dd5",
+  "bytes": 2058,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-01-09/jan-9-child-support-payment.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

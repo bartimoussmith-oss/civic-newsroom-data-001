@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d7b557db4af98383836570d689b7c57cd668838503330c3ebef5dad3d11b4fca",
+  "title": "Lease Agreement",
+  "text_path": "records/d7b557db4af98383836570d689b7c57cd668838503330c3ebef5dad3d11b4fca.md",
+  "representation_sha256": "c2ec5925bde495e0bb854e026ceb9dd8f354c882b73860783e1143639890011b",
+  "bytes": 12748,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-11-14/lease-agreement.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

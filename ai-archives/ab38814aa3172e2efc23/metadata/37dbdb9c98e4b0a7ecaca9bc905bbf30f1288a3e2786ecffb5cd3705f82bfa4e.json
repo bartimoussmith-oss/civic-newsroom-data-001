@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "37dbdb9c98e4b0a7ecaca9bc905bbf30f1288a3e2786ecffb5cd3705f82bfa4e",
+  "title": "Scope of Work",
+  "text_path": "records/37dbdb9c98e4b0a7ecaca9bc905bbf30f1288a3e2786ecffb5cd3705f82bfa4e.md",
+  "representation_sha256": "e46cea708cb71023df9ed50c39eae058e95498c034afb1bd58b3fc28db8d4d15",
+  "bytes": 26028,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-11-14/scope-of-work.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

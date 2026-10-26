@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "304231a037665c8dd7baff7871f2d9cb20307d2010b80ac3c1db69be6a36fb26",
+  "title": "Transcript: Urban Renewal Authority — Thursday, February 5, 2026",
+  "text_path": "records/304231a037665c8dd7baff7871f2d9cb20307d2010b80ac3c1db69be6a36fb26.md",
+  "representation_sha256": "9df66a7531a5a50b4a973a5f09bb1668353c4844372540067eec67af8988fd86",
+  "bytes": 58169,
+  "year_path_label": "2026",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2026/urban-renewal-authority-2026-02-05/transcript.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

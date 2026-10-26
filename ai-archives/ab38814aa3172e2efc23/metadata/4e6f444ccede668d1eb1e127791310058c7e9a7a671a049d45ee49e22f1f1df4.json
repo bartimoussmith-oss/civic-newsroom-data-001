@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "4e6f444ccede668d1eb1e127791310058c7e9a7a671a049d45ee49e22f1f1df4",
+  "title": "Contract School Resource Officers for 2014-2015 sc - Contract School Resource Officers for 2014-2015 school year",
+  "text_path": "records/4e6f444ccede668d1eb1e127791310058c7e9a7a671a049d45ee49e22f1f1df4.md",
+  "representation_sha256": "7b65ef96f1086ac1c77caf5a73376359e65645e33c5971463ff36099b9b94fd0",
+  "bytes": 9830,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-07-28/contract-school-resource-officers-for-2014-2015-sc-contract-school-res.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

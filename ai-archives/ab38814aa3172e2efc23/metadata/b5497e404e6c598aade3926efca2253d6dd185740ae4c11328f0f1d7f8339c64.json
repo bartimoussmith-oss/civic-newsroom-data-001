@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "b5497e404e6c598aade3926efca2253d6dd185740ae4c11328f0f1d7f8339c64",
+  "title": "Sept. 12, 2011 Voucher Listing, part 1 of 4",
+  "text_path": "records/b5497e404e6c598aade3926efca2253d6dd185740ae4c11328f0f1d7f8339c64.md",
+  "representation_sha256": "524ddb6a0bcf2ab96a2910667cc37927269fcd235d112c0f32b7b065a06d5f88",
+  "bytes": 149052,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-09-12/sept-12-2011-voucher-listing.part1.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

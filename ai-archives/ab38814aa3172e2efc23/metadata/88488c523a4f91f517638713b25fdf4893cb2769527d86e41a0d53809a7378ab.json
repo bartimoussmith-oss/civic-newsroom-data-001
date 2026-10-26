@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "88488c523a4f91f517638713b25fdf4893cb2769527d86e41a0d53809a7378ab",
+  "title": "Oct. 8 Manual Check 3",
+  "text_path": "records/88488c523a4f91f517638713b25fdf4893cb2769527d86e41a0d53809a7378ab.md",
+  "representation_sha256": "4ad687fbe19d2345b084781d65d9494b481e902511c1236bdb934a6ffef4bdb7",
+  "bytes": 2068,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-10-08/oct-8-manual-check-3.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

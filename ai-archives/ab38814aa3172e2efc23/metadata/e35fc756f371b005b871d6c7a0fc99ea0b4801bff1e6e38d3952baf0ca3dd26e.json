@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "e35fc756f371b005b871d6c7a0fc99ea0b4801bff1e6e38d3952baf0ca3dd26e",
+  "title": "Collateral Assignment of Construction Documents an - Collateral Assignment of Construction Documents and Development Items",
+  "text_path": "records/e35fc756f371b005b871d6c7a0fc99ea0b4801bff1e6e38d3952baf0ca3dd26e.md",
+  "representation_sha256": "a8bcc2ca2289bc5e8bcbf3ac1640cce5dbcb38c6b84c01d08d049727f2507dc4",
+  "bytes": 17741,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-10-28/collateral-assignment-of-construction-documents-an-collateral-assignme.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

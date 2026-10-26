@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "fbe51a3a219cd69a9aa3b11a40de12a76ad2503bed457825b2a2a5d73d861bc7",
+  "title": "Supporting Document - Exhibit A - Supporting Document - Exhibit A",
+  "text_path": "records/fbe51a3a219cd69a9aa3b11a40de12a76ad2503bed457825b2a2a5d73d861bc7.md",
+  "representation_sha256": "a79fb5f5ecd009d3cdf66fff590da681cb838b64446487da93e6bc41b58597d6",
+  "bytes": 2057,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-05-28/supporting-document-exhibit-a-supporting-document-exhibit-a.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

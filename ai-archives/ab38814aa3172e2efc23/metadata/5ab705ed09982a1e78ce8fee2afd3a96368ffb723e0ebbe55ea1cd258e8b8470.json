@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "5ab705ed09982a1e78ce8fee2afd3a96368ffb723e0ebbe55ea1cd258e8b8470",
+  "title": "Conceptual Site Location",
+  "text_path": "records/5ab705ed09982a1e78ce8fee2afd3a96368ffb723e0ebbe55ea1cd258e8b8470.md",
+  "representation_sha256": "5ec2af470ecaa946bbaa0b372cd1f266f1c5aff6a4190052daa652a712d5a8e7",
+  "bytes": 2221,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-07-28/conceptual-site-location.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

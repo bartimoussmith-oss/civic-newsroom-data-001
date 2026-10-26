@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "8ef8ef02d8eb9dbabae4cdf326bcefa8c4baea77d1cbef087c6ea11846888ab3",
+  "title": "Greenway Information",
+  "text_path": "records/8ef8ef02d8eb9dbabae4cdf326bcefa8c4baea77d1cbef087c6ea11846888ab3.md",
+  "representation_sha256": "e3c9a6a8568ecba67deece11d0bc94b1e204adb692cb2e7c047c117d75a62ccb",
+  "bytes": 2879,
+  "year_path_label": "2017",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2017/city-council-2017-11-13/greenway-information.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

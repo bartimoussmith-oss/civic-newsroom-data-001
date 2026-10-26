@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "21adf2d3dbce6071a666a6d7d2add96e6de5fc51cc85faf527ca34b8ca238ddb",
+  "title": "City Council — Monday, August 25, 2008",
+  "text_path": "records/21adf2d3dbce6071a666a6d7d2add96e6de5fc51cc85faf527ca34b8ca238ddb.md",
+  "representation_sha256": "17a128beb4e42c04ed66cc8050877c7f82343e577fd25dd406ceb92ce171d573",
+  "bytes": 50899,
+  "year_path_label": "2008",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "meetings/2008/city-council-2008-08-25.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

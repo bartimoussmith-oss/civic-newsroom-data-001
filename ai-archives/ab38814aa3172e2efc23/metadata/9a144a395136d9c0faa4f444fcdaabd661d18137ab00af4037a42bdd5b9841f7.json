@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "9a144a395136d9c0faa4f444fcdaabd661d18137ab00af4037a42bdd5b9841f7",
+  "title": "City Council — Monday, December 13, 2010",
+  "text_path": "records/9a144a395136d9c0faa4f444fcdaabd661d18137ab00af4037a42bdd5b9841f7.md",
+  "representation_sha256": "1d76a374a2bc1e59aa286de08713a8a4976603e395b48cfd0dd514c452a6354d",
+  "bytes": 22512,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "meetings/2010/city-council-2010-12-13.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

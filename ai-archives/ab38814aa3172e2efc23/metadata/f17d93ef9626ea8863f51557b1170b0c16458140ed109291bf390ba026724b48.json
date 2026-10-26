@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "f17d93ef9626ea8863f51557b1170b0c16458140ed109291bf390ba026724b48",
+  "title": "Voucher Cover Sheet 9-26-22",
+  "text_path": "records/f17d93ef9626ea8863f51557b1170b0c16458140ed109291bf390ba026724b48.md",
+  "representation_sha256": "0698a02b674793fccd242c2bc0bfc95c57cac7cea00a62f54e53e35ca7c77c12",
+  "bytes": 1618,
+  "year_path_label": "2022",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2022/city-council-2022-09-26/voucher-cover-sheet-9-26-22.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

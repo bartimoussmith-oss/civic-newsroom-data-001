@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "2b3debce550683092ddd98b517bdefff2cb96d7db026832cf7d3cca8b703ae6f",
+  "title": "Minutes Jan. 9, 2012",
+  "text_path": "records/2b3debce550683092ddd98b517bdefff2cb96d7db026832cf7d3cca8b703ae6f.md",
+  "representation_sha256": "39d6afa17b1510f56005bd77229a6fdd333c4301889f57b2a16193dee576bb4c",
+  "bytes": 29828,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-01-23/minutes-jan-9-2012.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "87717b8bad5e1b4c7134f771721f78821ee5261868157bf69b253a54d3dec0c7",
+  "title": "Norco, Inc. Breathing Apparatus Equipment",
+  "text_path": "records/87717b8bad5e1b4c7134f771721f78821ee5261868157bf69b253a54d3dec0c7.md",
+  "representation_sha256": "6699b5b2974912fba8ca637689e8031d5a1d2b3b006eea120d454989d3574855",
+  "bytes": 3605,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-03-25/norco-inc-breathing-apparatus-equipment.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

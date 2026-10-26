@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "7775e0e8aeb080a07bc539ba512335a20e8adc38d0627bf252ac6ceee34064d0",
+  "title": "Resolution Early Education",
+  "text_path": "records/7775e0e8aeb080a07bc539ba512335a20e8adc38d0627bf252ac6ceee34064d0.md",
+  "representation_sha256": "761db2480b086a4b9beac50d62e9833c22e052a07179432d9bd70a25ff27fa75",
+  "bytes": 3103,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/resolution-early-education.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

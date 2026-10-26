@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "44d79a43444a1ee924281dc22e851e23e797469bb96ecd4971ed860fe4b8b9e6",
+  "title": "Aug. 13, 2012 Suppl. Pay 941",
+  "text_path": "records/44d79a43444a1ee924281dc22e851e23e797469bb96ecd4971ed860fe4b8b9e6.md",
+  "representation_sha256": "9709c37a2e467edb55b6e163843e0c1a715bcd423acd7e7c88207d604ae06ebe",
+  "bytes": 2152,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-08-13/aug-13-2012-suppl-pay-941.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

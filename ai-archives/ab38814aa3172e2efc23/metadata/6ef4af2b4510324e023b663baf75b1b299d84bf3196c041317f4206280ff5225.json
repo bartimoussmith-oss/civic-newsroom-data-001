@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "6ef4af2b4510324e023b663baf75b1b299d84bf3196c041317f4206280ff5225",
+  "title": "Proposed Budget, part 1 of 3",
+  "text_path": "records/6ef4af2b4510324e023b663baf75b1b299d84bf3196c041317f4206280ff5225.md",
+  "representation_sha256": "423b63f0e871c07b60bac6576a953de185c2dc810738acf38337ff1de952df42",
+  "bytes": 149796,
+  "year_path_label": "2016",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2016/city-council-2016-05-09/proposed-budget.part1.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

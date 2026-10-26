@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "2372cbdcc6b29eccd98d533454659ebeba4bcf2f86fc7b42fa4840d165abd29a",
+  "title": "Agenda",
+  "text_path": "records/2372cbdcc6b29eccd98d533454659ebeba4bcf2f86fc7b42fa4840d165abd29a.md",
+  "representation_sha256": "5f0f28db6b7b1da080b968dfb4fc1a49d08d41d0c19a661a804733bc81e10021",
+  "bytes": 10788,
+  "year_path_label": "2024",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2024/board-of-county-commissioners-2024-02-06/agenda.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

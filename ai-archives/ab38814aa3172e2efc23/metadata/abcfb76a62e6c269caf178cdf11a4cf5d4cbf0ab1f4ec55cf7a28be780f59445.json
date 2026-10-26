@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "abcfb76a62e6c269caf178cdf11a4cf5d4cbf0ab1f4ec55cf7a28be780f59445",
+  "title": "Resolution Backup",
+  "text_path": "records/abcfb76a62e6c269caf178cdf11a4cf5d4cbf0ab1f4ec55cf7a28be780f59445.md",
+  "representation_sha256": "0b310c96ff180ea6456109d0afda3d94bfa91d9329324b69f5d8877e83ec5412",
+  "bytes": 4363,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-08-11/resolution-backup.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

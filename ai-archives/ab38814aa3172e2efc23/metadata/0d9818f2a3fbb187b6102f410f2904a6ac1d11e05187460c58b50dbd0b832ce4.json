@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "0d9818f2a3fbb187b6102f410f2904a6ac1d11e05187460c58b50dbd0b832ce4",
+  "title": "June 13, 2011 May Deferred Comp Payable",
+  "text_path": "records/0d9818f2a3fbb187b6102f410f2904a6ac1d11e05187460c58b50dbd0b832ce4.md",
+  "representation_sha256": "5fbe2a38fb77ae6f3ecaf9cde46577eb813b2523d20a3a143495d6475cab1c01",
+  "bytes": 2134,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-06-13/june-13-2011-may-deferred-comp-payable.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

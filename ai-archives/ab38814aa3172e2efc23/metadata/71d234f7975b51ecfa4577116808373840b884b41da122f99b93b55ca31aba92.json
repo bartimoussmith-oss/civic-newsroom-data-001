@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "71d234f7975b51ecfa4577116808373840b884b41da122f99b93b55ca31aba92",
+  "title": "Environmental Monitoring Plan",
+  "text_path": "records/71d234f7975b51ecfa4577116808373840b884b41da122f99b93b55ca31aba92.md",
+  "representation_sha256": "8968b3fbf8fbc10d5196064c90f82c91655e5156b176047d58cd35f92c941488",
+  "bytes": 70122,
+  "year_path_label": "2018",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2018/city-council-2018-02-26/environmental-monitoring-plan.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

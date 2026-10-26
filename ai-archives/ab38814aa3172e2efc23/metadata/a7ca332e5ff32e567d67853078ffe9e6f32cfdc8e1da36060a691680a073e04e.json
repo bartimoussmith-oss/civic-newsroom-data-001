@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "a7ca332e5ff32e567d67853078ffe9e6f32cfdc8e1da36060a691680a073e04e",
+  "title": "City Council — Thursday, December 20, 2018",
+  "text_path": "records/a7ca332e5ff32e567d67853078ffe9e6f32cfdc8e1da36060a691680a073e04e.md",
+  "representation_sha256": "652efb10c54080bfb3056e4febfa376ce4d14b781596573777696b9edca83332",
+  "bytes": 1642,
+  "year_path_label": "2018",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "meetings/2018/city-council-2018-12-20.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

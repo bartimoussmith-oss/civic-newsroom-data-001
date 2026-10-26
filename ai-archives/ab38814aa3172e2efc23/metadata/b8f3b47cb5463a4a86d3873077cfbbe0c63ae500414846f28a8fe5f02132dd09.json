@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "b8f3b47cb5463a4a86d3873077cfbbe0c63ae500414846f28a8fe5f02132dd09",
+  "title": "Res. app. for TAP funding for soft surface trail",
+  "text_path": "records/b8f3b47cb5463a4a86d3873077cfbbe0c63ae500414846f28a8fe5f02132dd09.md",
+  "representation_sha256": "c614751bb211c7d1c2e0d81b59888adce08d9679b7d939dd77f9a251f9b17dd6",
+  "bytes": 4606,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-06-08/res-app-for-tap-funding-for-soft-surface-trail.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

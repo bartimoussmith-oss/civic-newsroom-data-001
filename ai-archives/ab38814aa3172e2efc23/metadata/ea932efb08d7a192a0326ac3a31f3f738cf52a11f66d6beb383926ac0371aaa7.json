@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "ea932efb08d7a192a0326ac3a31f3f738cf52a11f66d6beb383926ac0371aaa7",
+  "title": "Swan Ranch II Annexation Information",
+  "text_path": "records/ea932efb08d7a192a0326ac3a31f3f738cf52a11f66d6beb383926ac0371aaa7.md",
+  "representation_sha256": "3579b6864934627a248f06a4e931b1c7d3fb7723f0411c62cd5d5e028c93c0c2",
+  "bytes": 48424,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-08-26/swan-ranch-ii-annexation-information.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

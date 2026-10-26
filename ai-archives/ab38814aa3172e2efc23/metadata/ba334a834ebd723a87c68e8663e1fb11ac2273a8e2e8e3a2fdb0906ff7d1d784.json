@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "ba334a834ebd723a87c68e8663e1fb11ac2273a8e2e8e3a2fdb0906ff7d1d784",
+  "title": "OneWyo Opioid Settlement Agreement",
+  "text_path": "records/ba334a834ebd723a87c68e8663e1fb11ac2273a8e2e8e3a2fdb0906ff7d1d784.md",
+  "representation_sha256": "35b93a6327bd57646457ec73551af0e3c630e65690756988b9dc578cd6604d93",
+  "bytes": 42000,
+  "year_path_label": "2021",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2021/city-council-2021-12-28/onewyo-opioid-settlement-agreement.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

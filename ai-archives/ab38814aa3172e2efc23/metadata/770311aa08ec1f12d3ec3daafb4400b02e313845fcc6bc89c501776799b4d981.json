@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "770311aa08ec1f12d3ec3daafb4400b02e313845fcc6bc89c501776799b4d981",
+  "title": "Agenda Only - Summary of Amendments from Public Services Committ - Summary of Amendments from Public Services Committee",
+  "text_path": "records/770311aa08ec1f12d3ec3daafb4400b02e313845fcc6bc89c501776799b4d981.md",
+  "representation_sha256": "dc87557bbe850aee128cbea73fe3a8853a865e8715237a568181f01d15e7322f",
+  "bytes": 2695,
+  "year_path_label": "2020",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2020/city-council-2020-05-26/agenda-only-summary-of-amendments-from-public-services-committ-summary.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

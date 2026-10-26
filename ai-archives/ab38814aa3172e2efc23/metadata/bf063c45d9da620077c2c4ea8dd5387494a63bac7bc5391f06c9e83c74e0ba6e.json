@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "bf063c45d9da620077c2c4ea8dd5387494a63bac7bc5391f06c9e83c74e0ba6e",
+  "title": "2014 Drawings",
+  "text_path": "records/bf063c45d9da620077c2c4ea8dd5387494a63bac7bc5391f06c9e83c74e0ba6e.md",
+  "representation_sha256": "780a9268f066de0077588b67ca75e2708518f925b1c0e56c588af53d41d33ace",
+  "bytes": 35608,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-02-24/2014-drawings.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

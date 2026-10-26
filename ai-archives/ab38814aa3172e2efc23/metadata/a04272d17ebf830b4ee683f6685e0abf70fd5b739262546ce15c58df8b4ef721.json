@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "a04272d17ebf830b4ee683f6685e0abf70fd5b739262546ce15c58df8b4ef721",
+  "title": "Voucher Payables for Jan. 25, 2016",
+  "text_path": "records/a04272d17ebf830b4ee683f6685e0abf70fd5b739262546ce15c58df8b4ef721.md",
+  "representation_sha256": "d1081d6ff28ba2b46d4cdfa6f42cc9203b99b09738cd449fe90ab3519b63a275",
+  "bytes": 1712,
+  "year_path_label": "2016",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2016/city-council-2016-01-25/voucher-payables-for-jan-25-2016.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

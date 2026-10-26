@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "dd3d56a422feba696be85f8056d47df9c4eef86248aa202986b2067685c6231d",
+  "title": "June 8, 2015 Paybles, part 1 of 2",
+  "text_path": "records/dd3d56a422feba696be85f8056d47df9c4eef86248aa202986b2067685c6231d.md",
+  "representation_sha256": "e8be2af104f6585aed58b7f1d9dcc1f003f959bb28ce7c2d11b973e013bf1dbd",
+  "bytes": 149804,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-06-08/june-8-2015-paybles.part1.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

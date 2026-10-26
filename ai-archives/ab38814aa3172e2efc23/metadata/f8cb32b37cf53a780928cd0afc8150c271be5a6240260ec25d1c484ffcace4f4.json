@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "f8cb32b37cf53a780928cd0afc8150c271be5a6240260ec25d1c484ffcace4f4",
+  "title": "CASA of Laramie County",
+  "text_path": "records/f8cb32b37cf53a780928cd0afc8150c271be5a6240260ec25d1c484ffcace4f4.md",
+  "representation_sha256": "3108ae7c8b73efa9a35da57e7fb31c2b8e9758744482ee61abb83cb7dd41bfbf",
+  "bytes": 13061,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-10-10/casa-of-laramie-county.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

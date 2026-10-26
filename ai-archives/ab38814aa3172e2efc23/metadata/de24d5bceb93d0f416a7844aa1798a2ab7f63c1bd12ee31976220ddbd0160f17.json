@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "de24d5bceb93d0f416a7844aa1798a2ab7f63c1bd12ee31976220ddbd0160f17",
+  "title": "Plan",
+  "text_path": "records/de24d5bceb93d0f416a7844aa1798a2ab7f63c1bd12ee31976220ddbd0160f17.md",
+  "representation_sha256": "933a8f5974aca5190613d61ddc3978cfdf138b6e4c23f2d3fd416c30f1e50609",
+  "bytes": 54202,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-12-28/plan.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

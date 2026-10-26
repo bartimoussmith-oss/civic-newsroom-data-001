@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "444cb6e390fb38e08fb9cb7b0c60796b4035518e9205813eaa0035f557dcb291",
+  "title": "Supporting Document - Amending UDC - Supporting Document - Amending UDC",
+  "text_path": "records/444cb6e390fb38e08fb9cb7b0c60796b4035518e9205813eaa0035f557dcb291.md",
+  "representation_sha256": "91c1496e5da1c49ead8027094347d6a047c421efcde0b201cb44413f9b3c5592",
+  "bytes": 9956,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-11-12/supporting-document-amending-udc-supporting-document-amending-udc.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

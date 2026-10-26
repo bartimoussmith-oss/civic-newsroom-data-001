@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "54f375d752d1cd896972549be067730928c74d90526368339cca399053a2ba68",
+  "title": "Manual Payment for Basketball Officiating",
+  "text_path": "records/54f375d752d1cd896972549be067730928c74d90526368339cca399053a2ba68.md",
+  "representation_sha256": "6fbbf408ed1c4a59c766a40a0fc6f50ef346b3193600d10ed9cac0965120d9e2",
+  "bytes": 2561,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-12-27/manual-payment-for-basketball-officiating.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

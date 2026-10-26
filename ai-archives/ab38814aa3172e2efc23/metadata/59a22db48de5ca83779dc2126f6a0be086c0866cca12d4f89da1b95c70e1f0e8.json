@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "59a22db48de5ca83779dc2126f6a0be086c0866cca12d4f89da1b95c70e1f0e8",
+  "title": "Ordinance Vacating portions of Van Buren Avenue an - Ordinance Vacating portions of Van Buren Avenue and Cheyenne Street",
+  "text_path": "records/59a22db48de5ca83779dc2126f6a0be086c0866cca12d4f89da1b95c70e1f0e8.md",
+  "representation_sha256": "d4cb166cced9e46699b7af239229497c5cfe377878cc2f87808a307e777d24f9",
+  "bytes": 35909,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/ordinance-vacating-portions-of-van-buren-avenue-an-ordinance-vacating.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "1aa842ef9598d037a732020354b616904ab9d242d27ce7a1b2928c58a524ce9e",
+  "title": "April 9, 2012 Deferred Comp",
+  "text_path": "records/1aa842ef9598d037a732020354b616904ab9d242d27ce7a1b2928c58a524ce9e.md",
+  "representation_sha256": "343e1c711a2e84fa8333a355c03c2d666f71d6ad5cf525cd90ee71d2e3d6e7ad",
+  "bytes": 2593,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-04-09/april-9-2012-deferred-comp.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

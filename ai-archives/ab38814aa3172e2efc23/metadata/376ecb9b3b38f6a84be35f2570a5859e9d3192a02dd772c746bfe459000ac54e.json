@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "376ecb9b3b38f6a84be35f2570a5859e9d3192a02dd772c746bfe459000ac54e",
+  "title": "Application for Transfer of Ownership Mason Proper - Application for Transfer of Ownership Mason Properties Inc.",
+  "text_path": "records/376ecb9b3b38f6a84be35f2570a5859e9d3192a02dd772c746bfe459000ac54e.md",
+  "representation_sha256": "7ba3b385614fc496ec4de1ee90c97113f511eb1531359ad6d737d2c752e11001",
+  "bytes": 19389,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-01-12/application-for-transfer-of-ownership-mason-proper-application-for-tra.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "08730171b3ae70f755b11336963a902208d5f0863e11005f17489a774ed589c6",
+  "title": "Supporting Document - Ordinance - Supporting Document - Ordinance",
+  "text_path": "records/08730171b3ae70f755b11336963a902208d5f0863e11005f17489a774ed589c6.md",
+  "representation_sha256": "92a36a76382fa9946e657ed6850f3655ad360fa94bc552645de3fd35e0e2f65e",
+  "bytes": 8045,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-05-28/supporting-document-ordinance-supporting-document-ordinance.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "9ac43e62190382d35b8dddd5bd741032e510c0a227001f79044d61e8def980c5",
+  "title": "County Final Plat Resolution for Deerhaven Subdivi - County Final Plat Resolution for Deerhaven Subdivision",
+  "text_path": "records/9ac43e62190382d35b8dddd5bd741032e510c0a227001f79044d61e8def980c5.md",
+  "representation_sha256": "adcf255408273335750cbf3f1e899e562284c5964b38c52610dc0fb9f7afb95d",
+  "bytes": 17384,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-08-26/county-final-plat-resolution-for-deerhaven-subdivi-county-final-plat-r.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

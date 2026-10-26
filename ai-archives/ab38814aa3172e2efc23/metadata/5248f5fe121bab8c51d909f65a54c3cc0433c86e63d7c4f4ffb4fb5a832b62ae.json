@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "5248f5fe121bab8c51d909f65a54c3cc0433c86e63d7c4f4ffb4fb5a832b62ae",
+  "title": "Engineering Department Memo",
+  "text_path": "records/5248f5fe121bab8c51d909f65a54c3cc0433c86e63d7c4f4ffb4fb5a832b62ae.md",
+  "representation_sha256": "213d8f0b095d0140aad7835e3f66050743a90ecb2a8cdb99d7b5a16e40296ffd",
+  "bytes": 5071,
+  "year_path_label": "2016",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2016/city-council-2016-10-10/engineering-department-memo.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

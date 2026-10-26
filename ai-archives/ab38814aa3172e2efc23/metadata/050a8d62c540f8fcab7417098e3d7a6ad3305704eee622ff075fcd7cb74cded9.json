@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "050a8d62c540f8fcab7417098e3d7a6ad3305704eee622ff075fcd7cb74cded9",
+  "title": "Proposed Budget (large file), part 1 of 3",
+  "text_path": "records/050a8d62c540f8fcab7417098e3d7a6ad3305704eee622ff075fcd7cb74cded9.md",
+  "representation_sha256": "1c86d75a3ca9f87d694a866cca565faf74d11a1739d4117aa36f34ef4869cf0a",
+  "bytes": 150280,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-05-12/proposed-budget-large-file.part1.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

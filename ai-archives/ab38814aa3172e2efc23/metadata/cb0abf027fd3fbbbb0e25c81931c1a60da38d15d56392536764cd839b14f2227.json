@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "cb0abf027fd3fbbbb0e25c81931c1a60da38d15d56392536764cd839b14f2227",
+  "title": "Voucher Payables 3-11-13",
+  "text_path": "records/cb0abf027fd3fbbbb0e25c81931c1a60da38d15d56392536764cd839b14f2227.md",
+  "representation_sha256": "798f9b182f30474ebed8b37276e587a7500f7b09ac006f6592fd9930b624bb5f",
+  "bytes": 1655,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-03-11/voucher-payables-3-11-13.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

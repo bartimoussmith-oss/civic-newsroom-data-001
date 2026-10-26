@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "7c50cc02267a5a66c4e1883cdad7949686df74c9fd25254d619c5403c4aa7d09",
+  "title": "Dec. 12, 2011 Manual2",
+  "text_path": "records/7c50cc02267a5a66c4e1883cdad7949686df74c9fd25254d619c5403c4aa7d09.md",
+  "representation_sha256": "235e4aa3848cd2a266ce19eb6ba6cd3c1fb2c45079e801bdedd05d5b64a060eb",
+  "bytes": 2022,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-12-12/dec-12-2011-manual2.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

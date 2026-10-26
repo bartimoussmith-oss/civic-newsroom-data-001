@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "f1c642f33db06899bc685ff33fcf1e22c44a3662bb5b1137de8a8e7efa796de7",
+  "title": "Original Ordinance (Exhibit C removed 6-13-11 meet - Original Ordinance (Exhibit C removed 6-13-11 meeting)",
+  "text_path": "records/f1c642f33db06899bc685ff33fcf1e22c44a3662bb5b1137de8a8e7efa796de7.md",
+  "representation_sha256": "00969c9ff0309c7910a241222ac391d17e4b0263ef3e033de6c339b4f0fdc00d",
+  "bytes": 42967,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-06-27/original-ordinance-exhibit-c-removed-6-13-11-meet-original-ordinance-e.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

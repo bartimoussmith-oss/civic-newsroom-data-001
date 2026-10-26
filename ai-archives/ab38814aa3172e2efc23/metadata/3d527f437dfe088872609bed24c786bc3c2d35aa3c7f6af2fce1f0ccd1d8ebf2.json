@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "3d527f437dfe088872609bed24c786bc3c2d35aa3c7f6af2fce1f0ccd1d8ebf2",
+  "title": "Laramie County Community Partnership-Connections C - Laramie County Community Partnership-Connections Corner",
+  "text_path": "records/3d527f437dfe088872609bed24c786bc3c2d35aa3c7f6af2fce1f0ccd1d8ebf2.md",
+  "representation_sha256": "6fafc85debf1c97d05b06a630b9186809dbc2dd3eb31946f864ac90aab79f3fe",
+  "bytes": 3587,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-05-24/laramie-county-community-partnership-connections-c-laramie-county-comm.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

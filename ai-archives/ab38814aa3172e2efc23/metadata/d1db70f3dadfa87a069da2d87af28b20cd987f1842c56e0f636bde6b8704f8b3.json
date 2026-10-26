@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d1db70f3dadfa87a069da2d87af28b20cd987f1842c56e0f636bde6b8704f8b3",
+  "title": "Contract Modification No. 1",
+  "text_path": "records/d1db70f3dadfa87a069da2d87af28b20cd987f1842c56e0f636bde6b8704f8b3.md",
+  "representation_sha256": "c8b34eac6e2ab1e9cd24cf98b82eae252a5db599f81ef613d97ba5bff815bd69",
+  "bytes": 7882,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-03-25/contract-modification-no-1.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

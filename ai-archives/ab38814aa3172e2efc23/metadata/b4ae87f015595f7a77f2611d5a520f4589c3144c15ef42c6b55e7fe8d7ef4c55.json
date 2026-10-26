@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "b4ae87f015595f7a77f2611d5a520f4589c3144c15ef42c6b55e7fe8d7ef4c55",
+  "title": "March 26, 2012 Minutes",
+  "text_path": "records/b4ae87f015595f7a77f2611d5a520f4589c3144c15ef42c6b55e7fe8d7ef4c55.md",
+  "representation_sha256": "3a4f7b48192bd74789269512623d3f82af736b7ee4359d891554b49bcc895dc2",
+  "bytes": 23029,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-04-09/march-26-2012-minutes.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

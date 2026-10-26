@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "0e38eabdff1d4435fadc30e6afa16ea7248cbe860ca5300724a9d0ab84beaeff",
+  "title": "Supporting Document - Amended Resolution - Supporting Document - Amended Resolution",
+  "text_path": "records/0e38eabdff1d4435fadc30e6afa16ea7248cbe860ca5300724a9d0ab84beaeff.md",
+  "representation_sha256": "b4dd98f3230674f8fd7938f95ac77229a80c1096418d5b4672fff64c49977e5a",
+  "bytes": 3076,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-06-28/supporting-document-amended-resolution-supporting-document-amended-res.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

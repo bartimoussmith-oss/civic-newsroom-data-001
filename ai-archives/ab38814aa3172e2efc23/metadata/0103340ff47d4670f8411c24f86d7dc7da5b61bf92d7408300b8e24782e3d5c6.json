@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "0103340ff47d4670f8411c24f86d7dc7da5b61bf92d7408300b8e24782e3d5c6",
+  "title": "Amended Ordinance - 2nd Reading - Amended Ordinance - 2nd Reading",
+  "text_path": "records/0103340ff47d4670f8411c24f86d7dc7da5b61bf92d7408300b8e24782e3d5c6.md",
+  "representation_sha256": "a038c08b9475319c01d7a0e35336a410668c766d2428b25806d306b51a58da56",
+  "bytes": 8880,
+  "year_path_label": "2016",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2016/city-council-2016-04-11/amended-ordinance-2nd-reading-amended-ordinance-2nd-reading.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

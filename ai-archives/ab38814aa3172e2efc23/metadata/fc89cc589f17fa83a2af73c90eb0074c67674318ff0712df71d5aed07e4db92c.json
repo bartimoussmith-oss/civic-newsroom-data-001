@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "fc89cc589f17fa83a2af73c90eb0074c67674318ff0712df71d5aed07e4db92c",
+  "title": "Agenda Only - Supporting Document",
+  "text_path": "records/fc89cc589f17fa83a2af73c90eb0074c67674318ff0712df71d5aed07e4db92c.md",
+  "representation_sha256": "c2eb4e9196896f846ed0ce9c8091f901f8c66ba28914deb486299cbb0a561d53",
+  "bytes": 4074,
+  "year_path_label": "2020",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2020/city-council-2020-06-08/agenda-only-supporting-document-2.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

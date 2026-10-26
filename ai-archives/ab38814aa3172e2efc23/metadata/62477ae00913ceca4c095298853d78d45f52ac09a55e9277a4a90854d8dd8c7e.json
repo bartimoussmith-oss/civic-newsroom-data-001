@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "62477ae00913ceca4c095298853d78d45f52ac09a55e9277a4a90854d8dd8c7e",
+  "title": "Liquor License Application Renewal Backup Informat - Liquor License Application Renewal Backup Information",
+  "text_path": "records/62477ae00913ceca4c095298853d78d45f52ac09a55e9277a4a90854d8dd8c7e.md",
+  "representation_sha256": "c11c0f5b0a604b4af0d657d6d28a270928cd7ecd409338af7a02f78aead5d9eb",
+  "bytes": 20927,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-02-23/liquor-license-application-renewal-backup-informat-liquor-license-appl.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

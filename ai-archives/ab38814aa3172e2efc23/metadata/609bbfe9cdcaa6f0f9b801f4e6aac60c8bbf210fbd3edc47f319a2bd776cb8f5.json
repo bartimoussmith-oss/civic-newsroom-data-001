@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "609bbfe9cdcaa6f0f9b801f4e6aac60c8bbf210fbd3edc47f319a2bd776cb8f5",
+  "title": "June 13, 2011 May Payroll",
+  "text_path": "records/609bbfe9cdcaa6f0f9b801f4e6aac60c8bbf210fbd3edc47f319a2bd776cb8f5.md",
+  "representation_sha256": "8a30c2fa63137417b418385ea0613fc7d447d9cd829bb8f0cbc6aa6a5ff687ee",
+  "bytes": 10513,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-06-13/june-13-2011-may-payroll.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

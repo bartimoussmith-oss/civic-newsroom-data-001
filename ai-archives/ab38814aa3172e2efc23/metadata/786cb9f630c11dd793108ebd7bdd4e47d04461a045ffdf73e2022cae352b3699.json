@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "786cb9f630c11dd793108ebd7bdd4e47d04461a045ffdf73e2022cae352b3699",
+  "title": "Annual Action Plan",
+  "text_path": "records/786cb9f630c11dd793108ebd7bdd4e47d04461a045ffdf73e2022cae352b3699.md",
+  "representation_sha256": "a7cb05c5a9dbaa1a349f6aac76f74239d46c354515498242188bbe370e03243c",
+  "bytes": 97582,
+  "year_path_label": "2017",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2017/city-council-2017-04-24/annual-action-plan.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

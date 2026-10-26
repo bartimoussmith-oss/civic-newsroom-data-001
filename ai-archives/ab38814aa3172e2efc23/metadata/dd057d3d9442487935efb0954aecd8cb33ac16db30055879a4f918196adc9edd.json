@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "dd057d3d9442487935efb0954aecd8cb33ac16db30055879a4f918196adc9edd",
+  "title": "Dinneen Real Estate Purchase Agreement",
+  "text_path": "records/dd057d3d9442487935efb0954aecd8cb33ac16db30055879a4f918196adc9edd.md",
+  "representation_sha256": "3b326b6f9058fe5ff373ea88a2851cce40adceb28688e372cb67e75be7d2ad9e",
+  "bytes": 32673,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-04-08/dinneen-real-estate-purchase-agreement.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

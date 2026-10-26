@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "d7ecbee3f14471e21ae4b7274b92a05fdd8a273f5437c5030f740c8587b6a024",
+  "title": "Vouchers Payable for 9-13-2010",
+  "text_path": "records/d7ecbee3f14471e21ae4b7274b92a05fdd8a273f5437c5030f740c8587b6a024.md",
+  "representation_sha256": "04f482185199e95eddfd3706b89c6c11387ffc6cd2e682644178c1a4def3a225",
+  "bytes": 119379,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-09-13/vouchers-payable-for-9-13-2010.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

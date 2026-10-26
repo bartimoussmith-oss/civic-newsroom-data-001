@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "0f1136299b7f80815c80f0ddea859c205ff0429ff7ca5ad730deb399f5c6ce83",
+  "title": "Transfer of Ownership and Location Application Inf - Transfer of Ownership and Location Application Info.",
+  "text_path": "records/0f1136299b7f80815c80f0ddea859c205ff0429ff7ca5ad730deb399f5c6ce83.md",
+  "representation_sha256": "b6a8fe2cc2e9a1c5906c83a0569c0ca7397e74317ff2f502406d9ec6528eb010",
+  "bytes": 33391,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/transfer-of-ownership-and-location-application-inf-transfer-of-ownersh.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

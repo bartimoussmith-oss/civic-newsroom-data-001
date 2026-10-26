@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "aa51f018b873af6cdfefc10b0d348e4e0aaeb472a51437d8c78d9ac618063d8f",
+  "title": "Caption transcript: Public Services Committee — Tuesday, May 7, 2024",
+  "text_path": "records/aa51f018b873af6cdfefc10b0d348e4e0aaeb472a51437d8c78d9ac618063d8f.md",
+  "representation_sha256": "6278a986f5f3f5fa45161ecad252e816fe166aa4463873630e0375fe16910381",
+  "bytes": 72385,
+  "year_path_label": "2024",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2024/public-services-committee-2024-05-07/captions.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

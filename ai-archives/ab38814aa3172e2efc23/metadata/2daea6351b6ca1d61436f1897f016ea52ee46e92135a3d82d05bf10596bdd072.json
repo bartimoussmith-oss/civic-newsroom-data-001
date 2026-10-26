@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "2daea6351b6ca1d61436f1897f016ea52ee46e92135a3d82d05bf10596bdd072",
+  "title": "Jan 9 Manual Check Payment",
+  "text_path": "records/2daea6351b6ca1d61436f1897f016ea52ee46e92135a3d82d05bf10596bdd072.md",
+  "representation_sha256": "6251963f0ca67e32f388ac46cc6731e4fe282432eb8709dfb0ff3274dfb874af",
+  "bytes": 2583,
+  "year_path_label": "2012",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2012/city-council-2012-01-09/jan-9-manual-check-payment.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "3507e808aa3217e34db97b693e73ff270c226cb036c814fdd3554ae08a389c9c",
+  "title": "Collateral Assignment of Architect’s Contract",
+  "text_path": "records/3507e808aa3217e34db97b693e73ff270c226cb036c814fdd3554ae08a389c9c.md",
+  "representation_sha256": "cfeb32af760890a2e0e1c51468db1179d58ee60bb7afcfd6e01f954b5855d6e8",
+  "bytes": 19470,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-10-28/collateral-assignment-of-architect-s-contract.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

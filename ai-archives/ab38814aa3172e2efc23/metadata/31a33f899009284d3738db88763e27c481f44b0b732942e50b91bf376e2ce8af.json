@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "31a33f899009284d3738db88763e27c481f44b0b732942e50b91bf376e2ce8af",
+  "title": "Resolution Facade Improvement Program",
+  "text_path": "records/31a33f899009284d3738db88763e27c481f44b0b732942e50b91bf376e2ce8af.md",
+  "representation_sha256": "228113cdb09521b57cd35a1622c202793e9a5db1baf5e1c869cfcbafb1010543",
+  "bytes": 6310,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-04-08/resolution-facade-improvement-program.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

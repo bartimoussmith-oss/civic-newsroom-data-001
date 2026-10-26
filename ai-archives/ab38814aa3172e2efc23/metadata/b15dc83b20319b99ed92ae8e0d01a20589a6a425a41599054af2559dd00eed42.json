@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "b15dc83b20319b99ed92ae8e0d01a20589a6a425a41599054af2559dd00eed42",
+  "title": "CitePayUSA Agreement",
+  "text_path": "records/b15dc83b20319b99ed92ae8e0d01a20589a6a425a41599054af2559dd00eed42.md",
+  "representation_sha256": "1a6b86192e4a778b0047d0d554109e47e59bdfa51b43bc54e26c39f908aac1ff",
+  "bytes": 34021,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-07-14/citepayusa-agreement.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

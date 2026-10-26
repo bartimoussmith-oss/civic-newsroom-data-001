@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "062c6a76bbdaba9cc66a5a2fc59805168b8d61672cb26da61b82b6afd391b480",
+  "title": "Caption transcript: Work Session / Committee of the Whole — Friday, October 7, 2022",
+  "text_path": "records/062c6a76bbdaba9cc66a5a2fc59805168b8d61672cb26da61b82b6afd391b480.md",
+  "representation_sha256": "c014862fbd066b51b9c51021195a939ceb712141f152d3884efdcbed828140fa",
+  "bytes": 53172,
+  "year_path_label": "2022",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2022/work-sessions-2022-10-07/captions.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

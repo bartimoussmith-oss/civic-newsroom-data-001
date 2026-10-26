@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "1043ac761bb96bd11ac3fe09e29082fbfe97b8958dbe3dc99d2302452ad8bd13",
+  "title": "Amended Ordinance",
+  "text_path": "records/1043ac761bb96bd11ac3fe09e29082fbfe97b8958dbe3dc99d2302452ad8bd13.md",
+  "representation_sha256": "77d15d8f5c7ab4f5d34bcfeccd556ca84d42079d79f1c527a18bf0646ea8b14d",
+  "bytes": 20861,
+  "year_path_label": "2018",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2018/city-council-2018-12-10/amended-ordinance.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

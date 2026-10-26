@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "38c81552c521451c251a64268f8260a3b1c67e0b82cf5f3604339bb6613b0d33",
+  "title": "Resolution Updating Historic Preservation Ordinanc - Resolution Updating Historic Preservation Ordinance",
+  "text_path": "records/38c81552c521451c251a64268f8260a3b1c67e0b82cf5f3604339bb6613b0d33.md",
+  "representation_sha256": "d484a20d7202f4dca619a070e3e92f0c21611ab2bc4ed75e275a9971ba6a8358",
+  "bytes": 7994,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-04-08/resolution-updating-historic-preservation-ordinanc-resolution-updating.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

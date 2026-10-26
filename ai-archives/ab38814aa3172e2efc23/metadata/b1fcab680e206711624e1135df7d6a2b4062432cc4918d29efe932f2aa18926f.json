@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "b1fcab680e206711624e1135df7d6a2b4062432cc4918d29efe932f2aa18926f",
+  "title": "West Edge Resolution",
+  "text_path": "records/b1fcab680e206711624e1135df7d6a2b4062432cc4918d29efe932f2aa18926f.md",
+  "representation_sha256": "8d6b338ef58a0ac6e8e90f7309d1bc9eac3f6b388c8870ea3319b2b9ecb5f805",
+  "bytes": 5675,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-09-08/west-edge-resolution.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

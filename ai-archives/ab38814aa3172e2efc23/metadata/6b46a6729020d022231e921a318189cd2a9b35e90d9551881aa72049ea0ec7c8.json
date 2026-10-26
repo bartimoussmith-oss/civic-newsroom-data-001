@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "6b46a6729020d022231e921a318189cd2a9b35e90d9551881aa72049ea0ec7c8",
+  "title": "Proposed Substitute for Contract with Cheyenne Sta - Proposed Substitute for Contract with Cheyenne Stampeded Junior A Hockey",
+  "text_path": "records/6b46a6729020d022231e921a318189cd2a9b35e90d9551881aa72049ea0ec7c8.md",
+  "representation_sha256": "1a14892d9cbd277388912710eef476649b42145cdfb8ccd7040d41ec069d8473",
+  "bytes": 28422,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-07-08/proposed-substitute-for-contract-with-cheyenne-sta-proposed-substitute.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

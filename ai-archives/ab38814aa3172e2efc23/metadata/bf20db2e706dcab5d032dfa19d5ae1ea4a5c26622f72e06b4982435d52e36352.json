@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "bf20db2e706dcab5d032dfa19d5ae1ea4a5c26622f72e06b4982435d52e36352",
+  "title": "Plan of Development",
+  "text_path": "records/bf20db2e706dcab5d032dfa19d5ae1ea4a5c26622f72e06b4982435d52e36352.md",
+  "representation_sha256": "62b856032de2893bff58b0fa5391e6b7e8c5c5d40008751d333a38dc6a89cc34",
+  "bytes": 128424,
+  "year_path_label": "2025",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2025/city-council-2025-02-10/plan-of-development.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

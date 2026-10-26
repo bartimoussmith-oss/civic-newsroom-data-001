@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "710fcdb92500ddeb0eec66c274e5a0d0620e3921975e961719c9988dc9e5fe48",
+  "title": "CIP 2018-2022",
+  "text_path": "records/710fcdb92500ddeb0eec66c274e5a0d0620e3921975e961719c9988dc9e5fe48.md",
+  "representation_sha256": "641addce012590f296a0737f4b7562529c1e2802ca4bced190d79e8b8cebee9b",
+  "bytes": 1520,
+  "year_path_label": "2017",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2017/city-council-2017-04-10/cip-2018-2022.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

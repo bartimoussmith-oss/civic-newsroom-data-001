@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "3945f452c4bb219eebad95deaaa601b648050e9a49ab1c1a9f3bf23b49cca872",
+  "title": "Scooters Scoreboard Backup Info.",
+  "text_path": "records/3945f452c4bb219eebad95deaaa601b648050e9a49ab1c1a9f3bf23b49cca872.md",
+  "representation_sha256": "bdb283ba2e8243bfcaf377ca968dda0711b5e15fb2c6723f3303c249c5ae58d2",
+  "bytes": 16319,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-12-14/scooters-scoreboard-backup-info.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

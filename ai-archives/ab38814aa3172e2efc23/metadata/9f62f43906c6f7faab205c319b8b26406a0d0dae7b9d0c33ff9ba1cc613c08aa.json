@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "9f62f43906c6f7faab205c319b8b26406a0d0dae7b9d0c33ff9ba1cc613c08aa",
+  "title": "Sam’s West, Inc. Application",
+  "text_path": "records/9f62f43906c6f7faab205c319b8b26406a0d0dae7b9d0c33ff9ba1cc613c08aa.md",
+  "representation_sha256": "67ae0d52f3c51bddb220c14472985d90d4279432c15872e92951529b1ea9760d",
+  "bytes": 40578,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-11-09/sam-s-west-inc-application.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

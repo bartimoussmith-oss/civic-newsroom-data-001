@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "3d5203aed6259ad4e6c98f9492fef7ca338fc09fdf5928d0cc428aec0ce33b27",
+  "title": "Grant Agreement",
+  "text_path": "records/3d5203aed6259ad4e6c98f9492fef7ca338fc09fdf5928d0cc428aec0ce33b27.md",
+  "representation_sha256": "da96c81b9f376ff9dad140f3a1f6da4e41395acc06b17acbe7ff9af0ef7f417a",
+  "bytes": 62859,
+  "year_path_label": "2015",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2015/city-council-2015-03-09/grant-agreement.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

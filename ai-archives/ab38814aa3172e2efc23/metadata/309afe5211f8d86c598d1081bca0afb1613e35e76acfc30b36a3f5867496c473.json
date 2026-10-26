@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "309afe5211f8d86c598d1081bca0afb1613e35e76acfc30b36a3f5867496c473",
+  "title": "Agenda Only - Proposed Substitute",
+  "text_path": "records/309afe5211f8d86c598d1081bca0afb1613e35e76acfc30b36a3f5867496c473.md",
+  "representation_sha256": "00447e65090dd324d112c4ab3204a1d212f2d8002ca5e492f92982dac5822a18",
+  "bytes": 3486,
+  "year_path_label": "2020",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2020/city-council-2020-12-28/agenda-only-proposed-substitute.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

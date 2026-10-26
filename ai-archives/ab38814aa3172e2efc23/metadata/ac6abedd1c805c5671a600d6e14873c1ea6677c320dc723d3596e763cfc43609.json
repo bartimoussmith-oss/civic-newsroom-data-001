@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "ac6abedd1c805c5671a600d6e14873c1ea6677c320dc723d3596e763cfc43609",
+  "title": "City Council — Monday, January 3, 2011",
+  "text_path": "records/ac6abedd1c805c5671a600d6e14873c1ea6677c320dc723d3596e763cfc43609.md",
+  "representation_sha256": "cab5aa40b36a3933e8cdaf5fdcfba9b93bc9a8f6ffffe0394c6713a1551a3add",
+  "bytes": 8675,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "meetings/2011/city-council-2011-01-03-sine-die.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

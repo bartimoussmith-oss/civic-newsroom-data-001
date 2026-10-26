@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "f0c863894321b4e663d2f0b456808aeca726076a7bbfe4bbc97ba13f007b2566",
+  "title": "Comea, Inc. - Emergency Shelter Services - Comea, Inc. - Emergency Shelter Services",
+  "text_path": "records/f0c863894321b4e663d2f0b456808aeca726076a7bbfe4bbc97ba13f007b2566.md",
+  "representation_sha256": "30d53e5236ec0b6570e534bbeb641b84f63ca811718a00bf45f85d7b87b117f2",
+  "bytes": 3428,
+  "year_path_label": "2010",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2010/city-council-2010-05-24/comea-inc-emergency-shelter-services-comea-inc-emergency-shelter-servi.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

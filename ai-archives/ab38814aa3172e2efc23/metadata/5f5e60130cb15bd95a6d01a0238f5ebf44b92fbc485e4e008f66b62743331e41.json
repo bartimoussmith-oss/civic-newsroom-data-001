@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "5f5e60130cb15bd95a6d01a0238f5ebf44b92fbc485e4e008f66b62743331e41",
+  "title": "Resolution",
+  "text_path": "records/5f5e60130cb15bd95a6d01a0238f5ebf44b92fbc485e4e008f66b62743331e41.md",
+  "representation_sha256": "ae9b8ff72afae2e0f349a63182a380f36e6c2db36e8267e87b620288c1bbb2e0",
+  "bytes": 3631,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-12-23/resolution.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

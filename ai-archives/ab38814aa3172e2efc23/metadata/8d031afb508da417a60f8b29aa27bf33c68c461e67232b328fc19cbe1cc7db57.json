@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "8d031afb508da417a60f8b29aa27bf33c68c461e67232b328fc19cbe1cc7db57",
+  "title": "Bid Document Contract",
+  "text_path": "records/8d031afb508da417a60f8b29aa27bf33c68c461e67232b328fc19cbe1cc7db57.md",
+  "representation_sha256": "7aa26e9424f928b689f0da42969b7f919df9d5a379ae8afccab064d727b924b5",
+  "bytes": 6264,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-04-08/bid-document-contract.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

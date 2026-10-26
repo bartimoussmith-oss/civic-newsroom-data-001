@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "9599f1210f9fcfc498d188b1b87169048cc4982a0f655047f0703b292ddf795f",
+  "title": "Board of Adjustment — Thursday, April 16, 2026",
+  "text_path": "records/9599f1210f9fcfc498d188b1b87169048cc4982a0f655047f0703b292ddf795f.md",
+  "representation_sha256": "8e23ffb4663bc418682524363be2e6a6781c198ed1b1e855f7c2e8237ebd63ae",
+  "bytes": 1594,
+  "year_path_label": "2026",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "meetings/2026/board-of-adjustment-2026-04-16.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

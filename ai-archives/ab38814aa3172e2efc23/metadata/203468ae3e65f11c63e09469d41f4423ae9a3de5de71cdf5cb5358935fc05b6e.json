@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "203468ae3e65f11c63e09469d41f4423ae9a3de5de71cdf5cb5358935fc05b6e",
+  "title": "City Council — Monday, June 23, 2014",
+  "text_path": "records/203468ae3e65f11c63e09469d41f4423ae9a3de5de71cdf5cb5358935fc05b6e.md",
+  "representation_sha256": "3f2c9b0a16589ad7d4a48bc2b10baaa0f7bc5aa7070fac902c360695a24eb1cf",
+  "bytes": 27936,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "meetings/2014/city-council-2014-06-23.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

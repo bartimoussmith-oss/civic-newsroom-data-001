@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "e04bbca490c3436567f23b867e61dad75828aa7265c27c307b21d268fd295549",
+  "title": "Jan 7, 2013 Sine Die Minutes",
+  "text_path": "records/e04bbca490c3436567f23b867e61dad75828aa7265c27c307b21d268fd295549.md",
+  "representation_sha256": "27e01148865e4a660ead1fe7bb4b4c6435b450817ade0a5ba32d08692c5eb2e7",
+  "bytes": 6520,
+  "year_path_label": "2013",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2013/city-council-2013-01-14/jan-7-2013-sine-die-minutes.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

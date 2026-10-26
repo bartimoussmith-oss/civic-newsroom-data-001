@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "9997671d6f8b38aff62d8098c5efdfc9a351fa5c96d5dc838e585a44185ec93b",
+  "title": "Feb. 24, 2014 Minutes",
+  "text_path": "records/9997671d6f8b38aff62d8098c5efdfc9a351fa5c96d5dc838e585a44185ec93b.md",
+  "representation_sha256": "149cb558c6e429b1dc80d92c8672be13885eab5a44194b6b9364298a68700116",
+  "bytes": 23456,
+  "year_path_label": "2014",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2014/city-council-2014-03-10/feb-24-2014-minutes.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

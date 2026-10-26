@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "bae541db23ac15cb3674bc06e96390592d6662e98a8980617ed3444d369eb5d1",
+  "title": "Witness fees for hearing Payable",
+  "text_path": "records/bae541db23ac15cb3674bc06e96390592d6662e98a8980617ed3444d369eb5d1.md",
+  "representation_sha256": "40cf5dc9f28a1f18f1564584a11b9d186600e5c2be6cb1bde9b6daeb21ef3da4",
+  "bytes": 5327,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-04-25/witness-fees-for-hearing-payable.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

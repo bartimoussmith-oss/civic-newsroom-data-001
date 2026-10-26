@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "a13a9ccf35cc701fab111813173c4adb571a4084b769b768ab56db96ab067f90",
+  "title": "American Natl. Bank Payable",
+  "text_path": "records/a13a9ccf35cc701fab111813173c4adb571a4084b769b768ab56db96ab067f90.md",
+  "representation_sha256": "e2e58a093dde579d9b969d1819b4096eed62ec8f56c764cf05342099dd005025",
+  "bytes": 2006,
+  "year_path_label": "2011",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2011/city-council-2011-04-25/american-natl-bank-payable.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}

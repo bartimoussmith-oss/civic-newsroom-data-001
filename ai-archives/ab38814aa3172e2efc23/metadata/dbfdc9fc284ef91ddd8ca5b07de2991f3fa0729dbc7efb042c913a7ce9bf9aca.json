@@ -1,0 +1,20 @@
+{
+  "schema": "public-record-export-v1",
+  "record_id": "dbfdc9fc284ef91ddd8ca5b07de2991f3fa0729dbc7efb042c913a7ce9bf9aca",
+  "title": "cow-05-21-25-2",
+  "text_path": "records/dbfdc9fc284ef91ddd8ca5b07de2991f3fa0729dbc7efb042c913a7ce9bf9aca.md",
+  "representation_sha256": "181323536a0d83f47ef481a106a4323922e2061d3f5499f4e92d3a5862b666fc",
+  "bytes": 7507,
+  "year_path_label": "2025",
+  "date_review": "unverified_path_label",
+  "source": {
+    "producer_repository": "bartimoussmith-oss/therealwindycity",
+    "producer_revision": "357b032ad2881cf25b5a4ca8e5609947521a977f",
+    "mirror_path": "documents/2025/work-sessions-2025-05-21/cow-05-21-25-2.md",
+    "original_binary_identity": "not_established"
+  },
+  "source_family": "unresolved",
+  "representation_kind": "generated_public_markdown",
+  "original_binary_copied": false,
+  "internal_research_imported": false
+}
