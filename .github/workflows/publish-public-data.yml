@@ -1,0 +1,65 @@
+name: publish-public-data
+on:
+  push:
+    branches: [main]
+    paths: ["scripts/publish.py", ".github/workflows/publish-public-data.yml"]
+permissions:
+  contents: write
+concurrency:
+  group: publish-public-data
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Read pinned normalization code
+        uses: actions/checkout@v4
+        with:
+          repository: bartimoussmith-oss/civic-newsroom
+          ref: 9acdd31e2e548915d5273adf06ad59daddaddc62
+          path: _core
+          persist-credentials: false
+      - name: Read pinned extraction code and approved public inputs
+        uses: actions/checkout@v4
+        with:
+          repository: bartimoussmith-oss/therealwindycity
+          ref: 357b032ad2881cf25b5a4ca8e5609947521a977f
+          path: _upstream
+          persist-credentials: false
+      - name: Run normalization tests and publisher syntax check
+        run: |
+          python -m unittest discover -s _core/scripts -p 'test_build_data.py' -v
+          python -m py_compile scripts/publish.py
+      - name: Install extraction dependencies
+        run: pip install pymupdf beautifulsoup4 markdown wordninja
+      - name: Read public meeting index and transcripts
+        run: |
+          git clone --depth 1 https://github.com/therealwindycity/TheReelWindyCity.git /tmp/fe
+          (cd /tmp/fe && node scripts/build-data.mjs)
+          git clone --depth 1 https://github.com/therealwindycity/The-Real-Windy-City-.git /tmp/tr
+      - name: Read and extract six public archives
+        working-directory: _upstream
+        run: python tools/ai_record_extract.py --text /tmp/text --trees /tmp/trees
+      - name: Generate public mirror without changing sources
+        working-directory: _upstream
+        run: python tools/build_ai_record.py --meetings /tmp/fe/src/data/meetings.json --text /tmp/text --ocr ai-record-ocr --transcripts /tmp/tr --minutes pipeline/corpus --trees /tmp/trees --drive-db drive-import/master_meetings_database.json.gz --out /tmp/public-mirror
+      - name: Normalize public data into bounded partitions
+        run: python _core/scripts/build_data.py --mirror /tmp/public-mirror --out /tmp/normalized --producer-revision 357b032ad2881cf25b5a4ca8e5609947521a977f --approved-public
+      - name: Preserve actual input snapshot identities
+        run: |
+          mkdir -p /tmp/normalized/source-snapshots
+          git -C /tmp/fe rev-parse HEAD > /tmp/normalized/source-snapshots/frontend-revision.txt
+          git -C /tmp/tr rev-parse HEAD > /tmp/normalized/source-snapshots/transcript-revision.txt
+          cp /tmp/trees/tree_*.json /tmp/normalized/source-snapshots/
+      - name: Verify all content and publish only to this data repository
+        run: python scripts/publish.py --dataset /tmp/normalized
